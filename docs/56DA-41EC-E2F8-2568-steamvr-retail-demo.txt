@@ -1,0 +1,8 @@
+[h1]SteamVR Retail Demo[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png[/img]
+
+[h1]SteamVR Retail Demo[/h1]
+
+[h4]Setup & Usage[/h4]
+This guide instructs retailers and other businesses on how to demonstrate SteamVR on our Vive Demo Station kiosk using our SteamVR Retail Demo application. [url=http://media.steampowered.com/apps/steamvr/vive_demo_setup.pdf]Click here for our Vive demo station setup & usage guide.[/url]

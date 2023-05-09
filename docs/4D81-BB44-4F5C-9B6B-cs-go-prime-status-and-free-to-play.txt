@@ -1,0 +1,65 @@
+[h1]CS:GO - Prime Status and Free to Play[/h1]
+
+[list]
+
+[*][url=#freecsgo]What is included with the free version of CS:GO?[/url] [/*]
+[*][url=#primebenefits]What are the benefits of Prime Status?[/url] [/*]
+[*][url=#getprime]How do I add Prime Status to my account?[/url] [/*]
+[*][url=#removeprime]Can I remove Prime Status from my account?[/url] [/*]
+[*][url=#playwithnonprime]Can Prime and non-Prime users matchmake together?[/url] [/*]
+[*][url=#freexp]Will I receive XP if I do not have Prime Status?[/url] [/*]
+[*][url=#freesg]Will I receive a Competitive Skill Group if I do not have Prime Status?[/url] [/*]
+[*][url=#freedrops]Will I receive weekly weapon case and graffiti drops if I do not have Prime Status?[/url] [/*]
+
+[/list]
+
+[section id=freecsgo]
+
+[h2]What is included with the free version of CS:GO?[/h2]
+The free download of CS:GO includes the full game. Free CS:GO players receive access to all game modes and matchmaking types with the exception of Ranked Matchmaking, which requires Prime Status to participate in.
+[/section]
+
+[section id=primebenefits]
+
+[h2]What are the benefits of Prime Status?[/h2]
+Users with Prime Status are matchmade with and against only other Prime Status users in all game modes.
+Prime users also earn XP, Competitive Skill Groups, and are eligible for weekly item drops. These benefits apply exclusively to Prime users.
+[/section]
+
+[section id=getprime]
+
+[h2]How do I add Prime Status to my account?[/h2]
+Prime Status can only be added to an account by purchasing Prime Status in-game or [url=https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/]through the Steam Store[/url].
+[/section]
+
+[section id=removeprime]
+
+[h2]Can I remove Prime Status from my account?[/h2]
+No. Currently there is no way to remove Prime Status from your account.
+[/section]
+
+[section id=playwithnonprime]
+
+[h2]Can Prime and non-Prime users matchmake together?[/h2]
+Yes, but only if these users matchmake from a pre-made lobby. When a Prime and non-Prime user matchmake together the lobby is considered non-Prime and the resulting match would be with and against non-Prime users.
+
+It is not possible for a non-Prime user to play in a Prime-only match.
+[/section]
+
+[section id=freexp]
+
+[h2]Will I receive XP if I do not have Prime Status?[/h2]
+No. In order to receive XP and earn a Service Medal you must have Prime Status. Without Prime Status you will not receive XP from any game mode on any server.
+[/section]
+
+[section id=freesg]
+
+[h2]Will I receive a Competitive Skill Group if I do not have Prime Status?[/h2]
+No. Competitive Skill Groups are only issued to users with Prime Status.
+[/section]
+
+[section id=freedrops]
+
+[h2]Will I receive weekly weapon case and graffiti drops if I do not have Prime Status?[/h2]
+No. In order to receive weekly weapon case and graffiti drops you must have Prime Status.
+[/section]

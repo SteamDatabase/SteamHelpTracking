@@ -1,0 +1,56 @@
+[h1]Hosting a Local (Listen) Server for Valve Games[/h1]
+
+I want to host a server on my computer to play with my friends over the Internet. What do I need to do to allow my friends to connect to me?
+
+In order for users outside your local network to connect to a server hosted on your computer, you must properly configure your network, security software, and the game so that connection requests can reach your computer.
+
+[section style=important]
+
+[h3]Important[/h3]
+You must have administrative access to your network hardware (e.g. router) and on the computer in order to make some of the required changes. If you are not the owner of the network or computer, you will need to contact your network or computer administrator to request these changes.
+[/section]
+
+[h4]Setting Up Your Connection[/h4]
+Some of the following steps may not apply to you, for example if you do not have a router and your computer is connected directly to your modem—if the step does not apply, skip the step and continue with the next one.
+
+You will need your public Internet IP address. This can be viewed quickly by visiting a site like [url=http://www.whatismyip.com/]whatismyip.com[/url]. This address identifies your connection to the Internet, similar to how a street address identifies your house.
+
+[olist]
+
+[*][b]Configure your firewall[/b]
+You will need to set your firewall to allow unsolicited incoming connections for the game you intend to host. If you are unsure how to do this, please refer to the manual or contact the support provider for your firewall software, or temporarily disable your firewall for the duration that you host the server. [/*]
+[*][b]Configure your router[/b]
+Forward port [b]27015[/b] on both TCP and UDP protocols. If you specify an alternate port when creating the server, forward that port [i]instead[/i] of port [b]27015[/b].
+
+For guided instructions on forwarding a port for a large selection of home routers, please visit [url=http://www.portforward.com/]portforward.com[/url] and select the router model you have, or that best matches the one you have. Select "Half-Life 2 Steam Server" when you reach the list of applications. [/*]
+[*][b]Start the game and create a local server[/b]
+[i]NOTE: some of the following steps require that you enter commands into the console. If you require assistance with enabling and/or using the console, please see the [url=http://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]Console[/url] article.[/i]
+
+[olist]
+
+[*]Open the game and click the menu option to create a local server (typically "[b]Create Server[/b]")
+
+[list]
+
+[*][b]Note:[/b] [b]Left 4 Dead[/b] and [b]Left 4 Dead 2[/b] do not feature a menu option to create a local server. Instead, you need to use the [url=http://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]Console [/url]for the game and enter the [i]map [i]mapname[/i][/i] command, where [b]mapname[/b] is the name of the map file you want to start on. To get a list of map files, type the [i]maps *[/i] command. [/*]
+
+[/list]
+[/*]
+[*]Configure the server as you prefer, then start the game. [/*]
+[*]Type the following commands into your console:
+
+[list]
+
+[*][i]sv_lan 0[/i] [/*]
+[*][i]ip [your IP address][/i] (replace [b][your IP address][/b] with the public IP address you recorded initially, so you have a command that looks like [i]ip 255.255.255.255[/i]) [/*]
+
+[/list]
+[/*]
+[*]You may need to enter the [i]heartbeat[/i] command after entering these commands in order to update your IP address with the Steam master servers. If people viewing your server still see [b]Server is not responding[/b], then please enter the [i]map [i]mapname[/i][/i] command, where [b]mapname[/b] is the name of the map file you want to start on. To get a list of map files, type the [i]maps *[/i] command. [/*]
+
+[/olist]
+[/*]
+
+[/olist]
+
+Once you have completed these steps, users should be able to join your currently running game. You will need to repeat the in-game steps if you exit the game.

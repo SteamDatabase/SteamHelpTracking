@@ -1,0 +1,65 @@
+[h1]Recurring Subscriptions[/h1]
+
+[list]
+
+[*][url=#purchase]How do I purchase a Subscription Plan?[/url] [/*]
+[*][url=#manage]How do I manage or cancel my Subscription?[/url] [/*]
+[*][url=#freeze]Can I freeze my Subscription?[/url] [/*]
+[*][url=#cancel]How do I renew a cancelled or lapsed Subscription?[/url] [/*]
+[*][url=#history]Will reactivating my subscription give me access to my old game history?[/url] [/*]
+[*][url=#update]How do I update my payment method on record?[/url] [/*]
+[*][url=#partial]Does Steam offer partial refunds for unused Subscription time?[/url] [/*]
+[*][url=#date]How will I know when and what I will be charged for an auto-renewed Subscription Plan?[/url] [/*]
+[*][url=#gift]Can I give a Subscription Plan as a gift to a friend?[/url] [/*]
+[*][url=#multiple]Can I register multiple game accounts to my Steam account?[/url] [/*]
+
+[/list]
+
+[h4]How do I purchase a Subscription Plan?[/h4]
+To buy a Subscription Plan, visit the subscription-based game's page on the Steam Store and select a Plan. Then, add it to your cart.
+
+[h4]How do I manage or cancel my Subscription?[/h4]
+Visit [url=https://store.steampowered.com/account/]Account Details[/url], where you can edit your payment method on record or cancel a Subscription at any time. Your cancelled Subscription will remain active until the paid plan expires.
+
+[h4]Can I freeze my Subscription?[/h4]
+No, but you can cancel or renew your Subscription at any time.
+
+[h4]How do I renew a cancelled or lapsed Subscription?[/h4]
+Visit [url=https://store.steampowered.com/account/]Account Details[/url] to manage your current Subscriptions, or visit the Steam Store to Subscribe again.
+
+[h4]Will reactivating my Subscription give me access to my old game history?[/h4]
+This depends on the game. In some cases, your game data will automatically be re-linked to your Steam account. If this has not happened, you will need to contact the publisher of the game and have them re-initiate your previous game account and link it to your Steam account. Support contact information for a game can be found using the steps below:
+
+[expand type=title title="Contacting third-party support"]
+
+[olist]
+
+[*]You can find the third-party game's support contact information by selecting the game in your Steam Library and then on the right hand side select "Support" from the tabs available above the "Activity" section.[img]{STEAM_CLAN_IMAGE}/1976/4aca8bc8d6cad8e052039915309bd70cef63654a.png[/img]
+Or by clicking the "..." button which may show instead depending on the size/resolution of your Steam client at the time.
+[img]{STEAM_CLAN_IMAGE}/1976/569258f4a161e5c677f66e00e635e6af0c06b233.png[/img]
+
+[*]Select "Gameplay or technical issue".
+
+[*]Then select "I am having another problem".
+
+[*]Finally, select "Contact Game Support".
+
+[*]You will now be on the support page for the game that includes support contact information (website links, email contact, etc.) for the developer/publisher of the game.[img]{STEAM_CLAN_IMAGE}/39983882/a39bcd7cd7009702c5fb29a5be9f54552b2732c4.png[/img]
+[/olist]
+
+[/expand]
+
+[h4]How do I update my payment method on record?[/h4]
+Visit [url=https://store.steampowered.com/account/]Account Details[/url] to update your stored payment method information.
+
+[h4]Does Steam offer partial refunds for unused Subscription time?[/h4]
+No, but a cancelled Subscription will remain active until the paid plan period expires.
+
+[h4]How will I know when and what I will be charged for an auto-renewed Subscription Plan?[/h4]
+Visit [url=https://store.steampowered.com/account/]Account Details[/url] to review past and known upcoming charges. Some Subscription Plans are governed by the game's billing system, in which case you'll need to visit your game account for upcoming billing details. Steam will also email you billing details upon completion of every transaction.
+
+[h4]Can I give a Subscription Plan as a gift to a friend?[/h4]
+No, not at this time.
+
+[h4]Can I register multiple game accounts to a my Steam account?[/h4]
+Not for a single title, no.

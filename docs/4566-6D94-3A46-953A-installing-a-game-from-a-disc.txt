@@ -1,0 +1,38 @@
+[h1]Installing a game from a disc[/h1]
+
+I try to install my retail game from the included disc(s), but the game begins downloading through Steam instead.  What can be done?
+
+[exclude_realm=china]
+
+[section style=important] [h1]Mac Users:[/h1]
+If you are using a Mac, you will not be able to install from the disc. Ensure the game is [url=https://support.steampowered.com/kb_article.php?ref=5414-tfbn-1352]activated to your Steam account[/url] so you can download and install it through your Library.
+
+[/section]
+
+[/exclude_realm]
+
+[h1]Using Steam launch options to install retail games from disc[/h1]
+
+[olist]
+
+[*]Log in to Steam and click on [b]Library[/b]
+
+[*]Right-click on the game, select [b]Manage[/b] and then [b]Uninstall[/b]
+
+[*]Insert the first disc into your computer
+
+[*]Close Steam (Steam > Exit)
+
+[*]Press Windows Key + R to open Run
+
+[*]In the Run window type the below line, but you will need to replace E: with the CD/DVD drive you are installing from.  Additionally, you will need to update the C:\Program Files (x86)\ if Steam is installed in a different location on your computer.
+[code]"C:\Program Files (x86)\Steam\steam.exe" -install E:[/code]
+[*]Press [b]OK[/b].  Steam will launch and ask you to sign in if you do not have your password saved.  Your installation should continue from the disc.
+
+[/olist]
+
+[section style=note]
+
+[h3]Note:[/h3]
+This process is only intended for retail store bought copies of Steam games (ie. Left 4 Dead, Modern Warfare 2). [b]It will not work for backup discs of any Steam games[/b]
+[/section]

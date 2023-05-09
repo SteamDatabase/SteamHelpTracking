@@ -1,0 +1,47 @@
+[h1]Removing and Reinstalling Steam on a Mac[/h1]
+
+[list]
+
+[*]Can I play my games without Steam?
+
+[*]Can I remove and reinstall Steam to troubleshoot an issue without losing my games?
+
+[*]How can I completely remove Steam from my Mac?
+
+[/list]
+
+[h3]Steam is required[/h3]
+
+The Steam application is required to play all games purchased through Steam, as well as retail games registered to Steam.
+
+[h3]Removing Steam and Steam games[/h3]
+
+Just dragging the Steam program to the Trash will not fully uninstall Steam. The additional steps below are required.
+
+[section style=warning]
+
+[h3]Warning:[/h3]
+The following instructions will describe how to remove Steam and, optionally, all your games from this computer. If you complete all the steps and decide to reinstall Steam later, you will need your account name and password to reinstall your games.
+[/section]
+
+With the Steam application active, click the [b]Steam[/b] menu and [b]Quit Steam[/b] to exit Steam.
+
+[olist]
+
+[*]Open [b]Applications[/b] and drag Steam to the [b]Trash[/b].
+
+[*]Click [b]Go[/b] in the menu bar, hold down the option key until you see the Library folder, and open that folder from the drop-down.
+
+[*]Navigate to Library/Application Support/Steam
+
+[*] Delete Steam data from your computer with one of the following options:
+
+[b]If you don't want to lose any game data:[/b] delete all files and folders in /Steam EXCEPT FOR the /SteamApps folder (this contains your game downloads and any local save files.)
+
+[b]If you're removing all Steam data from your computer:[/b] delete the entire Steam folder.
+
+[*]Empty the Trash by selecting Finder -> Empty Trash
+
+[/olist]
+
+With these files deleted, you can [url=https://support.steampowered.com/kb_article.php?ref=3046-ECVN-3712]reinstall Steam[/url] if you are troubleshooting a problem.

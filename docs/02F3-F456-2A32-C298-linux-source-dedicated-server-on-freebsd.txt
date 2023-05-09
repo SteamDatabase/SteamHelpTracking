@@ -1,0 +1,7 @@
+[h1]Linux Source Dedicated Server on FreeBSD[/h1]
+
+What do I need to do to run the Linux Source Dedicated Server on a FreeBSD machine?
+
+If you would like to run the Linux Source Dedicated Server on your FreeBSD machine, you must compile your kernel with the [b]CPU_ENABLE_SSE[/b] option to ensure your machine’s MMX capabilities are recognized by the kernel.
+
+In addition to the [b]CPU_ENABLE_SSE [/b]option, some machines may require that the [b]CPU_ATHLON_SSE_HACK [/b]option be enabled when compiling the kernel.

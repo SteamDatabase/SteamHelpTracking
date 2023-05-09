@@ -1,0 +1,50 @@
+[h1]Credit Card Verification[/h1]
+
+[list]
+
+[*][url=#whatisit]What is credit card verification?[/url] [/*]
+[*][url=#howtoverify]How do I verify my new credit card?[/url] [/*]
+[*][url=#failattempts]What happens if I use all 3 attempts to verify my credit card?[/url] [/*]
+[*][url=#drop]When will the authorizations be removed from my credit card statement?[/url] [/*]
+[*][url=#conversion]In what currency do the charges need to be entered in and how do I get the original amounts?[/url] [/*]
+[*][url=#virtual]Are virtual online credit cards supported?[/url] [/*]
+
+[/list]
+
+[url id=whatisit][/url]
+
+[h3]What is credit card verification?[/h3]
+Credit card verification allows you to remove market restrictions associated with using a new credit card on Steam.
+
+[url id=howtoverify][/url]
+
+[h3]How do I verify my new credit card?[/h3]
+After using a new credit card on Steam, please go to the [url=https://store.steampowered.com/account/verifycards]Credit Card Verification[/url] page and choose the card you wish to verify. Two small pending authorizations will be sent to your bank account. These authorizations may take time to appear on your statement. Once they appear, you may enter the exact unconverted amounts into the fields on the verification page. Please note that you only have three attempts.
+
+[url id=failattempts][/url]
+
+[h3]What happens if I use all three attempts to verify my credit card?[/h3]
+If you fail to verify the card after three attempts, you will have to wait the normal 3 day period to use the Market. Steam Support cannot override this.
+
+[url id=drop][/url]
+
+[h3]When will the authorizations be removed from my credit card statement?[/h3]
+The authorizations will be removed from your credit card statement in 5-10 business days, whether you verified them or not.
+
+[url id=conversion][/url]
+
+[h3]In what currency do the amounts need to be entered in and how do I get the original pre-converted amounts?[/h3]
+The verification authorizations are sent to your bank in the currency that is used in the Steam Store. If the bank converts these to your local currency, you must contact them to request the original amount before any fees or conversions. The phone number will be on the back of the card.
+
+[url id=virtual][/url]
+
+[h3]Are virtual online credit cards supported?[/h3]
+Self verification does not currently support virtual credit cards. You must wait 3 days to use the Market each time you use a virtual card on Steam.
+
+[b][i]Don’t see your question? Check out the [url=http://steamcommunity.com/groups/community_market]Community Market Group[/url] with user Discussions and official Announcements.[/i][/b]
+
+[section style=important]
+
+[h3]Important:[/h3]
+Steam Support cannot modify trading or Steam Community Marketplace restrictions, regardless of the circumstances under which your account became restricted.
+[/section]

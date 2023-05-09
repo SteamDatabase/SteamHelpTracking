@@ -1,0 +1,87 @@
+[h1]CS:GO - Graffiti[/h1]
+
+[list]
+
+[*][url=#howgraffiti]How do I get in-game graffiti?[/url] [/*]
+[*][url=#graffititypes]How many different types of graffiti are there?[/url] [/*]
+[*][url=#graffitiuses]How many times can I use a graffiti pattern?[/url] [/*]
+[*][url=#graffittitime]How often can I apply graffiti?[/url] [/*]
+[*][url=#graffitilength]How long does my graffiti last?[/url] [/*]
+[*][url=#graffitizone]Where can I apply graffiti?[/url] [/*]
+[*][url=#graffitinumber]How many different graffiti patterns can I have equipped at once?[/url] [/*]
+[*][url=#graffiticheck]How do I see my available graffiti?[/url] [/*]
+[*][url=#graffitimarket]Can I sell and trade my graffiti?[/url] [/*]
+[*][url=#graffitidelete]Can I delete graffiti from my Inventory?[/url] [/*]
+
+[/list]
+
+[section id=howgraffiti]
+
+[h2]How do I get in-game graffiti?[/h2]
+There are three ways players can get in-game graffiti:
+
+[list]
+
+[*] Players have a chance to receive graffiti as a free weekly drop for ranking up.
+
+[*] Graffiti Boxes featuring art created by Steam Community Artists can be purchased. A portion of the proceeds from sales of Community Graffiti Boxes is shared among the community artists.
+
+[*] Individual graffiti patterns can be purchased from the Steam Community Market.
+
+[/list]
+
+[/section]
+
+[section id=graffititypes]
+
+[h2]How many different types of graffiti are there?[/h2]
+There are two different types of graffiti patterns; monochrome and multi-colored. Monochrome (one color) patterns are received as rank up drops and multi-colored patterns are received when purchasing a graffiti box. Both types of graffiti can be traded and sold on the Steam Community Market.
+[/section]
+
+[section id=graffitiuses]
+
+[h2]How many times can I use a graffiti pattern?[/h2]
+When a player unseals graffiti they can apply that pattern 50 times. Players who unseal a graffiti pattern they already have in their Inventory will receive 50 additional charges to their existing supply.
+[/section]
+
+[section id=graffittitime]
+
+[h2]How often can I apply graffiti?[/h2]
+Players can apply graffiti once per round, or every 45 seconds, whichever is shorter. Getting a kill in a round-based game mode will allow the player to apply more graffiti.
+[/section]
+
+[section id=graffitilength]
+
+[h2]How long does my graffiti last?[/h2]
+One application of graffiti lasts 7 minutes and degrades over time until it is no longer visible.
+[/section]
+
+[section id=graffitizone]
+
+[h2]Where can I apply graffiti?[/h2]
+The graffiti preview shows where and how the graffiti pattern will be applied. If there is no preview then the surface does not support graffiti.
+[/section]
+
+[section id=graffitinumber]
+
+[h2]How many different graffiti patterns can I have equipped at once?[/h2]
+Players can have as many different graffiti patterns equipped as they want and can use the in-game graffiti menu to select and apply a different graffiti pattern at every application.
+[/section]
+
+[section id=graffiticheck]
+
+[h2]How do I see my available graffiti?[/h2]
+All graffiti patterns can be viewed in players' inventories and in the in-game graffiti menu.
+[/section]
+
+[section id=graffitimarket]
+
+[h2]Can I sell and trade my graffiti?[/h2]
+Graffiti can be sold on the Steam Community Market and traded as long as it is sealed. Once a player has unsealed their graffiti it can not be traded or sold on the Steam Community Market.
+[/section]
+
+[section id=graffitidelete]
+
+[h2]Can I delete graffiti from my Inventory?[/h2]
+Yes, but the graffiti must be unsealed. Once you have unsealed the graffiti, locate the item in your CS:GO inventory, right click on it, then select 'Delete Item'.
+[/section]

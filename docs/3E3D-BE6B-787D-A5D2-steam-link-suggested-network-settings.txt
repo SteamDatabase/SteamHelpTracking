@@ -1,0 +1,89 @@
+[h1]Steam Link - Suggested Network Settings[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png[/img]
+
+[h1]Remote Play Streaming Suggested Network Settings[/h1]
+The Steam Link hardware and streaming app both leverage Steam Remote Play. See our [url=https://support.steampowered.com/kb_article.php?ref=3629-RIAV-1617]Steam Remote Play FAQ[/url] for more details on this technology.
+
+If you haven't already, we also recommend checking out the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] and [url=https://support.steampowered.com/kb_article.php?ref=8861-QOHN-2234]How do I diagnose and report network problems?[/url] articles for more background information and suggestions regarding general network troubleshooting.
+
+[b]For specific information on how to accomplish these tasks, please see your modem/router’s documentation.[/b]
+
+[section style=note][h1]Troubleshooting First Steps[/h1]
+[/section]
+
+[h4]Connect your computer to a wired network[/h4]
+One of the main causes of performance issues is interference. If your PC is on the wireless network and trying to send data to your router while your router is sending that data to your device or your device is talking back, they'll interfere and you'll have a choppy experience. We highly recommend making sure your computer is directly connected to the router with Ethernet.
+
+[h4]Enable the Performance Overlay[/h4]
+The Remote Play Streaming Performance Overlay can help you determine if you are encountering a network-related problem. You can also use this feature to show the impact of the troubleshooting you perform.
+
+Go into the advanced streaming settings on your device and enable the performance graph. Then, while streaming, watch for large spikes in the cyan line. This indicates highly variable network time, which is the main indicator of streaming network issues. These will usually coincide with video stuttering or freezing.
+
+A detailed guide of the Performance Overlay and what the displayed information means can be found in the[url=http://steamcommunity.com/groups/homestream/discussions/0/540732889636623310/#c540732889652053359] Steam Remote Play discussion forums.[/url]
+
+[h4]Remove other sources of interference[/h4]
+Other applications using the wireless network can interfere with game streaming. Make sure no one else is streaming movies or audio (using BitTorrent, Chromecast, etc.).
+
+[section style=note][h1]Can't Locate Your Computer?[/h1]
+[/section]
+
+[h4]Network Ports[/h4]
+Remote Play uses the following ports:
+
+[list]
+
+[*]UDP ports 27031 and 27036
+
+[*]TCP ports 27036 and 27037
+
+[/list]
+
+Please ensure that Steam is allowed to listen to these ports in your host computer firewall software. We suggest contacting your network administrator or firewall software developer for more information.
+
+See our [url=https://support.steampowered.com/kb_article.php?ref=8571-GLVN-8711]Required Ports for Steam FAQ[/url] and our [url=https://support.steampowered.com/kb_article.php?ref=2198-AGHC-7226]Using a Firewall with Steam[/url] FAQ for additional suggestions and more details on this process. Please note: If Steam or your game has updated recently, your firewall may be preventing network access even if it worked correctly before.
+
+[h4]Client Isolation[/h4]
+In order to use Steam Remote Play, please [b]ensure that Access Point/Client Isolation is disabled[/b] in your router settings.
+
+Please note: Steam Remote Play is not supported on public networks, workplace or school/university networks, guest networks, networks with gateway portals or which require a log-in, or other networks with access point/client isolation enabled. These types of networks will prevent you from connecting in most cases. Please consult your network administrator for more details.
+
+[h4]WPS[/h4]
+The Steam Link is enabled to work with WPS security; however, if you encounter any issues connecting to a WPS access point, please disable WPS and use an alternative method of connecting to troubleshoot the issue.
+
+[section style=note][h1]Experiencing Poor Streaming Quality?[/h1]
+[/section]
+
+[h4]Connecting via a Wireless Router[/h4]
+Steam Remote Play is compatible with most home networks. A wired network will provide the best result, and we highly recommend using an Ethernet connection if your Remote Play streaming client supports it. Wireless and power line connections can cause intermittent failures due to interference. You can test your devices using a direct wired connection to determine if this is a problem.
+
+For best performance we recommend using a router that supports the 802.11ac protocol.  A router that supports the 802.11n via a 5GHz signal will be the next best choice.
+
+To optimize your network:
+
+[list]
+
+[*]Choose the 5 GHz WiFi band over the highly congested 2.4 GHz band. The 5 GHz band has a shorter range, but there is less interference from your neighbors and other wireless devices.
+[*]Choose a WiFi channel on the Access Point (AP) that isn't congested. One example of a program you can use see this is [url=http://nutsaboutnets.com/netsurveyor-wifi-scanner/]NetSurveyor[/url]. You lose over 50% of your data rate when there is channel interference with your neighbors.
+[*]Set the AP to use a 5GHz channel near the top of the band; the top end starts at channel 149.
+[*]Try to see if you can connect when the AP channel width is set to at 40 MHz, instead of a 20 MHz width for 11n and 11ac. If 40 MHz works, then try 80 MHz that is enabled with an 11ac capable router. Higher channel bandwidths can provide faster speeds but are more sensitive to distance and other sources of RF noise.
+[/list]
+
+[h4]Move your equipment for a better signal[/h4]
+The strength of the wireless signal is affected by interference from other wireless networks, distance, and walls, floors, metal, and electronic equipment between your wireless router and the Steam Link. Sometimes moving your router to a better location or moving your Steam Link out in front of your TV can help dramatically. Also make sure that your PC and router are in open, well-ventilated areas, as their performance will be reduced when they are overheating.
+
+[h4]Change the Link’s streaming quality[/h4]
+Setting the quality to “Balanced” or “Fast” will reduce the bandwidth used for streaming, reducing the visual quality and lowering the load on your network.
+
+[h4]Device Priority/Quality of Service (QOS)[/h4]
+Adjusting the designated bandwidth or device priority for your streaming client and host can improve the quality of your streaming experience.
+
+Most routers include this feature as [b]Quality of Service (QoS)[/b] settings or [b]Bandwidth Priority[/b] settings that can be accessed through the router administration panel, or in some cases an associated application provided by your equipment manufacturer. Make sure that your streaming client and host are prioritized in these settings.
+
+You can also enable network prioritization within Steam Remote Play settings. Go to [b]Steam > Settings > Remote Play > Advanced Host Options[/b], and check the [b]Prioritize Network Traffic[/b] option at the bottom.
+
+[h4]Update your router firmware[/h4]
+Some wireless routers have bugs in handling the amount of UDP traffic sent in Remote Play. Please make sure your router has the latest firmware updates to resolve any known issues.
+
+[h4]Tune your streaming bandwidth[/h4]
+You can directly limit the resolution and amount of bandwidth used in the advanced streaming settings. If you want to tune things exactly right for your setup, you can start at 3 Mbit/s and slowly increase the bandwidth until you start getting hitches and then drop it back down. You can do this live while your game is running by bringing up the Steam overlay with the guide button or Shift+Tab and going to the streaming settings panel.

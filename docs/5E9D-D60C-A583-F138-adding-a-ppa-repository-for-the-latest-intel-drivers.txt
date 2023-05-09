@@ -1,0 +1,21 @@
+[h1]Adding a PPA Repository for the Latest Intel Drivers[/h1]
+
+If your machine is running an Intel graphics card, we recommend running the latest graphics drivers. These drivers, developed and approved by Intel, are distributed using the x-updates PPA (personal package archive). By default, this PPA is not added to the Ubuntu 12.04 repository list.
+
+To add the x-updates PPA to the Ubuntu 12.04 repository list, do the following:
+
+[olist]
+
+[*]Open [b]Ubuntu Software Center[/b]. [/*]
+[*]From the top-level menu, select [b]Edit [/b]| [b]Software Sources ... [/b]. [/*]
+[*]Select the [b]Other Software [/b]tab. [/*]
+[*]Click the [b]Add ... [/b]button. [/*]
+[*]Enter the following: deb http://ppa.launchpad.net/ubuntu-x-swat/x-updates/ubuntu precise main [/*]
+[*]Click the [b]+Add Source[/b] button. [/*]
+[*]Provide your user password when requested. [/*]
+[*]Click the [b]Close [/b]button. [/*]
+[*]Open [b]Update Manager[/b] (click the Unity icon on the launch bar and enter "update manager") and click the [b]Check [/b]button to refresh the package cache. [/*]
+
+[/olist]
+
+For more information related to video drivers, see [url=https://wiki.ubuntu.com/Valve]https://wiki.ubuntu.com/Valve[/url].

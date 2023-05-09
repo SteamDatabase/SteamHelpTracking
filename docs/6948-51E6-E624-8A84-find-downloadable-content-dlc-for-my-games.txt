@@ -1,0 +1,55 @@
+[h1]Find Downloadable Content (DLC) for My Games[/h1]
+
+[h2]Finding DLC in the store[/h2]
+If a game offers additional downloadable content, you can find it on the store from the base game page or by searching for it.
+
+[img]http://steamcdn-a.akamaihd.net/steam/support/faq/dlc_instore.jpg[/img]
+
+[h2]Finding DLC I own in my library[/h2]
+DLC owned by your account can be viewed and managed in your library a few different ways.
+
+[h5]Right click menu in Library[/h5]
+
+[olist]
+
+[*]Go to your Library in the Steam client
+
+[*]Right click the game and select [i]Properties...[/i] from the menu
+[img]{STEAM_CLAN_IMAGE}/1976/f86ee33cb96d8696947dfd70cb1fba4c2a6a9969.png[/img]
+
+[*]Then select [i]DLC[/i] in the window that appears
+
+[/olist]
+
+[h5]Gear icon for game's Library page[/h5]
+
+[olist]
+
+[*]Go to your Library in the Steam client
+
+[*]Select the game and on the game's Library page select the gear icon
+[img]{STEAM_CLAN_IMAGE}/1976/2668cfb10eecc2fe195af299d4978a8b6c6c4f21.png[/img]
+
+[*]Select [i]Properties...[/i] from the menu that appears
+
+[*]Then select [i]DLC[/i] in the window that appears
+
+[/olist]
+
+[h5]DLC section on game's Library page[/h5]
+
+[olist]
+
+[*]Go to your Library in the Steam client
+
+[*]Go to the game's Library page scroll down until you find the [i]DLC [/i]section
+[img]{STEAM_CLAN_IMAGE}/1976/edd8c59a284be941cd3385e79dd71c4593d60549.png[/img]
+
+[*]Then click Manage My [i]x[/i] DLC
+
+[/olist]
+
+From the DLC installation and management menu you can see what DLC you have for the game and whether if it's been installed.
+
+In the example below you can see that both DLC for the game are currently installed:
+[img]{STEAM_CLAN_IMAGE}/1976/cb68e1b1eb82f71879c36dd1d2654519da42b832.png[/img]

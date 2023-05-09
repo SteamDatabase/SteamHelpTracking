@@ -1,0 +1,91 @@
+[h1]Valve Hardware Return Packaging Guide[/h1]
+
+[h1]Contact Steam Support[/h1]
+Do not return items without contacting us first. Make sure you have worked with [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url] to initiate a return or a replacement.
+
+If you have questions about whether you qualify for a refund or replacement, see our [url=https://support.steampowered.com/kb_article.php?ref=4577-TUJV-6223]Hardware Warranty[/url] and [url=https://store.steampowered.com/hardware_order_terms]Hardware Refund Policy.[/url]
+
+Steam Support will provide "Return Merchandise Authorization" (RMA) forms that we will use to process your return. In most cases, Steam Support will also provide you with a prepaid shipping label for your package.
+
+If you are returning multiple items, make sure you have included all RMA forms you received from Steam Support. You can return multiple items in the same package, but each RMA form will need to be included to avoid delays in processing.
+
+[b]Important[/b]: If you are returning a Steam Deck, back up your game installs and any other data you'd like to keep via a microSD card or another external storage device, then perform a factory reset by pressing the Steam button and going to Settings > System > Reset to factory state. It's OK to skip this step if your device is not functional. Valve is not responsible for the loss of any data left on your device.
+
+[hr][/hr]
+
+[h1]How to pack your hardware[/h1]
+Use the product's original packaging whenever possible. If you are unable to do so or you are returning a component part for replacement, please follow the instructions below to ensure no damage occurs while your package is in transit.
+
+[h4]Choose the right materials[/h4]
+
+If you no longer have the original packaging, obtain protective packing materials and a sturdy shipping box that is the right size to accommodate the packed hardware. The box should not allow room for excessive movement, as this may damage the product during transport. Valve is not responsible for damage sustained during transit.
+
+[h4]Prepare your package[/h4]
+
+Wrap your hardware so that it is evenly protected. See the examples below for guidance on packing individual devices.
+
+[expand type=title title="Steam Deck"]
+Back up your data and factory reset your device.
+
+Pack your Steam Deck in the original case.
+[img]{STEAM_CLAN_IMAGE}/39983882/e17df36ecdc9d11353377256629d64d997eb7001.png[/img]
+
+If you have the original packaging, you can use it for your return.
+If you are located in the UK, Ireland, or certain EU island territories, you may receive instructions from Steam Support to avoid using the original packaging when preparing your return. Be sure to follow the instructions from your customer support ticket to avoid customs delays.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/d2a23579276171f8f80660b8b33466c479c009db.png[/img]
+
+If you don't have the original packaging, place the case into an appropriately sized box. If necessary, use filler to prevent it from moving around during transit.
+[img]{STEAM_CLAN_IMAGE}/39983882/8c2c0c4faee970cc8acd6b6c193fca837bac0d46.png[/img]
+
+Don't have the original case? Wrap the device in protective film or bubble wrap.
+[img]{STEAM_CLAN_IMAGE}/39983882/a8f68b5ad8a0b2c5001c7ea258fdfd88601f10e2.png[/img]
+
+Then pack securely in an appropriately sized box.
+[img]{STEAM_CLAN_IMAGE}/39983882/8029ac8c5d8e1d2ca7ab98921679583c6e6de17d.png[/img]
+
+[/expand]
+
+[expand type=title title="Index Base Station"]
+Keep your wall mount, power supply, and charging cable, as replacements will not include these components. Pack the box snugly so the device doesn't move around during transit.
+[img]https://support.steampowered.com/steamvr/Packaging_Instructions/Base_Bubble_Open.jpg[/img]
+
+[/expand]
+
+[expand type=title title="Index Controller"]
+Keep your USB charging cable, as replacements will not include one. Wrap in bubble or other protective material.
+[img]https://support.steampowered.com/steamvr/Packaging_Instructions/Knuckles_box_snug.jpg[/img]
+[i]Note: Image shows device orientation. Make sure to wrap your device completely before taping the box shut for additional protection.[/i]
+
+[/expand]
+
+[expand type=title title="Index Headset"]
+Use the adjustment knobs to make sure the headset is as compact as possible. Place the headset flat in the package. Be sure the device's weight is not resting on the audio arms.
+[img]https://support.steampowered.com/steamvr/Packaging_Instructions/HMD_flat.jpg[/img]
+[i]Note: Image shows device orientation. Make sure to wrap your device completely before taping the box shut for additional protection.[/i]
+
+[/expand]
+
+[h4]Include your documents[/h4]
+
+Include any RMA forms you received from Steam Support inside the return package and make sure that the serial numbers of your devices match the numbers on the RMA form.
+
+Ensure that you include any other specified components with your return. You may experience delays in processing if the instructions from Steam Support are not followed.
+
+Do not send any unspecified items with your return. Additional items will not be returned to you.
+
+[h4]Finalize shipment[/h4]
+
+[list]
+
+[*]Check to make sure you've included everything, including the RMA form.
+
+[*]Seal the box well with packing tape and attach your shipping label to the box. In some regions, you will also need to attach other documentation. Steam Support will provide you with instructions.
+
+[*]Record the tracking number from the shipping label and keep it in a safe place.
+
+[*]Ship the package and keep your shipping receipt.
+
+[*][url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Contact Steam Support[/url] if you have questions about your return.
+
+[/list]

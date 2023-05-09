@@ -1,0 +1,85 @@
+[h1]Dota 2 Workshop - Low Violence Items[/h1]
+
+[img]{STEAM_CLAN_IMAGE}/1976/82debb11b9b174e8c408455a3131794de3c784fc.png[/img]
+
+[list]
+
+[*]We occasionally need to request alternate low-violence versions of some workshop items with some or all of the following changes:
+
+[list]
+
+[*]Replace or remove human skulls and some types of bones [/*]
+[*]Replace or remove excessive wounds or entrails [/*]
+[*]Darken or remove bright red blood [/*]
+
+[/list]
+[/*]
+[*]If low violence alternates are requested, they should be submitted to the workshop as new "low-violence" submissions instead of replacing existing submissions. [/*]
+[*]If you prepare a low-violence item, it will preview on the regular hero base model in the workshop tool, it is not possible to preview items on a low-violence hero base model.  [/*]
+[*]Some workshop reference files available through the [url=http://www.dota2.com/workshop/requirements]Hero Resource[/url] pages include low-violence models, textures or images. Low-violence files will have an "lv" in the file name. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_file.JPG[/img]
+
+[list]
+
+[*]If you have excessive blood on items, it will be helpful to keep the blood on a separate layer in your texture source file so that it will be easy to darken or remove the blood if this is requested. [/*]
+
+[/list]
+
+​
+
+[hr][/hr]
+
+Below are alternate low-violence textures and models Valve created for some Dota heroes:
+
+[h2]Life Stealer, Bane and Clinkz[/h2]
+
+[list]
+
+[*]These heroes have a different model and different textures [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_life_stealer.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_life_stealer_face.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_life_stealer_back.jpg[/img]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_bane.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_clinkz_head.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_clinkz.jpg[/img]
+
+[h2] [/h2]
+
+[h2]Pudge[/h2]
+
+[list]
+
+[*]Pudge has the same model but altered wound details and darkened blood on textures, including darkened blood on the base right hand that may need matching darkened blood on low-violence left hand items: [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_pudge.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_pudge_belly.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_pudge2_armleft_color.jpg[/img]
+
+[h2] [/h2]
+
+[h2]Lone Druid and Witch Doctor[/h2]
+
+[list]
+
+[*]These heroes have human skull ornaments replaced or removed from their items: [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_lone_druid_crop.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/low_violence/lv_witchdoctor_crop.jpg[/img]
+
+[h2] [/h2]
+
+[h2]Doom, Pugna, Lich, and Shadow Demon[/h2]
+
+[list]
+
+[*]The skull-like lower faces of these heroes are covered for low-violence: [/*]
+
+[/list]
+
+[img]{STEAM_CLAN_IMAGE}/1976/eaaa23c0514ddb3ff7ad0ff88b88f97b1e2a9834.png[/img]
+
+[url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]

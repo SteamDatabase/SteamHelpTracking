@@ -1,0 +1,24 @@
+[h1]Dota 2 - Item Drops[/h1]
+
+Dota cosmetic items are awarded periodically for playing and completing matches.
+
+If you feel that you have encountered an issue with Dota's item system, please report the issue via the [url=http://dev.dota2.com/]Dota Developer Forums[/url].
+
+[h3]Timed-Based Drops[/h3]
+Timed drops are awarded to players simply for completing matchmaking games; win or lose. The type of items you can receive are full item sets, bundles, treasure or Arcanas.
+
+[h3]Item Drop Restrictions[/h3]
+Steam and Dota accounts that are currently in any of the following states do not qualify for item drops or achievements:
+
+[list]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=5406-WFZC-5519]Locked or suspended accounts.[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=7849-RADZ-6869]Accounts with a VAC ban in Dota.[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=9585-EOSN-3800]Accounts that are currently placed in Dota's Low Priority Matchmaking pool.[/url] [/*]
+[*]An account that has been marked as an abandoner in the current game will not qualify for any drops or achievements. This is the case even if they reconnect and finish the game after being flagged for abandoning. [/*]
+
+[/list]
+Note: Items received as a drop cannot be sold on the Market, but can be gifted to an eligible friend.
+
+[h3]Missing Rewards[/h3]
+In some rare cases, a game may be discarded prior to rewards being granted. Unfortunately, in cases such as this, there is no way to restore these rewards. The game and quests will need to be completed again.

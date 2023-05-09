@@ -1,0 +1,154 @@
+[h1]CS:GO - Viewer Passes[/h1]
+
+[h2]Frequently Asked Questions[/h2]
+
+[list]
+
+[*][url=#viewerpass]What is a Viewer Pass?[/url] [/*]
+[*][url=#getviewerpass]How do I get a Viewer Pass?[/url] [/*]
+[*][url=#multiplepasses]Can I activate more than one Viewer Pass on my account?[/url] [/*]
+[*][url=#upgradecoin]How do I upgrade my Event Coin?[/url] [/*]
+[*][url=#changegraffiti]I purchased a Viewer Pass. How do I equip/change my team graffiti?[/url] [/*]
+[*][url=#upgradepoints]I am a point short of my next Event Coin upgrade and the Major just ended! Can I earn additional points?[/url] [/*]
+[*][url=#gotv]I did not receive a point for a challenge I completed! Who can help with this?[/url] [/*]
+[*][url=#refund]I already purchased and redeemed a Viewer Pass. Can I refund this and purchase the Viewer Pass +3 Souvenirs instead?[/url] [/*]
+
+[/list]
+
+[h2]Souvenir Packages[/h2]
+
+[list]
+
+[*][url=#souvenirs]Do I need a Viewer Pass to be eligible for Souvenir Packages?[/url] [/*]
+[*][url=#earnsouvenir]I purchased a Viewer Pass. How do I earn Souvenir Packages?[/url] [/*]
+[*][url=#redeemsouvenir]I upgraded my Event Coin! How do I redeem a Souvenir Package?[/url] [/*]
+[*][url=#tradesouvenirs]Can I trade and market my redeemed Souvenir Package(s)?[/url] [/*]
+[*][url=#buysouvenir]Can I buy Souvenir Package redemptions?[/url] [/*]
+[*][url=#timelimit]How long do I have to redeem my Souvenir Package(s)?[/url] [/*]
+
+[/list]
+
+[h2]Pick'Em Challenge[/h2]
+
+[list]
+
+[*][url=#pickem]Do I need a Viewer Pass to play the Pick'Em Challenge?[/url] [/*]
+[*][url=#needstickers]Do I need to purchase team stickers to play the Pick'Em Challenge?[/url] [/*]
+[*][url=#howtopickem]I purchased a Viewer Pass. How do I play the Pick'Em Challenge?[/url] [/*]
+
+[/list]
+
+[section id=viewerpass]
+
+[h2]What is a Viewer Pass?[/h2]
+A CS:GO Viewer Pass is a purchasable in-game item which gives purchasers exclusive access to:
+
+[list]
+
+[*]An upgradeable Event Coin. [/*]
+[*]Souvenir Packages. [/*]
+[*]The Major Pick'Em Challenge. [/*]
+[*]Unlimited team graffiti for the duration of the Major﻿. [/*]
+[*]Steam chat flair for the duration of the Major. [/*]
+
+[/list]
+
+[/section]
+
+[section id=getviewerpass]
+
+[h2]How do I get a Viewer Pass?[/h2]
+Viewer Passes can be purchased in-game during CS:GO Majors. Viewer Passes can also be sent as gifts one week after purchase.
+[/section]
+
+[section id=multiplepasses]
+
+[h2]Can I activate more than one Viewer Pass on my account?[/h2]
+No. You can only activate one Viewer Pass per Steam account.
+[/section]
+
+[section id=upgradecoin]
+
+[h2]How do I upgrade my Event Coin?[/h2]
+You can upgrade your Event Coin by completing challenges. All challenges are shown in-game by locating your Event Coin in your CS:GO Inventory, clicking on it and selecting 'View Coin Challenges'.
+[/section]
+
+[section id=changegraffiti]
+
+[h2]I purchased a Viewer Pass. How do I equip/change my team graffiti?[/h2]
+As part of your Viewer Pass purchase you receive unlimited team graffiti for the duration of the Major. To select or change your equipped team graffiti, find your Event Coin in your CS:GO Inventory, click on it and select 'Choose Team Graffiti'.
+[/section]
+
+[section id=upgradepoints]
+
+[h2]I am one point short of my next Event Coin upgrade and the Major just ended! Can I earn additional points?[/h2]
+No. All available challenges toward your Event Coin are shown on the 'View Coin Challenges' screen.
+[/section]
+
+[section id=gotv]
+
+[h2]I did not receive a point for a challenge I completed! Who can help with this?[/h2]
+There may be a delay in completing challenges and receiving points for them on the 'View Coin Challenges' page. If you have completed a challenge and it is not reflected on your challenges page, you may need to wait a few hours for the point(s) to show.
+[/section]
+
+[section id=refund]
+
+[h2]I already purchased and redeemed a Viewer Pass. Can I refund this and purchase the Viewer Pass +3 Souvenirs instead?[/h2]
+No. Viewer Passes cannot be refunded after redemption.
+[/section]
+
+[section id=souvenirs]
+
+[h2]Do I need a Viewer Pass to be eligible for Souvenir Packages?[/h2]
+Yes. To be eligible for Souvenir Packages you must first redeem a Viewer Pass on your account, then complete challenges to upgrade your Event Coin. Viewer Pass holders can also purchase Souvenir Package redemptions in-game.
+
+Souvenir packages no longer drop at random for users watching the Major; the only time a Souvenir Package is generated is when a user upgrades their Event Coin or purchases a Souvenir Package redemption.
+[/section]
+
+[section id=earnsouvenir]
+
+[h2]I purchased a Viewer Pass. How do I earn Souvenir Packages?[/h2]
+You can redeem a Souvenir Package each time you upgrade your Event Coin or purchase a Souvenir Package redemption in-game. Event Coins can be upgraded three times total during a Major, from Bronze to Silver, Gold, and Diamond.
+[/section]
+
+[section id=redeemsouvenir]
+
+[h2]I upgraded my Event Coin! How do I redeem a Souvenir Package?[/h2]
+To redeem a Souvenir Package locate your Event Coin in your CS:GO Inventory, click on it and select 'View Coin Challenges'. Beneath your Event Coin click on 'REDEEM SOUVENIRS' to see a list of matches you can redeem your Souvenir from. Souvenir Packages can only be redeemed from completed matches.
+[/section]
+
+[section id=tradesouvenirs]
+
+[h2]Can I trade and market my redeemed Souvenir Package(s)?[/h2]
+Yes. Once you have redeemed a Souvenir Package you may trade and list on the Steam Community Market.
+[/section]
+
+[section id=buysouvenir]
+
+[h2]Can I buy Souvenir Package redemptions?[/h2]
+Yes. During Majors, Viewer Pass holders can purchase Souvenir Package redemptions in-game. If you do not own the Viewer Pass you cannot purchase Souvenir Package redemptions.
+[/section]
+
+[section id=timelimit]
+
+[h2]How long do I have to redeem my Souvenir Package(s)?[/h2]
+End dates for redemption are set when the Major begins. Please check the CS:GO blog for information during a CS:GO Major.
+[/section]
+
+[section id=pickem]
+
+[h2]Do I need a Viewer Pass to play the Pick'Em Challenge?[/h2]
+Yes. In order to participate in the Pick'Em Challenge you must first redeem a Viewer Pass on your account. After redeeming your Viewer Pass you can make and save your picks for each stage.
+[/section]
+
+[section id=needstickers]
+
+[h2]Do I need to purchase team stickers to play the Pick'Em Challenge?[/h2]
+No. After purchasing the Viewer Pass you can make and modify picks without buying team stickers.
+[/section]
+
+[section id=howtopickem]
+
+[h2]I purchased a Viewer Pass. How do I play the Pick'Em Challenge?[/h2]
+The Pick'Em Challenge can be played through the 'WATCH' tab in-game. You can also make and modify picks by finding the Event Coin in your CS:GO Inventory, clicking on it and selecting 'Play the Pick'Em Challenge'.
+[/section]

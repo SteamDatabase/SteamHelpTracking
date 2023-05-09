@@ -1,0 +1,14 @@
+[h1]Failed to Contact Key Server[/h1]
+
+I receive Game Error: Failed to Contact Key Server when launching a game from Steam.
+
+Upon trying to launch a third-party title on Steam that provides a third-party CD key (also known as a [url=https://support.steampowered.com/kb_article.php?ref=2263-RIFC-1898]Steam-Issued Activation Key[/url]), you may experience this error.
+
+The most common causes of this issue are listed below:
+
+[section style=important][h1]Game is temporarily out of third-party CD keys[/h1]
+If the game is a recent release, or was purchased during a sale; while we do our best to anticipate demand from our users, occasionally we may run out of keys to provide for your purchase. When we are out of keys, this error will appear. You will be issued a key as soon as we have been given more by the game's publisher.
+
+[/section]
+
+[h1]Network Issues[/h1]In rare cases, communication errors with Steam may cause this error. Please check the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Issues[/url] guide for more help.

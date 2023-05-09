@@ -1,0 +1,33 @@
+[h1]Updating Drivers[/h1]
+
+Using outdated drivers can affect performance despite video hardware meeting or exceeding the system requirements of the game you are playing. We recommend checking for driver updates on a regular basis. If you do encounter performance issues, updating your drivers is a good first step in troubleshooting.
+
+[h2]Where To Update Your Drivers[/h2]
+For most graphics cards, you will be able to easily download and install the latest drivers from NVIDIA or AMD:
+
+[list]
+
+[*]NVIDIA - [url=https://www.nvidia.com/Download/index.aspx]https://www.nvidia.com/Download/index.aspx[/url]
+
+[*]AMD - [url=https://www.amd.com/support]https://www.amd.com/support[/url]
+
+[/list]
+
+Use your Operating System, video card name & manufacturer, and driver version information to search your video card or computer manufacturer's site for updated drivers which will be compatible with your system.
+
+[url id=versions][/url]
+
+[h2]How To Check Your Card Model and Current Driver Versions[/h2]
+It is recommended that you check the versions of the drivers currently installed on your system before looking for updates - please follow the instructions below to see which drivers are installed:
+
+[olist]
+
+[*]Press [b]Windows key + R[/b] to bring up the [b]Run[/b] command prompt [/*]
+[*]Enter [i]dxdiag [/i]and click [b]OK[/b] to run the DirectX Diagnostic Tool. If you are asked to check whether your drivers are digitally signed, select [b]Yes[/b] to proceed. [/*]
+[*]The tool will start on the [b]System[/b], here you can check basic information about your system [/*]
+[*]Switch to the [b]Display[/b] tab. In the upper left corner is a section named [b]Device[/b]. The first three lines are the [b]Name[/b], [b]Manufacturer[/b], and [b]Chip Type[/b] of your video hardware. [/*]
+[*]Check the upper right-hand corner of this tab for a section named [b]Drivers[/b]. [/*]
+[*]The second line is the video driver [b]Version[/b] number, and the third is the [b]Date[/b] of release. [/*]
+[*]Click [b]Exit[/b] in the lower right hand corner of the window to close the DirectX Diagnostic Tool. [/*]
+
+[/olist]

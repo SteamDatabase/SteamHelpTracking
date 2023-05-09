@@ -1,0 +1,32 @@
+[h1]Half-Life: Alyx FAQ[/h1]
+
+[img]https://support.steampowered.com/steamvr/Alyx/AlyxBanner.png[/img]  	  	        	[h1]Frequently Asked Questions[/h1]
+
+[h4]I already bought Alyx![/h4]
+You will receive Half-Life: Alyx when you complete your Valve Index payment. If you previously purchased the game on Steam, the purchase price will be credited around the time your hardware ships.
+
+[h4]Will I receive bonus content for Half-Life: Alyx?[/h4]
+Alyx bonus content was available for Index orders placed before March 25, 2020.
+
+More info is available on the official [url=https://www.half-life.com/en/alyx/]Alyx website[/url].
+
+[h4]Questions about your Valve Index order?[/h4]
+Check out our [url=https://support.steampowered.com/kb_article.php?ref=1072-AXCV-5863]Index Order FAQ[/url].
+
+[h1]Troubleshooting[/h1]
+
+[h4]Performance problems[/h4]
+If you experience performance issues while playing Half-Life: Alyx, please see our [url=https://support.steampowered.com/kb_article.php?ref=7689-WAKZ-8117]Performance tips guide.[/url]
+
+If you encounter bugs or errors while playing Alyx or need further help, please contact [url=https://help.steampowered.com/en/wizard/HelpWithGame/?appid=546560]Steam Support.[/url]
+
+[h4]Questions about streaming or spectating?[/h4]
+See our [url=https://support.steampowered.com/kb_article.php?ref=1367-QDNM-8600]Streaming/Spectating guide[/url] for more information.
+
+[h4]How to turn off preorder skins[/h4]
+To disable the Valve Index Preorder weapon skins, right-click Half-Life: Alyx in your Steam library, and choose Properties... > DLC. Uncheck the "install" checkbox next to “Half-Life: Alyx – Index Preorder Items”. To enable them, re-check the checkbox.
+
+[h4]Problems with your hardware[/h4]
+Having hardware related issues, see our [url=https://help.steampowered.com/en/wizard/HelpWithVRHardware]Hardware Troubleshooting[/url] for more information.
+
+[hr][/hr]

@@ -1,0 +1,68 @@
+[h1]Dota 2 Workshop - Loading Screens[/h1]
+
+[img]{STEAM_CLAN_IMAGE}/1976/d16acdec7b7174be653ae9b086252b0def5b70da.png[/img]
+
+[list]
+
+[*][url=#requirements]TECHNICAL REQUIREMENTS[/url] [/*]
+[*][url=#instructions]SUBMISSION INSTRUCTIONS[/url] [/*]
+[*][url=#aspect]ASPECT RATIOS[/url] [/*]
+[*][url=#notes]OTHER NOTES[/url] [/*]
+
+[/list]
+
+[url id=requirements][/url]
+
+[h2]TECHNICAL REQUIREMENTS[/h2]
+
+[list]
+
+[*]Loading screen submissions require a 16:9 aspect ratio .png of preferrably 2048 x 1024 at 72dpi.  [/*]
+[*]Our loading screen code is designed to use 16:9 as a base and achieve 16:10 and 4:3 aspect ratios by cropping the edges equally. [/*]
+[*]It's helpful if the most important elements of your image lie within the 4:3 area in the center. [/*]
+
+[/list]
+
+[url id=instructions][/url]
+
+[h2]SUBMISSION INSTRUCTIONS[/h2]
+
+[list]
+
+[*]Refer to the [url=https://support.steampowered.com/kb_article.php?ref=2858-RTHJ-5696]Submitting Items[/url] page for important general information about testing and submitting items. [/*]
+[*]Loading Screens are submitted under the "Images..." category. [/*]
+
+[/list]
+
+[url id=aspect][/url]
+
+[h2]ASPECT RATIOS[/h2]
+
+[list]
+
+[*]During the submission process you will have a preview with buttons that will allow you to see how the image will display in 3 aspect ratios - 16:9 (full authored image), 16:10, and 4:3.  [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_16_9.jpg[/img]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_16-10.jpg[/img]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/loadingscreens/screen_4-3.jpg[/img]
+
+[url id=notes][/url]
+
+[h2]OTHER NOTES[/h2]
+
+[list]
+
+[*]For item set loading screens, it is preferable to avoid Dota logos and text. [/*]
+[*]This image may also be used as a marketing image or as an armory icon. [/*]
+[*]If this image is connected to an item set, please ensure that the image is an accurate representation of the items. [/*]
+[*]If we request drastic changes to any items, we may either ask you to revise the screen to match the final items or we may not use the loading screen. [/*]
+[*]If you are submitting a loading screen for a team, player, or caster, they need to be included in the revenue share. Be sure to read the [url=https://support.steampowered.com/kb/4569-PDXC-8590/dota-2-team-player-or-caster-branded-items]Team, Player or Caster Branded Item[/url] guidelines. [/*]
+[*]The workshop does not support animated loading screens. [/*]
+
+[/list]
+
+[url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]

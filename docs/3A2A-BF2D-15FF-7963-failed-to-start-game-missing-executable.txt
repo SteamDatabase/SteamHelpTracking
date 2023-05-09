@@ -1,0 +1,50 @@
+[h1]Failed to Start Game (Missing Executable)[/h1]
+
+When launching a game, Steam displays an error message:
+
+[list]
+
+[*]Failed to Start Game (Missing Executable)
+
+[/list]
+
+This error is seen when a game file is missing or is being blocked by another program. Here are some troubleshooting steps to help resolve the error.
+
+[h2]Troubleshooting Steps[/h2]
+
+[olist]
+
+[*][b]Check your anti-virus software[/b]
+This error is most commonly seen when your anti-virus software mistakenly reports game files as malicious and quarantines them.
+
+There are a couple of ways to resolve this:
+
+[list]
+
+[*]within the anti-virus software look for game files that have been reported and mark them as safe [/*]
+[*]set your anti-virus software to Game Mode [/*]
+[*]have the anti-virus software exclude that game folder when it scans for malicious content. [url=https://support.steampowered.com/kb_article.php?ref=4361-MVDP-3638]Here's how to do that with popular anti-virus software[/url]. [/*]
+
+[/list]
+
+You should also temporarily uninstall any applications listed in our [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which May Interfere with Steam[/url].
+
+[*][b]Verify Game Files[/b]
+If it's not caused by anti-virus software, the issue could be a corrupted file or failed download. To make sure you have all the files needed, restart your PC and then verify your game files. [url=http://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]You can easily do that from the game properties panel[/url].
+
+[*][b]Submit a Steam Support ticket[/b]
+If you've completed steps 1 and 2 and are still seeing this error, please [url=https://help.steampowered.com]submit a ticket to Steam Support[/url].
+
+We'll ask you for the following, so go ahead and include them with your ticket:
+
+[list]
+
+[*]An uncropped screenshot of the error [/*]
+[*]A [url=https://support.steampowered.com/kb_article.php?ref=4840-QWJX-0408]System Report[/url]. [/*]
+[*]A list of the programs that you have removed per the [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which May Interfere with Steam[/url] article. [/*]
+
+[/list]
+
+Our goal is to get you playing your games, so we'll review your information and suggest additional troubleshooting steps.
+
+[/olist]

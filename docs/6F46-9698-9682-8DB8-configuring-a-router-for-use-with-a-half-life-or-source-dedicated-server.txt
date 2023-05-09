@@ -1,0 +1,128 @@
+[h1]Configuring a Router for use with a Half-Life or Source Dedicated Server[/h1]
+
+How do I configure my Router for use with my Half-Life or Source dedicated Server?
+
+[h4]Server Setup[/h4]
+Instructions on setting up a specific type of dedicated server can be found here:
+
+[list]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=7017-UJBN-6785]Setting up a Steam Source Dedicated Server[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=6470-EIFV-5481]Setting up a Steam Half-Life Dedicated Server[/url] [/*]
+
+[/list]
+
+[h4]Setting up a Static IP Address[/h4]
+Your server should use a static IP address. This will allow other computers to reliably find your server when connecting to the router.
+
+The only way to get an external static IP is to pay for one through your internet service provider. A static IP is important if you plan on having your server run all of the time. Using a static IP makes it easy for return players to find your server.
+
+An internal IP address behaves just like an external IP address with the notable exception of only being visible from behind your router. You must use a static IP internally. Your router will forward ports for incoming connections to a specific IP address. If you have your IP setup dynamically, it will not necessarily forward the ports to your server.
+
+[h4]Setting Up a Static IP in Windows[/h4]
+
+[olist]
+
+[*]Press the [b]Windows Key + R[/b] and type in: [code]cmd[/code] to open a command prompt. [/*]
+[*]Type into the command prompt: [code]ipconfig /all[/code]
+You will see something similar to this:
+
+Windows IP Configuration
+
+Host Name . . . . . . . . . . . . : MYCOMP
+
+Primary Dns Suffix . . . . . . . :
+
+Node Type . . . . . . . . . . . . : Unknown
+
+IP Routing Enabled. . . . . . . . : No
+
+WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+Connection-specific DNS Suffix . :
+
+Description . . . . . . . . . . . : Realtek RTL8139/810x Family Fast Ethernet NIC
+
+Physical Address. . . . . . . . . : 00-80-F6-6A-21-E0
+
+Dhcp Enabled. . . . . . . . . . . : Yes
+
+IP Address. . . . . . . . . . . . : 192.168.1.100
+
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+
+Default Gateway . . . . . . . . . : 192.168.1.1
+
+DNS Servers . . . . . . . . . . . : 192.168.1.1
+
+NetBIOS over TCP/IP. . . . . . . . : Disabled [/*]
+[*]Copy down:
+
+[list]
+
+[*]IP address [/*]
+[*]Subnet mask [/*]
+[*]Default gateway [/*]
+[*]DNS Servers [/*]
+
+[/list]
+[/*]
+[*]Click on [b]Start > Settings (gear icon) > Network & Internet > Change Adapter Options[/b]. [/*]
+[*]Right-click on [b]Local Area Connection[/b] you are using and go to [b]Properties[/b]. [/*]
+[*]Select [b]Internet Protocol Version 4 (TCP/IPv4)[/b] and click on the [b]Properties[/b] button. [/*]
+[*]Select the "Use the following IP address" option and fill in the fields with the respective information you copied out of your IPConfig. [/*]
+[*]Click [b]OK[/b] and exit the network connection page. [/*]
+
+[/olist]
+
+Test your internet connection to ensure that you are still able to access the internet. If not, you probably mistyped one of the fields from the IPconfig. Double-check their values. If you need to get back to the internet immediately, you can do so by going back to your TCP/IPv4 properties and selecting [b]Obtain an IP address automatically[/b].
+
+[h4]Setting up the Router[/h4]
+Go to your router manufacturer's website and ensure that you are running the most current Firmware available for the router.
+
+[olist]
+
+[*]Follow the instructions that came with your router to login to it. Typically, this is done by going to either [url=http://192.168.0.1]192.168.0.1[/url] or [url=http://192.168.1.1]192.168.1.1[/url] and entering a username and password you have either already specified or can be found in your router's manual. The IP address and login information are different for different routers. [/*]
+[*]Go to port range forwarding or the equivalent for your router and setup the port forwarding for port 27015. As each router manufacturer has their own software, you will want to follow the instructions they have provided in their manuals or support articles. If port 27015 does not work, try another port between 27016-27019 or 27021-27032. [/*]
+
+[/olist]
+
+[h4]Editing the server.cfg[/h4]
+Next, you must edit your server.cfg file to properly reflect your server's IP address.
+
+[olist]
+
+[*]Open your server.cfg. (Typically [b]C:\hlserver\valve\server.cfg[/b]) [/*]
+[*]Add to the top of the file:
+
+[code]IP < your IP address >
+
+port 27015[/code]
+
+[section style=note]
+
+[h3]Note:[/h3]
+If you have a Dynamic IP, from time to time your external IP address will change, especially if you reboot or cycle the power on your modem.
+
+Each time this happens you must change the IP in your server.cfg to match your new external IP in order for your server to continue working properly.
+[/section]
+
+Note: When you start your server it will report your internal IP address, not your external IP address.
+
+To access the server from behind the same router, at the top of the Steam client select: [b]View[/b] > [b]Servers[/b] > [b]Favorites[/b] and click on [b]Add a Server[/b].
+
+Enter your internal IP address and port setting in this format: [code]192.168.1.100:27015[/code]
+
+Then you can connect to your server from your [b]Favorites[/b] menu.
+
+[/olist]
+
+[section style=important]
+
+[h3]Important:[/h3]
+If you have a server and a client behind the same router, the client cannot connect to the server through the server browser. In fact the server may not be visible in the server browser of the client.
+
+The client must connect to the server using the server's internal IP address.
+[/section]

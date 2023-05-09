@@ -1,0 +1,35 @@
+[h1]How To Request A Refund[/h1]
+
+Valve will, upon request via [url=https://help.steampowered.com]help.steampowered.com[/url], issue a refund for any title that is requested within 14 days of purchase and has been played for less than 2 hours. Even if you fall outside of the refund rules we've described, you can submit a request and we'll take a look at it.
+
+Additional information and troubleshooting instructions for existing refund requests can be found in our [url=https://support.steampowered.com/kb_article.php?ref=4873-QOSK-5126]Common Refund Questions[/url] FAQ.
+
+[h1]Step-By-Step Instructions[/h1]
+
+[list]
+
+[*]Navigate to Steam Help ([url=https://help.steampowered.com]help.steampowered.com[/url]) and log in with your Steam account.
+
+[*]After you have logged in, click on [b]Purchases[/b].
+[img]{STEAM_CLAN_IMAGE}/1976/6f967e94debf76224f64be8702356c61ea3208eb.png[/img]
+
+[*]Find the purchase you would like to refund and click on it. If your purchase is not listed, it falls too far outside of our refund window and is ineligible for a refund.
+[img]{STEAM_CLAN_IMAGE}/1976/8d142de6ff6125f0696f79638caa5b1a6b84a674.png[/img]
+
+[*]Select the problem you are having with the product.
+[img]https://support.steampowered.com/images/faq/refunds/3Refund_selectProblem.png[/img]
+
+[*]Next, click [b]I'd like to request a refund[/b].
+[img]https://support.steampowered.com/images/faq/refunds/4Refund_requestRefund.png[/img]
+[/list]
+
+[list]
+
+[*]Fill out and submit the request form.
+
+Please click the drop-down menu to select the Steam Wallet or the original payment method.
+[img]https://support.steampowered.com/images/faq/refunds/5Refund_requestForm.png[/img]
+
+[*]You should receive a confirmation email that your request was successfully submitted.
+
+[/list]

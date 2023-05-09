@@ -1,0 +1,32 @@
+[h1]Steam-Issued Activation Keys[/h1]
+
+Some Steam games may provide you with an additional activation key once they have been downloaded on a Steam account. These keys appear in the Steam library when you right-click the game and select 'Manage' -> 'CD keys'. These keys are used to register your product outside of Steam, with a third party client or service.
+
+[img]https://support.steampowered.com/images/faq/client/view_cd_key.jpg[/img]
+
+[section style=important]This FAQ pertains to Steam-issued keys that were added to your account after a game was purchased or registered. If you are registering a retail or digital key to your Steam account, please see the [url=https://support.steampowered.com/kb_article.php?ref=7480-WUSF-3601]Retail & Digital CD Keys[/url] FAQ for further information.
+[/section]
+
+[h4]Why am I not receiving my Steam-issued third party key?[/h4]
+Make sure that the game has been successfully downloaded and installed through the Steam client. A key will not be issued on the Steam account until the download has begun.
+
+If the key is still not generating, please [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]verify integrity of game files[/url] and restart the Steam client.
+
+[h4]Why am I receiving a Failed to Contact Key Server error[/h4]
+
+For information on this error please see the [url=https://support.steampowered.com/kb_article.php?ref=2204-OPGC-4862]Failed to Contact Key Server[/url] page.
+
+[h4]Why am I receiving an Invalid Key error when attempting to register my key?[/h4]
+If you receive an invalid or duplicate error when registering Steam issued key, you will need to contact the third-party game developer/publisher's support team for that game.
+
+[section style=note]
+
+[h5]Contacting third-party support[/h5]
+
+Steam does not have access to third-party registration systems and cannot resolve issues with registration.
+
+You can find the third-party game's support contact information by selecting the game in your Steam Library and then on the right hand side select "Support" from the tabs available above the "Activity" section.
+
+Make sure to provide them with your Steam-issued CD Key so that they can better assist you.
+
+[/section]

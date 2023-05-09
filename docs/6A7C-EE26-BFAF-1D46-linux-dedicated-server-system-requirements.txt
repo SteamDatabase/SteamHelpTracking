@@ -1,0 +1,14 @@
+[h1]Linux Dedicated Server System Requirements[/h1]
+
+[h3]Linux dedicated server requirements[/h3]
+
+You must have at least GLIBC 2.3.2 installed to run a Source dedicated server. All modern Linux distributions include appropriate versions of GLIBC.
+
+[h3]Related Linux information on Dedicated Servers[/h3]
+
+[list]
+
+[*][url=https://steamcommunity.com/discussions/forum/14/]Source Dedicated Server (Linux)[/url]
+[*][url=https://steamcommunity.com/discussions/forum/16/]Half-Life Dedicated Server (Linux)[/url] [/*]
+
+[/list]

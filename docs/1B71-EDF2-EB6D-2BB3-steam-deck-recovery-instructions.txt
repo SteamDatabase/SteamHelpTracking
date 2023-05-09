@@ -1,0 +1,51 @@
+[h1]Steam Deck Recovery Instructions[/h1]
+
+These are instructions to recover, repair, or re-image your Steam Deck. You might need to do this if you are unable to boot, have installed another OS and would like to get back to standard Deck SteamOS, or are experiencing other breaking issues.
+
+For all the tinkerers out there, please note that this system image is not quite SteamOS 3 yet. Depending on what you try to install it on (desktop, another handheld, refrigerator, toaster), it may not work properly. SteamOS 3 proper will come out sometime after launch (and even then it may not work on your toaster).
+
+[h2]Steam Deck Recovery Instructions[/h2]
+
+[olist]
+
+[*] Download the recovery image [url=https://store.steampowered.com/steamos/download/?ver=steamdeck]here (click)[/url].
+
+[*] Prepare a USB key (8GB minimum) with the recovery image:
+
+[list]
+
+[*] On [b]Windows [/b]we recommend using the [url=https://rufus.ie/en/]Rufus utility[/url]. Select the recovery file and write it to your USB drive (this will format the contents of your USB drive). When it's done, select 'Close' and eject the drive.
+
+[*] On [b]MacOS [/b]you can use [url=https://www.balena.io/etcher/]Balena Etcher[/url] to write the recovery file to your USB drive.
+
+[*] On [b]Linux [/b]you can also use [url=https://www.balena.io/etcher/]Balena Etcher[/url] to write the recovery file to your USB drive - or if you prefer you can do this directly from the command line:
+[code]bzcat steamdeck-recovery-4.img.bz2 | sudo dd if=/dev/stdin of=/dev/sdX oflag=sync status=progress bs=128M[/code] (set /dev/sdX to the USB device you inserted)
+[/list]
+
+[*] Use a USB-C adapter or hub to plug the boot disk in.
+
+[*] Shut down your Steam Deck if it isn't already off. Hold 'Volume Down' and click the Power Button - when you hear the chime, let go of the Volume Down button, and you'll be booted into the Boot Manager.
+
+[*] In the Boot Manager, boot from the 'EFI USB Device' (your USB key)
+
+[*] The screen will go dark while it's booting - give it a minute.
+
+[*] Once booted you will be in a desktop environment, you can navigate using the trackpad and trigger.
+
+[/olist]
+
+[h2]Recovery options[/h2]
+
+In the recovery environment, there are four different options to choose from.
+
+[list]
+
+[*] [b]Re-image Steam Deck[/b] - This performs a full factory reset - all user info, installed games, applications, or operating systems will be wiped and replaced with stock SteamOS.
+
+[*] [b]Clear local user data[/b] - This reformats the home partitions on your Steam Deck, which will remove downloaded games and all personal content stored on this Deck, including system configuration.
+
+[*] [b]Reinstall Steam OS[/b] - This will reinstall SteamOS on the Steam Deck, while attempting to preserve your games and personal content.
+
+[*] [b]Recovery tools[/b] - This opens a prompt with the ability to make changes to the Steam Deck boot partition.
+
+[/list]

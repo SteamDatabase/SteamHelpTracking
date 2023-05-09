@@ -1,0 +1,74 @@
+[h1]Configuring a router for multiple clients[/h1]
+
+To configure multiple clients to play from behind the same router, you may need to change one of the clients to use a different clientport number.
+
+[list]
+
+[*]Each machine must have a unique Steam account with different game licenses registered to the account.
+
+[*]Each machine must have a different clientport setting.
+
+[*]Each machine must have a unique Mac address.
+
+[*]The router must be up-to-date.
+
+[*]Your Firewall and router must have the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]required ports for Steam open[/url].
+[/list]
+
+The default clientport is [b]27005[/b] and you can only have one game with that port active on the same lan.
+
+[h1]Specifying a Clientport as a Launch Option[/h1]
+To specify a client port, please perform the following steps for each computer on the LAN
+
+[list]
+
+[*]Go to Steam's [b]Library[/b] menu
+
+[*]Right-click on the game you wish to play
+
+[*]Go to [b]Properties...[/b]
+
+[*]From the [b]General[/b] tab, under [b]Launch Options[/b] you enter the launch option
+
+[*]Add a different client port number on each machine between 27005 and 27032 in the following format:
+[code]+clientport 270XX[/code]
+[b]Note:[/b] Do not use 27020
+
+[*]Leave the menu and launch the game
+
+[/list]
+
+[b]NOTE:[/b] This solution only works if you launch the game through the Steam client.
+
+If you have already set other launch options, leave a space between the last character of your previous launch option and the [b]+[/b] of your clientport setting.
+
+[h1]Specifying a Clientport in the userconfig.cfg[/h1]
+The benefit of this method is that the clientport will remain set whether you are launching the game from the [b]My games[/b] menu or from a shortcut to the game.
+
+[list]
+
+[*]Navigate to the folder that holds the [b]config.cfg[/b] for your game
+[b]Example:[/b] The config.cfg for Counter-Strike: Source can be found here:
+[b]..\Steam\steamapps\common\Counter-Strike Source\cstrike\cfg[/b]
+
+[*]If you have a [b]userconfig.cfg[/b] in that directory, open it. If you do not already have a userconfig.cfg:
+
+[olist]
+
+[*]Right-click in the folder
+
+[*]Go to: [b]New[/b] > [b]Text Document[/b]
+
+[*]Rename the file [code]userconfig.cfg[/code]
+
+[*]Open the file with Notepad
+
+[/olist]
+
+[*]Type into the document [code]clientport 270XX[/code] where [b]XX[/b] are the last two digits of the clientport number. Acceptable values include 05 - 19 and 21 - 32
+
+[*]Save your [b]userconfig.cfg[/b]
+
+[*]Launch your game
+
+[/list]

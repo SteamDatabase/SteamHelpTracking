@@ -1,0 +1,100 @@
+[h1]Update & Installation Issues[/h1]
+
+When installing or updating a game, Steam displays an error message:
+
+[list]
+
+[*]An error occurred while updating [i][game title][/i] [/*]
+[*]An error occurred while installing [i][game title][/i] [/*]
+
+[/list]
+
+This is a common type of error that can occur any time a game is updated or installed on Steam.
+
+The error results when Steam is not able to complete the installation. The specific reason for the error will be shown in the parenthesis at the end of the error message.
+
+[h2]Basic Steam Troubleshooting[/h2]
+The following fixes will resolve most update and installation errors with Steam. They can be performed with a minimal amount of technical knowledge.
+
+[h5]Restart Computer[/h5]
+It's always a good first step to make sure that you restart Steam as well as your computer.
+
+Restarting the computer flushes all kinds of system states and caches, while resetting other programs and releasing locks on files and other resources.
+
+[h5]Clear Download Cache[/h5]
+Clearing the Steam download cache will cause the Steam client to flush locally cached configuration data and acquire it from the Steam servers again.
+
+Navigate to your Steam -> Settings -> Downloads -> Clear Download Cache
+
+[h5]Repair Library Folder[/h5]
+The Steam library folder contains all of your installed games on disk. These folders need to be writable by all users in order to update properly. Sometimes these user permissions break and need to be refreshed.
+
+Navigate to your Steam -> Settings -> Downloads -> Steam Library Folders -> Right click on folder -> Repair Library Folder
+
+[h5]Verify Local Files[/h5]
+Sometimes files on hard-disks and other storage devices become corrupted because of bad hardware, software crashes, power surges etc. Steam can verify the correctness over installed game files and fix them if necessary.
+
+Find Game in Library -> Right click game title -> Properties -> Local Files -> Verify Integrity of Game Files
+
+[h5]Change Download Region[/h5]
+The Steam content system is divided into geographical regions. The Steam client automatically detects its current region and uses content servers located in that region for best performance. Sometimes, servers in a specific region may be slow, overloaded or have a hardware failure causing download issues. It is advisable to temporarily switch to a different download region to use another set of content servers.
+
+Steam -> Settings -> Downloads -> Download Region. You may need to test several regions other than your own.
+
+[h5]Reinstall Steam[/h5]
+Download the [url=http://store.steampowered.com/about/]installer here[/url] and reinstall Steam to the same location where it is already installed.
+
+This may fix potential issues with Steam client and service files. Installing into same location will preserve all installed games.
+
+WARNING! Uninstalling Steam will delete all game content.
+
+[h5]Move Game Folder[/h5]
+It can be very helpful to test the issue by installing on an alternate hard drive. If one is already available, you can create a new Steam library folder on this drive. You can then install new games into this Steam library folder or move already installed games there.
+
+Steam -> Settings -> Downloads -> Steam Library Folders -> Add new Library folder
+
+[h2]Advanced Troubleshooting[/h2]
+If the error is still occurring after following the fixes outlined above, it is possible that something outside of Steam is responsible.
+
+Because these are advanced troubleshooting steps, we highly recommend that you contact a local IT support specialist in your area for further assistance with these steps.
+
+[h5]Refresh Local Network Hardware[/h5]
+This includes restarting all modems and routers. Network hardware can get into slow/broken state after running for a long time.
+
+[h5]Update System and Drivers[/h5]
+Make sure your operating system and hardware drivers are all up to date.
+
+For Windows: Start -> search "update" -> run "Check for Updates"
+
+For Mac: drivers cannot be updated separately; only the operating system can be updated.
+
+[h5]Investigate Firewalls[/h5]
+Certain firewalls may prevent Steam from talking to its servers. You'll want to work with a tech support specialist to ensure that the Firewall is not interfering. You may even need to temporarily disable it for testing purposes. It may be necessary to add exceptions in your firewalls for Steam.
+
+[h5]Investigate Anti-Virus Software[/h5]
+AV software hooks very deep into user systems and can affect disk and network operations which will cause issues with Steam. Some games also use copy protection technology that can appear as malicious software to an AV scanner, resulting in potential false-positive alerts.
+
+You'll want to work with a tech support specialist to ensure that your AV software is not interfering with Steam. You may even need to temporarily disable it for testing purposes. It may also be necessary to add exceptions for Steam in your AV configuration (for example, excluding Steam Library folders from live monitoring services).
+
+[h5]Investigate Other Programs and Services[/h5]
+Any software that modifies or monitors system, disk or network activity can cause issues while downloading or running a game. These programs and services can run in the background and are typically associated with software like Anti-Virus, ad-blockers, web-optimizers, firewalls, system cleaners, recording software, proxies, performance boosters etc. See the [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which May Interfere with Steam[/url] page for more information.
+
+You'll want to work with a tech support specialist to ensure that these services and programs are not interfering with Steam. You may even need to temporarily disable them for testing purposes.
+
+[h5]Disable Overclocking[/h5]
+Some users overclock their hardware to gain more performance while running their system outside of manufacturer recommended settings. This can cause memory and file corruption and should be disabled (usually in the computer BIOS).
+
+[h5]Test Online Connection[/h5]
+Some Internet providers cache or compress online data to save bandwidth (especially cellphone networks). This can cause issues with Steam. It is a good idea to test the issue by connecting to an entirely different network, preferably from a different service provider.
+
+[h5]Check Hard Drive for Errors[/h5]
+All storage drives/devices can be affected by file corruption, especially if it is older or running under a heavy load. You'll want to work with a tech support specialist to investigate possible issues with your Hard Drive
+
+For Windows: This PC -> Right Click on Drive -> Properties -> Tools -> Error checking
+
+For macOS X: Disk Utility -> Click on Drive -> Click First Aid (For older OS X versions: click Repair Disk Permissions)
+
+[h5]Check RAM for Errors[/h5]
+Memory errors can cause issues with the Steam installation process, as well as gameplay. You'll want to work with a tech support specialist to investigate possible issues with your system memory.
+
+Windows: Start -> Find "mdsched" and run Windows memory Diagnostic

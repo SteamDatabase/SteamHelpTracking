@@ -1,0 +1,78 @@
+[h1]Retail CD Keys[/h1]
+
+Many products are sold by retailers other than Steam. If these products are meant for Steam registration, they will include a Steam CD key/product code.
+
+[section style=important]This FAQ is meant for issues with registering retail and digital keys to your Steam account. If you are having issues with a key that was provided by Steam, please see the [url=https://support.steampowered.com/kb_article.php?ref=2263-RIFC-1898]Steam-Issued keys[/url] FAQ for further information.
+[/section]
+
+[list]
+
+[*][url=#what]What is a CD key and where can I find it?[/url] [/*]
+[*][url=#which]Which retail / digital CD Keys are accepted on Steam?[/url] [/*]
+[*][url=#how]How do I add a key to my Steam account?[/url] [/*]
+[*][url=#proof]What is a CD Key used for after it is registered?[/url] [/*]
+[*][url=#invalid]Why am I receiving the "Invalid Product Code" error when attempting registration?[/url] [/*]
+[*][url=#duplicate]Why am I receiving a duplicate product code error when attempting to register the key?[/url] [/*]
+[*][url=#nonsteam]How do I add a non-Steam game to my Library?[/url] [/*]
+
+[/list]
+
+[section id=what]
+
+[h4]What is a CD key and where can I find it?[/h4]
+A CD Key is a printed combination of letters and numbers, found on a card, sticker, or disc included with your game's packaging. For online purchases where no physical media is shipped, the CD Key is usually included in the emailed purchase receipt.
+[/section]
+
+[section id=which]
+
+[h4]Which retail/digital CD Keys are accepted on Steam?[/h4]
+If a retail or digital game is meant to be registered through Steam, the retail packaging or the email where the key was delivered will specify so. If a key is not intended for registration through Steam, you will see an Invalid Product Code error when you try to register it. If a retail or digital game key has already been registered, you will see a duplicate key error. Please see the sections on [url=#invalid]invalid[/url] and [url=#duplicate]duplicate[/url] keys below for further information.
+[/section]
+
+[section id=how]
+
+[h4]How do I add a key to my Steam account?[/h4]
+Log in to the Steam client application (if you haven’t yet, you can download the Steam client [url=http://store.steampowered.com/about]here[/url]). Click the button labeled "+ Add a Game" on the bottom left on the Steam client and select "Activate a Product on Steam..." and follow the on-screen instructions.
+[/section]
+
+[section id=proof]
+
+[h4]What is a CD Key used for after it is registered?[/h4]
+After the key is registered to your Steam account, it acts as proof of purchase for the game as well as proof of ownership for your Steam account. Steam Support may ask for it if you need to establish your ownership of an account. Please note that digital keys that are not part of a game's physical packaging cannot be used as proof of account ownership. It is recommended that you keep your key in a safe place to ensure the security of your account.
+[/section]
+
+[section id=invalid]
+
+[h4]Why am I receiving the "Invalid Product Code" error when attempting registration?[/h4]
+If your key is not recognized by Steam, make sure that the key is intended for Steam registration. If a retail or digital game is meant to be registered through Steam, the retail packaging or the email where the key was delivered will mention it.
+
+Once you have made sure that the product is intended for Steam registration, check the combinations below to ensure that numbers and letters are entered correctly:
+
+[list]
+
+[*]The number [b]0[/b] (try entering the letter [b]Q[/b], [b]D[/b] or [b]O[/b] instead) [/*]
+[*]The number [b]1[/b] (try entering the letter [b]I[/b] or [b]L[/b] instead) [/*]
+[*]The letter [b]O[/b] (try entering the letter [b]Q[/b] or [b]D[/b] instead) [/*]
+[*]The letter [b]B[/b] (try entering the number [b]8[/b] instead) [/*]
+[*]The letter [b]G[/b] (try entering the number [b]6[/b] instead) [/*]
+
+[/list]
+
+If you are still receiving an invalid error, we encourage you to contact the retailer for further assistance.
+[/section]
+
+[section id=duplicate]
+
+[h4]Why am I receiving a duplicate product code error when attempting to register the key?[/h4]
+This error indicates that the key you are registering has already been tied to a Steam account. It cannot be registered again.
+
+If you think that you have previously registered this key to a Steam account, please use [url=https://support.steampowered.com/kb_article.php?ref=4988-DHXV-7272]Steam Help Site[/url] to retrieve your lost Steam account.
+
+If you are sure that you have never registered this key successfully, you will want to contact the retailer where the game was purchased to obtain a new copy of the game.
+[/section]
+
+[section id=nonsteam]
+
+[h4]How do I add a non-Steam game to my Library?[/h4]
+If your key is not meant to be registered on Steam, the game may still be added to your Library for convenience - please see the [url=https://support.steampowered.com/kb_article.php?ref=2219-YDJV-5557]Add Non-Steam Games to a Library[/url] topic for more information on this process.
+[/section]

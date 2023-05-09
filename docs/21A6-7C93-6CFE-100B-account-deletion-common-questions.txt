@@ -1,0 +1,97 @@
+[h1]Account Deletion - Common Questions[/h1]
+
+If you think that you will not return to play the games on your Steam account and you’d like your account information removed, you can [url=https://help.steampowered.com/wizard/HelpDeleteAccount]request that Steam Support[/url] delete your account. Steam Support will ask that you provide comprehensive [url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]Proof of Ownership [/url] prior to fulfilling the request.
+
+[section style=important]Account deletion is [b]permanent[/b]. If you delete your Steam account, game licenses, community profile, gifts, inventory items, wallet funds, and other associated information will be deleted permanently and will not be recoverable.
+[/section]
+
+[h3]Table of Contents:[/h3]
+
+[list]
+
+[*][url=#howto] How do I delete my account?[/url] [/*]
+[*][url=#howtocancel]How do I cancel my account deletion?[/url] [/*]
+[*][url=#howtorecover]Can I regain access to my account once it has been deleted?[/url] [/*]
+[*][url=#refunds]Will I receive any refunds?[/url] [/*]
+[*][url=#wallet]What will happen to my Steam wallet balance?[/url] [/*]
+[*][url=#cdkeys]Can I re-use my CD Keys?[/url] [/*]
+[*][url=#accountname]Can I re-use my account name?[/url] [/*]
+[*][url=#publicprofile]What will happen to the information shown on my community profile?[/url] [/*]
+[*][url=#whatremains]Will all of my information be deleted?[/url] [/*]
+[*][url=#malicious]Can someone else delete my account?[/url] [/*]
+[*][url=#viewmyinfo]How do I view my personal information?[/url] [/*]
+[*][url=#playgames]Can I play games after deleting my account?[/url] [/*]
+
+[/list]
+
+[section id=howto]
+
+[h3]How do I delete my account? [/h3]
+If you think that you will not return to play the games on your Steam account, [url=https://help.steampowered.com/wizard/HelpDeleteAccount]you can request that Steam Support delete your account[/url] and all associated information. Steam Support will verify that you are the owner of the account via [url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]proof of ownership[/url]. The account will then be restricted from making purchases and using community features for 30 days while it is queued for deletion. We’ll remind you at the end of the 30 days.
+[/section]
+
+[section id=howtocancel]
+
+[h3]How do I cancel my account deletion? [/h3]
+You can cancel the account deletion within 30 days of your request. Log into your Steam account, open the red notification at the top of the page and click the “cancel” button.
+[/section]
+
+[section id=howtorecover]
+
+[h3]Can I regain access to my account once it has been deleted? [/h3]
+No, once Steam support has deleted the account, neither the account nor any information related to it can be restored.
+[/section]
+
+[section id=refunds]
+
+[h3]Will I receive any refunds? [/h3]
+Deleting your account will not automatically refund any purchases made on the account. Before you delete your account, you can apply for refunds on qualifying purchases using [url=https://help.steampowered.com]the Help Site[/url]. Read more about the [url=https://store.steampowered.com/steam_refunds/]Steam Refund Policy here[/url].
+[/section]
+
+[section id=wallet]
+
+[h3]What will happen to my Steam wallet balance? [/h3]
+Your Steam wallet and the funds within it will no longer be available once the account has been deleted.
+[/section]
+
+[section id=cdkeys]
+
+[h3]Can I re-use my CD Keys? [/h3]
+Deleting your account does not free up registered CD Keys to be used on a different account. A CD Key cannot be registered more than once.
+[/section]
+
+[section id=accountname]
+
+[h3]Can I re-use my account name? [/h3]
+Account names are unique and can only be used once, regardless of whether an account has been deleted. Email addresses, profile names, and purchase methods can freely be used on other accounts.
+[/section]
+
+[section id=publicprofile]
+
+[h3]What will happen to the information shown on my community profile? [/h3]
+Your Steam community profile will be removed. Profile information such as avatars, screenshots, artwork, and persona history will no longer be available. If there is anything you wish to save, it must be done prior to your request for deletion.
+[/section]
+
+[section id=whatremains]
+
+[h3]Will all of my information be deleted? [/h3]
+Your personal information is removed, but some content you’ve posted in community areas is not. This includes things like discussion posts, or content that you posted in Steam community hubs, as well as comments you made on other Steam account’s profiles.
+[/section]
+
+[section id=malicious]
+
+[h3]Can someone else delete my account? [/h3]
+Because deleted accounts cannot be recovered, Steam Support will require comprehensive [url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]Proof of Ownership[/url] during their review of the account. After the review is complete, Steam Support will restrict the account for 30 days and queue it for deletion. To cancel the account deletion during that time, log into your Steam account, open the red notification at the top of the page and click the “cancel” button. If you’re unable to log into your Steam account, [url=https://help.steampowered.com]send a new help request to Steam Support[/url].
+[/section]
+
+[section id=viewmyinfo]
+
+[h3]How do I view my personal information? [/h3]
+Your personal information on Steam can be viewed [url=https://help.steampowered.com/accountdata]here on the Help site[/url].
+[/section]
+
+[section id=playgames]
+
+[h3]Can I play games after deleting my account? [/h3]
+During the 30 days before account deletion, games that require a VAC server will not be playable. After your account is deleted, games that require a Steam account will not be playable.
+[/section]

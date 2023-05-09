@@ -1,0 +1,60 @@
+[h1]Steam Levels and XP[/h1]
+
+[list]
+
+[*][url=#who]Who can level up their Steam Community profile?[/url] [/*]
+[*][url=#increase]How do I increase XP on my profile to level up?[/url] [/*]
+[*][url=#reward]What does having Steam Levels give you?[/url]
+[*][url=#limited]I have badges, but my XP is stuck at 100 on level 0. What is wrong?[/url] [/*]
+[*][url=#more]I bought a game, but my XP only increased by x amount. Shouldn't it be more?[/url] [/*]
+
+[/list]
+
+[url id=who][/url]
+
+[h3]Who can level up their Steam Community profile?[/h3]
+Anyone who is not a [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]limited user[/url] will earn a Steam level based on their account's current badges and games. You must create your Steam Community profile to view your Steam level. [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited users[/url] do not qualify for Steam levels and will remain at level 0.
+
+[url id=increase][/url]
+
+[h3]How do I increase XP on my profile to level up?[/h3]
+There are a number of ways to increase your profile level on Steam. These include:
+
+[list]
+
+[*]Purchasing games [/*]
+[*]Earning badges [/*]
+[*]Crafting badges [/*]
+[*]Upgrading badges [/*]
+
+[/list]
+
+For more information about your Steam level and how to increase it, please see the [url=http://steamcommunity.com/tradingcards/faq]Trading Cards FAQ.[/url]
+
+[url id=reward][/url]
+
+[h3]What does having Steam Levels give you?[/h3]
+
+[list]
+
+[*]The maximum amount of friends is initially capped at 250 for accounts. For every Level gained, you will be able to have 5 more friend slots. This can expand to a maximum of 2000 total possible friends.
+
+[*]For every 10 Levels gained, you will receive 1 Showcase slot. These can be used to display a unique Showcase on the Profile (achievements, videos, screenshots, etc.). This can expand to a maximum of 20 at this time but more may be added in the future. Note: if you have bought an extra Showcase on the Points Shop, that adds an extra Showcase slot on top of the maximum.
+
+[/list]
+
+[url id=limited][/url]
+
+[h3]I have badges, but my XP is stuck at 100 on level 0. What is wrong?[/h3]
+[url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited users[/url] do not qualify for Steam levels. If you are a [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]limited user[/url], your XP will not increase and your level with remain at 0. For more information on limited users and how to become unlimited, please see the [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited Users FAQ[/url].
+
+[url id=more][/url]
+
+[h3]I bought a game, but my XP only increased by x amount. Shouldn't it be more?[/h3]
+The XP that you have earned is the correct amount. For further insight, you may try searching or posting on [url=http://steamcommunity.com/groups/tradingcards/discussions/1/]the Steam Discussions[/url].
+
+[section style=warning]
+
+[h3]Notice:[/h3]
+Steam Support is unable to alter your Steam level and cannot grant XP, badges, trading cards or other economy items.
+[/section]

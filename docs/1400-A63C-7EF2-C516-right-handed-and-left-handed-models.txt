@@ -1,0 +1,43 @@
+[h1]Right-handed and Left-handed Models[/h1]
+
+How do I switch my weapon from one hand to the other?
+
+[h4]Team Fortress 2[/h4]
+To switch to left-handed models in Team Fortress 2, please use this process:
+
+[list]
+
+[*]Launch Team Fortress 2. [/*]
+[*]Go to Options and then to the Multiplayer tab [/*]
+[*]Click Advanced [/*]
+[*]Check the box next to "Flip viewmodels" [/*]
+
+[/list]
+
+[h4] [/h4]
+
+[h4]Gold Source games (Counter-Strike, Half-Life)[/h4]
+If you cannot switch your weapon to the right-hand, please go to your advanced video options and change the renderer to either [b]OpenGL[/b] or [b]Direct3D[/b]. The software renderer does not support right-handed models.
+
+You can select left or right-handed models by typing the following command into the [url=https://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]Console[/url]:
+
+[list]
+
+[*]To use your left-hand: [code]cl_righthand 0[/code] [/*]
+[*]To use your right-hand: [code]cl_righthand 1[/code] [/*]
+
+[/list]
+
+To permanently use left-handed models, you may create a [b]userconfig.cfg[/b] file with the [code]cl_righthand 0[/code] command. Please follow these instructions to create a userconfig.cfg file:
+
+[olist]
+
+[*]Locate the subfolder in your game folder that holds the [b]config.cfg[/b] file
+
+For example, you can find the config.cfg file for Counter-Strike at [Steam installation directory]\steamapps\common\Counter-Strike\cstrike\config.cfg [/*]
+[*]Create a new text file in that directory called [b]userconfig.cfg[/b] [/*]
+[*]Open the file with Notepad and enter [code]cl_righthand 1[/code] (to use the right-handed model) or [code]cl_righthand 0[/code] (to use the left-handed model) [/*]
+[*]Save the file [/*]
+[*]Launch the game to test the userconfig.cfg settings [/*]
+
+[/olist]

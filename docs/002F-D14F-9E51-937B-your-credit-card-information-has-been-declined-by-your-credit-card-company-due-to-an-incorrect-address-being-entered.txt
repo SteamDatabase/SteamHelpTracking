@@ -1,0 +1,44 @@
+[h1]Your credit card information has been declined by your credit card company due to an incorrect address being entered[/h1]
+
+When attempting to complete a purchase through Steam, I receive the following specific error message:
+
+[h3]Your purchase has not been completed. Your credit card information has been declined by your credit card company due to an incorrect address being entered.[/h3]
+How can I resolve this issue?
+
+[section style=important]If the specific error message that you receive is one of the following, click the link to the correct support page for that issue.
+
+[url=https://support.steampowered.com/kb_article.php?ref=4004-OFKB-3935]"Your purchase has not been completed. Your credit card information has been declined by your credit card company."[/url]
+
+[url=https://support.steampowered.com/kb_article.php?ref=3382-QYOD-8584]"An unexpected error has occurred. Your purchase has not been completed. Please contact Steam Support."[/url]
+[/section]
+
+[h2]Your purchase has not been completed. Your credit card information has been declined by your credit card company due to an incorrect address being entered.[/h2]
+
+[section style=note]
+
+[h3]Important:[/h3]
+Due to the nature of this error, the funds for the transaction may be set aside as a pending transaction by your bank. Steam will not collect these funds, and they will be returned to you per your bank's policy. More information can be found below.
+[/section]
+
+[h3]Failing an Address Verification System (AVS) check[/h3]
+This specific error message indicates the billing information that you have entered has failed a check against the information that your bank or card issuer has on file for this account.
+
+Double check the address information that your bank has on file for this card. Ensure that the street address and zip code match your bank's information exactly and test the issue again. If the issue persists, contact your bank to resolve it.
+
+[h3]My bank reports a pending charge for a transaction that appeared with this error[/h3]
+Most banks use light security around this verification system, and will actually accept charges for transactions that fail this check.
+
+Steam has a strict policy that fails all transactions with incorrect, false, or fraudulent address information.
+
+There is no way for Steam Support to force Steam to accept payment from a transaction that has failed in this way, even if the charge still appears as pending in your bank account.
+
+[h3]I have entered my billing information correctly, but still see this error[/h3]
+First, ensure that you double-check this information against what your bank has on record. Many online retailers will accept charges from transactions that fail this check, but Steam will not.
+
+In some very rare cases, there may be an issue with the information that your bank checks this information against, or the verification system may be temporarily malfunctioning. If you suspect that this is the case, you may wish to purchase a [url=https://store.steampowered.com/account/redeemwalletcode]Steam Wallet card[/url] from a physical retailer or use an alternate payment method.
+
+[section style=important]
+
+[h3]Note:[/h3]
+If your purchase fails, Steam will email you a link that will let you try your purchase again (at the sale price) for up to 72 hours.
+[/section]

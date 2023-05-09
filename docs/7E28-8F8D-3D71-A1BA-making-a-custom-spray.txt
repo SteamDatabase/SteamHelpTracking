@@ -1,0 +1,41 @@
+[h1]Making a Custom Spray[/h1]
+
+How do I make a Custom Spray for Half-Life 1 and other GoldSource games?
+
+[h4]Creating a custom single-color decal[/h4]
+Making a custom decal is a simple process. All you need is an image, and a paint program capable of simple palette manipulation.
+
+[olist]
+
+[*]
+
+[h5]Paint or scan an image[/h5]
+Make it 64 by 64 pixels in size, either by painting the image to that size, or by scaling your scanned image (or larger painted image).
+
+Using black and white colors are recommended, because the final decal will be displayed as one color only.
+
+You can choose the color of your decal and you can change that color at any time between games using the game interface.
+
+Save your source decal as a black and white image. [/*]
+[*]
+
+[h5]Make the image a "grayscale" image[/h5]
+If you are painting the image yourself using Paint Shop Pro, Photoshop, or some similar program, you can specify that you want the image to be grayscale before you start.
+
+With the palette going from black to white, any white in the image will be totally opaque, and any black in the image will be totally transparent (invisible). Any gray in the image will be translucent: very translucent if it is near-black, and close to opaque if it is near white.
+
+Some applications will ramp the palette from black to white when you select "grayscale." That is, if you look at the color palette, the first color (usually the upper left-hand corner color) will be black, and the last color (usually the lower right-hand corner color) will be white.
+
+In this case, you want to invert your image, such that the black portions of your image are the parts that will be opaque, and the white portions are the parts that will be transparent.
+
+Be sure you check what the palette looks like after you save your file, and adjust it if necessary. Think of it this way: if your decal looks like a chalk drawing on a blackboard, you want the first color in your palette to be black (which will come through as completely transparent), ramping to the last color which is white (which will come through as opaque). If your drawing looks like a pen drawing on white paper, the first color should be white, ramping to the last color which should be black. [/*]
+[*]
+
+[h5]Save image to /logos/ directory as a Windows bitmap (.bmp) file[/h5]
+Once the image has been saved to the /logos/ directory (found under C:\Program Files (x86)\Steam\steamapps\common\Half-Life\valve for example) it will automatically show up in the list of decals you see in the launcher interface. There you can choose the decal's color.
+
+Note: Changing the color of your decal during a game will not take effect for that game. Only after you restart your game will the new color appear.
+
+If you would like to view pre-made decals, several are shipped with Half-Life and can be found in the Half-Life\logos directory. These will give you a good idea about the file format and appearance of a decal before it appears in the game. [/*]
+
+[/olist]

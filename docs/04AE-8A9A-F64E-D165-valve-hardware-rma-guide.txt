@@ -1,0 +1,66 @@
+[h1]Valve Hardware RMA Guide[/h1]
+
+[hr][/hr]
+
+If you are not satisfied with your Valve Hardware ("Hardware") purchase, you can pursue a refund or request product service. To make this as easy as possible for you, please use the "Return Merchandise Authorization" (RMA) process. You can start this process by contacting Steam Support [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]here[/url].
+
+[hr][/hr]
+
+[h2]Warranty Repairs or Replacement[/h2]
+If you are seeking repairs or replacement under Valve's [url=https://help.steampowered.com/en/faqs/view/4E41-6123-79EF-25BA]Limited Warranty[/url] (the “Warranty”), you must notify Valve of your warranty claim via the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site[/url] and satisfy all other applicable terms and restrictions set forth in the Warranty terms. If you live in United States of America, Canada, the EU, or the UK and purchased your hardware from Steam, Valve will provide a prepaid shipping label and any other documentation necessary for your return.
+
+Hardware must be transported or shipped to a Valve-designated service center in either the original packaging or in equally protective packaging. Provided the Hardware requires repair or replacement and such repair or replacement is covered by the Warranty or by your statutory rights under applicable laws, Valve will be responsible for the costs of shipping repaired or replacement Hardware back to you. If the Hardware does not require repair or replacement, you may be responsible for the costs of shipping the Hardware back to you. If you send your Hardware, but do not include all components or requested information, it could delay the length of your product service and you may incur additional shipping costs to send additional components or information so that Valve's requirements are satisfied.
+
+If the Hardware does require repair or replacement, but the Warranty or statutory rights to receive repair or replacement do not apply (e.g., due to misuse), Valve will contact you regarding your options and their associated costs and options for payment, which may including the costs of shipping the Hardware back to you. Valve will not return Hardware that is shipped to Valve without pre-authorization or return any part or Hardware that is replaced pursuant to the Warranty.
+
+[hr][/hr]
+
+[h2]Requesting Repair or Replacement[/h2]
+
+If your unit has experienced a hardware failure or other issue covered by the Warranty or your statutory rights, you are eligible to receive repair service or a replacement device. If your problem is not covered by the Warranty or your statutory rights, we may still be able to offer you paid repair service.
+
+If you are having issues with your Hardware, please follow the steps below for assistance:
+
+[olist]
+
+[*]Go to the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support Site[/url].
+
+[*]Select your [i]Steam Hardware Device[/i].
+
+[*]Select your issue to review troubleshooting information and contact Steam Support if necessary.
+
+[/olist]
+
+Once the replacement or repair process has been initiated, you will receive a pre-paid shipping label along with further instructions.
+
+It is your responsibility to back up stored data before returning your Hardware. Valve is not responsible for data lost as a result of the repair or replacement process.
+
+If we initiate repair service for your Hardware, you may receive a different unit than the one you sent in some cases. Back up any data you wish to keep before returning your Hardware.
+
+[hr][/hr]
+
+[h2]Replacement Parts[/h2]
+
+Some Hardware accessories and replacement parts may be made available through the Steam Store and other partnered sellers. Can't find what you need? Feel free to [url=https://help.steampowered.com/en/]contact Steam Support.[/url]
+
+[hr][/hr]
+
+[h2]Refunds[/h2]
+If you are not satisfied with your purchase and would like to return the Hardware, you may request a refund through the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site.[/url] To qualify for a refund, your request must generally be submitted according to the time periods identified in the [url=https://store.steampowered.com/hardware_order_terms]Hardware Refund Policy[/url], unless otherwise provided by applicable law. We recommend troubleshooting with Steam Support before requesting a refund if you are experiencing technical issues with your Hardware.
+
+[hr][/hr]
+
+[h2]Purchases from Non-Steam Retailers[/h2]
+
+While you should contact Steam Support for troubleshooting assistance with your Hardware, you will need to work directly with your retailer to arrange for a replacement, repair, or refund.
+
+[hr][/hr]
+
+[h2]Additional Information:[/h2]
+[url=https://support.steampowered.com/kb_article.php?ref=4577-TUJV-6223]Limited Warranty[/url]
+
+[url=https://store.steampowered.com/hardware_order_terms]Valve Hardware Refund Policy[/url]
+
+[url=https://support.steampowered.com/kb_article.php?ref=8620-QYAL-4516]EU Right of Withdrawal[/url]
+
+[url=https://support.steampowered.com/kb_article.php?ref=7077-YUOA-2321]Valve Hardware Shipping FAQ[/url]

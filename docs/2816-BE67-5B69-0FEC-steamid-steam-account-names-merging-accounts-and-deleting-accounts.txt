@@ -1,0 +1,34 @@
+[h1]SteamID, Steam Account Names, Merging Accounts and Deleting Accounts[/h1]
+
+[h2]How can I find my SteamID?[/h2]
+The term [b]SteamID[/b] refers to a unique identifier for a specific Steam account. It can be formatted in a few different ways, but the most commonly used is the account's 64 bit ID which is a 17 digit number. The instructions below will help you find your SteamID.
+
+[olist]
+
+[exclude_realm=china]
+[*]Open your Steam Community Profile [/*]
+
+[/exclude_realm]
+
+[exclude_realm=global]
+[*]Open your Steam Profile [/*]
+
+[/exclude_realm]
+
+[*]Click [b]Edit Profile[/b] [/*]
+[*]If you've never set a custom Steam Community URL for your account, your 64 bit ID will will be shown in the URL under the CUSTOM URL box in the format 76561198######### [/*]
+[*]If you have set a custom URL for your account, you can delete the text in the CUSTOM URL box to see your account's 64 bit ID in the URL listed below. [/*]
+
+[/olist]
+
+[h2]Can my SteamID and/or Steam Account Name be changed?[/h2]
+
+Your SteamID and Steam Account Name can not be changed, even by Steam Support staff members. Your player name can be changed at any time in your Profile Settings, under "Edit my Profile" page.
+
+[h2]Can I Merge Accounts[/h2]
+Steam accounts can not be merged together. Per the [url=http://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url], Steam game subscriptions / CD keys are nontransferable and cannot be reset / moved between Steam accounts.
+
+[h2]Can I delete my Steam account?[/h2]
+If you are sure that you don't want to use Steam anymore, you can submit a [url=https://help.steampowered.com/en/wizard/HelpDeleteAccount]request to delete your account[/url]. You will be asked to provide comprehensive [url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]Proof of Ownership[/url] prior to fulfilling the request.
+
+More details can be found in the [url=https://support.steampowered.com/kb_article.php?ref=4650-SDKC-0716]Account Deletion - Common Questions[/url] article.

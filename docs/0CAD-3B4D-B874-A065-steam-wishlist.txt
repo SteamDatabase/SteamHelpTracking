@@ -1,0 +1,36 @@
+[h1]Steam Wishlist[/h1]
+
+How do I use the Steam Wishlist feature?
+
+[list]
+
+[*][url=#wl-add]How do I add a game to my Wishlist?[/url] [/*]
+[*][url=#wl-edit]How do I edit my Wishlist?[/url] [/*]
+[*][url=#wl-remove]How do I remove an item from my Wishlist?[/url] [/*]
+[*][url=#wl-whosee]Who can see my Wishlist?[/url] [/*]
+
+[/list]
+
+[url id=wl-add][/url]
+
+[h5][b]How do I add a game to my Wishlist?[/b][/h5]
+You can add a game to your Wishlist by viewing the storefront page for a specific game and clicking on the [b]Add to your Wishlist[/b] button on the left side of the screen.
+
+[url id=wl-edit][/url]
+
+[h5][b]How do I edit my Wishlist?[/b][/h5]
+You can edit your Wishlist in both the Steam client and through a web browser. To do this, log into your Steam account and hover the [b]Store[/b] text with your mouse cursor and then select [b]Wishlist[/b] from the drop down menu.
+
+Here you can either click and drag the items to change the order or assign a number in the field next to the title of the game/DLC.
+
+[url id=wl-remove][/url]
+
+[h5][b]How do I remove an item from my Wishlist?[/b][/h5]
+To remove an item, click on the [b]Remove[/b] link next to the date the item was added to the list, right under the name, or from the game's store page you can also click the down arrow next to the [b]On Wishlist[/b] button and select [b]Remove from your Wishlist[/b] from the drop down menu.
+
+[url id=wl-whosee][/url]
+
+[h5][b]Who can see my Wishlist?[/b][/h5]
+Visibility of the Wishlist is tied to your Community Profile account settings.  The information can be displayed to all users, your Steam friends, or only your account. Please see the [url=https://support.steampowered.com/kb_article.php?ref=4113-YUDH-6401]Profile Privacy[/url] help section for more information.
+
+This is an easy way for friends to see what games you are interested in.  Please see the [url=https://support.steampowered.com/kb_article.php?ref=6262-QXCN-0755]Steam Gifts[/url] guide for more information on gifting games.

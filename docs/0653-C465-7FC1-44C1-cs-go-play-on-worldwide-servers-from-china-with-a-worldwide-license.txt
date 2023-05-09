@@ -1,0 +1,22 @@
+[h1]CS:GO - Play on worldwide servers from China with a worldwide license[/h1]
+
+[h2]How can I play Counter-Strike: Global Offensive in China if I own a worldwide license?[/h2]
+
+If you have a worldwide license for CS:GO on your account and wish to connect to worldwide servers outside of China (through Steam), you may do so by adding the following launch option under game properties:
+
+[i]-worldwide[/i]
+
+To revert these changes and resume playing on Perfect World servers, please remove the [i]-worldwide[/i] launch option.
+
+[h2]How to set Launch Options[/h2]
+
+[olist]
+
+[*]Right-click on the game in your [b]Library[/b] in Steam and select [b]Properties...[/b]. [/*]
+[*]Under the [b]General[/b] tab find the section [b]Launch Options[/b] [/*]
+[*]In the input box there enter: [b]-worldwide[/b] [/*]
+[*]Close the window and launch the game. [/*]
+
+[/olist]
+
+[img]{STEAM_CLAN_IMAGE}/1976/ab254316ffc171ed8bd7b385518ad154a3cabd44.png[/img]

@@ -1,0 +1,155 @@
+[h1]CS:GO - Operation Riptide[/h1]
+
+[list]
+
+[*][url=#includedrt]What is included when purchasing an Operation Riptide Pass?[/url] [/*]
+[*][url=#rewardsrt]How do I earn and redeem Operation rewards?[/url] [/*]
+[*][url=#refundrt]I purchased stars and activated them on my account. Can I request a refund for these stars?[/url] [/*]
+[*][url=#cardrt]How often are Mission Cards issued?[/url] [/*]
+[*][url=#cardtimert]How long do I have to complete Mission Cards?[/url] [/*]
+[*][url=#levelcoinrt]How do I upgrade my Operation Riptide coin?[/url] [/*]
+[*][url=#creditrt]I am not receiving stars or reward progress when completing missions. Why is this?[/url] [/*]
+[*][url=#listitemrt]When can I trade or list Operation rewards on the Steam Community Market?[/url] [/*]
+[*][url=#freert]Can I play the missions without a pass?[/url] [/*]
+[*][url=#nonprimert]I received an XP boost but cannot use it. Why is this?[/url] [/*]
+[*][url=#purchasert]Can I purchase stars to redeem Operation rewards?[/url] [/*]
+[*][url=#missionrt]How do I participate in missions?[/url] [/*]
+[*][url=#skillgrouprt]Are Skill Groups shared between short and long Competitive matches?[/url] [/*]
+[*][url=#giftrt]Can I gift Operation Passes?[/url] [/*]
+[*][url=#starsrt]Can purchased Operation stars be traded, marketed, or gifted?[/url] [/*]
+[*][url=#itemcooldownrt]Can I immediately trade or list Operation rewards on the Community Market?[/url] [/*]
+[*][url=#nonprimert]I am a non-Prime CS:GO player. How can I interact with the Operation?[/url] [/*]
+
+[/list]
+
+[section id=includedrt]
+
+[h3]What is included when purchasing an Operation Riptide Pass?[/h3]
+Players who purchase an Operation Riptide Pass receive the following:
+
+[list]
+
+[*]An Operation Riptide Coin, which can be leveled from Bronze to Diamond and displayed on your CS:GO profile. [/*]
+[*]Access to Operation rewards which include all-new Agents, weapon collections, stickers, Riptide weapon cases and more. [/*]
+[*]XP boosts when completing missions. [/*]
+
+[/list]
+
+[/section]
+
+[section id=rewardsrt]
+
+[h3]How do I earn and redeem Operation rewards?[/h3]
+To earn stars you must complete missions from weekly Mission Cards. Stars can also be purchased in-game and used to redeem rewards.
+
+Operation rewards can be redeemed from the Operation Shop by spending stars on the reward of your choice.
+[/section]
+
+[section id=refundrt]
+
+[h3]I purchased stars and activated them on my account. Can I request a refund for these stars?[/h3]
+No. Any activated stars cannot be refunded. Once a player clicks 'ACTIVATE' the stars are added to their star balance and cannot be refunded.
+[/section]
+
+[section id=cardrt]
+
+[h3]How often are Mission Cards issued?[/h3]
+New Mission Cards are issued once per week during Operation Riptide. A countdown to the next Mission Card is shown in-game.
+[/section]
+
+[section id=cardtimert]
+
+[h3]How long do I have to complete Mission Cards?[/h3]
+All missions and Mission Cards may be completed until the Operation ends. After the Operation ends missions cannot be completed and rewards cannot be earned.
+
+Once a Mission Card has been issued you can select any mission from any card and complete them to earn stars.
+[/section]
+
+[section id=levelcoinrt]
+
+[h3]How do I upgrade my Operation Riptide coin?[/h3]
+To upgrade your Riptide coin, earn stars by completing missions from weekly mission cards. Your coin will upgrade after earning 33 stars (Silver), 66 stars (Gold), and 100 stars (Diamond).
+
+If you purchase the Operation Pass at a later date, you will be given credit for any stars you have earned toward upgrading your Operation Coin.
+[/section]
+
+[section id=creditrt]
+
+[h3]I am not receiving stars or reward progress when completing missions. Why is this?[/h3]
+There are a few reasons you may not receive stars when completing missions:
+
+[list]
+
+[*]You have already earned the maximum number of stars for the week's card. The top of each Mission Card displays the total number of stars you may earn for reward progress. [/*]
+[*]You are not meeting the requirements to complete a mission. After queuing for a mission, the left side of your screen will display and update your mission progress. [/*]
+[*]You are not completing missions on official Valve servers with other human players. Missions cannot be completed on Community servers and must have one other player present. It is not possible to complete missions against only bots. [/*]
+
+[/list]
+
+[/section]
+
+[section id=listitemrt]
+
+[h3]When can I trade or list Operation rewards on the Steam Community Market?[/h3]
+Rewards redeemed from the Operation shop can be traded and listed on the Steam Community Market one week after redemption from the Operation Shop.
+[/section]
+
+[section id=freert]
+
+[h3]Can I play the missions without a pass?[/h3]
+Yes, but you will not receive Operation stars for your progress. In order to be eligible for Operation rewards you must redeem an Operation Pass to your account. If you purchase the Operation Pass at a later date, you will be given credit for any missions you have previously completed and any progress toward upgrading your Operation Coin.
+[/section]
+
+[section id=nonprimert]
+
+[h3]I received an XP boost but cannot use it. Why is this?[/h3]
+Players receive XP boosts whenever they complete 5 Operation missions. Prime Status is required to earn profile XP and levels in CS:GO; this means if you do not have Prime Status you will not be able to use earned XP boosts.
+[/section]
+
+[section id=purchasert]
+
+[h3]Can I purchase stars to redeem Operation rewards?[/h3]
+Yes, stars can be purchased in-game from the Operation Shop.
+
+Please note, if you redeem any Operation stars from a purchase it is not possible to refund the remaining stars. This means if you purchase 40 Operation stars and spend 5 the other 35 cannot be refunded.
+[/section]
+
+[section id=missionrt]
+
+[h3]How do I participate in missions?[/h3]
+If you have Prime Status or the Operation Pass, simply click the mission text from the Main Menu; you will automatically queue for the selected mission. If you do not have Prime Status or the Operation Pass, you cannot complete missions.
+[/section]
+
+[section id=skillgrouprt]
+
+[h3]Are Skill Groups shared between short and long Competitive matches?[/h3]
+Yes. Skill Groups are shared between short and long Competitive matches.
+[/section]
+
+[section id=giftrt]
+
+[h3]Can I gift Operation Passes?[/h3]
+Operation Passes can be gifted one week after purchase. There is no way to send an Operation Pass as a gift at time of purchase.
+[/section]
+
+[section id=starsrt]
+
+[h3]Can purchased Operation stars be traded, marketed, or gifted?[/h3]
+No. Purchased Operation stars cannot leave the purchasing account.
+
+Once purchased, stars can be immediately be spent (or spent at a later date) to redeem rewards. Purchased stars cannot be traded, transacted on the Community Market, or gifted to another user.
+[/section]
+
+[section id=itemcooldownrt]
+
+[h3]Can I immediately trade or list Operation rewards on the Community Market?[/h3]
+No. All Operation rewards have a one week cooldown after redemption before they can be traded or listed on the Community Market. This cooldown cannot be altered.
+[/section]
+
+[section id=nonprimert]
+
+[h3]I am a non-Prime CS:GO player. How can I interact with the Operation?[/h3]
+Regardless of your Prime Status, any account which has redeemed an Operation Pass can participate in Operation Riptide and redeem rewards.
+
+The one exception are XP rewards, which cannot be redeemed by non-Prime accounts because non-Prime accounts do not receive profile XP. If you purchase Prime Status at a later date you may redeem XP rewards from Operation Riptide. Please note, XP rewards from previous Operations cannot be redeemed during Operation Riptide because they have expired.
+[/section]

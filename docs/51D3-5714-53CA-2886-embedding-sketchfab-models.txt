@@ -1,0 +1,17 @@
+[h1]Embedding Sketchfab Models[/h1]
+
+How do I display a Sketchfab preview on a Workshop item or elsewhere in the Steam Community?
+
+Sketchfab item previews may be utilized in a few places by simply pasting the Sketchfab url:
+
+[olist]
+
+[*][b]A Steam Workshop Submission[/b] - alongside screenshots and videos of your item or mod
+
+[*][b]Community Discussion threads[/b] - in the body of discussion posts
+
+[*][b]Game Events & Announcements[/b] - in the body of the announcement
+
+[/olist]
+
+You can find details on how to link and embed previews on the Sketchfab Tutorial page here: [url=https://help.sketchfab.com/hc/en-us/articles/209738893-Steam#workshop]https://help.sketchfab.com/hc/en-us/articles/209738893-Steam#workshop[/url]

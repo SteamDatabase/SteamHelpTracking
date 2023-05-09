@@ -1,0 +1,152 @@
+[h1]Docking the Steam Deck[/h1]
+
+While Steam Deck is great in handheld mode, there may be times where you want to use different input devices, share your screen in a multiplayer game, or even get some work done - that's where docking comes in. Steam Deck works great with a variety of USB-C docks or hubs. Most users will be plugging in a USB-C charger for PD passthrough, as well as peripherals, controllers, and external displays. This article will cover basic operation and troubleshooting steps.
+
+[h2]Getting started[/h2]
+
+First, just plug all the items into the dock that you would like to connect to your Steam Deck. The most common devices that we've seen users connect are external displays (monitor or TV), a keyboard/mouse or controllers, ethernet cables, and a power source.
+
+In general, connections to USB peripherals, displays, and your network should behave as expected -- the Steam Deck is a general-purpose PC and has built-in compatibility for many devices in these categories. However, Steam Deck's underlying operating system (Linux) maybe unfamiliar to some users or have unexpected device compatibility issues.
+
+If you're connecting to an external display and it has [b]a 'Gaming Mode' option [/b]available, we recommend turning that on when connected to your Steam Deck. Also, try turning off any "motion smoothing" or other image processing features because they may add latency or cause other issues.
+
+[h2]Troubleshooting[/h2]
+
+[h5]Compatibility notes for 3rd-party docks and hubs[/h5]
+
+[list]
+
+[*]Most USB-C compliant hubs and docks will work without issue with Steam Deck. Thunderbolt and DisplayLink docks may work, but are not officially supported.
+
+[*]In order to power the Steam Deck, a dock/hub with USB-C Power Delivery (PD) passthrough is required. Note that some docks may "reserve" part of the power contract for powering downstream peripherals, you may see a "slow charge" warning as a result.
+
+[/list]
+
+[h5]Display setup[/h5]
+
+[list]
+
+[*]Check that you have the correct display input selected on your TV or monitor. It should correspond to the HDMI or Display Port cable that's plugged in to your docking Station. TVs often have many HDMI inputs and you may need to cycle through them to find the right one.
+
+[*]Some displays may have different features or capabilities per input. For example, many TVs have 4K/2K inputs with 60Hz limits on certain ports and 30Hz limits on others. Refer to the User Manual of your display to verify input requirements.
+
+[*]Note that when plugging in a display + cable, your Deck’s screen will go black. This is expected behavior in Gaming Mode. Right now, the only way to enable both/multiple displays is by rebooting into Desktop mode. We may enable mirroring options in Gaming Mode in the future.
+
+[*]If the Deck’s display does not go black when an external display is plugged in, perform a reset (see below). If there is still no display detected, unplug and replug the display cable, try a different display input port, check input selection, or try a new cable - they can sometimes be at fault.
+
+[*]Try a different source and/or dock/dongle (laptop, desktop, phone/tablet - needs to have display out capabilities).
+
+[*]Try multiple display cables - note that a "known good" cable on one set up may not work on another if the output datarate is different. Datarates may vary depending on color depth/HDR, compression, resolution, and refresh rate. This note applies especially to high resolution/high refreshrate modes. We recommend DP 1.4 and HDMI 2.0+ compliant cables for highest compatibility.
+
+[*]The Steam Deck UI allows for overriding resolution and refresh rates via the Steam > Display menus. If a lower resolution and/or refresh rate displays correctly, your dock, cable, or display may not support the mode you are trying to set.
+
+[/list]
+
+[h5]Resetting your dock[/h5]
+
+[list]
+
+[*]If you believe you need to reset the dock itself, then just fully unplug the deck and dock, including the power supply and display cables, and then plug the cables back in. Note that even when the dock is unplugged from its own power supply, it will still receive power from the Steam Deck, so it's necessary to unplug both for a full reset.
+
+[/list]
+
+[h3]No display or peripherals[/h3]
+
+If you're not able to get any external display or USB(2.0) peripherals to work, you can narrow down the issue by connecting another USB-C device (laptop or phone) to the dock. Note: You may need to refer to your device's user manual to confirm if the port supports functions like Display (DP Alt-mode) and/or what USB capabilities are supported. Some USB-C ports are only designed to be used for charging. If you do not encounter any issues with a different device, the issue may be with the Deck and you can try putting your Deck in battery storage mode to reset it back to a default state.
+
+[list]
+
+[*]Power the Steam Deck down normally (choose Shut Down from the Power menu). If you can't access the menu, you can force a shutdown by holding down the Power button for 10 seconds.
+
+[*]Hold the "Volume +" button down while pressing the Power button once. Continue holding the "Volume +" button until you hear the system chime, then release and wait. The Steam Deck should boot into the BIOS menu within a couple minutes.
+
+[*]Using the D-Pad and A to select, navigate to "Setup Utility"
+
+[*]Navigate to the Power Menu
+
+[*]Choose Battery storage mode, and confirm.
+
+[*]You should see the Steam Deck power off, and the power LED will blink three times to confirm battery storage mode has been activated.  Wait a few minutes, then plug the Steam Deck in using the provided power supply and turn on the Steam Deck.
+[/list]
+
+[h5]Display output does not fit screen[/h5]
+
+[list]
+
+[*]If your display output does not fit your display, the Gaming Mode UI has settings to help fine tune your experience. Under the Steam > Display menu, disable “Automatically Scale User Interface,” then tweak the slider to match display.
+
+[*]Your display may also have settings to adjust how the output image is displayed. In your TV/display settings, check for “Overscan” options. Due to the sheer number of display peripherals, no official support is provided.
+
+[/list]
+
+[h5]External display is blank[/h5]
+
+[b]External Display Safe Mode[/b]
+This mode will help if an external display is not lighting up when connected to your Steam Deck. When enabled, your Steam Deck will pick a low resolution and refresh rate for your external display to improve the chances of successfully lighting up the display. This may help in situations where the connection between the SteamDeck and the external display can't reach full transmission speeds, e.g. when using a very long HDMI/DP cable, or the cable is somehow damaged, or there is some interference from external devices in the signal.
+
+The best process to enable this is:
+
+[list]
+
+[*]Unplug the Deck from the dock/hub
+
+[*]Set 'External display safe mode' to On in the developer settings
+
+[*]Plug the Deck to the dock
+
+[*]The display should now light up
+[/list]
+
+[section style=important][b]Developer settings:[/b]
+To access this option, you will need to enable the developer menu.  To enables this: [code]click the 'Steam' button > System > turn on 'Enable Developer Mode'.[/code]  Once this is enabled: [code]Click the 'Steam' button > scroll to the bottom and select 'Developer' > scroll down to turn on 'External display safe mode'[/code]
+[/section]
+
+[h5]Graphics/Image quality[/h5]
+
+[list]
+
+[*] If you have issues with graphics/image quality or performance, you may require in-game tweaks to optimize performance.
+
+[*] Depending on the scenario, you may require a cable or input connector swap.
+
+[/list]
+
+[h5]Other things to keep in mind[/h5]
+
+[list]
+
+[*]In gaming mode, the Deck display is disabled. If mirroring or utilizing the display is necessary, launch the game title from Desktop mode (accessed under the Steam > Power menu).
+
+[*]If you continue to experience issues with your external display, check the display's User Manual to see if there are limitations on the inputs (i.e. 4K30, Display Stream Compression(DSC), HDR modes, etc.)
+
+[/list]
+
+[h3]Bluetooth issues[/h3]
+
+Often wireless controllers or audio devices are used with the Steam Deck.  Below are a few things to try if you are having issues with a Bluetooth connection on the Steam Deck.
+
+[list]
+
+[*]Ensure the Deck has a clear line of sight to where the controller is being used and is not behind a TV or inside a cabinet
+
+[*]Using a wired ethernet connection (if applicable) through the dock can improve Bluetooth performance
+
+[*]If you're using WiFi, please try to connect to a 5GHz access point, as Bluetooth is transmitted at 2.4GHz. 2.4GHz WiFi can cause interference.
+
+[*]Try to position the Steam Deck away from your wireless router or other 2.4GHz devices to avoid interference.
+
+[*]Check that any high bandwidth USB3 accessories such as hard drives, webcams, or capture cards are as far away from the Steam Deck body as possible - similarly to 2.4GHz devices, 5 Gbps USB3 can interfere with bluetooth and WiFi radios.
+
+[*]Make sure that Steam is set to not download game updates during gameplay
+
+[*]If you are having issues connecting or maintaining pairing with your controller, check for software/firmware updates. We have found that many Xbox controllers require a firmware update before they will function as expected with the Steam Deck, for example.
+
+[/list]
+
+[h3]Audio issues[/h3]
+
+[list]
+
+[*]To enable 5.1/7.1 audio over HDMI/DP: While plugged into the display, go to Desktop mode, click on the speaker icon on the task bar, find the HDMI/DisplayPort  slider, click on the 3-line menu and select the number of channels that you want. This will then stay selected when switching back to Gaming Mode.
+
+[/list]

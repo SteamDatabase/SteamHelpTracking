@@ -1,0 +1,7 @@
+[h1]Steam OS Accounts[/h1]
+
+[h1][b]SteamOS accounts[/b] [/h1]SteamOS comes with two predefined accounts. The first is "steam" and it is the account where Steam and all its games run. This is a non-privileged account. The second account is "desktop" and this is where the SteamOS desktop and any non-Steam applications run. This account can use 'sudo' to gain administrative privileges after you set a password for it.
+
+Please note: These are SteamOS accounts and are not associated with any Steam Login. Multiple Steam users may login and access Steam, however, all users will be sharing the same SteamOS desktop and accounts.
+
+[h1][b]How to gain root access[/b][/h1]The desktop account can gain root access, however has no password when shipped. Before you can use this account to gain root access, you need to assign a password. From the desktop session, start a terminal window and type "passwd". Enter your new password twice. Now you can use the "sudo" command to perform privileged operations.

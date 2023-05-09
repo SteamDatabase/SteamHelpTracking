@@ -1,0 +1,32 @@
+[h1]Trade and Market Confirmations[/h1]
+
+[list]
+
+[*][url=#whatis]What are trade and market confirmations?[/url] [/*]
+[*][url=#how]How do confirmations work?[/url] [/*]
+[*][url=#why]Why are confirmations necessary?[/url] [/*]
+[*][url=#optout]How do I opt out?[/url] [/*]
+[*][url=#notrecognized]What do I do if I receive a confirmation for a trade or listing I didn't create?[/url] [/*]
+[*][url=#phone]How do I get confirmations via phone?[/url] [/*]
+
+[/list]
+
+[h3][url id=whatis][/url]What are trade and Market confirmations?[/h3]
+Trade confirmations are the final step in the trade process where you verify trades before they are completed. Market confirmations are the same as trade confirmations, the final step in the process of listing an item on the Market that ensures your items cannot be listed or sold without your approval. If you're using a Mobile Authenticator through the Steam Mobile App on your smartphone, you'll receive confirmations via the app, otherwise you'll receive them by email.
+
+[h3][url id=how][/url]How do confirmations work?[/h3]
+When you send a trade offer, accept a trade, or create a Market listing you'll need to confirm that action through email or the mobile app before it will be sent or posted. If you don't confirm it, the trade will not be made (or the Market listing will not be posted.)
+
+[h3][url id=why][/url]Why are confirmations necessary?[/h3]
+Confirmations give you better control over items moving in and out of your account. You have the opportunity to review the items in a trade or make sure you've entered the right price for a Market listing before it is final. If your account or computer becomes compromised, confirmations make it very difficult for an attacker to steal your items.
+
+[h3][url id=optout][/url]How do I opt out?[/h3]
+To ensure that you are in control of items moving out of your account, trades and Market listings must be confirmed. There is no longer a way to opt out.
+
+[h3][url id=notrecognized][/url]What do I do if I receive a confirmation request for a trade or listing I didn't create?[/h3]
+Open the confirmation request and cancel the trade or listing. It's possible that your account or computer has been compromised. Use [url=https://help.steampowered.com]https://help.steampowered.com[/url] to change your Steam account password and consider changing your email account password as well. If you're unable to log in to Steam with your account credentials you should contact Steam Support to regain access.
+
+[h3][url id=phone][/url]How do I get confirmation requests via phone?[/h3]
+You can get confirmation requests through the Steam Mobile App on your smartphone if you're using it to protect your account. Set up the app to act as a Mobile Authenticator and you'll automatically receive confirmations in the app.
+
+Here's where you can [url=http://store.steampowered.com/mobile]download and learn more about the Steam Mobile App[/url].

@@ -1,0 +1,93 @@
+[h1]Scam: Trade Redirection[/h1]
+
+[section style=warning][b]Any request or demand you trade your items for anything other than items you've determined are of roughly equivalent value is unsupported by Steam and likely part of a scam.[/b]
+
+In a trade redirection scam, a scammer will coerce you to trade your items to what you believe is a trusted account. However, the scammer has already compromised your account security and will cancel and redirect that trade to an impersonation account they control.
+
+You can be confident anyone demanding or requesting you trade your items to any account for little or nothing in return is attempting a scam.
+
+[/section]
+
+[h1]General scam avoidance[/h1]
+While some scammers may target Steam users or reference Steam, Steam games, or Valve as part of their scam, it's important to know that these types of online scams are not unique to Steam. Maintaining healthy skepticism in online interactions is important for preventing scams regardless of the platform.
+
+[h1]Identifying the Scam[/h1]
+
+[list]
+
+[*][b]Be skeptical of all trading requests, especially when pressured.[/b] This remains true even if you think you're speaking with a trusted friend (they may be hijacked or impersonated), or someone claiming to be in a position of authority.
+
+[*]Consider any out of ordinary requests related to items could be the start of a scam, even if the request came from a trusted friend as their account may be hijacked or impersonated.
+
+[*]Understand anyone communicating with you about your items or account using Discord, Steam Chat, or any other system aside from the [url=https://help.steampowered.com/]Steam Support Help Site[/url] does not represent Steam and should be blocked.
+
+[*]Don't follow links, install applications, or provide anyone with your account credentials. Your trades can't be redirected if you keep your account secure.
+
+[*]Always use all the information in the confirmation window in your Steam Mobile Authenticator to double check the trade you're confirming is the trade you intend to complete.
+
+[/list]
+
+[h1]Preventing the Scam[/h1]
+
+[h5]Don't trade your items for nothing in return[/h5]
+
+If you don't confirm an unbalanced trade, there's no way for a scammer to redirect it.
+
+[h5]Be mindful of account security[/h5]
+
+A scammer can't redirect your trade unless they've gained full access to your account. If you're conscious of online security and avoid risks related to phishing websites or installing malware, your trades can't be redirected.
+
+[h5]If your Steam profile changes, secure your account[/h5]
+
+Once they gain access to your account or computer, a Trade Redirection scammer may change the content of your Steam Community profile to appear under threat of a ban as part of their pressure tactics. Steam Support will never change your profile content to threaten or execute a ban - any unexpected or threatening change to your profile is part of a scam and indicates your account security is compromised.
+
+[h5]Recognize common scam tactics[/h5]
+
+With a little healthy skepticism in your online interactions, you don't need specific identifying information to prevent this type of scam. Anyone who is pressuring you, offering you something unreasonable, or threatening your account with a lock or ban is a scammer.
+
+[h5]Disengage and secure your account and computer[/h5]
+
+If you believe you're working with a scammer, the best thing you can do is end your conversation with them. Remember everything they've told you is part of their scam and intended to manipulate you.
+
+Secure your Steam account, email account, and scan your computer for malware.  See [url=https://help.steampowered.com/en/faqs/view/6639-EB3C-EC79-FF60]Steam's Account Security Recommendations[/url] for more detailed advice.
+
+[h5]Take your time. Double check the account you're confirming a trade with.[/h5]
+
+Scammers use pressure intended to target greed or fear to push their scams. If you slow down and do some diligence with an online search or by contacting Steam Support, you're much more likely to identify and prevent a scam.
+
+Steam Mobile's trade confirmation system provides all the information you need to understand if a trade has been redirected. Make sure you review that information completely each time you confirm a trade.
+
+[h1]Reporting scammers[/h1]
+
+[h5]Reporting any Steam accounts involved in the scam[/h5]
+
+[url=https://help.steampowered.com/faqs/view/4D07-D139-587C-2080]Report[/url] any Steam accounts involved in the scam. If a friend's account is involved it is likely stolen and Steam Support can prevent its further misuse until its owner secures it.
+
+[h5]Reporting any external chat, voice, or email accounts involved in the scam[/h5]
+
+If the scammer spoke to you using any non-Steam accounts, you can use that application's own reporting tools to help them identify the scammer accounts and prevent their misuse.
+
+[h1]Recovering your account[/h1]
+
+[h5]You can always recover your account through Steam Support[/h5]
+
+If you've fallen for this scam, you can recover your Steam account at any time using the [url=https://help.steampowered.com/en/]Steam Support Help Site[/url]. Click [url=https://help.steampowered.com/wizard/HelpWithLogin]Help, I can't sign in[/url] to start the recovery process.
+
+[section style=note]Some scammers may state that you can't recover your account because they already changed all of its information. This is part of the scam, and is false. You should ignore any statements or advice the scammer offers.
+[/section]
+
+[h1]The Steam API and its role in this scam[/h1]
+Some Steam users refer to this scam as an "API Scam." Here's some information to help you understand why.
+
+[h5]What is the Steam API[/h5]
+
+Steam offers an API tool users and websites can use to automate requests for data from Steam, or execute changes to the account hosting a specific API key. Outside of the API, automating Steam functionality is generally prohibited.
+
+[h5]API security[/h5]
+
+An account's API key - the unique key that identifies that account in the API system and allows its access - should never be shared. If you've accidentally shared your API key or think a hijacker might have requested one on your behalf, you can revoke it here:
+https://steamcommunity.com/dev/apikey
+
+[h5]The API's role in this scam[/h5]
+
+While the trade redirection portion of this scam may be executed with an API key an account owner gave away or that a hijacker created using their access to the victim's account, it's not a necessary component of the scam as it's trivial for a scammer to automate actions on your behalf without API access if you've given them access to your computer or account.

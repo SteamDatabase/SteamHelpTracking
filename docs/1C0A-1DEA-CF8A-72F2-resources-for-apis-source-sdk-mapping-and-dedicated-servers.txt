@@ -1,0 +1,52 @@
+[h1]Resources for APIs, Source SDK, Mapping, and Dedicated Servers[/h1]
+
+I have an issue or a question regarding APIs, the Source SDK, Mapping, and/or the Dedicated Server. Where can I find more information?
+
+[section style=important]
+
+[h3]Important:[/h3]
+Unfortunately, Steam Support is unable to provide assistance with API, Source SDK, Mapping, and Dedicated Servers questions. The links below are the best resources for help with your specific problems.
+[/section]
+
+[section id=kb_webapi]
+
+[h3]Web APIs[/h3]
+
+[list]
+
+[*][url=http://steamcommunity.com/dev]Steam Web API Documentation[/url] [/*]
+[*][url=https://partner.steamgames.com/documentation/community_data]Community Data[/url] [/*]
+
+[/list]
+
+[/section]
+
+[section id=kb_ds]
+
+[h3]Dedicated Servers[/h3]
+
+[list]
+
+[*][url=https://steamcommunity.com/discussions/forum/13/]Source Dedicated Server (Windows)[/url] [/*]
+[*][url=https://steamcommunity.com/discussions/forum/14/]Source Dedicated Server (Linux)[/url]
+[*][url=https://steamcommunity.com/discussions/forum/15/]Half-Life Dedicated Server (Windows)[/url] [/*]
+[*][url=https://steamcommunity.com/discussions/forum/16/]Half-Life Dedicated Server (Linux)[/url] [/*]
+
+[/list]
+
+[/section]
+
+[section id=kb_sdk]
+
+[h3]SDK[/h3]
+
+[list]
+
+[*][url=https://developer.valvesoftware.com/wiki/Main_Page]Valve Developer Community Wiki[/url]
+[*][url=https://steamcommunity.com/discussions/forum/17/]Source SDK General Discussion[/url] [/*]
+[*][url=https://steamcommunity.com/discussions/forum/18/]Source Level Design[/url] [/*]
+[*][url=https://steamcommunity.com/discussions/forum/19/]Source Art & Sound Design[/url] [/*]
+
+[/list]
+
+[/section]

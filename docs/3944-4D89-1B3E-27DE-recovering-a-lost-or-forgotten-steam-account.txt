@@ -1,0 +1,21 @@
+[h1]Recovering a Lost or Forgotten Steam Account[/h1]
+
+[section style=important]
+
+[h3]Try to self-recover your account or contact Steam Support:[/h3]
+You can use [url=https://help.steampowered.com/wizard/HelpWithLogin]the Help site to try to self recover your account[/url]. If you work through the recovery process on the help site and can't recover the account automatically, at the end of the process you'll be presented with an intake form to contact the Steam Support team for help.
+
+When contacting Steam Support try to provide as much [url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]Proof of ownership[/url] as you can.
+[/section]
+
+[h2]I'm concerned I may not be able to recover my account[/h2]
+
+You can [b]always[/b] contact Steam Support for account recovery even if you've forgotten the account's email address, password, and phone number.
+
+If you're getting stuck in the recovery process, make sure you're entering the information Steam requests at each step. For example, when searching for an account, Steam's account recovery system asks for [b]your[/b] email address, not the account's current email address. If you're sure you can't remember the email address, entering [b]your current email address[/b] as instructed for the search will help Steam identify your account, or present other options for locating an account if the email address is incorrect.
+
+[h2]How can I safeguard my account?[/h2]
+For information on how to safeguard an account, please read the [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] article.
+
+[h2]What about my items?[/h2]
+Please see our [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url] article for more information.

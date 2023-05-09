@@ -1,0 +1,290 @@
+[h1]Dota 2 Workshop - Item FAQ[/h1]
+
+[h2][img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img][/h2]
+
+[list]
+
+[*][url=#homepage]Is there a main resource web page for the Dota 2 Item Workshop?[/url] [/*]
+[*][url=#account]Do I need a special Steam account to submit items to the Dota Workshop?[/url] [/*]
+[*][url=#steps]What are the steps to making and submitting a Dota 2 Workshop item?[/url] [/*]
+[*][url=#publishingprocess]How does the item publishing process work?[/url] [/*]
+[*][url=#brandleaguemod]How do I submit a Dota Team or Player Branded item, a Dota League ticket, or a Dota Game Mod?[/url] [/*]
+[*][url=#guidelines]What are some guidelines for matching the Dota 2 art style?[/url] [/*]
+[*][url=#copyright]What should always be avoided when creating items for Dota 2?[/url] [/*]
+[*][url=#tutorials]Where can I find good tutorials to learn 3D modeling?[/url] [/*]
+[*][url=#software]What software should I use to make my item?[/url] [/*]
+[*][url=#courier]I would like to create a custom courier. Do I have to animate it or will Valve take care of that?[/url] [/*]
+[*][url=#tools]Do I need to use special tools to submit Workshop items?[/url] [/*]
+[*][url=#heroitems]Do all heroes in Dota 2 have the same types of items?[/url] [/*]
+[*][url=#originalcontent]Where can I get the original content for the existing characters so I can build my item in context?[/url] [/*]
+[*][url=#heroes]Will you be adding more heroes to the Dota 2 Item Workshop?[/url] [/*]
+[*][url=#feedback]Can people at Valve give me feedback on my ideas or concept drawings?[/url] [/*]
+[*][url=#response]I submitted an item to the Workshop. When will I hear whether it has been accepted or not?[/url] [/*]
+[*][url=#technicalproblems]I am having technical problems preparing my items or using the Dota Workshop Tools. Can someone help me?[/url] [/*]
+[*][url=#revenue]Can I change the revenue shares on my workshop item?[/url] [/*]
+
+[/list]
+
+[h2][url id=homepage][/url][/h2]
+
+[h2]Is there a main resource web page for the Dota 2 Item Workshop?[/h2]
+
+[list]
+
+[*]Yes. The [url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url] is the starting place for item workshop resources. [/*]
+
+[/list]
+
+[url id=account][/url]
+
+[h2]Do I need a special Steam account to submit items to the Dota Workshop?[/h2]
+
+[list]
+
+[*]You need to follow certain procedures to set up a Steam account and submit bank and tax information before you can add items to the Dota Workshop. Please see [url=http://support.steampowered.com/kb_article.php?ref=8860-WOSX-7503]Account Preparation for Workshop Submissions[/url] for details.​ [/*]
+
+[/list]
+
+[url id=steps][/url]
+
+[h2]What are the steps to making and submitting a Dota 2 Workshop item?[/h2]
+
+[list]
+
+[*]Concept: Come up with an idea. [/*]
+[*]Reference: Go to the [url=http://www.dota2.com/workshop/requirements]Hero Requirements[/url] page to find model and texture budgets and reference files for hero items. [/*]
+[*]Author your items. See links on the [url=http://www.dota2.com/workshop/]Workshop Guidelines[/url] home page and the [url=#tutorials]Tutorial[/url] and [url=#software]Software[/url] links on this page for more information about the following creation processes:
+
+[list]
+
+[*]Model: Using a 3D modeling program, create the model for the item, weighting the mesh to a Valve reference file where applicable. [/*]
+[*]UVs: Unwrap the 3D model so you can texture map it. [/*]
+[*]Texture: Using your UVs as a guide, paint the surface of your item. [/*]
+[*]Shaders: Adjust the properties of your materials. [/*]
+[*]Animation: Needed for NPCs such as couriers that have a custom skeleton. [/*]
+
+[/list]
+[/*]
+[*][url=http://support.steampowered.com/kb_article.php?ref=8860-WOSX-7503#installdota]Install the Dota 2 Item Workshop tools[/url] [/*]
+[*]​[url=http://support.steampowered.com/kb_article.php?ref=2858-RTHJ-5696]Test and submit your items[/url]
+
+[list]
+
+[*]Use the Dota 2 Item Workshop Item Tools to compile and test your items in game. [/*]
+[*]Upload your items to Steam's Dota 2 Item Workshop and spread the word to the Dota community. [/*]
+
+[/list]
+[/*]
+
+[/list]
+
+[url id=publishingprocess][/url]
+
+[h2]How does the item publishing process work?[/h2]
+
+[list]
+
+[*]After you submit your item to Steam's Dota 2 Item Workshop, the Dota community will see it displayed as a new submission and will provide feedback and votes for your item. [/*]
+[*]Interesting items are selected by Valve's Dota Economy team for review based on quality, creative and technical fit with Dota and community reaction. [/*]
+[*]Valve artists and the economy team review items in game, looking at technical and artistic execution, gameplay readability, and comparing them to other custom and default items. [/*]
+[*]If there's interest in shipping your items we may request that you make revisions. [/*]
+[*]If the revisions are approved, we prepare the items for our pipeline and integrate them into pre-shipping builds of Dota 2. [/*]
+[*]We test your items in game through internal playtests. [/*]
+[*]We release the items on the Dota 2 store and share the revenue from the store sales with you. [/*]
+
+[/list]
+
+​[url id=brandleaguemod][/url]
+
+[h2]How do I submit a Dota Team or Player Branded item, a Dota League ticket, or a Dota Game Mod?[/h2]
+
+[list]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=4569-PDXC-8590]Team, Player, and Caster Branded Items[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=1719-OPHL-1139]Dota 2 League Tickets[/url] - read the League instructions first, then submit tickets as [url=https://support.steampowered.com/kb_article.php?ref=7979-QHBN-3836]Contract Only[/url] through the Item Workshop tool. [/*]
+[*][url=https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Addon_Overview]Dota 2 Game Mods[/url] [/*]
+
+[/list]
+
+​[url id=guidelines][/url]
+
+[h2]What are some guidelines for matching the Dota 2 art style?[/h2]
+
+[list]
+
+[*]Please be aware that "matching the Dota 2 art style" does not mean strictly following the coloring and silhouettes of Dota 2's default hero items.  Dota 2's art style follows very important general design concepts that apply to the readability and quality execution of all items, including inventive items that thoughtfully differ from the defaults and add to the appeal of our game. These principles are covered in the [url=https://support.steampowered.com/kb_article.php?ref=9334-YDXV-8590]Character Art Guide[/url] and other [url=http://www.dota2.com/workshop/#creation]Asset Creation Guidelines[/url] that have been updated and expanded for Source 2. [/*]
+
+[/list]
+
+[url id=copyright][/url]
+
+[h2]What should always be avoided when creating items for Dota 2?[/h2]
+
+[list]
+
+[*]Obscenity: We will automatically reject any obscene items.  [/*]
+[*]Copyright infringement: Even if you made a model yourself, if you used an existing likeness without the owner's permission, it’s copyright infringement. Unauthorized images, audio or models from other commercial properties, from other people's Steam workshop submissions, from artist's galleries on the Internet or from any other sources covered by copyright cannot be used in Dota 2. [/*]
+
+[/list]
+
+[url id=tutorials][/url]
+
+[h2]Where can I find good tutorials to learn 3D modeling?[/h2]
+
+[list]
+
+[*]There are a lot of digital art communities online with great information:
+
+[list]
+
+[*][url=http://www.polycount.com/forum]http://www.polycount.com/forum[/url] [/*]
+[*][url=http://forums.cgsociety.org]http://forums.cgsociety.org[/url] [/*]
+[*][url=http://www.zbrushcentral.com]http://www.zbrushcentral.com[/url] [/*]
+[*][url=http://3d-coat.com/forum]http://3d-coat.com/forum[/url] [/*]
+[*][url=http://www.cgfeedback.com/cgfeedback]http://www.cgfeedback.com/cgfeedback[/url] [/*]
+[*][url=http://blenderartists.org]http://blenderartists.org[/url] [/*]
+
+[/list]
+[/*]
+[*]​Search for 'speed modeling' or tutorials using your specific modeling or animation software on YouTube. [/*]
+[*]Several Dota workshop artists have created item authoring guides on the Steam Community. If you're impressed by the items of a workshop artist, click on the artist's link under "Created By" on the item's workshop web page. This will take you to the Steam Community page for the artist. They'll have listings in the column on the right under "Guides" if they have created community guides. See if they have created any guides for authoring items. Some instructions and images may refer to Source 1 procedures but they could still be very helpful. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_faq/created_by_link.jpg?[/img]​  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_faq/guides_artist_links.jpg[/img]
+
+[list]
+
+[*]Look at our list of [url=http://steamcommunity.com/workshop/about/?appid=570#service_providers]Service Providers[/url] to find toolmakers, organizations and users who provide tutorials and other assistance to workshop artists. If any of these service providers have been helpful enough that you'd like to show your appreciation, when you submit your item to the workshop you'll have the option to give them a percentage of Valve's revenue if the item is sold on the Dota store.  [/*]
+[*]Go to [url=http://steamcommunity.com/app/570/guides]Steam Community Dota Guides[/url] and use the "Filter" drop-down list to find guides tagged with "Workshop", "Weapons", "Modding or Configuration" or "Characters". [/*]
+[*]Visit the [url=https://developer.valvesoftware.com/wiki/Category:Modeling]Valve Developer Community Modeling Category[/url] - most of this information is only applicable to Source 1 or other games, but it still covers general modeling concepts that are helpful. [/*]
+
+[/list]
+
+​[url id=software][/url]
+
+[h2]What software should I use to make my item?[/h2]
+
+[list]
+
+[*]It varies depending upon the project, but this is generally what we use:
+
+[list]
+
+[*][url=http://usa.autodesk.com/maya/]Maya[/url] (models, textures, skeletons and animation) [/*]
+[*][url=http://www.photoshop.com/]Photoshop[/url] (textures) [/*]
+[*][url=http://www.pixologic.com/]Zbrush[/url] (detail models and textures) [/*]
+[*][url=http://store.steampowered.com/app/401090/]Modo indie[/url] (models and textures) [/*]
+[*][url=http://usa.autodesk.com/adsk/servlet/pc/index?id=13565063&siteID=123112]Mudbox[/url] (models and textures) [/*]
+
+[/list]
+[/*]
+[*]Members of the workshop community also use these programs:
+
+[list]
+
+[*][url=http://www.3d-coat.com/]3Dcoat[/url] (models and textures) [/*]
+[*][url=http://www.wings3d.com/]Wings3D[/url] (models) [/*]
+[*][url=http://usa.autodesk.com/3ds-max/]3DS-Max[/url] (models, textures, skeletons, animation) [/*]
+[*][url=https://www.blender.org/]Blender[/url] (models, textures, skeletons, animation) [/*]
+
+[/list]
+[/*]
+[*]Bear in mind that our workshop tools no longer support the .SMD model file format, so models will have to be submitted as .FBX or .DMX files. [/*]
+
+[/list]
+
+[url id=courier][/url]
+
+[h2]I would like to create a custom courier. Do I have to animate it or will Valve take care of that?[/h2]
+
+[list]
+
+[*]You will need to provide fully animated walking and flying versions of your courier for a successful submission.  [/*]
+[*]There are special animation requirements for NPCs (Non-Player Characters). Please see the specific guidelines for [url=https://support.steampowered.com/kb_article.php?ref=8986-WRAZ-1046]Couriers[/url], [url=https://support.steampowered.com/kb_article.php?ref=8799-WLXN-3860]Wards[/url] and [url=https://support.steampowered.com/kb_article.php?ref=7823-RUAZ-5739]Ability Model [/url]creatures (Summoned Units and Ultimates) as well as the [url=https://support.steampowered.com/kb_article.php?ref=3634-YOPS-9967]NPC Animations Guide.[/url] [/*]
+
+[/list]
+
+[url id=tools][/url]
+
+[h2]Do I need to use special tools to submit Workshop items?[/h2]
+
+[list]
+
+[*]Yes. Please review [url=https://support.steampowered.com/kb_article.php?ref=8860-WOSX-7503#installdota]Installing and Launching the Dota 2 Workshop Item Tools[/url]. [/*]
+
+[/list]
+
+[url id=heroitems][/url]
+
+[h2]Do all heroes in Dota 2 have the same types of items?[/h2]
+
+[list]
+
+[*]Due to the diversity of heroes in Dota 2, each hero has a unique set of items. Hero-specific requirements, budgets, and reference models can be found through the [url=http://www.dota2.com/workshop/requirements]Technical Requirements/Hero Resource[/url] page. [/*]
+
+[/list]
+
+[url id=originalcontent][/url]
+
+[h2]Where can I get the original content for the existing characters so I can build my item in context?[/h2]
+
+[list]
+
+[*]The source geometry and texture files for Dota heroes are available through the [url=http://www.dota2.com/workshop/requirements]Hero Resource[/url] page.  [/*]
+[*]We prefer that you work with Valve's reference models rather than decompiled game models which may have incorrect poses or scaling.  [/*]
+
+[/list]
+
+[url id=heroes][/url]
+
+[h2]Will you be adding more heroes to the Dota 2 Item Workshop?[/h2]
+
+[list]
+
+[*]Adding new heroes to the workshop and updating existing hero reference files will be a gradual, ongoing process. New and updated workshop heroes will be noted on the [url=http://www.dota2.com/workshop/requirements]Hero Resource[/url] page. [/*]
+
+[/list]
+
+​​[url id=feedback][/url]
+
+[h2]Can people at Valve give me feedback on my ideas or concept drawings?[/h2]
+
+[list]
+
+[*]The Dota 2 Workshop exists to allow the community to give feedback and have influence over what we ship. If you need feedback, please post your concepts or items publicly on the Workshop to allow the Dota 2 community to comment and vote on your ideas. We usually only give feedback if, after review by our artists and economy team, we decide we would like to consider your completed items for shipping but need to see some revisions. [/*]
+
+[/list]
+
+[url id=response][/url]
+
+[h2]I submitted an item to the Workshop. When will I hear whether it has been accepted or not?[/h2]
+
+[list]
+
+[*]Due to the volume of items we are unable to respond to every workshop submission. If, after review, we decide we'd like to consider an item for shipping but would like to see some revisions, we will contact you to request revisions through the private developer comments on the Dota 2 Workshop. If we communicate with you or ask for revisions, that is still no guarantee that an item will actually ship. We may keep some items or sets in mind for a long time before we find a good place for them. [/*]
+
+[/list]
+
+[url id=technicalproblems][/url]
+
+[h2]I am having technical problems preparing my items or using the Dota Workshop Item Tools. Can someone help me?[/h2]
+
+[list]
+
+[*]Look at our [url=https://support.steampowered.com/kb_article.php?ref=5872-QKZN-1281]Item Troubleshooting[/url] page to see if the issue is mentioned there. [/*]
+[*]A good resource for assistance with tool or item creation problems is the [url=http://dev.dota2.com/forumdisplay.php?f=407]Dota 2 Workshop Item Tools Forum[/url]. Members of the community may be able to help you resolve problems. Valve developers also check this forum to become aware of workshop tool issues we need to address. [/*]
+
+[/list]
+
+[url id=revenue][/url]
+
+[h2]Can I change the revenue shares on my workshop item?[/h2]
+
+[list]
+
+[*]Once an item is finalized on the workshop, you cannot change the revenue shares on that submission. If the item has not shipped, you can create a new workshop submission with the preferred revenue shares. Notify Valve of this change through the private developer comments on the old and new submissions and put a link to the new submission in the developer comments for the old item. If this item is part of a collection, you should remove the old item from the collection and replace it with the new one. Once the item ships we cannot change revenue shares. [/*]
+
+[/list]
+
+[url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]

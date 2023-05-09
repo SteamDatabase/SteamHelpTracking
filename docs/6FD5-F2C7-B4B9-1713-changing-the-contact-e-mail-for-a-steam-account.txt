@@ -1,0 +1,43 @@
+[h1]Changing the Contact E-mail for a Steam Account[/h1]
+
+[list]
+
+[*][url=#change_email]How do I change the email address associated with my Steam Account?[/url] [/*]
+[*][url=#notreceiving_email]Not receiving Steam Guard emails?[/url] [/*]
+[*][url=#change_email_browser]Can I change the email address associated with my Steam account from a web browser?[/url] [/*]
+[*][url=#email_verified]How can I tell whether my email address has been verified with Steam?[/url] [/*]
+
+[/list]
+
+[url id=change_email] [/url]
+
+[h2]How do I change the email address associated with my Steam account?[/h2]
+Changing your email address in Steam is a simple process:
+
+[olist]
+
+[*]In the Steam client, select Settings from the Steam menu at the top left. ( 'Preferences' for the Mac client). Within the Account tab, select Change contact email… [/*]
+[*]Enter your Steam Account password along with your new email and click Next. [/*]
+[*]Steam Support will immediately email you a link to click on to verify your new email address. Do not close the Steam dialogue box while you retrieve the email. If you don't receive the email, please try using an email address with a different email provider. [/*]
+[*]Return to Steam after you see the [b]Success[/b]! page. The dialogue box in Steam should now confirm the email change. Please click [b]Finish [/b]to complete the process. [/*]
+
+[/olist]
+
+If you see an error message anytime during this process wait a few minutes and try again. If necessary, please [url=https://help.steampowered.com/wizard/HelpWithLogin]click here to recover your account or contact Steam Support for assistance[/url].
+
+[url id=notreceiving_email][/url]
+
+[h2]Not receiving Steam Guard emails?[/h2]
+[url=https://help.steampowered.com/en/wizard/HelpWithSteamGuardCode]Click here to read tips[/url] on ensuring you receive Steam Guard emails.
+
+[url id=change_email_browser][/url]
+
+[h2]Can I change the email address associated with my Steam account from a web browser?[/h2]
+Unable to log in to Steam because you can't receive Steam Guard emails? You can [url=https://help.steampowered.com/wizard/HelpWithLogin]reset your email address from a browser[/url] if you've added a phone number to your account.
+
+Steam will send an SMS to your phone to confirm the change.
+
+[url id=email_verified][/url]
+
+[h2]How can I tell whether my email address has been verified with Steam?[/h2]
+Steam attempts to verify your email when you create a Steam account or make your first purchase, so that you can recover your account via email if you're ever unable to log in. If your email address has been verified with Steam, it will be indicated as [b]Verified[/b] on [url=https://store.steampowered.com/account]your Steam Account Details page[/url] below your email address.

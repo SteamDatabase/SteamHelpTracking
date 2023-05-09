@@ -1,0 +1,176 @@
+[h1]Dota 2 - Performance Issues, Crashes, or Failures When Launching[/h1]
+
+If you are encountering performance issues, game crashes, or Dota 2 is failing to launch with or without an error message, proceed through this article from top to bottom and complete all applicable steps to troubleshoot the issue.
+
+[h3]Crashes or failures to launch with specific error messges[/h3]
+
+Check to see if there is an article related to the error message that you are seeing in the [url=https://support.steampowered.com/kb_cat.php?id=59]Specific Error Messages category.[/url]
+
+If there is no article related to the message that you are seeing, continue through this article to troubleshoot the issue.
+
+[h3]Troubleshooting performance issues and crashes[/h3]
+
+Please read and complete all applicable troubleshooting steps in the [url=http://dev.dota2.com/showthread.php?t=15261]Common Dota 2 Technical Issues and Solutions[/url] guide provided by the Dota 2 developers.
+
+Refer to our articles regarding Hardware and Software based performance issues. Complete all steps exactly as they are presented.
+
+[list]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=2715-YIPD-6873]Troubleshooting Game Performance Issues - Hardware [/url]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=9257-TUJL-7421]Troubleshooting Game Performance Issues - Software[/url]
+
+[/list]
+
+[h3]Updating your drivers[/h3]
+
+If you are encountering any issues with your Steam games, [url=http://support.steampowered.com/kb_article.php?ref=6416-EYDH-0477]ensure that your drivers are completely up to date[/url].
+
+[h3]Blue Screen issues in Windows[/h3]
+
+If you encounter a Blue Screen error with Dota 2 or your computer is restarting when launching or playing Dota 2, make sure that your BIOS and Chipset Drivers are fully up to date (see your motherboard manufacturer's instruction manual or website for specific instructions and updates).
+
+[section id=#verify]
+
+[h3]Verifying your game files[/h3]
+
+If you think some files of your game installation may be corrupt or have been deleted as a false positive by antivirus or security software, try [url=http://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify Integrity of Game Files[/url].
+[/section]
+
+[h3]Launching with -autoconfig or -safe mode [/h3]
+
+If Dota 2 is failing to start after preparing to launch, we recommend that you attempt to launch with either the -autoconfig or -safe launch option in that order.
+
+[section style=note]
+
+[h3]Note:[/h3]
+Only one of these launch options can be used at a time. Once you are able to launch this game, you will need to remove these launch options if you wish to change any video settings.
+[/section]
+
+Using the -autoconfig launch option
+
+[olist]
+
+[*]Open Steam
+
+[*]Go to the "Library"
+
+[*]Right-click the game which needs to be reconfigured
+
+[*]Select "Properties" from the menu
+
+[*]Go to the "Launch Options" section in the window
+
+[*]Remove any launch options currently shown.
+
+[*]Type [code]-autoconfig[/code]in the box and close the window.
+
+[*]Launch the game and test the issue again
+
+[/olist]
+
+Using the -safe launch option
+
+[olist]
+
+[*]Open Steam
+
+[*]Go to the "Library"
+
+[*]Right-click the game which needs to be reconfigured
+
+[*]Select "Properties" from the menu
+
+[*]Go to the "Launch Options" section in the window
+
+[*]Remove any launch options currently shown.
+
+[*]Type [code]-safe[/code]in the box and close the window.
+
+[*]Launch the game and test the issue again.
+
+[/olist]
+
+[h3]Reacquiring all Dota 2 files[/h3]
+
+This should be done if you think some of the game's files may be corrupt, or if you have overwritten any game files with custom assets or mods and you wish to restore the game to its original state. If your game was working previously but is now crashing or freezing and you have completed the above instructions under the [url=#verify]Verifying your game files[/url] section with no results, try this next.
+
+[b]For Windows computers:[/b]
+
+[olist]
+
+[*]Exit Steam entirely.
+
+[*]Browse to your Steam installation (Usually C:\Program Files(x86)\Steam\)
+
+[*]Rename the "steamapps" folder to "old_steamapps"
+
+[*]Re-launch Steam and re-install the game.
+
+[*]Once the installation is complete, test the issue.
+
+[*]If this resolves the issue, you may copy the new files into the "old_steamapps" folder and rename it to "steamapps" to restore your other games without re-downloading.
+
+[*]If the issue is not resolved, you can rename the folder back to avoid having to re-install other games.
+
+[/olist]
+
+[b]For Linux computers:[/b]
+
+[section style=note]
+
+[h3]Note:[/h3]
+Steam for Linux is currently only supported on Ubuntu 12.04/12.10 with Unity, Gnome, or KDE desktops.
+[/section]
+
+[olist]
+
+[*]Exit Steam and go to your Home folder.
+
+[*]Press CTRL+H to reveal any hidden folders.
+
+[*]Click on .local > share > Steam and do the following:
+
+[*]Rename the "steamapps" folder to "old_steamapps"
+
+[*]Re-launch Steam and re-install the game.
+
+[*]Once the installation is complete, test the issue again.
+
+[/olist]
+
+[b]For Mac computers:[/b]
+
+[olist]
+
+[*]Exit Steam entirely.
+
+[*]Open Finder and navigate to the folder containing your SteamApps folder (/Users/[username]/Library/Application Support/Steam/)
+
+[*]Rename the "steamapps" folder to "steamapps_old".
+
+[*]Re-launch Steam and re-install the game.
+
+[*]Once the installation is complete, test the issue.
+
+[/olist]
+
+[b]To locate your Steam installation folder when using Lion or any newer macOS version, do the following:[/b]
+
+[olist]
+
+[*]Open Terminal
+
+[*]Type chflags nohidden ~/Library
+
+[*]Close Terminal
+
+[/olist]
+
+You should see the Library folder available through the Go menu on the menu bar while holding the option key.
+
+[h3]Reporting a bug, crash, or other issue[/h3]
+
+If you are still encountering this issue within Dota 2, please create or join an existing thread regarding that issue on the [url=http://dev.dota2.com/]Dota 2 Development Forums[/url].
+
+Widespread crashes or other issues will often be fixed by the Dota 2 development team within days of the issue appearing.

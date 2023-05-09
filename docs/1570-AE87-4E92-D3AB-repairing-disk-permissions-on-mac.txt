@@ -1,0 +1,15 @@
+[h1]Repairing Disk Permissions on Mac[/h1]
+
+I'm having trouble running Steam or playing my games, what can I do to fix it?
+
+Often, disk permissions become inconsistent over time. Some of these problems have a negative impact on Steam. If Steam does not start, or games do not launch, please try this first:
+
+[list]
+
+[*]Click on [b]Applications > Utilities > Disk Utility[/b] [/*]
+[*]Click on the [b]First Aid[/b] tab [/*]
+[*]Let the repair process finish and then restart Steam to see if this corrects the problem [/*]
+
+[/list]
+
+For a more comprehensive article about using Disk Utility, please see Apple's article [url=https://support.apple.com/en-us/HT210898]How to repair a Mac disk with Disk Utility[/url].

@@ -1,0 +1,59 @@
+[h1]Game is not available on your current platform[/h1]
+
+When installing or launching a game, Steam displays the error:
+
+[list]
+
+[*]Game is not available on your current platform.
+
+[/list]
+
+This error message means that the game is not supported on the operating system that you are currently using.
+
+[h1]Check Supported Operating Systems for the Game[/h1]
+You can check each game's system requirements and compatible operating systems on that game's Steam Store page by scrolling down to its "System Requirements" section.
+
+[section style=important]
+
+[h3]Note:[/h3]
+When checking system compatibility with a specific game, ensure that you check the game's hardware requirements in addition to compatible operating systems.
+[/section]
+
+[b]Purchased on Steam store[/b]
+If the game does not support your operating system and you purchased it on the Steam store you can request a refund through our help site by following the instructions on the [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966]How To Request A Refund[/url] page.
+
+[b]Registered a CD key on Steam[/b]
+If the game does not support your operating system and have the game on Steam from registering a CD key you purchased from a third-party seller, you will need to contact the retailer you purchased from for any refund options.
+
+[b]Game does support your operating system[/b]
+If the game does support your operating system and you are getting this error, you can contact [url=https://help.steampowered.com/]Steam support[/url] for further help.
+
+[h1]Windows[/h1]Most Steam games can be played on a supported Windows operating system. Ensure that you check which versions of Windows are supported for any game that you are interested in purchasing.
+
+[b]Note:[/b] A common requirement to look out for is if a game requires a 64-bit version of Windows. For games that require this, if you are using a 32-bit version of Windows you would need to upgrade to 64-bit in order to play it.
+
+[h1]Mac OS[/h1]A list of featured macOS games can be found here:
+
+[url=http://store.steampowered.com/browse/mac/]http://store.steampowered.com/browse/mac/[/url]
+
+You can also perform a search within the Steam Store and then select "Mac OS X" in the Narrow by OS box to filter to macOS compatible results only.
+
+Be sure to check the specific version of macOS that is required for any game that you are interested in.
+
+[b]Note:[/b] if you are trying to run a 32-bit game on macOS 10.15 or later and encountering errors, see the [url=https://support.steampowered.com/kb_article.php?ref=1055-ISJM-8568]Steam and macOS 10.15 Catalina[/url] page for more information.
+
+[h1]Ubuntu Linux[/h1]Steam and its games are currently only supported on Ubuntu with Unity, Gnome, or KDE desktops.
+
+A list of featured Linux games can be found here:
+
+[url=http://store.steampowered.com/browse/linux/]http://store.steampowered.com/browse/linux/[/url]
+
+You can also perform a search within the Steam Store and then select "SteamOS + Linux" in the Narrow by OS box to filter to Linux compatible results only.
+
+[b]Note:[/b] Steam users on Linux may be able to make use of the Steam feature Steam Play to potentially play some Windows only games on Linux. For more information see the [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Introducing a new version of Steam Play[/url] page.
+
+[section style=important]
+
+[h3]Important:[/h3]
+Some users will deliberately purchase a game that is not available on their operating system with the aim of running the game with emulators or other utilities that simulate the game's system requirements. Be aware that purchases made with this goal in mind are not supported by Steam Support.
+[/section]

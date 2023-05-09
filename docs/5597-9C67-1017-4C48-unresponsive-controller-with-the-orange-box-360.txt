@@ -1,0 +1,13 @@
+[h1]Unresponsive Controller with The Orange Box (360)[/h1]
+
+Upon launching The Orange Box on Xbox 360, my controller will not respond in the menus or games. How can I fix this?
+
+This error is most likely caused by a wired controller such as a Guitar controller currently plugged into your Xbox 360 console.  Please do the following:
+
+[list]
+
+[*]Shutdown your Xbox 360. [/*]
+[*]Remove all controllers and peripherals. [/*]
+[*]Restart your console using the Xbox button found on your 360 controller to ensure the controller is recognized in the first port. [/*]
+
+[/list]

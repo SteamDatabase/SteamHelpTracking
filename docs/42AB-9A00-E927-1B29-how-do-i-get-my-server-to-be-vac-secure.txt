@@ -1,0 +1,17 @@
+[h1]How do I get my Server to be VAC Secure?[/h1]
+
+Enabling VAC security requires a different process for the different types of dedicated servers.
+
+[h4]Steam Dedicated Servers[/h4]
+The process for enabling VAC security is the same for [b]Steam Half-Life Dedicated Servers[/b] and [b]Steam Source Dedicated Servers[/b].
+
+[olist]
+
+[*]Launch your Steam Dedicated Server from the Steam [b]Tools[/b] tab. [/*]
+[*]Make sure the [b]Secure (Valve Anti-Cheat)[/b] checkbox is checked. [/*]
+[*]Start the server. [/*]
+
+[/olist]
+
+[h4]Standalone Dedicated Servers[/h4]
+VAC Security is enabled by default for Standalone Dedicated Servers. To turn VAC security [b]OFF[/b] for your Standalone Dedicated server add [i]-insecure[/i] to your launch switches.

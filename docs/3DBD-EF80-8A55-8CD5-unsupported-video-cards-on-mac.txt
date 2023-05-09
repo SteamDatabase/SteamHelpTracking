@@ -1,0 +1,29 @@
+[h1]Unsupported Video Cards on Mac[/h1]
+
+Steam warns me that my video card is not supported and my Source games do not work. What is wrong?
+
+Make sure your video card is supported by Source games on the Mac. If it is not you will need to upgrade your system in order to run Source games.
+
+The following video cards are [b]not[/b] supported on Source-powered games:
+
+[list]
+
+[*]Intel integrated graphics such as GMA 950 and X3100 [/*]
+[*]NVIDIA GeForce 7 Series (Including the NVIDIA Quadro FX 4500) [/*]
+
+[/list]
+
+In order to run Source-powered games on Mac you will need to use a [b]minimum[/b] of the following:
+
+[list]
+
+[*]NVIDIA GeForce 8 Series or higher [/*]
+[*]ATI X1600 or higher [/*]
+
+[/list]
+
+[section style=warning]
+
+[h3]Warning[/h3]
+The ATI X1600 and X1900 are not supported on Left 4 Dead 2, Portal 2 or Counter-Strike: Global Offensive
+[/section]

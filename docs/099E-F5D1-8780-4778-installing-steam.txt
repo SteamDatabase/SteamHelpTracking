@@ -1,0 +1,18 @@
+[h1]Installing Steam[/h1]
+
+How do I install Steam?
+
+[olist]
+
+[*]Ensure that you are logged in as an administrator on the machine which you would like to install Steam on [/*]
+[*]If you have previously installed Steam and are reinstalling to remedy a problem with your prior installation, you can just run the Steam installer again and it will automatically reinstall Steam [/*]
+[*]Check the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] topic to ensure the required ports for Steam are open on your network [/*]
+[*]Download and run the Steam Installer from [url=https://store.steampowered.com/about/]https://store.steampowered.com/about/[/url] [/*]
+
+[/olist]
+
+If you encounter any difficulty with your installation, please see the [url=https://support.steampowered.com/kb_article.php?ref=1223-QROC-4460]Contacting Steam Support[/url] topic for instructions to contact Steam Support.
+
+If you are looking for information on how to uninstall Steam please see the page [url=https://support.steampowered.com/kb_article.php?ref=9609-OBMP-2526]Uninstalling Steam[/url].
+[exclude_realm=china]For macOS instructions please see [url=https://support.steampowered.com/kb_article.php?ref=3329-WUJN-5636]Removing and Reinstalling Steam on a Mac[/url] page.
+[/exclude_realm]

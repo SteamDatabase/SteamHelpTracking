@@ -1,0 +1,15 @@
+[h1]Steam Downtime and Server Maintenance[/h1]
+
+[h2]Why was the downtime scheduled at the time it was?[/h2]
+There are several different reasons. Some downtime isn't planned. If we have a hardware failure, a problem with the network, or a problem with our point-of-presence provider, the event is unexpected and we can't schedule it. It happens when it happens.
+
+When downtime is scheduled, we try to perform the activity during business hours at our office in the Pacific time zone (in the United States). This way, as many team members as possible are available to help with issues that might arise and get the work done. We try to stagger the events at different times of day.
+
+It's important to remember that Steam is a global service, so there are always [url=http://store.steampowered.com/stats/]users online[/url]. Our peak user load is around 1200 PT (Pacific Time), and our lowest user count is around 2300 PT.
+
+When we have planned downtime, it usually lasts less than an hour. As such, we'll do it in the early morning or in the late afternoon (again, local time) trying to avoid the peak time of the day. If we have plans for extended downtime, we'll do what we can to schedule the time as late as possible in the evening--with the caveat that we still need staff available to do the work or to help with any problems that might occur.
+
+[h2]I didn't see any new features, what was the downtime for?[/h2]
+Sometimes, we take the servers down in order to perform maintenance. We might be patching software for security issues, updating operating systems or drivers, or installing new hardware, for example. These activities don't result in new features, but allow Steam to continue to run stably and efficiently.
+
+Other down time events are used to publish new features in the server code. Sometimes, those features might not be immediately visible; making the servers use less memory, for example, allows them to support more users and have faster response times. Keeping the system up and running efficiently is our top priority. As time allows, we add features and publish them when they're available.

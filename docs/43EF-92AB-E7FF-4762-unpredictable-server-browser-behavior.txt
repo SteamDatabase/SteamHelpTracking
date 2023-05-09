@@ -1,0 +1,10 @@
+[h1]Unpredictable Server Browser behavior[/h1]
+
+[h4]Steam Rates[/h4]
+It is very important that you make sure your Steam rate is set properly. If, when opening the browser or pressing the refresh button, servers appear very slowly, then your rate may be set incorrectly. Please see the [url=https://support.steampowered.com/kb_article.php?ref=4166-TYSC-9690]Setting Client Rates[/url] article for instructions on setting the proper rates.
+
+[h4]Router Problem[/h4]
+Some routers may have firmware that experiences packet loss with high traffic, such as when a large number of servers are responding during a server browser refresh.  A symptom of this is starting a server refresh and always getting the same (or a similar) number of servers before the refresh stops completely, rather than simply pausing.  These routers will also typically go offline for a minute or so when this problem occurs.  The only solutions for this are to update your router's firmware or replace the router. Please see [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url], step 2: "Test Your Router" to determine if this is your issue.
+
+[h4]CyberCafe[/h4]
+If you are in a CyberCafe and there are a lot of players refreshing their browsers, this may cause problems in the CyberCafe network.  Reducing the Steam rate for all the workstations will help this problem.

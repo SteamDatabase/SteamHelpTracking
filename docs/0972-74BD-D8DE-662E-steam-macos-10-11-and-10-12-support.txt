@@ -1,0 +1,9 @@
+[h1]Steam macOS 10.11 and 10.12 Support[/h1]
+
+On September 1 2023, Steam will officially stop supporting macOS versions 10.11 ("El Capitan") and 10.12 ("Sierra"). After that date, the Steam Client will no longer run on those versions of macOS. In order to continue running Steam and any games or other products purchased through Steam, users will need to update to a more recent version of macOS.
+
+This change is required as core features in Steam rely on an embedded version of Google Chrome, which no longer functions on older versions of macOS. In addition, future versions of Steam will require macOS feature and security updates only present in macOS 10.13 and above.
+
+Although support won't end until the above date, we strongly encourage all macOS 10.11 and 10.12 users to update sooner rather than later. Apple ended security updates and technical support for macOS 10.11 in 2018 and for macOS 10.12 in 2019. Computers running these operating systems, when connected to the internet, are susceptible to new malware and other exploits which will not be patched. That malware can cause your computer, Steam and games to perform poorly or crash. That malware can also be used to steal the credentials for your Steam account or other services.
+
+Users of macOS versions 10.11 and 10.12 can find more information on upgrading macOS [url=https://www.apple.com/macos/how-to-upgrade/]here[/url].

@@ -1,0 +1,30 @@
+[h1]Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.[/h1]
+
+When attempting to complete a purchase through Steam, I receive the following specific error message:
+
+[h3]Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.[/h3]
+How can I resolve this issue?
+
+[h3]You are currently travelling and encounter this error[/h3]
+If you are currently outside of your home country and are receiving this specific error message when attempting a purchase through Steam, test the issue again using your payment instrument only (credit card, PayPal, etc.) rather than using your Steam Wallet.
+
+If your purchases still fail, [url=https://help.steampowered.com/]contact Steam Support[/url] regarding this issue.
+
+[h3]You received a link to another region's Steam Store page[/h3]
+If you are seeing prices in a currency that does not match your normal pricing currency, you may have followed a web link to a different region's Steam Store page.
+
+To resolve this issue, try accessing the Steam Store through the Steam application instead of a web browser. You can also try restarting your computer and testing the issue again.
+
+[h3]IP proxy, VPN, or anonymous proxy software[/h3]
+If you are using any IP proxy or VPN software with your computer, ensure that it is completely disabled. If you still encounter the issue, remove this software from your computer.
+
+[section style=warning]
+
+[h3]Warning:[/h3]
+All attempts to purchase anything through Steam via anonymous proxy software will be declined. There is no way around this restriction.
+[/section]
+
+[h3]Regional pricing differences[/h3]
+We are always working with publishers to adjust prices to be in line with what can be found at local retailers and online shops.
+
+Any attempt to bypass regional pricing or content restrictions and use another region's Steam Store are forbidden. Accounts that display this behavior or are clearly associated with it will be locked.

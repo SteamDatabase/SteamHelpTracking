@@ -1,0 +1,61 @@
+[h1]Using a Firewall with Steam[/h1]
+
+How should I configure my firewall to work with Steam?
+
+[section style=important]
+
+[h3]Important:[/h3]
+If you are installing Steam for the first time or if there has been a recent Steam update, a firewall may be preventing Steam from connecting to the Steam Network.
+
+You may be asked to re-authorize Steam after a client update. Some Steam games may also prompt for firewall authorization after a game update.
+[/section]
+
+[h4]Troubleshooting Steps[/h4]
+
+[olist]
+
+[*]Close the Steam client application. [/*]
+[*]Open the configuration view for your firewall program, and remove any instances of the following executables from the permissions:
+
+[list]
+
+[*]steaminstall.exe [/*]
+
+[exclude_realm=china]
+[*]steam.exe [/*]
+
+[/exclude_realm]
+
+[exclude_realm=global]
+[*]steamchina.exe [/*]
+
+[/exclude_realm]
+
+[*]hl.exe [/*]
+[*]hl2.exe [/*]
+[*]steamTmp.exe [/*]
+
+[/list]
+[/*]
+[*]Start Steam. Your firewall should prompt you to set new permissions for steam.exe. If it does not, the security settings may be too strict - you will need to change these settings so you will be prompted to set permissions.
+
+Give the Steam executables permission for all TCP and UDP ports when prompted. [/*]
+[*]Restart your computer and start Steam. [/*]
+
+[/olist]
+
+[h4] [/h4]
+If you are still having connectivity problems, you may try the following test:
+
+[list]
+
+[*]Exit the Steam client. [/*]
+[*]Temporarily disable your firewall. [/*]
+[*]Restart Steam and test connectivity. [/*]
+[*]Re-enable your firewall. [/*]
+
+[/list]
+
+If Steam operates normally only when your firewall is disabled, please recheck your firewall configuration. You may wish to contact the provider of your firewall for configuration help. [b]We do not recommend leaving your firewall disabled.[/b]
+
+If you still experience problems with the firewall disabled, please see the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] topic for further troubleshooting recommendations.

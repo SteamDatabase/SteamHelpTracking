@@ -1,0 +1,120 @@
+[h1]Bots in Valve games[/h1]
+
+What are bots and how do I add and use them?
+
+[list]
+
+[*][url=#what]What are bots?[/url] [/*]
+[*][url=#games]Games that include bots[/url] [/*]
+[*][url=#addingcz]Adding bots in Counter-Strike: Condition Zero[/url] [/*]
+[*][url=#addingcss]Adding bots in Counter-Strike: Source[/url] [/*]
+[*][url=#addingtf2]Adding bots in Team Fortress 2[/url] [/*]
+[*][url=#tpb]Third-party bots[/url] [/*]
+
+[/list]
+
+[section id=what]
+
+[h4]What are Bots?[/h4]
+[b]Bot[/b] is the common term given to a computer-controlled player on a server.
+[/section]
+
+[section id=games]
+
+[h4]Games that include bots[/h4]
+The following multiplayer Valve games include bots:
+
+[list]
+
+[*]Counter-Strike: Condition Zero [/*]
+[*]Counter-Strike: Source [/*]
+[*]Counter-Strike: Global Offensive [/*]
+[*]Team Fortress 2 [/*]
+[*]Left 4 Dead [/*]
+[*]Left 4 Dead 2 [/*]
+[*]Dota 2 [/*]
+
+[/list]
+
+[/section]
+
+[section id=addingcz]
+
+[h2]Adding bots in Counter-Strike: Condition Zero[/h2]
+To add bots in Counter-Strike: Condition Zero:
+
+[olist]
+
+[*]Launch Counter-Strike: Condition Zero. [/*]
+[*]Start a New Multiplayer Game. [/*]
+[*]Check the checkbox labeled "Include CPU players (Bots) in this game". [/*]
+[*]Add the number of bots you wish to include in the textbox labeled "Number of CPU players". [/*]
+
+[/olist]
+You can change other settings for your bots from the "CPU Player Options" tab. By default, Counter-Strike: Condition Zero will not automatically balance the number of players on each team. You can turn this functionality on from your developer console, by typing in [i]mp_autoteambalance 1[/i].
+[/section]
+
+[section id=addingcss]
+
+[h2]Adding bots in Counter-Strike: Source[/h2]
+To add bots to Counter-Strike: Source:
+
+[olist]
+
+[*]Launch Counter-Strike: Source. [/*]
+[*]Create a Server. [/*]
+[*]Check the checkbox labeled "Include CPU players (Bots) in this game". [/*]
+[*]Add the number of bots you wish to include in the textbox labeled "Number of CPU players". [/*]
+
+[/olist]
+You can change other settings for your bots from the "CPU Player Options" tab. By default, Counter-Strike: Source will automatically balance the number of players on each team so one team cannot have more than two more players than the other. You can turn this off from your developer console, by typing in [i]mp_autoteambalance 0[/i].
+[/section]
+
+[section id=addingtf2]
+
+[h2] [/h2]
+
+[h2]Adding bots in Team Fortress 2:[/h2]
+To add bots in Team Fortress 2:
+
+[olist]
+
+[*]Launch Team Fortress 2 [/*]
+[*]Create a Server. [/*]
+[*]The number of bots you can spawn, depends on the maximum number of players allowed on the server. Change it via "Max. Players" when creating the server. Note: Not all maps support AI bots, please see wiki for a list of supported maps. [/*]
+[*]When in-game, bring up the developer console and enter "tf_bot_quota #". (The # represents how many bots you want in the game)  Alternatively you can use a method such as, "tf_bot_add red 2 sniper easy". (This would spawn 2 Snipers on the Red team, with Easy difficulty.)  [/*]
+
+[/olist]
+By default, Team Fortress 2 will automatically balance the number of players on each team so one team cannot have more than two more players than the other. You can turn this off from your developer console, by typing in mp_autoteambalance 0.
+
+For more information on bots and AI bots in Team Fortress 2 please see the official TF2 wiki page: [url=http://wiki.teamfortress.com/wiki/Bots]http://wiki.teamfortress.com/wiki/Bots[/url]
+[/section]
+
+[section id=tpb]
+
+[h2]Third-party bots[/h2]
+The following games require you to add third-party bots manually if you wish to play with them:
+
+[h5]GoldSource Games:[/h5]
+
+[list]
+
+[*]Counter-Strike [/*]
+[*]Day of Defeat [/*]
+[*]Deathmatch Classic [/*]
+[*]Ricochet [/*]
+
+[/list]
+
+[h5]Source Games:[/h5]
+
+[list]
+
+[*]Day of Defeat: Source [/*]
+[*]Half-Life 2: Deathmatch [/*]
+[*]Half-Life Deathmatch: Source [/*]
+
+[/list]
+
+You will need to search the internet for these third-party bots, or ask others in the game's respective community for any recommendations.
+[/section]

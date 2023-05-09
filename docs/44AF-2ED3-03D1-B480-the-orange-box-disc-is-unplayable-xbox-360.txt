@@ -1,0 +1,24 @@
+[h1]The Orange Box disc is unplayable (Xbox 360)[/h1]
+
+While attempting to load up The Orange Box on the XBox 360, I see an error or the disc is unresponsive.
+
+This is a symptom of the Xbox 360 not being able to read the nodegraph from the Orange Box DVD. First, clean the DVD and test the issue. If the issue persists, please do the following:
+
+[list]
+
+[*]Go to the Xbox 360 System blade > Memory > Games > The Orange Box. [/*]
+[*]After selecting The Orange Box, choose the option to Delete.
+
+[b]Warning: This will delete your saved games.[/b]
+
+[*]Here is a cheat code that will allow you to unlock all of the game chapters for any of the single player games in the Orange Box, so you can pick up where you left off. Using this cheat does not affect earning achievements.
+
+[code]Left, Left, Left, Left, LB, Right, Right, Right, Right, RB[/code] [/*]
+
+[/list]
+
+[section style=note]
+
+[h3]Note:[/h3]
+Use the Directional pad for the [b]Left[/b] and [b]Right [/b]instructions.
+[/section]

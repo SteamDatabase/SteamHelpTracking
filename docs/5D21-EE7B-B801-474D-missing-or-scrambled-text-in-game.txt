@@ -1,0 +1,23 @@
+[h1]Missing or scrambled text in-game[/h1]
+
+I cannot see the text or my text is scrambled in the game.
+
+[h3]Missing Fonts[/h3]
+This issue can occur when Windows fonts are missing or corrupt. The most common being Tahoma. Where to find your font settings differs by operating system and version, please refer to documentation for the specific operating system.
+
+[h3]Corrupt or Missing Files[/h3]
+Your games files may be corrupted or missing.  Please try [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]verifying your Game Cache Files[/url].
+
+[h3]Incorrect resolution[/h3]
+Use game launch options to launch with the command [b]-autoconfig[/b].   Please see the following article for instructions: [url=https://support.steampowered.com/kb_article.php?ref=1040-JWMT-2947]Setting Game Launch Options[/url].
+
+[h3]Missing Text in Counter-Strike[/h3]
+
+[list]
+
+[*]Launch the game. [/*]
+[*]Select [b]Options.[/b] [/*]
+[*]Select the [b]Video[/b] tab. [/*]
+[*]Set the [b]Renderer[/b] to [b]OpenGL[/b]. [/*]
+
+[/list]

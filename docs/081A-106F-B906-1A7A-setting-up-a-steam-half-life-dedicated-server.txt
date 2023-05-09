@@ -1,0 +1,249 @@
+[h1]Setting up a Steam Half-Life Dedicated Server[/h1]
+
+How do I setup a Half-Life Dedicated Server?
+
+[list]
+
+[*][url=#account]Setting up a Steam Half-Life Dedicated Server Account[/url] [/*]
+[*][url=#start]Starting the Steam Half-Life Dedicated Server[/url] [/*]
+[*][url=#options]Steam Half-Life Dedicated Server Main Options[/url] [/*]
+[*][url=#config]Steam Half-Life Dedicated Server Configuration [/url] [/*]
+[*][url=#stats]Viewing Steam Half-Life Dedicated Server Statistics[/url] [/*]
+[*][url=#kick]Kicking or Banning Players from the Server[/url] [/*]
+[*][url=#manageban]Managing Steam Half-Life Dedicated Server Bans[/url] [/*]
+[*][url=#console]Steam Half-life Dedicated Server Console[/url] [/*]
+
+[/list]
+
+[section id=account]
+
+[h4]Setting up a Steam Half-Life Dedicated Server Account[/h4]
+
+[/section]
+
+To run the Steam Half-Life Dedicated Server you must first install Steam. To install Steam click the link below: [url=http://steampowered.com/v/index.php?area=getsteamnow]Download Steam[/url]
+
+After installing Steam, you must create a Steam account to run your dedicated server. This is separate from the Steam account you normally use to play games. If you attempt to run a dedicated server from your normal Steam account, you will not be able to join your server using the same account.
+
+[section style=note]
+
+[h3]Note:[/h3]
+You do not need to register any games to your server account in order to host games.
+[/section]
+
+[section id=start]
+
+[h4]Starting the Steam Half-Life Dedicated Server[/h4]
+
+[/section]
+
+(Counter-Strike 1.6, Day of Defeat, Team Fortress Classic, Deathmatch Classic, Ricochet, Half-Life, Condition Zero)
+
+[img]{STEAM_CLAN_IMAGE}/1976/3ee25cf941ca1d269836531636e97734dceb657f.png[/img]
+
+[h5]Menu Options[/h5]
+
+[list]
+
+[*]Game:
+
+[list]
+
+[*]Counter-Strike
+
+[*]Team Fortress Classic
+
+[*]Day of Defeat
+
+[*]Deathmatch Classic
+
+[*]Ricochet
+
+[*]Half-Life
+
+[*]Condition Zero
+
+[/list]
+
+[*]Server Name: This is the title of your server. By default it is the name of the game you are hosting.
+
+[*]Map: Map selected to be played.
+
+[*]Network: Specify [b]Internet [/b]or [b]LAN[/b]. Select [b]Internet [/b]if you wish for people to be able to join your game from another location.
+
+[*]Max Players: Specifies the maximum number of people that can play on your server. [b]Range: 1-32 [/b]
+
+[*]UDP Port: Specifies the port you would like your server to use. [b]Default: 27015 [/b]
+
+[*]RCON Password: Set a password for remote access to the server.
+
+[*]Secure (Valve Anti-Cheat):
+
+[list]
+
+[*][b]Checked [/b]: VAC enabled on the server
+
+[*][b]Unchecked [/b]: VAC disabled on the server
+
+[/list]
+
+[/list]
+After adjusting the server to your liking, press the [b]Start Server [/b]button.
+
+[section id=options]
+
+[h4]Steam Half-Life Dedicated Server Main Options[/h4]
+
+[/section]
+
+[img]{STEAM_CLAN_IMAGE}/1976/813420f5ef306b2420abcfed4636af0dc5a4a5f2.png[/img]
+
+You can change all of the following values without restarting the server (to edit a value, double-click on its name):
+
+[list]
+
+[*]Server Name
+
+[*]Map
+
+[*]Network
+
+[*]RCON Password
+
+[*]Player Password: Specifies a password players must enter in order to play on your server. This is a good option to implement if you wish to play only with your friends.
+
+[*]Map Cycle: Specifies the maps you wish to play and the order in which they appear. The maps will cycle according to either your [i]Map time limit[/i] or [i]Max win[/i] settings available from the [b]Configure [/b]tab.
+[/list]
+
+[section id=config]
+
+[h4]Steam Half-Life Dedicated Server Configuration[/h4]
+
+[/section]
+
+[img]{STEAM_CLAN_IMAGE}/1976/10c32c7a51118f30cbcb8b003c2cfc08f816bfb8.png[/img]
+
+From the [b]Configure [/b]tab, you may specify how your server runs and implement various server rules.
+
+[h5]Menu Settings[/h5]
+
+[list]
+
+[*]Time limit: Specifies a time limit on each map. [b]Default [/b]no limit
+
+[*]Win limit(rounds): Specifies a limit on wins one team can have before a map change. [b]Default [/b]no limit
+
+[*]Round limit(rounds): Specifies a limit for the number of rounds you play on each map. [b]Default [/b]no limit
+
+[*]Time per round(minutes): Specifies the amount of time each round lasts. [b]Default [/b]5 minutes
+
+[*]Freeze time(seconds): Specifies the amount of time before a round starts. [b]Default [/b]6 seconds
+
+[*]Buy Time(minutes): Specifies the amount of time a buy zone is active. [b]Default [/b]1.5 minutes
+
+[*]Starting Money: Specifies the amount of money each team starts with. [b]Default [/b]$800
+
+[*]Footsteps: Specifies whether players can hear footsteps of other players. [b]Default [/b]enabled
+
+[*]Death camera type Specifies players' Camera view after dying.
+Values:
+
+[list]
+
+[*]Spectate Anyone: A player can watch any other player in the game.
+
+[*]Spectate team only A player can watch only his own team players in the game.
+
+[*]Only First Person A player can only move the camera to look in different locations while bound to where the player died. The player cannot follow other players, or move about the map freely.
+
+[*][b]Default [/b]Spectate anyone
+
+[/list]
+
+[*]Disable chase/death cam (fade to black): Death cam will fade to black. [b]Default [/b]disabled
+
+[*]Friendly fire Players can injure players on their own team. [b]Default [/b]disabled
+
+[*]Kill Team killers round after TK Specifies whether a player who kills a teammate will be killed at spawn time on the next round. [b]Default [/b]disabled
+
+[*]Kick idle and team killing (3TKs) players Players who have not moved for a set amount of time will be kicked from the server, Players who have killed 3 or more teammates will be kicked from the server. [b]Default [/b]enabled
+
+[*]Kick players who team kill at this early in the round (seconds) Specifies the amount of time that the server will kick a player for killing a team member at the beginning of a round. [b]Default [/b]5
+
+[*]Kick hostage killers (kills allowed, 0 is off) Specifies the number of hostages a player can kill before being kicked from the server. [b]Default [/b]13
+
+[*]Allow Flashlight Flashlight can be used by players. [b]Default [/b]disabled
+[/list]
+
+[section id=stats]
+
+[h4]Viewing Steam Half-Life Dedicated Server Statistics[/h4]
+
+[/section]
+
+[img]{STEAM_CLAN_IMAGE}/1976/08f036593680b2487ff07a190d50e6d131c1d475.png[/img]
+
+The Steam Half-Life Dedicated Server offers a variety of viewable statistics. You can view statistics from the most recent minute, hour, or day. To add a stat to the view, check its box on the right-hand side of the dialog box.
+
+You can change the [b]Vertical Units [/b]to display the range of any one of these stats.
+
+[h5]Display Options[/h5]
+[b]Checkboxes [/b]
+
+[list]
+
+[*]Players: Display player number statistics
+
+[*]Ping: Display server ping
+
+[*]In: Display ping in
+
+[*]Out: Display ping out
+
+[*]CPU: Display CPU usage
+
+[*]FPS: Display frames per second
+[/list]
+
+[h4]Kicking or Banning Players from the Server[/h4]
+[img]{STEAM_CLAN_IMAGE}/1976/9f520fb0ea719cdef77604017cc76bb5fe795b44.png[/img]
+
+The Players tab displays all players currently on your server. In addition to viewing players, you can also kick them from your server or ban them from your server.
+
+Kick Kicking a player will drop the player from your server. Ban You have the option to temporarily, or permanently ban players from your server. You can manually enter an IP address or use the players’ Steam ID to ban them from your server.
+
+[h4]Managing Steam Half-Life Dedicated Server Bans[/h4]
+[img]{STEAM_CLAN_IMAGE}/1976/8a46bfc3f35ce1a39a4061058c138c57acf7b6f2.png[/img]
+
+The [b]Bans[/b] tab allows you to manage those bans that are in place on your server. You can remove a ban or edit the ban’s time limit.
+
+Add To add a player via the [b]Add[/b] button, you will need the players IP address or SteamID. Remove To remove a ban, highlight the player you would like to unban, then click the [b]Remove [/b]button Edit Edit a players ban time. Import Import a ban list (if you have a downloaded a ban list, or saved a ban list from a different server you can add it to your server here.)
+
+[h4]Steam Half-Life Dedicated Server Console[/h4]
+[img]{STEAM_CLAN_IMAGE}/1976/fa03a28994b0bbc8a75940954bb8ce4d3117a264.png[/img]
+
+The console will print activity on the server, such as players joining or leaving the server, players being kicked, banned, etc…
+
+You can also enter server console commands:
+
+[i]addip (minutes) (IP) [/i]Bans a player by IP address for a specified number of minutes. Entering 0 for minutes is a permanent ban.
+
+[i]banid (minutes) (SteamID) [/i]Bans a player by SteamID for a specified number of minutes. Entering 0 for minutes is a permanent ban.
+
+[i]banid (minutes) (SteamID) kick [/i]Bans a player by SteamID for a specified number of minutes and kicks them from the server. Entering 0 for minutes is a permanent ban.
+
+[i]changelevel (map) [/i]Changes the server to the specified map. For a full list of maps, type: [i]maps * [/i]in the console.
+
+[i]dropclient (UserID) [/i]Kicks a client by their UserID. To find a full list of UserID’s on the server, type: [i]users [/i]in the console.
+
+[i]heartbeat [/i]Manually sends a heartbeat to the master server.
+
+[i]info (SteamID) [/i]Displays user information about the requested client based on SteamID.
+
+[i]kick (Player or UserID) [/i]Kicks a user by Player name, or UserID. To find a full list of UserID’s on the server, type: [i]users [/i]in the console.
+
+[i]listid [/i]Lists all SteamIDs in your server ban list.
+
+[i]listip [/i]Lists all IP addresses in your server ban list.
+
+[i]maps (partial name) [/i]Lists all maps containing a partial name, for example: [i]maps de_ [/i]would list all maps with [b]de_ [/b]in their name.

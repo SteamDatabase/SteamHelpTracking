@@ -1,0 +1,30 @@
+[h1]Checking DirectX Settings[/h1]
+
+There are a number of different types of DirectX related errors, some common ones are listed below. For DirectX related errors the best first step is to make sure you are running the most up-to-date version of it.
+
+[list]
+
+[*]Internal driver error in IDirect3DDevice9::Present() [/*]
+[*]Unable to find file d3d8.dll, ddraw.dll or d3d9.dll [/*]
+[*]Cannot initialize dinput8.dll [/*]
+[*]dplay.dll has performed an illegal operation [/*]
+[*]Fatal Exception error in dplayx.dll [/*]
+[*]Access violation error in DirectX file D3D8.DLL [/*]
+[*]A required .DLL File, D3D8.DLL, was not found [/*]
+[*]Black/blank screen [/*]
+[*]Looping audio, pulsing sound or no sound at all [/*]
+
+[/list]
+
+[h1]How can I determine the version of DirectX I am running?[/h1]
+
+[olist]
+
+[*]Press [b]Windows key + R[/b] to bring up the Run command prompt window. [/*]
+[*]Type in [b]dxdiag[/b] and click the [b]OK[/b] button to run the DirectX Diagnostic Tool. [/*]
+[*]The version of DirectX running on your machine is the last item in the [b]System Information[/b] box. [/*]
+[*]Click [b]Exit[/b] in the lower right hand corner of the window to close the DirectX Diagnostic Tool. [/*]
+
+[/olist]
+
+[h1]How do I update DirectX?[/h1]The easiest way to update DirectX is to use [url=https://support.microsoft.com/en-us/windows/windows-update-faq-8a903416-6f45-0718-f5c7-375e92dddeb2]Windows Update[/url].

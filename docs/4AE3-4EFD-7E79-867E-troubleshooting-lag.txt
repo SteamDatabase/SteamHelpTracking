@@ -1,0 +1,33 @@
+[h1]Troubleshooting Lag[/h1]
+
+I am encountering lag problems when I play - what can I do?
+
+[section style=important]For the purposes of this article, [b]lag[/b] is defined as high network latency interfering with gameplay - it is recommended that you review the [url=https://support.steampowered.com/kb_article.php?ref=9257-TUJL-7421]Troubleshooting Game Performance Issues - Software[/url] topic [b]first[/b] to ensure that your machine is optimized for gaming before reviewing the steps below to reduce lag while playing online:
+[/section]
+
+[olist]
+
+[*]
+
+[h4]Check Server Latency[/h4]
+If you are attempting to connect to a server that is geographically distant or if you are not using a high-speed connection it is important to check the server's Latency (this will appear to the left of the window in the server browser).
+
+Latency represents the amount of time it takes information to reach the server from your machine - higher latency means a greater likelihood of lag. [/*]
+[*]
+
+[h4]Check Content Server Region[/h4]
+Games such as Left 4 Dead automatically detect which region you are in, helping to determine the best server to connect you to.  You can double-check your region by starting Steam, going to [b]Steam[/b] > [b]Settings[/b] > [b]Downloads[/b] tab and under [b]Download region  [/b]and selecting the region that you are in or the one closest to you. [/*]
+[*]
+
+[h4]Examine Background Applications and Running Processes[/h4]
+Background applications - especially programs which require bandwidth (chat clients, FTP programs, web browsers, etc) - may contribute to choppy gameplay, a low framerate, and other symptoms of lag.
+
+Please see the [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which May Interfere with Steam[/url] topic for instructions to disable any unnecessary background applications before loading Steam. [/*]
+[*]
+
+[h4]Optimize Router Settings and Environment[/h4]
+It is important to maintain an appropriate environment for your router and other electronics. Ideally, your router should be in a well-ventilated area where it will not overheat. Overheating routers have been reported to cause network connectivity issues and symptoms of lag.
+
+In addition to ensuring your router is operating at optimum levels, it may be useful to forward gaming-related ports to your machine if you are the only user on your home network who will be playing Steam games. Please see the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493#ports]Required Ports for Steam[/url] list to see which Steam and game ports to forward. [/*]
+
+[/olist]

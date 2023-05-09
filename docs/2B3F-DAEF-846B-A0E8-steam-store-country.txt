@@ -1,0 +1,44 @@
+[h1]Steam Store Country[/h1]
+
+[list]
+
+[*][url=#currency]What if I moved and want to change my store country to the new location?[/url] [/*]
+[*][url=#othercountry]What if I want to purchase in a currency or region other than what is shown?[/url] [/*]
+[*][url=#newuser]What do I do if I’m a new user that is currently traveling?[/url] [/*]
+[*][url=#multiple]What if I spend time in more than one country?[/url] [/*]
+[*][url=#apo]What if I use an APO address?[/url] [/*]
+
+[/list]
+
+Your store region is set based on the location of your first Steam purchase. Your region can be found under [url=https://store.steampowered.com/account/]Account Details[/url] seen below. While traveling, the Steam store will show your region's prices and you will be able to make purchases as you would from home.
+
+[img]https://support.steampowered.com/images/faq/usercountry/storeregion2.png[/img]
+
+[h4]What if I move and want to change my store country to the new location?[/h4]
+If you have moved to a new place, or are living abroad for an extended period of time, you can update your Steam country setting when you complete your first purchase using a payment method from that region. If your location differs from your current Steam account store country setting you'll have an option to change your store region while you view your cart or as you complete your purchase.
+
+[h3][b][b]Example scenario: moving from Germany to the United States[/b][/b][/h3]
+Let’s say you’ve recently moved from Germany to the United States. When checking out you will be able to select the country in which you are currently located on the cart page.  From this page you can select the United States to update your cart, pricing, and payment method options.  After completing your purchase with a payment method from the United States your account country will be updated to the United States.
+
+[h4]What if I want to purchase in a currency or region other than what is shown?[/h4]
+Your store country must be set to the country where you currently reside and you must have a local payment method you can use to make purchases.
+
+All available payment methods in your current region are listed during the checkout process.
+
+If you are unable to make purchases in your current region, look for Steam-compatible CD Keys and/or Steam Wallet Codes available for purchase at your local gaming retail stores.
+
+[h4]What do I do if I am a new user that is currently traveling?[/h4]
+If you are a new Steam user it is not possible to temporarily change your store region to make purchases while traveling. You will need to return to your country of residence before you can set your store country.
+
+We suggest setting up your account and your store region before traveling. Doing so allows you to see the store in your country's prices and to be able to make purchases as you would normally at home.
+
+[h3][b][b]Example scenario: a permanent resident to the US creates an account in Spain[/b][/b][/h3]
+If your permanent residence is in the United States and you created a Steam account while traveling in Spain, you will not be able to set United States as your store country until you have returned home. To complete purchases while traveling in Spain, you will need to use a Spanish payment method or Steam Wallet Code.
+
+[h4]What if I spend time in more than one country?[/h4]
+You can update the store country each time you change locations as long as you use a payment method that matches your Steam country setting. Keep in mind that changing the store/Wallet country will be permanent and cannot be changed again until you move back to the other country.
+
+If you frequently move between countries, we suggest choosing the country that is your primary residence.
+
+[h4]What if I use an APO address?[/h4]
+If you are serving abroad you can update your store country to the United States by using any payment method from the United States during the checkout process. Note: Currently, physical hardware purchases on Steam cannot be shipped to APO/FPO addresses.

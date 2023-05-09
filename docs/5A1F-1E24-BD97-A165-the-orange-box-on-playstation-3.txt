@@ -1,0 +1,20 @@
+[h1]The Orange Box on PlayStation 3[/h1]
+
+Where can I find support information for the PlayStation 3 version of The Orange Box?
+
+[h4]EA Support[/h4]
+Please visit the EA Games website for support: [url=https://help.ea.com/]EA Support[/url].
+
+[h4]Game Issue: Can not connect to multiplayer servers in Team Fortress 2[/h4]
+A PlayStation Network account is required to play Team Fortress 2 Online. For more information about the PlayStation Network, please visit Sony's website: [url=https://www.playstation.com/en-us/playstation-network/]https://www.playstation.com/en-us/playstation-network/[/url]
+
+Please make sure that the following ports are open in your router's configuration settings:
+
+[list]
+
+[*][b]TCP Ports[/b]: 13505, 18450, 18455 [/*]
+[*][b]UDP Ports[/b]: 18455, 2000-5000 [/*]
+
+[/list]
+
+If you are not sure how to open ports on your router, please consult your router's instruction manual for more information.

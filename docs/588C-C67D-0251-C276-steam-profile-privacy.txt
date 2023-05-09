@@ -1,0 +1,17 @@
+[h1]Steam Profile Privacy[/h1]
+
+How do I adjust my Steam profile privacy settings?
+
+There are three states of profile privacy: Public, Friends Only, and Private. Each state has additional subcategories to control how you appear to other members of the Steam community.
+
+If you are logged in to Steam, you can change your Privacy Settings by navigating to your [url=https://steamcommunity.com/my/edit/settings]Profile Privacy Settings Page[/url].
+
+Alternatively, you can navigate to the Profile Privacy Settings page manually:
+
+[olist]
+
+[*]From your Steam Profile, click the [i]Edit Profile[/i] link under your displayed badge. [/*]
+[*]Click the [i]My Privacy Settings[/i] tab [/*]
+[*]Select your privacy state (any settings changed are saved automatically) [/*]
+
+[/olist]

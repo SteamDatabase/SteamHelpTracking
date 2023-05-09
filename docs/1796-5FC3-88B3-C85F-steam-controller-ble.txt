@@ -1,0 +1,154 @@
+[h1]Steam Controller BLE[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
+
+[h1]Bluetooth Low Energy Firmware FAQ[/h1]You can now add Bluetooth Low Energy (BLE) functionality to your Steam Controller. This feature is required to enjoy the [url=https://store.steampowered.com/steamlink/about]Steam Link app[/url], but may provide benefit in other use cases as well. This FAQ describes what this BLE connection can and cannot do compared to the original wireless solution, steps to update your controller to add BLE support, and how to switch between wireless modes once the update is installed.
+
+[list]
+
+[*]
+
+[h3][url=#use]When to use Bluetooth?[/url][/h3]
+[/*]
+[*]
+
+[h3][url=#how]How do I install this Firmware?[/url][/h3]
+[/*]
+[*]
+
+[h3][url=#switch]How do I switch modes?[/url][/h3]
+[/*]
+[*]
+
+[h3][url=#recover]Troubleshooting[/url][/h3]
+[/*]
+
+[/list]
+
+[section id=use]
+
+[h4]When is it a good idea to use Bluetooth?[/h4]
+You'll want to use BLE mode when:
+
+[list]
+
+[*]Streaming games to your iOS and Android devices with the Steam Link app. [/*]
+[*]Connecting your Steam Controller to a tablet or laptop without a USB port. [/*]
+[*]You just can't find your Steam Controller Wireless Receiver. [/*]
+
+[/list]
+
+Otherwise we suggesting sticking with the original protocol. It provides the fastest connection, with low-latency support for up to four controllers per receiver, and works across all major operating systems. The BLE connection is excellent, but the native wireless protocol was designed from the ground up to provide the best experience for a Steam Controller.
+[/section]
+
+[section id=how]
+
+[h4]How do I install this firmware?[/h4]
+Be aware that the original wireless mode will still be available after adding Bluetooth support. However, the update process will clear all pairings, so you will need to reconnect your wireless receiver to your controller. The steps below guide you through the update and pairing process.
+
+[olist]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=7021-EIAH-8669]Opt into the latest Steam Client Beta[/url] [/*]
+[*]Plug in your Steam Controller.  [/*]
+[*][url=steam://UpdateFirmware]Click here to start the firmware update flow[/url], or follow the directions below [/*]
+[*]Navigate to the Controller Settings page, find the Steam Controller you would like to update in the Detect Controllers list, and select the [b]Bluetooth FW[/b] button.  [/*]
+[img]https://support.steampowered.com/images/faq/steam_link/_0000_1---landing.png[/img]
+[*]Click [b]Start[/b] and be patient. The update may take several minutes. Interrupting the process is a bad idea. [/*]
+[img]https://support.steampowered.com/images/faq/steam_link/_0001_2---start.png[/img]
+[*]Once the firmware is installed, select [b]Learn More[/b] on the dialog - you will be taken to this knowledgebase article to learn more about the new firmware. [/*]
+[img]https://support.steampowered.com/images/faq/steam_link/_0003_4---success.png[/img]
+[*]When you’re ready to move on, exit the page and return to Controller settings. [/*]
+[*]Unplug your controller.  [/*]
+[*]Select the [b]Add a Steam Controller[/b] button on the Controller Settings page. This option only appears if a Wireless Receiver is currently plugged in. [/*]
+[*]Press [b]X + Steam Button[/b] on your controller and [b]enter the 4 character Validation Code[/b] that appears on the screen. [/*]
+
+[/olist]
+
+Congrats! You have reconnected your controller to the Wireless Receiver. Next, connect over BLE by navigating to the [b]Add Bluetooth[/b] option of your device. When prompted, press [b]Y + Steam Button[/b] on your Steam Controller to make it discoverable.
+[/section]
+
+[section id=switch]
+
+[h4]How do I switch between modes?[/h4]
+If you have already followed the instructions above, you are paired via the Steam Controller Wireless Receiver and BLE. Use the commands below to start your controller in the mode of your choice.
+
+[tr]
+[td]  			  			[img]https://support.steampowered.com/images/faq/steam_link/y_steam.png[/img]  				  		[/td]	  			  		[td]
+
+[h3]Bluetooth LE Pairing Mode[/h3]
+You’ll need to do this in order to use the Steam Link app
+
+[/td]
+[/tr]
+
+[tr]
+[td]  			  			[img]https://support.steampowered.com/images/faq/steam_link/b_steam.png[/img]  				  		[/td]	  			  		[td]
+
+[h3]Switch to Bluetooth LE mode[/h3]
+Launches controller in BLE mode
+
+[/td]
+[/tr]
+
+[tr]
+[td]  			  			[img]https://support.steampowered.com/images/faq/steam_link/x_steam.png[/img]  				  		[/td]	  			  		[td]
+
+[h3]Receiver Pairing Mode[/h3]
+Pair your controller to a new receiver
+
+[/td]
+[/tr]
+
+[tr]
+[td]  			[img]https://support.steampowered.com/images/faq/steam_link/a_steam.png[/img]  		[/td]	  			  		[td]
+
+[h3]Switch to dongle mode[/h3]
+Use your controller in Original Receiver Mode
+
+[/td]
+[/tr]
+
+[h3]Pairing to Multiple Devices[/h3]
+The Steam Controller BLE firmware can store two Bluetooth connections. Connect to the most recently used Bluetooth device by pressing [b]Steam+B[/b]. Connect to the second stored Bluetooth connection by pressing [b]Steam+Start.[/b]
+
+The firmware can also store multiple wireless receiver connections. Connect to the most recently used wireless receiver by pressing [b]Steam+A[/b]. Connect to a different stored wireless receiver by pressing [b]Steam+Back.[/b]
+
+Powering up with the Steam button only will connect you to the most recently used device and pairing mode
+
+[h3][b]Supported Operating Systems[/b][/h3]
+Bluetooth connectivity is supported in:
+
+[list]
+
+[*]Windows 10 [/*]
+[*]macOS [/*]
+[*]Ubuntu [/*]
+[*]SteamOS [/*]
+
+[/list]
+
+[/section]
+
+[section id=recover]
+
+[h4]Troubleshooting[/h4]
+If something isn't working quite right, you can revert back to the previous firmware. Navigate to the same spot in the Controller Settings page where you found the [b]Bluetooth FW[/b] button. Now you will see a [b]Rollback FW[/b] button in its place. Click that, wait a few minutes, and you should be running the previous version.
+
+A more detailed version of this process is as follows:
+
+[olist]
+
+[*]Plug in your Steam Controller. [/*]
+[*]Navigate to the Controller Settings page. The [b]Bluetooth FW[/b] button now appears as a [b]Rollback FW[/b] button. Click it. [/*]
+[img]https://support.steampowered.com/images/faq/steam_link/_0004_5---rollback-landing.png[/img]
+[*]Click [b]Start[/b] to initiate the process. [/*]
+[img]https://support.steampowered.com/images/faq/steam_link/_0005_6---rollback-dialog.png[/img]
+[*]Again, be patient. [/*]
+[img]https://support.steampowered.com/images/faq/steam_link/_0006_7---rollback-in-progress.png[/img]
+[*]Click [b]Done[/b] [/*]
+[img]https://support.steampowered.com/images/faq/steam_link/_0007_8---rollback-success.png[/img]
+[*]Reconnect your Wireless Receiver by following steps 8-10 in the section above. You have successfully restored the firmware. [/*]
+
+[/olist]
+
+[/section]

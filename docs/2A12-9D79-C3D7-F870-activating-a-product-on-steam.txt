@@ -1,0 +1,23 @@
+[h1]Activating a Product on Steam[/h1]
+
+How do I register a CD Key to activate a product on Steam?
+
+Please follow these instructions to activate a new retail purchase on Steam:
+
+[olist]
+
+[*]Launch the Steam client software and log into your Steam account.
+
+[*]Click the [b]Games[/b] menu option at the top of the Steam client.
+
+[*]Choose [b]Activate a Product on Steam...[/b]
+
+[*]Follow the onscreen instructions to complete the process.
+
+[/olist]
+
+Please see the [url=https://support.steampowered.com/kb_article.php?ref=7480-WUSF-3601]Retail CD Keys[/url] article for more info on registering keys.
+
+[h4]Register through browser[/h4]
+
+You can also register a CD key through a browser [url=https://store.steampowered.com/account/registerkey]here.[/url]

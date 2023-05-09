@@ -1,0 +1,37 @@
+[h1]How to Report a Scammer, Hijacker or Phisher[/h1]
+
+Reporting a scammer, hijacker or phisher through their Steam Profile will always be better than submitting a Steam Support ticket containing your report. A community report includes the best information about the interaction between your accounts, and is quicker to review and act on.
+
+To avoid scams in the future, ensure that you know the methods that a malicious user may use to attempt to scam. You can find detailed information in the [url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433]Scam FAQ[/url].
+
+If you are scammed, phished or hijacked, please use the Report feature built into Steam:
+
+[olist]
+
+[*]Go to the Steam profile of the offending user [/*]
+[*]Click the '...' drop-down button located at the top right of the page [/*]
+[*]Choose "Report Player" [/*]
+
+[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_4.jpg[/img]
+
+[*]Select the category of offense which best describes the behavior you are reporting. [/*]
+
+[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_1.jpg[/img]
+
+[*]Select the violation. [/*]
+
+[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_2.jpg[/img]
+
+[*]Write a short statement about your interaction with this user, and hit "Submit Report". [b]Note:[/b] You can also choose to block this user. [/*]
+
+[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_3.jpg[/img]
+[/olist]
+
+If you have been scammed, we recommend that you review Steam's [url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433]Scam FAQ[/url], the [url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454]Recommended Trading Practices[/url] article and the [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url] for more information.
+
+For information on how to safeguard an account, please read the [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url]
+[exclude_realm=china] and [url=https://steamcommunity.com/actions/ReportSuspiciousLogin]Account Phishing[/url] articles
+[/exclude_realm]
+.
+
+If you have lost items due to your account being compromised, please see the [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url] article for more information.

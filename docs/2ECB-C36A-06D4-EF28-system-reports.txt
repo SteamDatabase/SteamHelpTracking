@@ -1,0 +1,131 @@
+[h1]System Reports[/h1]
+
+System reports detail the hardware and software configuration of your machine - these reports allow our technical support department to review your machine for hardware and software conflicts to recommend solutions to crashes and other issues.
+
+[h5]Select your Operating System:[/h5]
+
+[expand type=title title="Windows"]
+
+[section style=important]
+
+[h5]Important[/h5]
+Before creating and submitting an MSINFO32 report, ensure that your copy of Windows is fully updated. See [url=https://support.microsoft.com/en-us/windows/windows-update-faq-8a903416-6f45-0718-f5c7-375e92dddeb2]Microsoft's update FAQ[/url] for more information on how to update Windows.
+[/section]
+
+[h3]Generating a MSINFO32 Report[/h3]
+Please observe the following instructions to run and save an MSINFO32 report if requested by Steam Support:
+
+[olist]
+
+[*]Please press [b]Windows Key + R[/b] to open the [b]Run[/b] Menu [/*]
+[*]Type [i]msinfo32[/i] and click [b]OK[/b] [/*]
+[*]While viewing the [b]System Summary[/b] node go to [b]File[/b] then [b]Save[/b] (Please do not use [b]Export[/b]) [/*]
+[*]Save your MSINFO32 report as [b]msinfo32.nfo[/b] on your desktop for easy access (you may delete the file once you have sent it to Steam Support) [/*]
+
+[/olist]
+
+[h3]Large File Sizes for MSINFO32 Reports[/h3]
+If there is a lot of information stored in the error logs of the MSINFO32 report, this can cause the reports to be very large in size (10+ mb). If your MSINFO32 file is particularly large, please follow these instructions to clear the error log:
+
+[olist]
+
+[*]Please hit 'Windows Key + R' to open the [b]Run[/b] Menu [/*]
+[*]Type [i]compmgmt.msc[/i] and hit [i]Enter[/i] [/*]
+
+[/olist]
+
+The ‘Computer Management’ window will now prompt you.
+
+Directly underneath the 'Computer Management' icon, you should see the category called 'System Tools'.
+
+[olist]
+
+[*]Click the [i]>[/i] box, next to 'System Tools' to expand the folder tree [/*]
+[*]Select the [i]Event Viewer[/i] category and expand [i]Windows Logs[/i] [/*]
+[*]Highlight [i]Application[/i] [/*]
+[*]Right click and select [i]Clear all Events[/i] or [i]Clear Log...[/i]
+
+[img]https://support.steampowered.com/images/faq/EventViewerClearLogs.png[/img] [/*]
+[*]When asked to Save Application Data, click [i]Clear[/i] to clear the error log and save a new instance of the report. [/*]
+[*]Attach the file to your Steam Support help request. [/*]
+
+[/olist]
+
+[section style=note]
+
+[h5]Note:[/h5]
+If possible, please submit your file directly, rather than using a hosting website.
+[/section]
+
+[/expand]
+
+[expand type=title title="macOS"]
+
+[section style=important]
+
+[h5]Important[/h5]
+Before creating and submitting an System Profiler, please ensure that your macOS installation is fully updated. See [url=https://support.apple.com/en-us/HT201541]Apple's Mac update page[/url] for more information.
+[/section]
+
+[h3]Generating a System Report[/h3]
+Please observe the following instructions to run and save an System report if requested by Steam Support
+
+[olist]
+
+[*]Open the Apple menu and click [i]"About This Mac."[/i]
+
+[img]https://support.steampowered.com/images/faq/4840-QWJX-0408/1-apple_menu.png[/img]
+
+[/*]
+[*]Click the [i]"More Info..."[/i] button at the bottom of the [i]"About This Mac"[/i] dialog.
+
+[img]https://support.steampowered.com/images/faq/4840-QWJX-0408/2-about_this_mac.png[/img]
+
+[/*]
+[*]Click the [i]"System Report..."[/i] button at the bottom of the new, detailed [i]"About This Mac"[/i] dialog. The System Information application should appear.
+
+[img]https://support.steampowered.com/images/faq/4840-QWJX-0408/3-system_profiler_basic.png[/img]
+
+[/*]
+[*]In the Menu Bar, click [i]"File" > "Save..."[/i]
+
+[img]https://support.steampowered.com/images/faq/4840-QWJX-0408/4-system_profiler_save_menu.png[/img]
+
+[/*]
+[*]The save dialog should appear. In the [i]"Save As:"[/i] field, name the file [i]SystemProfiler[/i] and select [i]"Desktop"[/i] as where it will be saved.
+
+[img]https://support.steampowered.com/images/faq/4840-QWJX-0408/5-system_profiler_save_dialog.png[/img]
+
+[/*]
+[*]Attach the file to your Steam Support help request. [/*]
+
+[/olist]
+
+[/expand]
+
+[expand type=title title="Linux"]
+
+[section id=button3-section]There are several ways to generate this report on Linux but the easiest one is to install System Profiler and Benchmark through the Ubuntu Software Center.
+[/section]
+
+In order to do this please do the following:
+
+[olist]
+
+[*]Click on the Ubuntu Software Center [/*]
+[*]In the Search field type "System Profiler" [/*]
+[*]Select "System Profiler and Benchmark" [/*]
+[*]Click on Install [/*]
+[*]Enter your password to install the program [/*]
+[*]Once downloaded click on the "System Profiler and Benchmark" icon on the left menu bar to start the program [/*]
+[*]To create the report click on "Generate Report" at the top [/*]
+[*]Uncheck Benchmarks and click on Generate [/*]
+[*]Select the location you'd like to save the HTML file and save it [/*]
+[*]Attach this HTML file to your Steam Support help request and we will be able to further assist you [/*]
+
+[/olist]
+
+[section style=note]This process can be done using the Terminal command lshw however when exporting the report in an HTML file the formatting is not as clean as using the above instructions. For the quickest and best support please use the above process.
+[/section]
+
+[/expand]

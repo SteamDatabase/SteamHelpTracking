@@ -1,0 +1,90 @@
+[h1]Slow Downloads and Connection to Content Servers[/h1]
+
+How can I troubleshoot slow downloads or connections within Steam?
+
+[h2]Is your download actually slow?[/h2]
+
+[list]
+
+[*][b]Comparing Steam download speeds to your Internet connection speed:[/b]
+Internet and other network connection speeds are typically measured in multiples of [b]bits[/b] per second. However, Steam downloads, like many other file downloads, are measured in multiples of [b]bytes[/b] per second. A [b]byte[/b] is a group of 8 bits.
+
+To compare your Steam download speed to your connection speed, you can either switch your Steam client to display download information in bits (see the how to below), or you can multiply your Steam download speed by 8. For example, if you are getting 768KB/s (kilo[b]bytes[/b] per second) as your Steam download speed, you are getting 6144Kb/s (kilo[b]bits[/b] per second) or 6 megabits per second download speed according to most Internet service providers.
+
+[b]Example download speed conversions[/b]
+
+[expand]
+
+[table]
+
+[tr]
+[th][b]Advertised Connection Speed[/b][/th]  				[th][b]Est. Max Steam Download Speed[/b][/th]
+[/tr]
+
+[tr]
+[td][b]3 megabits/second[/b][/td]  				[td][b]384 KB/S[/b][/td]
+[/tr]
+
+[tr]
+[td][b]5 megabits/second[/b][/td]  				[td][b]640 KB/S[/b][/td]
+[/tr]
+
+[tr]
+[td][b]15 megabits/second[/b][/td]  				[td][b]1.9 MB/S[/b][/td]
+[/tr]
+
+[tr]
+[td][b]20 megabits/second[/b][/td]  				[td][b]2.5 MB/S[/b][/td]
+[/tr]
+
+[tr]
+[td][b]30 megabits/second[/b][/td]  				[td][b]3.75 MB/S[/b][/td]
+[/tr]
+
+[tr]
+[td][b]50 megabits/second[/b][/td]  				[td][b]6.25 MB/S[/b][/td]
+[/tr]
+[/table]  	[b] [/b]
+[/expand]
+
+[b]How to switch Steam's download information from bytes to bits[/b]
+
+[expand]
+
+[olist]
+
+[*]Go to [b]Steam[/b] > [b]Settings[/b] > [b]Downloads[/b] tab
+
+[*]On the Downloads tab check the [b]Display download rates in bits per second[/b] box
+
+[/olist]
+
+[/expand]
+
+[b]What is your actual Internet connection speed?[/b]
+The speed displayed in your System Tray or network connection properties is typically the speed you are connected to your local area network (LAN) and does not represent the speed you are connected to the Internet at. Please refer to the materials for your connection plan or contact your Internet service provider (ISP) for information on your connection speed. You can also use one of the numerous speed testing sites available online such as [url=https://www.speedtest.net/]Speedtest[/url] or [url=http://www.dslreports.com/]DSLReports[/url] to test your connection speed. [/*]
+
+[/list]
+
+[h2]Content Servers[/h2]
+Steam uses content servers that are located all over the world. Steam attempts to select the best content server based on your location.  If Steam downloads are going slower than expected, please double check your current download region:
+
+[olist]
+
+[*]Start Steam [/*]
+[*]Go to [b]Steam[/b] > [b]Settings[/b] > [b]Downloads[/b] tab [/*]
+[*]Under [b]Download region[/b], select the region that you are in or that is closest to you. [/*]
+[*]You can also try various regions near your location to see if a better connection is available.
+
+[/*]
+
+[/olist]
+
+[h2]Third Party Applications[/h2]
+Some third-party applications can cause Steam to use incorrect content servers. Any sort of Internet security and/or packet filtering software may have a similar affect. This can also lead to connection issues. Please see the [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which Interfere with Steam[/url] guide to test the issue.
+
+[h2]Network Connectivity[/h2]
+Please follow these directions to make sure the correct ports are open and double check the list of ISP's that are known to have issues with Steam: [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url].
+
+[h2]Connection Rate[/h2]
+Ensure that your Steam connection rate is set appropriately. For more information, please see [url=https://support.steampowered.com/kb_article.php?ref=4166-TYSC-9690]Setting Client Rates[/url].

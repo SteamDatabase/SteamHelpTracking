@@ -1,0 +1,70 @@
+[h1]SteamVR Developers[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png[/img]     [h1]SteamVR Developers[/h1]Are you a developer with questions about VR development on the Steam Platform? Click one of the links or scroll down for answers to some of the most commonly asked questions:
+
+[list]
+
+[*][url=#distribute]Distribute your product on Steam[/url] [/*]
+[*][url=#sdk]Access the OpenVR SDK[/url] [/*]
+[*][url=#conversation]Join the developer conversation[/url] [/*]
+[*][url=#share]Share your VR project with others for feedback[/url] [/*]
+[*][url=#compat]How do I get my game to show up as Rift of or Vive compatible in the Steam store?[/url] [/*]
+[*][url=#settings]Where can I define my title’s VR-specific settings?[/url] [/*]
+
+[/list]
+
+[section id=distribute]
+
+[h4]Distribute your product on Steam[/h4]
+To share your VR experience on Steam, you’ll need to first enroll as a Steamworks developer. To kick off that process, please [url=https://partner.steamgames.com]create your partner profile[/url] and gain access to our SDK.
+
+You can then use [url="http://steamcommunity.com/games/593110/announcements/detail/1265922321514182595"]Steam Direct[/url] to purchase an appID* and prepare your title for launch on the Steam Store.
+
+[b]*The $100 appID purchase fee is recoupable[/b]
+[/section]
+
+[section id=sdk]
+
+[h4]Access the OpenVR SDK[/h4]
+[url=https://github.com/ValveSoftware/openvr/wiki/API-Documentation]Use the OpenVR SDK[/url] to target SteamVR. The OpenVR SDK provides greater integration to the SteamVR platform and its tools for the HTC Vive, Oculus Rift, and other OpenVR headsets. In addition, you can [url=https://partner.steamgames.com/?goto=%2Fhome%2Fsteamworks]use the Steamworks SDK[/url] to integrate Steam features such as matchmaking, Steam wallet, achievements and many other Steam features.
+[/section]
+
+[section id=conversation]
+
+[h4]Join developer conversations[/h4]
+Grab your headset and [url=https://steamcommunity.com/app/358720/discussions/]join the SteamVR Developer Hardware discussions[/url].
+
+Once you’ve joined us as a Steamworks developer, [url=http://steamcommunity.com/groups/steamworks/discussions]join the Steamworks Development discussions[/url] to talk shop about Steam distribution and the Steamworks SDK.
+[/section]
+
+[section id=share]
+
+[h4]Share your VR project with others for feedback[/h4]
+As a Steamworks developer, you can also [url=https://partner.steamgames.com/documentation/keys]make Steam keys to share your content[/url] with other developers via the Steamworks partner site.
+
+In addition, our team would love to check out what you are working on! [url=mailto:steamvrbiz@valvesoftware.com]Email us[/url] your Steamworks AppID with any other necessary build information and we’ll have a look and provide feedback.
+[/section]
+
+[section id=compat]
+
+[h4]How do I get my game to show up as Rift or Vive compatible in the Steam store?[/h4]
+To configure an app with VR support, go to your app landing page and select [b]Edit Steamworks Settings[/b] then navigate to the [b]Installation tab[/b] and then select [b]General Installation[/b].
+
+You will need to change your [b]Launch Options[/b] to one of the three types below:
+
+[list]
+
+[*][b]Launch SteamVR App[/b] - Use this for VR apps that use SteamVR. [/*]
+[*][b]Launch SteamVR Overlay[/b] - Use this for apps that supply a SteamVR dashboard overlay. [/*]
+[*][b]Launch in Other VR[/b] - Use this for apps that provide a VR mode other than SteamVR, for example those implemented using the Oculus SDK. [/*]
+
+[/list]
+
+Picking one of these three options will either present the launch option to the user or it will be applied automatically at the appropriate times when the user launches the app from their Library.
+[/section]
+
+[section id=settings]
+
+[h4]Where can I define my title’s VR-specific settings?[/h4]
+Please read our documentation page [url=https://partner.steamgames.com/doc/features/steamvr/settings]Application Settings for Virtual Reality[/url] for more information.
+[/section]

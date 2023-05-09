@@ -1,0 +1,144 @@
+[h1]Games do not run after 'Preparing to Launch'[/h1]
+
+My game isn't launching. How can I resolve this?
+
+[h3]For Windows users:[/h3]
+
+[list]
+
+[*][url=#updatewin]Update your Windows install[/url] [/*]
+[*][url=#updatedrivers]Update drivers for your computer[/url] [/*]
+[*][url=#verifycache]Verify integrity of game files[/url] [/*]
+[*][url=#interfere]Disable non-essential software[/url] [/*]
+[*][url=#sysreq]Check the game's system requirements[/url] [/*]
+
+[/list]
+
+[h3]For Linux users:[/h3]
+
+[list]
+
+[*][url=#updatelinux]Update Linux[/url] [/*]
+[*][url=#vcachelinux]Verify integrity of game files[/url] [/*]
+[*][url=#linuxinterfere]Disable non-essential Linux applications[/url] [/*]
+[*][url=#sysreqlinux]Check the game's system requirements[/url] [/*]
+
+[/list]
+
+[h3]For Mac users:[/h3]
+
+[list]
+
+[*][url=#updatemacos]Update macOS[/url] [/*]
+[*][url=#vcachemac]Verify integrity of game files[/url] [/*]
+[*][url=#macinterfere]Disable non-essential Mac applications[/url] [/*]
+[*][url=#sysreqmac]Check the game's system requirements[/url] [/*]
+
+[/list]
+
+[section style=important]Games may not launch for a number of reasons, most of which are hard to diagnose due to the number of unique hardware and software configurations users have. When it appears games aren't launching this is because they're crashing immediately after launching for various reasons, many of which can be self-solved.
+
+The information in this article is written as a general guide to help rule out common issues and should be followed after a fresh restart of your machine. If the information here does [i]not[/i] help we recommend reaching out to the game's developer for in-depth support. It may also be necessary to see a local PC technician for help with your individual configuration.
+[/section]
+
+[h1]Windows users[/h1]
+
+[section id=updatewin]
+
+[h3]Update your Windows install[/h3]
+Please visit [url=https://support.microsoft.com/]Microsoft support[/url] for instructions on how to make sure your version of Windows is fully updated. This also includes the Microsoft .NET Framework (all versions) that is available through Windows Update, as AMD Radeon drivers and certain games require the Framework to be installed and fully updated.
+[/section]
+
+[section id=updatedrivers]
+
+[h3]Update drivers for your computer[/h3]
+Make sure you have the latest drivers for the various components of your machine.
+[/section]
+
+[section id=verifycache]
+
+[h3]Verify Integrity of Game Files[/h3]
+If a game won't launch, this is often caused by corruption in your extracted game files. Please see our [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify Integrity of Game Files[/url] article for instructions on verifying the integrity of your game files.
+[/section]
+
+[section id=interfere]
+
+[h3]Disable non-essential software[/h3]
+Games may not launch if you're running software which interferes with Steam. Please see our [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which May Interfere with Steam[/url] article for detailed information on software conflicts you may be experiencing.
+
+While the article may be long, the information included is helpful in eliminating common software conflicts which may prevent games from launching.
+[/section]
+
+[section id=sysreq]
+
+[h3]Check the game's system requirements[/h3]
+Games may not launch if your machine is [i]just[/i] at or below the game's system requirements. Please compare your machine's specs against the game's system requirements on the store page, and note that a machine at or near system requirements may experience performance and/or launch issues when playing.
+[/section]
+
+[h1]Linux users[/h1]
+
+[section id=updatelinux]
+
+[h3]Update Linux[/h3]
+If you're running an older version of Linux there may be conflicts with the game you're trying to run. It is also a good idea to make sure your graphics drivers are up to date as well.
+[/section]
+
+[section id=vcachelinux]
+
+[h3]Verify integrity of game files[/h3]
+If a game won't launch this can be caused by corruption in your extracted game files. Please see our [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify Integrity of Game Files[/url] article for instructions on verifying the integrity of your game files.
+[/section]
+
+[section id=linuxinterfere]
+
+[h3]Disable non-essential Linux applications[/h3]
+Games may not launch if you're running software which interferes with Steam. Please see our [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which May Interfere with Steam[/url] article for detailed information on software conflicts you may be experiencing.
+[/section]
+
+[section id=sysreqlinux]
+
+[h3]Check the game's system requirements[/h3]
+First, double-check that the game or DLC is specifically available for Linux. Even if the game is available for Linux, games may not launch if your machine is [i]just[/i] at or below the game's system requirements. Please compare your machine's specs against the game's system requirements on the store page, and note that a machine at or near system requirements may experience performance and/or launch issues when playing.
+
+If game itself does not support Linux but you are trying to run it using the [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Steam Play Proton[/url] feature for Linux, we recommend checking the [url=https://steamcommunity.com/app/221410/discussions/8/]Steam Play community discussion[/url] forum as other users may have encountered the same problem and have suggestions. You can also report any bugs you find when using Steam Play to the [url=https://github.com/ValveSoftware/Proton]Valve - Proton Github[/url] bug database using a [url=https://github.com/]GitHub account[/url]. This database is regularly reviewed by the Valve development team.
+
+[/section]
+
+[h1]Mac users[/h1]
+
+[section id=updatemacos]
+
+[h3]Update macOS[/h3]
+If you're running an older version of macOS there may be conflicts with the game you're trying to run. To update macOS:
+
+[list]
+
+[*]Click on the [b]Apple[/b] in the corner of your screen, then choose [b]System Preferences[/b] [/*]
+[*]Select [b]Software Update[/b] [/*]
+[*]Click [b]Update Now[/b] or [b]Upgrade Now[/b] to proceed with updating [/*]
+
+[/list]
+
+[/section]
+
+[section id=vcachemac]
+
+[h3]Verify integrity of game files[/h3]
+If a game won't launch this is often caused by corruption in your extracted game files. Please see our [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify Integrity of Game Files[/url] article for instructions on verifying the integrity of your game files.
+[/section]
+
+[section id=macinterfere]
+
+[h3]Disable non-essential Mac applications[/h3]
+Please disable non-essential background applications that may interfere with Steam.
+
+Some common Mac software that is known to interfere with Steam includes [b]Little Snitch[/b], [b]Peer Guardian[/b] and [b]Norton/Symantec Internet Security[/b].
+
+If you have enabled the internal Mac firewall, this may also interfere.
+[/section]
+
+[section id=sysreqmac]
+
+[h3]Check the game's system requirements[/h3]
+First, double-check that the game or DLC is specifically available for Mac. Even if the game is available for Mac, games may not launch if your machine is [i]just[/i] at or below the game's system requirements. Please compare your machine's specs against the game's system requirements on the store page, and note that a machine at or near system requirements may experience performance and/or launch issues when playing.
+[/section]

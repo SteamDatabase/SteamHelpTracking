@@ -1,0 +1,167 @@
+[h1]CS:GO - Competitive cooldowns and bans[/h1]
+
+[section style=warning]Counter-Strike: Global Offensive cooldowns and bans are non-negotiable and cannot be removed or reduced by Steam Support.
+
+If an automated cooldown or ban is determined to have been issued incorrectly, it will automatically be rolled back by our servers. If you wish to discuss this system with the community, you may do so [url=http://steamcommunity.com/app/730/discussions/]here[/url].
+[/section]
+
+[h2]Competitive cooldowns:[/h2]
+
+[list]
+
+[*][url=#whycool]Why are Competitive cooldowns issued?[/url] [/*]
+
+[list]
+
+[*][url=#server]Failing to stay connected to the server[/url] [/*]
+[*][url=#newplayer]New players may win two Competitive matches in 24 hours[/url] [/*]
+[*][url=#kicker]Kicking too many teammates[/url] [/*]
+[*][url=#kickee]Being kicked from too many matches[/url] [/*]
+[*][url=#abandon]Abandoning matches[/url] [/*]
+[*][url=#afk]Being AFK or not participating in matches[/url] [/*]
+[*][url=#grief]Receiving too many in-game reports for griefing[/url] [/*]
+
+[/list]
+
+[*][url=#removecool]Can my Competitive cooldown be removed?[/url] [/*]
+[*][url=#length]How long will my Competitive cooldown last?[/url] [/*]
+[*][url=#level]How do I determine my current cooldown level?[/url] [/*]
+
+[/list]
+
+[h2]Ban information:[/h2]
+
+[list]
+
+[*][url=#vacbans]VAC bans[/url] [/*]
+[*][url=#gameban]Game bans[/url] [/*]
+[*][url=#gslt]GSLT bans[/url] [/*]
+[*][url=#familyban]Bans through Steam Family Sharing[/url] [/*]
+
+[/list]
+
+[section id=whycool]
+
+[h2]Why are Competitive cooldowns issued?[/h2]
+Competitive cooldowns exist to ensure that Counter-Strike matches are enjoyable for all players on the server. When a player commits actions which negatively impact the match and players in the match, they may receive a Competitive cooldown which keeps them from playing Ranked and Unranked matchmaking for a set period of time.
+
+Competitive cooldowns will be issued regardless of whether or not an infraction was intentional and explicit warnings are given to players before committing an action that will result in a cooldown.
+
+Competitive cooldowns are issued for the following reasons:
+[/section]
+
+[section id=server]
+
+[h2]Failing to stay connected to the server[/h2]
+Any player who cannot remain connected or reconnect to the server in time will receive a Competitive cooldown. This may be caused by network, technical, or local issues with your machine, but any time a player leaves a Competitive server and does not reconnect in time a Competitive cooldown will be issued.
+
+If you are experiencing network or technical issues that are causing Competitive cooldowns we suggest troubleshooting those issues before attempting to play another Competitive match. Please see our [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] help article for more information.
+[/section]
+
+[section id=newplayer]
+
+[h2]New players may win two Competitive matches in 24 hours[/h2]
+New players may win 2 Competitive matches in 24 hours before receiving an intentional Competitive cooldown. This cooldown exists to limit the impact new accounts can have on Ranked and Unranked matchmaking.
+
+After 10 Competitive wins the new player cooldown is removed and there is no limit to the number of Competitive wins you may earn in 24 hours.
+[/section]
+
+[section id=kicker]
+
+[h2]Kicking too many teammates[/h2]
+Competitive cooldowns are issued to players who kick too many teammates in Competitive matches. Regardless of if you called the vote or only pressed 'F1' to kick the player, doing this too often will result in a Competitive cooldown for your account.
+
+Cooldowns for kicking too many teammates are [i]only[/i] issued to players abusing the vote kick option. We have a number of systems in place to ensure these types of cooldowns are issued correctly, and if you find yourself playing with abusive teammates we suggest reporting them in-game instead; calling votes to kick a teammate should only be done in extreme circumstances.
+[/section]
+
+[section id=kickee]
+
+[h2]Being kicked from too many matches[/h2]
+If you are kicked from too many Competitive matches your account will receive a Competitive cooldown. Like kicking too many teammates, there are systems in place to ensure cooldowns of this kind are [i]only[/i] issued to players being kicked an excessive amount.
+[/section]
+
+[section id=abandon]
+
+[h2]Abandoning matches[/h2]
+Explicit warnings are shown to players who wish to abandon Competitive matches. Choosing to abandon an incomplete Competitive match will result in a Competitive cooldown for your account.
+
+Users experiencing network or technical issues may be disconnected from Competitive matches, resulting in a cooldown for abandoning or failing to reconnect to the match in time.
+[/section]
+
+[section id=afk]
+
+[h2]Being AFK or not participating in matches[/h2]
+A player in a Competitive match who is AFK or not participating may be removed by the server. When this happens a Competitive cooldown will also be issued. If you find yourself needing to step away we recommend asking your teammates to call a timeout.
+[/section]
+
+[section id=grief]
+
+[h2]Receiving too many in-game reports for griefing[/h2]
+Players receiving an excessive number of in-game reports for griefing may receive a Competitive cooldown. A number of safeguards are in place to ensure these kinds of cooldowns cannot be abused.
+[/section]
+
+[section id=removecool]
+
+[h2]Can my Competitive cooldown be removed?[/h2]
+No. Regardless of the reason a Competitive cooldown was issued they cannot be removed from an account. You will need to wait for the cooldown to expire before you can again queue for Competitive matches.
+[/section]
+
+[section id=length]
+
+[h2]How long will my Competitive cooldown last?[/h2]
+Competitive cooldowns in CS:GO have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking:
+
+[list]
+
+[*]First cooldown (level 1) - lasts 30 minutes. [/*]
+[*]Second cooldown (level 2) - lasts 2 hours. [/*]
+[*]Third cooldown (level 3) - lasts 24 hours. [/*]
+[*]Fourth cooldown (level 4) - lasts 1 week. [/*]
+
+[/list]
+A week of clean play will reduce an account's cooldown level by one. An account whose cooldown level has been reduced to level 2 through clean play would receive a level 3 (24 hour) cooldown on their next infraction.
+
+Please note that cooldown levels can exceed level 4. Players whose cooldown level exceeds level 4 will need an extended period of clean play to have their cooldown level reduce beneath level 3.
+[/section]
+
+[section id=level]
+
+[h2]How do I determine my current cooldown level?[/h2]
+Your current cooldown level can be determined by the length of the last cooldown you have received:
+
+[list]
+
+[*]My last cooldown lasted 30 minutes - you are currently at level 1. [/*]
+[*]My last cooldown lasted 2 hours - you are currently at level 2. [/*]
+[*]My last cooldown lasted 24 hours - you are currently at level 3. [/*]
+[*]My last cooldown lasted one week - you are currently at level 4 (or above). [/*]
+
+[/list]
+
+[/section]
+
+[section id=vacbans]
+
+[h2]VAC bans[/h2]
+Players who have been VAC banned can find information in the [url=https://support.steampowered.com/kb_article.php?ref=4044-QDHJ-5691]I've been VAC banned[/url] help article. Additional information regarding VAC can be found in the [url=https://support.steampowered.com/kb_article.php?ref=7849-Radz-6869]Valve Anti-Cheat System (VAC)[/url] help article.
+[/section]
+
+[section id=gameban]
+
+[h2]Game bans[/h2]
+Game bans are issued when a player attempts to circumvent or interfere with game systems to the detriment of others.
+
+Detailed information about Game bans can be found in our [url=https://help.steampowered.com/en/faqs/view/4E54-0B96-D0A4-1557]I've been game banned[/url] help article.
+[/section]
+
+[section id=gslt]
+
+[h2]GSLT bans[/h2]
+GSLT (Game Server Login Token) bans will be issued to server operators offering false inventories and/or profiles as a free or paid service via mods on their servers. More information about GSLT bans can be found in the [url=https://support.steampowered.com/kb_article.php?ref=7791-UAFZ-3767]GSLT ban[/url] help article.
+[/section]
+
+[section id=familyban]
+
+[h2]Bans through Steam Family Sharing[/h2]
+Your [url=https://support.steampowered.com/kb_article.php?ref=3784-QLBM-5731]Family Sharing[/url] privileges may be revoked and your account may be VAC banned if your Steam Family Sharing Library is used by others to conduct cheating or fraud. Additionally, VAC-banned games cannot be shared with other accounts
+[/section]

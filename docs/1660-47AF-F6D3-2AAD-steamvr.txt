@@ -1,0 +1,25 @@
+[h1]SteamVR[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png[/img]   [h1]SteamVR[/h1]SteamVR is a full-featured, 360-degree room-scale VR experience. Experience high-end VR paired with everything you love about Steam.
+
+[url=https://store.steampowered.com/app/250820/SteamVR/]  	[img]https://support.steampowered.com/steamvr/HTC_Vive/images/steamvr button.png[/img]  [/url]    [url=https://support.steampowered.com/steamvr/HTC_Vive/]  	  		[img]https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Landing_Installation.png[/img]
+
+[h2]HTC Vive: Installation Guide[/h2]
+Learn how to set up HTC VIVE and SteamVR.
+
+[/url]      	[url=https://support.steampowered.com/kb_article.php?ref=7770-WRUP-5951]
+
+[h2]SteamVR FAQ[/h2]
+Get answers to common questions about SteamVR.
+
+[/url]        	[url=https://support.steampowered.com/kb_article.php?ref=8566-SDZC-9326]
+
+[h2]SteamVR Troubleshooting[/h2]
+Having trouble with your HTC VIVE or SteamVR? Find your issue here and learn how it can be resolved.
+
+[/url]        	[url=https://support.steampowered.com/kb_article.php?ref=1131-WSFG-3320]
+
+[h2]SteamVR Developers[/h2]
+Learn more about our SDK, shipping your experience on Steam, and setting up your VIVE Pre Development Kit.
+
+[/url]

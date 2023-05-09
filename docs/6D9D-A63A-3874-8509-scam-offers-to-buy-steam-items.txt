@@ -1,0 +1,66 @@
+[h1]Scam: Offers to buy Steam items[/h1]
+
+[section style=warning][b]Outside of what's offered in the [url=https://steamcommunity.com/market/]Steam Community Marketplace[/url], buying or selling items lies outside of [url=https://help.steampowered.com/en/faqs/view/18A5-167F-C27B-64A0]Steam's recommended trading practices[/url].[/b]
+
+The Steam Trading system used to trade items between accounts is intended for trades where all value being transferred is included in a single trading window. If you choose to trade items to someone else for nothing or little in return, you're taking a risk by doing so, and Steam Support will not be able to recover your items if you get scammed.
+
+An offer to buy items or a backpack for cash is very often the opening of a scam intended to get you to trade your items for nothing in return.
+
+[/section]
+
+[h1]General scam avoidance[/h1]
+While some scammers may target Steam users or reference Steam, Steam games, or Valve as part of their scam, it's important to know that these types of online scams are not unique to Steam. Maintaining healthy skepticism in online interactions is important for preventing scams regardless of the platform.
+
+[h1]Identifying the Scam[/h1]
+
+[list]
+
+[*]Item purchasing scammers will often approach you through a Steam Comment with an offer to discuss the price of an item shown on your profile or if your backpack is publicly visible.
+
+[*]Scam offers are often of higher value than you'd expect in order to entice you into hearing the scammer out.
+
+[*]Some item purchasing scammers will focus on one or two of your items but offer an unreasonably large sum for your entire inventory.
+
+[*]Ultimately, consider that direct item purchasing outside of the Steam Market is unsupported for several reasons. If you make a mistake, the other party disputes their purchase, or the trade ends up being a scam in any way, you will not be compensated by Steam for the lost items.
+
+[/list]
+
+[h1]Preventing the Scam[/h1]
+
+[h5]Don't trade your items for nothing in return[/h5]
+
+You can't be scammed in this way if you don't engage in risky trades. In order for a trade to be supported by Steam, 100% of the value being exchanged must be present in a single Steam Trading exchange.
+
+[h5]Unrealistic offers are likely scams[/h5]
+
+While some scammers may use accurate values to try to demonstrate knowledge and build trust, most item purchasing scams occur because the potential victim is enticed and ignores scam indicators because of an unrealistically high offer.
+
+[h5]Check your inventory privacy[/h5]
+
+If you're not interested in trading your items with others, setting your backpack to Private or Friends Only will reduce the likelihood of being targeted by scammers.
+
+[h5]Payment invoices provided by someone else are likely fabricated[/h5]
+
+PayPal, cryptocurrency, or other invoices or documentation provided by another party are easy to fabricate and should be ignored.
+
+Even if the invoice is real, many online payment services allow purchases to be disputed.
+
+A scammer may even complete what looks like a legitimate payment to you, but using a stolen payment account that will be disputed and returned to its owner.
+
+[h5]Anyone trying to explain how reputable they are probably isn't[/h5]
+
+Some Steam users use +Rep comments or other fabricated and easily manipulated systems to try to show how reputable they are to encourage you to trust them. Ultimately, if someone is doing something trustworthy and entirely within Steam's rules, they should not need to try to convince you of their reputation.
+
+[h5]Never follow links to unknown sites[/h5]
+
+Some item purchasing scammers will express they don't trust you and request the transaction is brokered by a site or individual they claim is reputable. It's likely anyone asking you to pass your items through an external site is simply trying to phish your account's credentials, or scam the item using a fake site/service.
+
+[h1]Reporting Scammers[/h1]
+
+[h5]Reporting Steam accounts used to scam[/h5]
+
+[url=https://help.steampowered.com/faqs/view/4D07-D139-587C-2080]Report[/url] any Steam accounts involved in the scam. If a friend's account is involved their account is likely stolen. Your report will help Steam identify and lock down the stolen account until its owner recovers it.
+
+[h5]Reporting any external chat, voice, or email accounts involved in the scam[/h5]
+
+If the scammer spoke to you using any non-Steam accounts, you can use that application's own reporting tools to help them identify the scammer accounts and prevent their misuse.

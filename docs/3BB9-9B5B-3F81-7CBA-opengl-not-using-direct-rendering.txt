@@ -1,0 +1,24 @@
+[h1]OpenGL not using direct rendering[/h1]
+
+What do I do if OpenGL is not using direct rendering?
+
+OpenGL allows for different methods of handling sending rendering commands.  Direct rendering is often faster and more desirable, so the Linux Steam client checks to see which mode OpenGL is running in when it starts.  If it sees that OpenGL is running indirectly it will display a warning to let you know that you may want to change your configuration to allow it to run directly and thus usually with better performance.  There are a few reasons why OpenGL may not be able to use direct rendering:
+
+[olist]
+
+[*]If you are running over a remote connection.  In this case it is required to use indirect rendering. [/*]
+[*]If your OpenGL binaries or driver are misconfigured, for example if your 32-bit and 64-bit OpenGL libraries are incorrectly set up.  This can happen if you have switched between compatibility and native OpenGL libraries, or if an installation or driver update failed or applied itself improperly.
+
+[list]
+
+[*]In order to test whether this is an issue on your system you'll need to open a terminal window and locate the 32-bit version of glxinfo.  When you run glxinfo the first few lines will say whether direct rendering is supported or not.  glxinfo may also print warnings which might relate to the problem, such as a driver version mismatch.  As Steam is a 32-bit binary it is important to make sure you're running the 32-bit glxinfo when you do this to match how Steam uses OpenGL.  If you do not have a 32-bit glxinfo you can install the mesa-utils:i386 package. [/*]
+[*]Another way to gather useful diagnostic info is to find glxinfo and see what it will load.  You can use 'which glxinfo' to find your glxinfo binary and then 'ldd glxinfo' to determine which OpenGL libraries will be loaded for it (this is also a way to distinguish a 32-bit glxinfo from a 64-bit one).  Check the dependency list to see what libGL.so and driver binaries are being used and this may show mismatches or unexpected dependencies which could shed light on why OpenGL is not running in direct rendering mode. [/*]
+[*]Finally, setting the environment variable LIBGL_DEBUG=verbose can help diagnose OpenGL issues, so that output may give some clues. [/*]
+
+[/list]
+[/*]
+[*]On some systems your user must be part of the 'video' group.  If there is a video group and you are not a member try joining the group, logging out and logging back in and see if that helps. [/*]
+
+[/olist]
+
+Uninstalling and reinstalling your video driver is one way to try and get a fresh configuration and may correct problems such as version mismatches between kernel and user components.

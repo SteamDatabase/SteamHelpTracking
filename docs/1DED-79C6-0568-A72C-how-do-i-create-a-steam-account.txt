@@ -1,0 +1,26 @@
+[h1]How do I create a Steam account?[/h1]
+
+[url id=client][/url]
+
+[h2]Using the Steam application:[/h2]
+
+[olist]
+
+[*]Create a new Steam account by downloading and installing the Steam application (please follow the link below to download the application):
+
+[url=http://store.steampowered.com/about/]http://store.steampowered.com/about/[/url] [/*]
+[*]Click the "Create a New Account..." button from the Steam login page and follow the prompts [/*]
+
+[/olist]
+
+[url id=website][/url]
+
+[h2]Using the Steam website:[/h2]
+
+[olist]
+
+[*]Go to the following website: [url=https://store.steampowered.com/login/]https://store.steampowered.com/login/[/url] [/*]
+[*]Click on "Join Steam" [/*]
+[*]Follow the prompts to create your account [/*]
+
+[/olist]

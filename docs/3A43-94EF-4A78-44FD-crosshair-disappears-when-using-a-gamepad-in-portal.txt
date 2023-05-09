@@ -1,0 +1,9 @@
+[h1]Crosshair disappears when using a gamepad in Portal[/h1]
+
+When I'm using a gamepad in Portal, my crosshair disappears. What's wrong?
+
+To re-enable the crosshair, bring down the console by pressing the ~ key (by default) in game and then typing in the following command and pressing enter:
+
+[code]crosshair 1[/code]
+
+For more information about enabling and using the console, please follow [url=https://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]this guide[/url].

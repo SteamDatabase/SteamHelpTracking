@@ -1,0 +1,26 @@
+[h1]Steam Community Artwork[/h1]
+
+On most Community Hubs you can find an Artwork tab where you can post or discover all kinds of artwork associated with your favorite Steam games.
+
+[h2]How do I add artwork to Steam?[/h2]
+To upload artwork, go to the related Community Hub's Artwork tab and look for the "Upload Artwork" button at the top right.
+
+[b]Note:[/b] this button will not show up if you do not have the associated game in your Library.
+
+[h2]What artwork is acceptable to upload?[/h2]
+The artwork you post must be your own creation. Do not post the work of other people. Instead, please encourage them to post it.
+
+It must be directly related to the game you are associating it with. Random gifs and unrelated imagery will be removed.
+
+Note: Respect your fellow community members by not posting any inappropriate artwork, including but not limited to, racism, sexual content or nudity, or gore. This work and any copyright or stolen material should be reported and will be removed.
+
+[h2]Why has my artwork been marked as incompatible?[/h2]
+If your artwork has been marked as incompatible that means a member of Steam Support found it to be unrelated to the hub or inappropriate in some way. It will no longer be seen on the hub, but will remain viewable to you and your friends from your profile.
+
+[h2]Why has my artwork been banned?[/h2]
+If your artwork has been banned that means a member of Steam Support found it to violate the Steam Terms of Service. It will no longer be seen on the hub, and will be viewable only to you from your profile. Commonly banned items include: offensive content (e.g. racism), pornography (e.g. pornographic sprays/decals), stolen artwork, etc.
+
+[h2]How do I report a piece of artwork?[/h2]
+From the hub, click on the artwork to open the pop up window and select "Report" from the options drop down (the gear icon on the right.)
+
+From the artwork’s detail page, click "Flag" icon in the bar directly beneath the image.

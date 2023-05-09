@@ -1,0 +1,7 @@
+[h1]Steam for Linux might not run on older processors[/h1]
+
+I have an older machine and when I try to run Steam for Linux, it won't even start. What's wrong?
+
+The Steam for Linux client requires a processor that supports [url=http://en.wikipedia.org/wiki/SSE2]SSE2[/url]. If your processor does not support SSE2, the Steam client will not run. If you run the Steam client from the command-line, you will  see an illegal instruction exception caused by the lack of SSE2 support.
+
+In order to run Steam for Linux you will need to upgrade to a processor that supports SSE2.

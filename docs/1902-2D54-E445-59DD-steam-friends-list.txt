@@ -1,0 +1,64 @@
+[h1]Steam Friends List[/h1]
+
+Your friends list allows you to manage and access all of your friends on Steam.  The amount of friends that can be added to your list is initially capped at 250. Leveling your Steam profile increases the cap by 5 friends for every level earned.
+
+[h1]Adding friends[/h1]
+Every account on Steam can receive friend invites.  However [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]limited user[/url] accounts cannot send friend invites.
+
+There are many ways to add friends.
+
+[list]
+
+[*]Search the community for other players
+
+[*]Create and share an invite link with other players
+
+[*]Navigate directly to another profile and select 'add friend'
+
+[/list]
+
+Go to your account's [url=https://steamcommunity.com/friends/add]friend management page[/url] to manage your friend's list.
+
+[h1]Troubleshooting friend issues[/h1]
+If you're having issues adding another player as a friend, it could be one of the following issues:
+
+[h1]Accounts not permitted to add friends[/h1]
+If your account is considered [b][url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited[/url][/b], you wont be able to send invites
+
+[h1]Pending invites not accepted[/h1]
+Once an invite is sent, the other player will have a pending invite in their own friends list. You should double check with the other user to make sure that they received it. You should also make sure that you are sending the invite to the correct player.
+
+[h1]Someone is blocked[/h1]
+It's always possible that the other user has ignored or blocked your invite. If this is the case, it might appear to you that the system is not working as intended. You'll want to check with the other player to see if this is the case.
+
+Steam Support will not bypass friend blocks or disclose if someone else blocked you.
+
+[h1]Someone has reached max friends[/h1]
+If either player has reached maximum friend count, no new invites will be received or sent.
+
+Keep in mind that friend count includes not only players on your friends list, but also any outstanding invites that you have sent. Cancelling outstanding sent invites will free up room for more friends.
+
+[h1]How to unblock a user[/h1]
+If you've accidentally blocked someone and would like to unblock, you can use either of the following methods:
+
+[h3]Unblocking via friends list[/h3]
+
+[list]
+
+[*]In the Steam application, click on [i]Friends & Chat[/i] in the lower-right corner.
+
+[*]If the blocked user is still in your friends list, you can find them in the list and it will show [i]Blocked[/i] under their name
+
+[*]Right-click on the user and select [i]Manage[/i] > [i]Unblock All Communication[/i]
+[/list]
+
+[h3]Unblocking via your profile:[/h3]
+
+[list]
+
+[*]From your Steam profile page, select [i]Friends[/i], and then navigate to the [i]Blocked[/i] tab on the left side of the page
+
+[*]Click the [i]Manage Blocked List[/i] button
+
+[*]Check the user(s) that you would like to unblock and click the [i]Unblock[/i] button
+[/list]

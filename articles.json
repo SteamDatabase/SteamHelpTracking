@@ -1,0 +1,2204 @@
+{
+    "13459463794168699": {
+        "title": "Your credit card information has been declined by your credit card company due to an incorrect address being entered",
+        "url_code": "002F-D14F-9E51-937B",
+        "version": 5,
+        "timestamp": "2021-08-24 20:02:52"
+    },
+    "67508337958896005": {
+        "title": "CS:GO - Trust Factor Matchmaking",
+        "url_code": "00EF-D679-C76A-C185",
+        "version": 5,
+        "timestamp": "2021-10-27 21:42:40"
+    },
+    "110456628157286625": {
+        "title": "Setting Steam Launch Options",
+        "url_code": "0188-6BB7-D467-08E1",
+        "version": 5,
+        "timestamp": "2021-08-04 17:44:31"
+    },
+    "134719327308099899": {
+        "title": "Self Locking Tool",
+        "url_code": "01DE-9E83-B094-313B",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "172754100318855391": {
+        "title": "Touch Controls",
+        "url_code": "0265-BEF0-5EFF-60DF",
+        "version": 3,
+        "timestamp": "2021-07-21 20:53:56"
+    },
+    "187864036051131770": {
+        "title": "Revoked CD Keys",
+        "url_code": "029B-6D58-6EE6-1D7A",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "212782258328879768": {
+        "title": "Linux Source Dedicated Server on FreeBSD",
+        "url_code": "02F3-F456-2A32-C298",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "258297692838653570": {
+        "title": "Case Sensitive Filesystems not supported on Mac",
+        "url_code": "0395-A862-13F3-6E82",
+        "version": 5,
+        "timestamp": "2021-12-03 19:44:18"
+    },
+    "296180920002045980": {
+        "title": "Team Fortress 2 - Free to Play",
+        "url_code": "041C-3EFA-3DF8-681C",
+        "version": 7,
+        "timestamp": "2021-08-18 19:04:12"
+    },
+    "304198226935724578": {
+        "title": "Dota - Low Priority Matchmaking",
+        "url_code": "0438-BAAC-F9CE-BA22",
+        "version": 5,
+        "timestamp": "2021-12-02 23:54:26"
+    },
+    "337359420261323109": {
+        "title": "Valve Hardware RMA Guide",
+        "url_code": "04AE-8A9A-F64E-D165",
+        "version": 8,
+        "timestamp": "2022-02-24 22:44:18"
+    },
+    "376565511221600873": {
+        "title": "Steam Controller FAQ",
+        "url_code": "0539-D456-5B06-E269",
+        "version": 5,
+        "timestamp": "2021-08-12 20:24:54"
+    },
+    "442469429570524299": {
+        "title": "How Can I Get My Game on Steam?",
+        "url_code": "0623-F79A-1585-548B",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "455923927508665537": {
+        "title": "CS:GO - Play on worldwide servers from China with a worldwide license",
+        "url_code": "0653-C465-7FC1-44C1",
+        "version": 5,
+        "timestamp": "2021-08-12 20:05:53"
+    },
+    "462593103816411357": {
+        "title": "CS:GO - Viewer Passes",
+        "url_code": "066B-75FA-1C85-C8DD",
+        "version": 6,
+        "timestamp": "2021-10-27 23:30:11"
+    },
+    "470756531795269941": {
+        "title": "Dota 2 Workshop - Character Art Guide",
+        "url_code": "0688-7692-4D5A-1935",
+        "version": 5,
+        "timestamp": "2021-12-02 22:35:27"
+    },
+    "471035972120482034": {
+        "title": "Steam Remote Play",
+        "url_code": "0689-74B8-92AC-10F2",
+        "version": 7,
+        "timestamp": "2022-01-28 21:46:06"
+    },
+    "481927930167436620": {
+        "title": "Steam Guard",
+        "url_code": "06B0-26E6-2CF8-254C",
+        "version": 5,
+        "timestamp": "2021-08-09 18:18:49"
+    },
+    "517430071990120014": {
+        "title": "Dota 2 - League Tickets",
+        "url_code": "072E-47E8-B513-6E4E",
+        "version": 7,
+        "timestamp": "2021-08-12 20:19:54"
+    },
+    "553749440390020427": {
+        "title": "CS:GO - GSLT Bans",
+        "url_code": "07AF-502E-A104-BD4B",
+        "version": 5,
+        "timestamp": "2021-08-17 17:47:22"
+    },
+    "578010788365722146": {
+        "title": "No Steam content servers are currently configured to deliver content for this game",
+        "url_code": "0805-81BF-E4E1-E222",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "583797173729499770": {
+        "title": "Setting up a Steam Half-Life Dedicated Server",
+        "url_code": "081A-106F-B906-1A7A",
+        "version": 14,
+        "timestamp": "2021-12-16 21:50:15"
+    },
+    "608766580454522467": {
+        "title": "Accessing the Desktop in SteamOS",
+        "url_code": "0872-C5FA-C31E-FE63",
+        "version": 4,
+        "timestamp": "2021-08-11 22:51:49"
+    },
+    "646087698021628335": {
+        "title": "Steam Play",
+        "url_code": "08F7-5D56-9654-39AF",
+        "version": 4,
+        "timestamp": "2021-07-21 21:18:46"
+    },
+    "649421164836354824": {
+        "title": "Half-Life: Alyx - Streaming/Spectating Guide",
+        "url_code": "0903-351B-CFB0-FB08",
+        "version": 4,
+        "timestamp": "2021-08-17 18:01:44"
+    },
+    "680734852422460974": {
+        "title": "Steam macOS 10.11 and 10.12 Support",
+        "url_code": "0972-74BD-D8DE-662E",
+        "version": 1,
+        "timestamp": "2023-04-03 20:08:44"
+    },
+    "692687445472482627": {
+        "title": "Half-Life: Alyx FAQ",
+        "url_code": "099C-EB8F-C7C2-9543",
+        "version": 4,
+        "timestamp": "2021-07-24 19:32:09"
+    },
+    "693261672931936120": {
+        "title": "Installing Steam",
+        "url_code": "099E-F5D1-8780-4778",
+        "version": 7,
+        "timestamp": "2021-08-09 16:23:42"
+    },
+    "693634028272873365": {
+        "title": "CS:GO - Trusted Mode",
+        "url_code": "09A0-4879-4353-EF95",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "694090166050414025": {
+        "title": "Steam Wallet Gift Card Scam",
+        "url_code": "09A1-E754-1D86-DDC9",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "762501453500979592": {
+        "title": "Recovering a Stolen or Hijacked Steam Account",
+        "url_code": "0A94-F308-34A5-1988",
+        "version": 4,
+        "timestamp": "2021-08-09 18:29:26"
+    },
+    "885235219122197483": {
+        "title": "Verify Integrity of Game Files",
+        "url_code": "0C48-FCBD-DA71-93EB",
+        "version": 5,
+        "timestamp": "2021-08-09 18:23:29"
+    },
+    "913451504419250277": {
+        "title": "Steam Wishlist",
+        "url_code": "0CAD-3B4D-B874-A065",
+        "version": 7,
+        "timestamp": "2021-10-27 22:58:59"
+    },
+    "923052218959003952": {
+        "title": "Dota 2 Workshop - Account Preparation for Workshop Item Submission",
+        "url_code": "0CCF-571A-4430-0130",
+        "version": 13,
+        "timestamp": "2021-12-03 19:10:32"
+    },
+    "1015616261575127752": {
+        "title": "Offline Mode",
+        "url_code": "0E18-319B-E34B-B2C8",
+        "version": 4,
+        "timestamp": "2021-08-09 21:47:16"
+    },
+    "1040623370678964577": {
+        "title": "Retail CD Keys",
+        "url_code": "0E71-0971-324A-1161",
+        "version": 5,
+        "timestamp": "2021-08-02 18:14:59"
+    },
+    "1045408767405771538": {
+        "title": "Setting up a Steam Source Dedicated Server",
+        "url_code": "0E82-09BC-324C-CB12",
+        "version": 9,
+        "timestamp": "2021-12-02 22:55:41"
+    },
+    "1120798639422331823": {
+        "title": "Team Fortress 2 Replay Server Overview",
+        "url_code": "0F8D-E06C-9F82-5BAF",
+        "version": 7,
+        "timestamp": "2022-04-21 20:57:51"
+    },
+    "1130490359376509857": {
+        "title": "Steam Controller",
+        "url_code": "0FB0-4EFE-04A3-FBA1",
+        "version": 4,
+        "timestamp": "2021-08-12 20:23:31"
+    },
+    "1158486557366884452": {
+        "title": "Dota 2 Workshop - Contract Only Submissions",
+        "url_code": "1013-C562-D0EB-1864",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "1163544522416469001": {
+        "title": "How to remotely manage your library using  Steam\u2019s Remote Downloads feature",
+        "url_code": "1025-BD94-12FC-3409",
+        "version": 6,
+        "timestamp": "2021-08-02 19:14:18"
+    },
+    "1166099635598618949": {
+        "title": "Failed to create D3D Device",
+        "url_code": "102E-D170-B891-7145",
+        "version": 5,
+        "timestamp": "2021-08-09 23:02:40"
+    },
+    "1179493280080598391": {
+        "title": "VALVE Index System Requirements",
+        "url_code": "105E-66E3-962A-1577",
+        "version": 4,
+        "timestamp": "2021-07-26 20:57:48"
+    },
+    "1230678365821384580": {
+        "title": "Steam Client Troubleshooting on Linux",
+        "url_code": "1114-3F74-0B8A-B784",
+        "version": 4,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "1231050348534963552": {
+        "title": "Steam Trade Offers",
+        "url_code": "1115-91C5-050C-1D60",
+        "version": 4,
+        "timestamp": "2021-08-12 20:56:28"
+    },
+    "1281012404870241244": {
+        "title": "Third-Party Game Support",
+        "url_code": "11C7-11FE-C128-DBDC",
+        "version": 8,
+        "timestamp": "2021-10-06 23:48:15"
+    },
+    "1340151801933239152": {
+        "title": "Error: Maximum Number of Groups Reached",
+        "url_code": "1299-2CF6-A354-9370",
+        "version": 3,
+        "timestamp": "2021-08-02 18:37:34"
+    },
+    "1441334659516646678": {
+        "title": "Right-handed and Left-handed Models",
+        "url_code": "1400-A63C-7EF2-C516",
+        "version": 4,
+        "timestamp": "2021-08-12 20:57:25"
+    },
+    "1446728062608946696": {
+        "title": "Screen goes black in the Direct Intervention chapter of Half-Life 2: Episode One",
+        "url_code": "1413-CF82-0265-3608",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "1455697461566617374": {
+        "title": "Peer-to-Peer Networking and Sharing Your IP Address",
+        "url_code": "1433-AD20-F11D-B71E",
+        "version": 4,
+        "timestamp": "2021-08-12 21:02:02"
+    },
+    "1466764269478160266": {
+        "title": "Optimus and Steam for Linux",
+        "url_code": "145A-FE54-F37B-278A",
+        "version": 4,
+        "timestamp": "2021-08-10 21:16:23"
+    },
+    "1490283970781686375": {
+        "title": "SteamVR FAQ",
+        "url_code": "14AE-8D60-24E6-AA67",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "1530972104146240417": {
+        "title": "SteamVR Troubleshooting (Vive)",
+        "url_code": "153F-1B04-6CAB-43A1",
+        "version": 9,
+        "timestamp": "2021-08-13 18:55:49"
+    },
+    "1535806094126375793": {
+        "title": "Licenses to Run and Broadcast DOTA 2 Events",
+        "url_code": "1550-4781-6C48-6371",
+        "version": 5,
+        "timestamp": "2021-10-07 15:30:10"
+    },
+    "1544926568350143403": {
+        "title": "Repairing Disk Permissions on Mac",
+        "url_code": "1570-AE87-4E92-D3AB",
+        "version": 5,
+        "timestamp": "2021-08-10 22:10:10"
+    },
+    "1563625177232679631": {
+        "title": "Dota 2 Workshop - Hero Wearable Items",
+        "url_code": "15B3-1CD0-72CF-A2CF",
+        "version": 4,
+        "timestamp": "2021-08-12 21:02:53"
+    },
+    "1602292496370380643": {
+        "title": "Setting Client Rates",
+        "url_code": "163C-7C89-406E-2F63",
+        "version": 7,
+        "timestamp": "2021-10-26 20:18:55"
+    },
+    "1612367487684520621": {
+        "title": "SteamVR",
+        "url_code": "1660-47AF-F6D3-2AAD",
+        "version": 4,
+        "timestamp": "2021-07-26 21:55:09"
+    },
+    "1613106792545854478": {
+        "title": "Contested Steam account ownership",
+        "url_code": "1662-E814-CA77-240E",
+        "version": 4,
+        "timestamp": "2021-07-21 21:25:02"
+    },
+    "1616742204002961995": {
+        "title": "Dota 2 Workshop - Item FAQ",
+        "url_code": "166F-D277-FAFA-8A4B",
+        "version": 9,
+        "timestamp": "2021-08-24 22:38:40"
+    },
+    "1683464241602868157": {
+        "title": "Samsung TV Steam Link App",
+        "url_code": "175C-DDCE-F0CF-B3BD",
+        "version": 6,
+        "timestamp": "2022-09-22 18:20:07"
+    },
+    "1699651202795685983": {
+        "title": "Steam Controller BLE",
+        "url_code": "1796-5FC3-88B3-C85F",
+        "version": 4,
+        "timestamp": "2021-07-26 21:59:50"
+    },
+    "1718946021060084326": {
+        "title": "SteamVR + Oculus Rift",
+        "url_code": "17DA-EC4C-7D5B-8266",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "1775850366047052960": {
+        "title": "Recommended Trading Practices",
+        "url_code": "18A5-167F-C27B-64A0",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "1802052643531872733": {
+        "title": "Steam Friends List",
+        "url_code": "1902-2D54-E445-59DD",
+        "version": 5,
+        "timestamp": "2021-08-02 19:52:26"
+    },
+    "1859693572039101176": {
+        "title": "Failed to Contact Key Server",
+        "url_code": "19CE-F573-6077-CAF8",
+        "version": 6,
+        "timestamp": "2021-08-11 22:09:32"
+    },
+    "1875393469890568146": {
+        "title": "Pure server: file [GAME]\\pak01_001.vpk does not match the server's file",
+        "url_code": "1A06-BC6C-B2EA-1FD2",
+        "version": 4,
+        "timestamp": "2021-08-04 17:26:44"
+    },
+    "1941446215599928099": {
+        "title": "Index Base Station & Lighthouse Tracking",
+        "url_code": "1AF1-670B-FF5C-3323",
+        "version": 4,
+        "timestamp": "2021-07-26 22:06:18"
+    },
+    "1964164149307655285": {
+        "title": "Achievements Disappear in Portal (Xbox 360)",
+        "url_code": "1B42-1CE3-200A-4475",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "1977623338980027315": {
+        "title": "Steam Deck Recovery Instructions",
+        "url_code": "1B71-EDF2-EB6D-2BB3",
+        "version": 8,
+        "timestamp": "2023-01-03 18:56:13"
+    },
+    "2020460277170598642": {
+        "title": "Resources for APIs, Source SDK, Mapping, and Dedicated Servers",
+        "url_code": "1C0A-1DEA-CF8A-72F2",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2059425740868674023": {
+        "title": "An unexpected error has occurred. Your purchase has not been completed.",
+        "url_code": "1C94-8CCC-CDC5-E1E7",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2117106199044775995": {
+        "title": "Dota 2 Workshop - Music Packs",
+        "url_code": "1D61-78DF-01D7-603B",
+        "version": 9,
+        "timestamp": "2021-12-02 21:14:50"
+    },
+    "2129689670173640493": {
+        "title": "How to Send Wallet Codes For Steam Support",
+        "url_code": "1D8E-2D78-B084-C72D",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2156513687981565740": {
+        "title": "How do I create a Steam account?",
+        "url_code": "1DED-79C6-0568-A72C",
+        "version": 4,
+        "timestamp": "2021-08-10 17:05:13"
+    },
+    "2181246272387907316": {
+        "title": "Voice Chat Connection and Quality Issues",
+        "url_code": "1E45-57ED-9153-7EF4",
+        "version": 5,
+        "timestamp": "2021-08-12 21:09:32"
+    },
+    "2241594507127334767": {
+        "title": "E-Mail Verification",
+        "url_code": "1F1B-BE53-E7CA-A76F",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2250072158781331272": {
+        "title": "Programs Which May Interfere with Steam",
+        "url_code": "1F39-DCB4-FF28-5748",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2266645717020580679": {
+        "title": "Steam Levels and XP",
+        "url_code": "1F74-BE45-3AAC-1B47",
+        "version": 5,
+        "timestamp": "2021-10-28 01:02:21"
+    },
+    "2268468941081009710": {
+        "title": "Unable to log in to Steam using a web browser",
+        "url_code": "1F7B-387B-A923-DE2E",
+        "version": 5,
+        "timestamp": "2021-08-05 18:59:16"
+    },
+    "2345305381509849804": {
+        "title": "Restoring SteamOS",
+        "url_code": "208C-32D1-8AB4-E2CC",
+        "version": 4,
+        "timestamp": "2021-10-28 02:00:20"
+    },
+    "2383043331485284870": {
+        "title": "Linux Steam client unable to open a connection to X",
+        "url_code": "2112-4548-B98B-3A06",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2424762422016217099": {
+        "title": "Account Deletion - Common Questions",
+        "url_code": "21A6-7C93-6CFE-100B",
+        "version": 4,
+        "timestamp": "2022-04-13 03:40:53"
+    },
+    "2447017403138275934": {
+        "title": "Update & Installation Issues",
+        "url_code": "21F5-8D5D-0141-7A5E",
+        "version": 7,
+        "timestamp": "2021-08-12 19:57:54"
+    },
+    "2454794093843389788": {
+        "title": "USBDeview",
+        "url_code": "2211-2E38-E843-1D5C",
+        "version": 4,
+        "timestamp": "2021-08-10 19:10:20"
+    },
+    "2489182133973989222": {
+        "title": "Team Fortress 2 Workshop",
+        "url_code": "228B-59F6-6CC4-B766",
+        "version": 8,
+        "timestamp": "2021-10-28 00:27:57"
+    },
+    "2504005587630228712": {
+        "title": "Disconnected by VAC: You cannot play on secure servers",
+        "url_code": "22C0-03D0-AE4B-04E8",
+        "version": 6,
+        "timestamp": "2021-08-12 19:49:00"
+    },
+    "2548068556033019130": {
+        "title": "Dota 2 - Item Drops",
+        "url_code": "235C-8ED9-F9B0-CCFA",
+        "version": 6,
+        "timestamp": "2021-12-02 23:49:06"
+    },
+    "2646334668964795145": {
+        "title": "CS:GO - Graffiti",
+        "url_code": "24B9-AB5C-4C72-9309",
+        "version": 4,
+        "timestamp": "2021-08-06 20:55:25"
+    },
+    "2650174118772637433": {
+        "title": "Steam for Linux might not run on older processors",
+        "url_code": "24C7-4F51-DE60-7EF9",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2652784778746300889": {
+        "title": "Saving a Screenshot",
+        "url_code": "24D0-95B3-82BC-89D9",
+        "version": 8,
+        "timestamp": "2021-08-02 23:36:41"
+    },
+    "2684841433549559402": {
+        "title": "Using Launch Settings for Video and Display Problems",
+        "url_code": "2542-790F-14F8-D66A",
+        "version": 5,
+        "timestamp": "2021-08-03 23:30:47"
+    },
+    "2769590072922235898": {
+        "title": "Dota 2 Workshop - Low Violence Items",
+        "url_code": "266F-8F7F-55FA-63FA",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2796289223589124788": {
+        "title": "Retrying a failed purchase - saved shopping cart",
+        "url_code": "26CE-6A3B-C548-5AB4",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2814370121932126635": {
+        "title": "How to manage the use of cookies",
+        "url_code": "270E-A6B6-F83C-B9AB",
+        "version": 5,
+        "timestamp": "2021-10-28 00:24:06"
+    },
+    "2818492806024508181": {
+        "title": "Your account has been blocked from participating in the Steam Community.",
+        "url_code": "271D-4C46-2915-B315",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2840792390513569699": {
+        "title": "Steam Client Beta",
+        "url_code": "276C-85A0-C531-AFA3",
+        "version": 4,
+        "timestamp": "2023-03-03 03:12:51"
+    },
+    "2859480059376889989": {
+        "title": "CS:GO - Operation Riptide",
+        "url_code": "27AE-E9F6-BD78-F085",
+        "version": 6,
+        "timestamp": "2021-12-06 22:50:38"
+    },
+    "2888705562129272812": {
+        "title": "SteamID, Steam Account Names, Merging Accounts and Deleting Accounts",
+        "url_code": "2816-BE67-5B69-0FEC",
+        "version": 4,
+        "timestamp": "2021-08-10 20:53:34"
+    },
+    "2940507034125666005": {
+        "title": "Dota 2 - Fantasy Leagues",
+        "url_code": "28CE-C791-6C99-06D5",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "2998508916530583734": {
+        "title": "Dota 2 Workshop - Item Shader Masks",
+        "url_code": "299C-D7F9-09A5-98B6",
+        "version": 6,
+        "timestamp": "2021-10-28 01:43:57"
+    },
+    "2999597443984448879": {
+        "title": "Dota 2 Workshop - Wards",
+        "url_code": "29A0-B5FB-95DC-DD6F",
+        "version": 8,
+        "timestamp": "2021-12-03 19:12:21"
+    },
+    "3001355762314666642": {
+        "title": "Steam Client Troubleshooting",
+        "url_code": "29A6-F529-F956-6292",
+        "version": 7,
+        "timestamp": "2022-03-16 23:36:31"
+    },
+    "3021186137557380008": {
+        "title": "Game is not available on your current platform",
+        "url_code": "29ED-68C9-0171-2BA8",
+        "version": 4,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3031658645476079728": {
+        "title": "Activating a Product on Steam",
+        "url_code": "2A12-9D79-C3D7-F870",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3063901153905004841": {
+        "title": "A Steam account already exists with that contact email address",
+        "url_code": "2A85-29DD-C16A-D129",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3079909816009962279": {
+        "title": "Dota 2 Workshop - Hero Ability Models",
+        "url_code": "2ABE-09A8-DB83-3327",
+        "version": 7,
+        "timestamp": "2021-08-18 19:57:26"
+    },
+    "3116450189417357544": {
+        "title": "Steam Store Country",
+        "url_code": "2B3F-DAEF-846B-A0E8",
+        "version": 4,
+        "timestamp": "2022-07-27 17:31:51"
+    },
+    "3121143267482147157": {
+        "title": "Half-Life and Source Game Servers Overview",
+        "url_code": "2B50-8743-E760-1955",
+        "version": 8,
+        "timestamp": "2021-12-02 23:35:10"
+    },
+    "3154948633515378370": {
+        "title": "Managing HLDS Server Resources",
+        "url_code": "2BC8-A111-0949-C6C2",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3165264747722062098": {
+        "title": "DirectX Installs with every game",
+        "url_code": "2BED-4784-8C0A-3912",
+        "version": 4,
+        "timestamp": "2021-08-12 19:42:19"
+    },
+    "3171155790013657367": {
+        "title": "Steam Gifts",
+        "url_code": "2C02-3563-B72F-F117",
+        "version": 6,
+        "timestamp": "2021-07-28 00:13:37"
+    },
+    "3205687863149959036": {
+        "title": "Refresh Rate and VSYNC",
+        "url_code": "2C7C-E420-87D5-977C",
+        "version": 6,
+        "timestamp": "2021-10-27 21:50:34"
+    },
+    "3333363759393270903": {
+        "title": "Harmonized System Codes",
+        "url_code": "2E42-7CAD-A1CB-EC77",
+        "version": 1,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3345787685456414980": {
+        "title": "Trade and Market Confirmations",
+        "url_code": "2E6E-A02C-5581-8904",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3362022290398196203": {
+        "title": "Required Ports for Steam",
+        "url_code": "2EA8-4D75-DA21-31EB",
+        "version": 5,
+        "timestamp": "2022-04-18 18:45:33"
+    },
+    "3363261774082873484": {
+        "title": "NVIDIA Shield",
+        "url_code": "2EAC-B4C3-A2DC-188C",
+        "version": 3,
+        "timestamp": "2021-08-19 19:40:07"
+    },
+    "3372003606165516072": {
+        "title": "System Reports",
+        "url_code": "2ECB-C36A-06D4-EF28",
+        "version": 7,
+        "timestamp": "2022-03-16 01:08:38"
+    },
+    "3404481548165460199": {
+        "title": "Reporting suspected cheaters",
+        "url_code": "2F3F-25EE-2AC6-30E7",
+        "version": 13,
+        "timestamp": "2022-02-17 22:38:17"
+    },
+    "3441687720737367382": {
+        "title": "Streaming Videos on Steam",
+        "url_code": "2FC3-54BF-465F-E556",
+        "version": 7,
+        "timestamp": "2021-12-02 22:56:52"
+    },
+    "3453689899482173588": {
+        "title": "Dota Plus FAQ",
+        "url_code": "2FED-F8AA-46FD-5094",
+        "version": 4,
+        "timestamp": "2021-10-28 01:08:15"
+    },
+    "3456374830860450845": {
+        "title": "Steam-Issued Activation Keys",
+        "url_code": "2FF7-8298-9409-BC1D",
+        "version": 5,
+        "timestamp": "2021-08-05 19:37:53"
+    },
+    "3494694514230243911": {
+        "title": "Valve Hardware Return Packaging Guide",
+        "url_code": "307F-A625-1F33-3247",
+        "version": 6,
+        "timestamp": "2022-07-12 16:33:17"
+    },
+    "3525060389150609709": {
+        "title": "Removing and Reinstalling Steam on a Mac",
+        "url_code": "30EB-87BF-531F-512D",
+        "version": 4,
+        "timestamp": "2021-08-12 19:30:55"
+    },
+    "3529734239162292442": {
+        "title": "SteamVR Chaperone FAQ",
+        "url_code": "30FC-2296-D4CD-58DA",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3550465691586434288": {
+        "title": "Steam Coupons",
+        "url_code": "3145-C9BC-3E38-94F0",
+        "version": 5,
+        "timestamp": "2021-08-05 19:49:16"
+    },
+    "3572937782894981723": {
+        "title": "Scam: I Have Been Reported and Will Be Banned",
+        "url_code": "3195-9FFB-BA06-F25B",
+        "version": 7,
+        "timestamp": "2023-04-28 17:40:58"
+    },
+    "3604181186886179526": {
+        "title": "CS:GO - Competitive Skill Groups and Profile Rank",
+        "url_code": "3204-9FB1-967F-1AC6",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3669649665256659864": {
+        "title": "Steam Remote Play Audio Setup",
+        "url_code": "32ED-36ED-8BC1-1B98",
+        "version": 6,
+        "timestamp": "2021-10-27 23:50:40"
+    },
+    "3694187790818368155": {
+        "title": "Steam is already running",
+        "url_code": "3344-6439-1D50-5A9B",
+        "version": 8,
+        "timestamp": "2021-08-05 19:57:40"
+    },
+    "3719054496656610265": {
+        "title": "Valve Hardware Shipping FAQ",
+        "url_code": "339C-BC5C-3D89-53D9",
+        "version": 6,
+        "timestamp": "2022-07-27 17:28:34"
+    },
+    "3728425755129504368": {
+        "title": "Dota 2 Workshop - Item UV Mapping",
+        "url_code": "33BE-0778-61E9-6270",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3792569919739876523": {
+        "title": "Steam Trade and Market Holds",
+        "url_code": "34A1-EA3F-83ED-54AB",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "3839505547814736911": {
+        "title": "Steam Deck - Network + WiFi Troubleshooting",
+        "url_code": "3548-A9F4-02A3-940F",
+        "version": 1,
+        "timestamp": "2022-06-16 22:45:15"
+    },
+    "3843832090999931729": {
+        "title": "Available disk space decreases every time a game is run",
+        "url_code": "3558-08EB-D84C-4351",
+        "version": 4,
+        "timestamp": "2021-08-12 17:33:15"
+    },
+    "3935089029032042202": {
+        "title": "EU/UK Right of Withdrawal and Steam Refunds",
+        "url_code": "369C-3E9F-76FD-DEDA",
+        "version": 6,
+        "timestamp": "2022-02-03 14:06:57"
+    },
+    "3959187196950733952": {
+        "title": "Submitting A Network Activity Report",
+        "url_code": "36F1-DBC7-6985-E480",
+        "version": 7,
+        "timestamp": "2021-12-02 23:31:29"
+    },
+    "3965521571861153503": {
+        "title": "Dota 2 Workshop - Cursor Packs",
+        "url_code": "3708-5CDB-FFEE-C6DF",
+        "version": 4,
+        "timestamp": "2021-10-28 02:08:01"
+    },
+    "3973712895894748003": {
+        "title": "Steam's Big Picture mode",
+        "url_code": "3725-76D3-3F31-FB63",
+        "version": 6,
+        "timestamp": "2021-12-17 18:43:24"
+    },
+    "4047821285747258830": {
+        "title": "Installing SteamOS",
+        "url_code": "382C-C003-5B3A-F5CE",
+        "version": 4,
+        "timestamp": "2021-08-10 16:39:18"
+    },
+    "4086435168742248526": {
+        "title": "Half-Life: Alyx - Performance Tips",
+        "url_code": "38B5-EF22-968B-904E",
+        "version": 5,
+        "timestamp": "2021-08-10 16:48:06"
+    },
+    "4096898012648484583": {
+        "title": "Scam: Report Bot Services",
+        "url_code": "38DB-1B09-44EA-AEE7",
+        "version": 1,
+        "timestamp": "2023-04-28 17:41:40"
+    },
+    "4109375360473964749": {
+        "title": "Team Fortress 2 Replays",
+        "url_code": "3907-6F1E-31CB-20CD",
+        "version": 6,
+        "timestamp": "2022-04-21 20:56:44"
+    },
+    "4126508409841133534": {
+        "title": "Recovering a Lost or Forgotten Steam Account",
+        "url_code": "3944-4D89-1B3E-27DE",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4141067743344458745": {
+        "title": "Steam Community Overlay",
+        "url_code": "3978-072C-18DF-FBF9",
+        "version": 4,
+        "timestamp": "2021-08-10 19:05:05"
+    },
+    "4191372603585165667": {
+        "title": "Failed to Start Game (Missing Executable)",
+        "url_code": "3A2A-BF2D-15FF-7963",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4198363033106924797": {
+        "title": "Crosshair disappears when using a gamepad in Portal",
+        "url_code": "3A43-94EF-4A78-44FD",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4282557254890196260": {
+        "title": "Steam Item Restoration Policy",
+        "url_code": "3B6E-B322-2400-8D24",
+        "version": 4,
+        "timestamp": "2022-07-06 20:35:43"
+    },
+    "4285668986312724366": {
+        "title": "TF2 Mann vs Machine Server Overview",
+        "url_code": "3B79-C13C-9214-0F8E",
+        "version": 3,
+        "timestamp": "2021-10-27 22:48:17"
+    },
+    "4303641735138999482": {
+        "title": "OpenGL not using direct rendering",
+        "url_code": "3BB9-9B5B-3F81-7CBA",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4313486523894558837": {
+        "title": "My Items Are Missing or Were Stolen",
+        "url_code": "3BDC-9523-C02B-7075",
+        "version": 5,
+        "timestamp": "2021-08-16 17:40:55"
+    },
+    "4355984667845853798": {
+        "title": "Uninstall Steam",
+        "url_code": "3C73-90F9-F600-0266",
+        "version": 9,
+        "timestamp": "2021-08-16 19:57:14"
+    },
+    "4401621164100598477": {
+        "title": "Valve Hardware Compliance",
+        "url_code": "3D15-B320-C20E-BACD",
+        "version": 5,
+        "timestamp": "2022-05-20 00:50:29"
+    },
+    "4422431794336645612": {
+        "title": "Installing Steam for Linux on an NTFS Partition",
+        "url_code": "3D5F-A249-30D4-41EC",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4448975342267632853": {
+        "title": "Unsupported Video Cards on Mac",
+        "url_code": "3DBD-EF80-8A55-8CD5",
+        "version": 4,
+        "timestamp": "2021-12-16 21:52:01"
+    },
+    "4449523428990370888": {
+        "title": "Surround Sound does not Function in Source Games",
+        "url_code": "3DBF-E1FB-ECBF-C448",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4467803444565209988": {
+        "title": "Dota 2 Workshop - Submitting Items",
+        "url_code": "3E00-D38F-B793-7384",
+        "version": 8,
+        "timestamp": "2021-10-27 22:50:31"
+    },
+    "4484950172723160530": {
+        "title": "Steam Link - Suggested Network Settings",
+        "url_code": "3E3D-BE6B-787D-A5D2",
+        "version": 6,
+        "timestamp": "2021-08-28 00:52:17"
+    },
+    "4493131959423850177": {
+        "title": "How do I diagnose and report network problems?",
+        "url_code": "3E5A-CFB6-2269-D6C1",
+        "version": 7,
+        "timestamp": "2021-08-12 19:07:21"
+    },
+    "4507533753106874573": {
+        "title": "CS:GO - Communication Penalties",
+        "url_code": "3E8D-FA11-0704-C0CD",
+        "version": 4,
+        "timestamp": "2023-04-25 23:06:47"
+    },
+    "4517485828743518799": {
+        "title": "Dota 2 Workshop - Authoring Arcana, Ability, and Ambient Textures",
+        "url_code": "3EB1-556D-341E-5A4F",
+        "version": 5,
+        "timestamp": "2021-10-28 01:24:11"
+    },
+    "4540816117086373196": {
+        "title": "Manually Updating the Steam Link",
+        "url_code": "3F04-3833-414D-454C",
+        "version": 7,
+        "timestamp": "2022-07-14 00:25:27"
+    },
+    "4625403633206248922": {
+        "title": "Steam Community Groups",
+        "url_code": "4030-BC19-140F-45DA",
+        "version": 6,
+        "timestamp": "2021-10-27 20:54:19"
+    },
+    "4648201692040865776": {
+        "title": "Scam: Join a Tournament",
+        "url_code": "4081-BACF-CA77-27F0",
+        "version": 1,
+        "timestamp": "2023-04-28 17:41:03"
+    },
+    "4656875171981542682": {
+        "title": "Providing Proof of Ownership",
+        "url_code": "40A0-8B4B-B54B-C51A",
+        "version": 10,
+        "timestamp": "2021-12-17 18:35:19"
+    },
+    "4739332223502729502": {
+        "title": "Steam Controller Setup",
+        "url_code": "41C5-7D8C-1671-411E",
+        "version": 4,
+        "timestamp": "2021-08-12 18:56:56"
+    },
+    "4749747457379821545": {
+        "title": "Steam Controller Troubleshooting",
+        "url_code": "41EA-7E25-B1F0-67E9",
+        "version": 6,
+        "timestamp": "2021-08-12 20:24:44"
+    },
+    "4767326052454259607": {
+        "title": "CS:GO - I've been Overwatch banned",
+        "url_code": "4228-F1C9-4D00-5B97",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4804102756223097641": {
+        "title": "How do I get my Server to be VAC Secure?",
+        "url_code": "42AB-9A00-E927-1B29",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4882140089320502590": {
+        "title": "How Can I Get My Film/Video/Tutorial on Steam?",
+        "url_code": "43C0-D88B-67A4-753E",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4895292587004348258": {
+        "title": "Unpredictable Server Browser behavior",
+        "url_code": "43EF-92AB-E7FF-4762",
+        "version": 4,
+        "timestamp": "2021-08-10 17:04:58"
+    },
+    "4916736414384177194": {
+        "title": "How do I disable Compatibility Mode?",
+        "url_code": "443B-C1B8-0998-C02A",
+        "version": 6,
+        "timestamp": "2021-08-10 17:06:27"
+    },
+    "4926790029447666731": {
+        "title": "Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.",
+        "url_code": "445F-796D-B42A-1C2B",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4949225999340516480": {
+        "title": "The Orange Box disc is unplayable (Xbox 360)",
+        "url_code": "44AF-2ED3-03D1-B480",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "4980583936977817852": {
+        "title": "Trading and Market Restrictions",
+        "url_code": "451E-96B3-D194-50FC",
+        "version": 6,
+        "timestamp": "2022-05-06 09:16:04"
+    },
+    "5000804919641806138": {
+        "title": "Installing a game from a disc",
+        "url_code": "4566-6D94-3A46-953A",
+        "version": 6,
+        "timestamp": "2021-08-10 17:23:00"
+    },
+    "5005778094718027296": {
+        "title": "Installed games are appearing as uninstalled",
+        "url_code": "4578-18A7-C819-8620",
+        "version": 8,
+        "timestamp": "2023-03-07 17:57:24"
+    },
+    "5013452754937210096": {
+        "title": "Using the Steam Backup Feature",
+        "url_code": "4593-5CB7-DC3C-64F0",
+        "version": 6,
+        "timestamp": "2021-08-10 17:11:35"
+    },
+    "5089678068093323384": {
+        "title": "Steam Trading",
+        "url_code": "46A2-2B3C-95CC-8878",
+        "version": 6,
+        "timestamp": "2021-08-24 22:41:51"
+    },
+    "5097348725505969731": {
+        "title": "Steam Local Network Game Transfers",
+        "url_code": "46BD-6BA8-B012-CE43",
+        "version": 6,
+        "timestamp": "2023-03-28 23:53:14"
+    },
+    "5098924744398475990": {
+        "title": "SteamVR Developers",
+        "url_code": "46C3-050A-2E52-12D6",
+        "version": 7,
+        "timestamp": "2021-09-21 23:59:38"
+    },
+    "5103341103616735335": {
+        "title": "Using a Router with Steam",
+        "url_code": "46D2-B5B1-F0B9-B867",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "5105759183209843173": {
+        "title": "Banned by Game Developer (Game Ban)",
+        "url_code": "46DB-4CEC-F7E9-49E5",
+        "version": 6,
+        "timestamp": "2022-01-18 21:41:56"
+    },
+    "5116319035402673629": {
+        "title": "Console",
+        "url_code": "4700-D10E-26BE-DDDD",
+        "version": 10,
+        "timestamp": "2021-08-12 21:14:25"
+    },
+    "5153330920041840650": {
+        "title": "Windows 7 and Windows 8 Support",
+        "url_code": "4784-4F2B-1321-800A",
+        "version": 2,
+        "timestamp": "2023-03-28 20:36:16"
+    },
+    "5176960817306965865": {
+        "title": "About Steam Deck Virtual Conference",
+        "url_code": "47D8-426F-43B2-9769",
+        "version": 4,
+        "timestamp": "2021-11-12 16:13:57"
+    },
+    "5225891241141224776": {
+        "title": "How do I download and install custom or user-made maps for my Source and Gold Source games?",
+        "url_code": "4886-1865-570C-4548",
+        "version": 7,
+        "timestamp": "2021-08-10 22:47:29"
+    },
+    "5242650211871460280": {
+        "title": "Configuring a router for multiple clients",
+        "url_code": "48C1-A297-4839-8BB8",
+        "version": 7,
+        "timestamp": "2021-08-10 23:04:24"
+    },
+    "5297571435246367730": {
+        "title": "Steam and Games - Language Settings",
+        "url_code": "4984-C127-121D-B3F2",
+        "version": 4,
+        "timestamp": "2021-08-10 16:32:49"
+    },
+    "5297764887600884460": {
+        "title": "Credit Card Verification",
+        "url_code": "4985-7118-B4FC-EAEC",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "5373038115128222050": {
+        "title": "CS:GO 360 Stats",
+        "url_code": "4A90-DDB2-B8DA-2162",
+        "version": 4,
+        "timestamp": "2022-03-18 17:46:15"
+    },
+    "5396243629175572094": {
+        "title": "Troubleshooting Lag",
+        "url_code": "4AE3-4EFD-7E79-867E",
+        "version": 5,
+        "timestamp": "2021-12-16 21:51:10"
+    },
+    "5413219293543562779": {
+        "title": "Adding a Phone Number to a Dota Account",
+        "url_code": "4B1F-9E44-5AF4-7E1B",
+        "version": 6,
+        "timestamp": "2021-11-03 22:12:11"
+    },
+    "5415491538769492073": {
+        "title": "Checking DirectX Settings",
+        "url_code": "4B27-B0DC-AC7D-3869",
+        "version": 5,
+        "timestamp": "2021-07-12 21:44:52"
+    },
+    "5430067765539313116": {
+        "title": "Steam Servers Are Currently Unavailable or Too Busy",
+        "url_code": "4B5B-79DC-EF45-15DC",
+        "version": 5,
+        "timestamp": "2021-08-10 17:51:19"
+    },
+    "5430878778831183783": {
+        "title": "Dota 2 Workshop - Couriers",
+        "url_code": "4B5E-5B79-AE70-9FA7",
+        "version": 9,
+        "timestamp": "2021-08-28 01:26:51"
+    },
+    "5440248349856309909": {
+        "title": "Updating Your Package Cache",
+        "url_code": "4B7F-A50C-EF17-2295",
+        "version": 3,
+        "timestamp": "2021-08-10 17:52:49"
+    },
+    "5443610150482493676": {
+        "title": "Add Non-Steam Games to a Library",
+        "url_code": "4B8B-9697-2338-40EC",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "5462666714099915846": {
+        "title": "Managing Bans on a Half-Life or Source Dedicated Server",
+        "url_code": "4BCF-4A6F-1C46-9C46",
+        "version": 11,
+        "timestamp": "2022-03-02 17:35:27"
+    },
+    "5464068287806472999": {
+        "title": "Moving a Steam Installation and Games",
+        "url_code": "4BD4-4528-6B2E-8327",
+        "version": 10,
+        "timestamp": "2021-10-27 22:55:30"
+    },
+    "5477442274052911722": {
+        "title": "Apple Steam Link App",
+        "url_code": "4C03-C8BA-3EA1-B26A",
+        "version": 8,
+        "timestamp": "2021-08-12 21:15:15"
+    },
+    "5481077739806853445": {
+        "title": "Steam Sales - Purchasing and billing FAQ",
+        "url_code": "4C10-B32A-137D-0945",
+        "version": 8,
+        "timestamp": "2021-08-12 22:19:41"
+    },
+    "5483142123543411444": {
+        "title": "Docking the Steam Deck",
+        "url_code": "4C18-08B5-DEC9-3AF4",
+        "version": 4,
+        "timestamp": "2023-03-30 21:20:25"
+    },
+    "5517864947485979433": {
+        "title": "Why do I have to enter a Steam Guard code every time I log in?",
+        "url_code": "4C93-64EF-517B-3329",
+        "version": 7,
+        "timestamp": "2021-08-12 21:26:26"
+    },
+    "5543827216918325796": {
+        "title": "Your credit card information has been declined by your credit card company",
+        "url_code": "4CEF-A17B-388F-2A24",
+        "version": 6,
+        "timestamp": "2021-08-28 00:49:47"
+    },
+    "5550635109985296512": {
+        "title": "How to Report a Scammer, Hijacker or Phisher",
+        "url_code": "4D07-D139-587C-2080",
+        "version": 5,
+        "timestamp": "2021-08-10 18:24:10"
+    },
+    "5584950914979765099": {
+        "title": "CS:GO - Prime Status and Free to Play",
+        "url_code": "4D81-BB44-4F5C-9B6B",
+        "version": 4,
+        "timestamp": "2021-08-11 00:14:06"
+    },
+    "5601042700399114322": {
+        "title": "Soundtracks and Steam Music Player",
+        "url_code": "4DBA-E6A9-1115-7852",
+        "version": 4,
+        "timestamp": "2021-08-11 21:56:47"
+    },
+    "5613481479696531885": {
+        "title": "Reporting content within the Steam Community",
+        "url_code": "4DE7-17AA-0E8B-C1AD",
+        "version": 4,
+        "timestamp": "2022-02-17 20:32:43"
+    },
+    "5638895013442037178": {
+        "title": "Valve Hardware Warranty",
+        "url_code": "4E41-6123-79EF-25BA",
+        "version": 6,
+        "timestamp": "2022-03-04 17:39:34"
+    },
+    "5644148975375488343": {
+        "title": "CS:GO - I've been game banned",
+        "url_code": "4E54-0B96-D0A4-1557",
+        "version": 12,
+        "timestamp": "2022-05-14 20:29:09"
+    },
+    "5706435398068383642": {
+        "title": "CS:GO - In-game Items",
+        "url_code": "4F31-54C2-B394-AF9A",
+        "version": 4,
+        "timestamp": "2021-08-12 22:49:00"
+    },
+    "5718041075055894628": {
+        "title": "Portal 2 Perpetual Testing Initiative",
+        "url_code": "4F5A-900F-F1CC-A064",
+        "version": 6,
+        "timestamp": "2021-12-17 18:31:37"
+    },
+    "5720193824363732003": {
+        "title": "Restricted Steam Account",
+        "url_code": "4F62-35F9-F395-5C23",
+        "version": 4,
+        "timestamp": "2022-11-21 18:35:08"
+    },
+    "5732710972950444086": {
+        "title": "Addressing abuse, harassment and other misconduct on Steam",
+        "url_code": "4F8E-AE41-B6B1-F836",
+        "version": 8,
+        "timestamp": "2022-02-11 21:10:21"
+    },
+    "5737132002687600633": {
+        "title": "Downloads automatically pause when launching a game",
+        "url_code": "4F9E-6328-E9B8-47F9",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "5752815083891053342": {
+        "title": "Steam OS Accounts",
+        "url_code": "4FD6-1AD6-CDD5-D31E",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "5838758645356340429": {
+        "title": "How do I change my Steam account password?",
+        "url_code": "5107-700D-89B4-A4CD",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "5883611091460142765": {
+        "title": "Assistance with a Valve Store Order",
+        "url_code": "51A6-C91D-6F07-B6AD",
+        "version": 5,
+        "timestamp": "2022-10-13 21:29:15"
+    },
+    "5896152081974831238": {
+        "title": "Embedding Sketchfab Models",
+        "url_code": "51D3-5714-53CA-2886",
+        "version": 4,
+        "timestamp": "2021-08-11 21:55:53"
+    },
+    "5973512499471541601": {
+        "title": "Items Not Properly Awarded",
+        "url_code": "52E6-2DF8-205B-6561",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6019512696190909808": {
+        "title": "Sound Troubleshooting",
+        "url_code": "5389-9AE7-8969-BD70",
+        "version": 5,
+        "timestamp": "2021-10-28 00:08:55"
+    },
+    "6051992689291350041": {
+        "title": "Steam Community Artwork",
+        "url_code": "53FC-FF49-3C78-D019",
+        "version": 4,
+        "timestamp": "2021-08-11 21:44:38"
+    },
+    "6057563872459458384": {
+        "title": "DirectX and Pixel Shader Requirements for Games on Steam",
+        "url_code": "5410-CA3F-662F-8750",
+        "version": 8,
+        "timestamp": "2021-08-13 00:43:07"
+    },
+    "6093295896427699144": {
+        "title": "Steam Broadcasting",
+        "url_code": "548F-BC55-89EB-1BC8",
+        "version": 5,
+        "timestamp": "2021-08-10 18:29:02"
+    },
+    "6112410335400106472": {
+        "title": "TF2 and L4D Network Performance (Xbox 360)",
+        "url_code": "54D3-A4D0-AAF3-19E8",
+        "version": 1,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6118972555644562841": {
+        "title": "Billing Information Requested During Checkout",
+        "url_code": "54EA-F51E-A18E-ED99",
+        "version": 4,
+        "timestamp": "2021-12-02 21:59:36"
+    },
+    "6164862055093213372": {
+        "title": "HLTV",
+        "url_code": "558D-FD60-531D-98BC",
+        "version": 14,
+        "timestamp": "2021-12-16 21:32:41"
+    },
+    "6165005609161511406": {
+        "title": "Revoked Gifts",
+        "url_code": "558E-7FF0-1C5C-D1EE",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6167570181172710472": {
+        "title": "Unresponsive Controller with The Orange Box (360)",
+        "url_code": "5597-9C67-1017-4C48",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6252919898993872562": {
+        "title": "Community Avatars & Profile Names",
+        "url_code": "56C6-D584-CC80-4EB2",
+        "version": 4,
+        "timestamp": "2021-12-02 23:05:45"
+    },
+    "6258387117860726120": {
+        "title": "SteamVR Retail Demo",
+        "url_code": "56DA-41EC-E2F8-2568",
+        "version": 3,
+        "timestamp": "2021-12-02 23:55:07"
+    },
+    "6276495995147255668": {
+        "title": "Valve Anti-Cheat (VAC) System",
+        "url_code": "571A-97DA-70E9-FF74",
+        "version": 4,
+        "timestamp": "2021-07-12 23:34:51"
+    },
+    "6312157025629753691": {
+        "title": "Updating Drivers",
+        "url_code": "5799-495F-1F25-D15B",
+        "version": 7,
+        "timestamp": "2021-08-20 16:53:33"
+    },
+    "6316022508503228994": {
+        "title": "Developer Console disappears",
+        "url_code": "57A7-0501-FCB4-E242",
+        "version": 6,
+        "timestamp": "2021-10-27 21:35:30"
+    },
+    "6316105223607675304": {
+        "title": "Family Library Sharing",
+        "url_code": "57A7-503C-991F-E9A8",
+        "version": 8,
+        "timestamp": "2021-08-12 22:07:44"
+    },
+    "6320035625357143222": {
+        "title": "Exclude Steam from Time Machine",
+        "url_code": "57B5-46EA-9139-ECB6",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6320209939544034913": {
+        "title": "Index Controller Troubleshooting",
+        "url_code": "57B5-E574-406A-4E61",
+        "version": 8,
+        "timestamp": "2021-12-02 21:13:55"
+    },
+    "6346937072166789855": {
+        "title": "Games do not run after 'Preparing to Launch'",
+        "url_code": "5814-D9A3-BE42-62DF",
+        "version": 7,
+        "timestamp": "2023-02-27 18:00:09"
+    },
+    "6380693012289274486": {
+        "title": "Steam Profile Privacy",
+        "url_code": "588C-C67D-0251-C276",
+        "version": 4,
+        "timestamp": "2021-08-12 21:41:37"
+    },
+    "6386610800410042470": {
+        "title": "Pre-Order Refunds",
+        "url_code": "58A1-CCAF-6D1D-2066",
+        "version": 4,
+        "timestamp": "2021-08-28 01:18:18"
+    },
+    "6397398491832065558": {
+        "title": "Server Settings",
+        "url_code": "58C8-2008-9045-1E16",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6398335011711967618": {
+        "title": "LAN Servers are Restricted to Local Clients (Class C)",
+        "url_code": "58CB-73CB-1709-6182",
+        "version": 4,
+        "timestamp": "2021-10-28 00:58:52"
+    },
+    "6400661862089964742": {
+        "title": "Region Restrictions on Steam",
+        "url_code": "58D3-B80D-2943-3CC6",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6439095183969017903": {
+        "title": "Steam Friends & Chat",
+        "url_code": "595C-42F4-3B66-E02F",
+        "version": 7,
+        "timestamp": "2022-07-06 20:36:00"
+    },
+    "6493942330840031589": {
+        "title": "The Orange Box on PlayStation 3",
+        "url_code": "5A1F-1E24-BD97-A165",
+        "version": 5,
+        "timestamp": "2021-10-27 21:58:03"
+    },
+    "6522916455231425610": {
+        "title": "CS:GO - Opting into Beta depots",
+        "url_code": "5A86-0DF4-C59E-8C4A",
+        "version": 5,
+        "timestamp": "2021-08-12 20:26:42"
+    },
+    "6540775144582804479": {
+        "title": "Slow Downloads and Connection to Content Servers",
+        "url_code": "5AC5-8056-E88F-F3FF",
+        "version": 7,
+        "timestamp": "2021-08-18 20:46:25"
+    },
+    "6558267004196197409": {
+        "title": "Troubleshooting Game Performance Issues - Software",
+        "url_code": "5B03-A517-D747-9421",
+        "version": 7,
+        "timestamp": "2022-02-24 18:33:09"
+    },
+    "6595337518803280337": {
+        "title": "Missing CD Key",
+        "url_code": "5B87-5887-9E13-61D1",
+        "version": 5,
+        "timestamp": "2021-12-02 23:19:46"
+    },
+    "6607600367846018830": {
+        "title": "Where to buy Steam Wallet Codes",
+        "url_code": "5BB2-E986-A733-CF0E",
+        "version": 36,
+        "timestamp": "2023-04-12 21:40:41"
+    },
+    "6710907134894229325": {
+        "title": "Missing or scrambled text in-game",
+        "url_code": "5D21-EE7B-B801-474D",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6728278602742985221": {
+        "title": "Dota 2 Workshop - Item Troubleshooting",
+        "url_code": "5D5F-A5BD-C25B-7205",
+        "version": 4,
+        "timestamp": "2021-10-28 01:50:11"
+    },
+    "6753649458989463392": {
+        "title": "Steam macOS 10.7 - 10.10 Support",
+        "url_code": "5DB9-C866-8C93-7760",
+        "version": 6,
+        "timestamp": "2023-04-03 19:51:00"
+    },
+    "6761917880528808349": {
+        "title": "The Game Awards 2022 Giveaway Rules",
+        "url_code": "5DD7-287C-7548-299D",
+        "version": 1,
+        "timestamp": "2022-11-30 22:51:40"
+    },
+    "6777163355919660783": {
+        "title": "Steam and macOS 10.15 Catalina",
+        "url_code": "5E0D-522A-4E62-B6EF",
+        "version": 6,
+        "timestamp": "2021-07-13 01:07:35"
+    },
+    "6807729835522755817": {
+        "title": "Unrecognized Charges",
+        "url_code": "5E79-EA37-6D29-8CE9",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6817435823209224412": {
+        "title": "How do I download, install and update a standalone dedicated server?",
+        "url_code": "5E9C-65C2-C968-98DC",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6817840760713638200": {
+        "title": "Adding a PPA Repository for the Latest Intel Drivers",
+        "url_code": "5E9D-D60C-A583-F138",
+        "version": 4,
+        "timestamp": "2021-10-27 23:24:56"
+    },
+    "6832784780995857432": {
+        "title": "Counter-Strike 2 Limited Test",
+        "url_code": "5ED2-ED8E-81F4-0C18",
+        "version": 7,
+        "timestamp": "2023-03-27 20:24:19"
+    },
+    "6862663911468549363": {
+        "title": "Antivirus software reports Steam games are malicious",
+        "url_code": "5F3D-1477-AFF9-C4F3",
+        "version": 7,
+        "timestamp": "2021-08-04 22:54:27"
+    },
+    "6893118316788988094": {
+        "title": "Enabling Low Violence in Team Fortress 2",
+        "url_code": "5FA9-4696-7AF2-38BE",
+        "version": 5,
+        "timestamp": "2021-12-02 21:34:16"
+    },
+    "6897333715793003819": {
+        "title": "Dota 2 Workshop - Item Model Requirements",
+        "url_code": "5FB8-4078-8B2A-C52B",
+        "version": 6,
+        "timestamp": "2021-08-23 17:14:26"
+    },
+    "6908163824286606353": {
+        "title": "Common Refund Questions",
+        "url_code": "5FDE-BA65-ACCE-A411",
+        "version": 4,
+        "timestamp": "2021-10-27 23:49:24"
+    },
+    "6920789354318624301": {
+        "title": "Steam Link Build History",
+        "url_code": "600B-953F-F577-762D",
+        "version": 6,
+        "timestamp": "2021-12-20 22:46:08"
+    },
+    "6950152966254053540": {
+        "title": "Mac Driver Updates",
+        "url_code": "6073-E74C-A033-48A4",
+        "version": 4,
+        "timestamp": "2021-08-19 18:18:31"
+    },
+    "6956204799985173615": {
+        "title": "Disable Steam from running at startup",
+        "url_code": "6089-6768-F7FB-C46F",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "6958024543388679482": {
+        "title": "Nausea or Motion Sickness During Gameplay",
+        "url_code": "608F-DE74-FF21-BD3A",
+        "version": 6,
+        "timestamp": "2021-10-28 02:12:21"
+    },
+    "6971838848730400062": {
+        "title": "Dota Underlords Mobile FAQ",
+        "url_code": "60C0-F27E-99D8-053E",
+        "version": 3,
+        "timestamp": "2021-07-13 01:16:53"
+    },
+    "6982090234903941909": {
+        "title": "Dota 2 Workshop - Color Texture Light Baking",
+        "url_code": "60E5-5E13-712C-5315",
+        "version": 4,
+        "timestamp": "2021-08-28 00:52:48"
+    },
+    "6999135664717675176": {
+        "title": "Steam Deck - Windows Resources",
+        "url_code": "6121-ECCD-D643-BAA8",
+        "version": 15,
+        "timestamp": "2023-03-22 00:20:12"
+    },
+    "7050570575392147956": {
+        "title": "SteamVR Troubleshooting (Index)",
+        "url_code": "61D8-A895-3212-09F4",
+        "version": 4,
+        "timestamp": "2021-08-12 18:09:18"
+    },
+    "7057266748979463947": {
+        "title": "Community Market FAQ",
+        "url_code": "61F0-72B7-9A18-C70B",
+        "version": 6,
+        "timestamp": "2021-08-16 18:35:10"
+    },
+    "7099260082728795856": {
+        "title": "Free to play games on Steam",
+        "url_code": "6285-A36E-8728-FED0",
+        "version": 5,
+        "timestamp": "2021-08-28 01:23:31"
+    },
+    "7101300519524388150": {
+        "title": "Hidden or Removed Links",
+        "url_code": "628C-E332-BD8C-4D36",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7127420159890143333": {
+        "title": "HTTP Fast Download",
+        "url_code": "62E9-AEDF-6B35-B865",
+        "version": 5,
+        "timestamp": "2021-10-27 20:57:27"
+    },
+    "7176140764688977492": {
+        "title": "Regaining Access to Areas After Losing Saved Games",
+        "url_code": "6396-C601-317C-8E54",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7177453344181410307": {
+        "title": "This game is currently unavailable",
+        "url_code": "639B-6FC9-EBDF-5A03",
+        "version": 10,
+        "timestamp": "2021-10-28 00:18:13"
+    },
+    "7190580229257918664": {
+        "title": "Installing custom maps on a Half-Life or Source Dedicated Server",
+        "url_code": "63CA-129F-05DD-78C8",
+        "version": 6,
+        "timestamp": "2021-10-06 23:46:35"
+    },
+    "7215969993590687435": {
+        "title": "Raspberry Pi Steam Link App",
+        "url_code": "6424-467A-31D9-C6CB",
+        "version": 8,
+        "timestamp": "2021-08-12 18:02:10"
+    },
+    "7240764287028378665": {
+        "title": "I've been VAC banned",
+        "url_code": "647C-5CC1-7EA9-3C29",
+        "version": 8,
+        "timestamp": "2021-10-07 16:33:03"
+    },
+    "7289972534851897650": {
+        "title": "Linking a YouTube account",
+        "url_code": "652B-2F65-8233-8932",
+        "version": 4,
+        "timestamp": "2021-08-05 16:13:41"
+    },
+    "7301537020462257929": {
+        "title": "Dota 2 Workshop - Loading Screens",
+        "url_code": "6554-453C-2304-5709",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7324553054381872868": {
+        "title": "Hosting a Local (Listen) Server for Valve Games",
+        "url_code": "65A6-0A32-20EF-16E4",
+        "version": 4,
+        "timestamp": "2021-08-12 17:36:59"
+    },
+    "7339386427994118227": {
+        "title": "CS:GO - Overwatch System",
+        "url_code": "65DA-BD12-0DE9-9853",
+        "version": 11,
+        "timestamp": "2021-12-02 21:22:28"
+    },
+    "7366177312439140192": {
+        "title": "Account Security Recommendations",
+        "url_code": "6639-EB3C-EC79-FF60",
+        "version": 5,
+        "timestamp": "2021-08-28 00:48:12"
+    },
+    "7388971518156176644": {
+        "title": "Permanent Bans and Gift Restrictions",
+        "url_code": "668A-E672-832D-7D04",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7393273865525372396": {
+        "title": "Troubleshooting Network Connectivity",
+        "url_code": "669A-2F68-D1D1-A5EC",
+        "version": 5,
+        "timestamp": "2021-08-12 01:54:58"
+    },
+    "7406257485938472550": {
+        "title": "Using a Firewall with Steam",
+        "url_code": "66C8-4FF1-8470-B666",
+        "version": 5,
+        "timestamp": "2021-08-04 22:23:14"
+    },
+    "7429325662480118332": {
+        "title": "Steam Deck Desktop: FAQ",
+        "url_code": "671A-4453-E8D2-323C",
+        "version": 6,
+        "timestamp": "2022-03-02 23:43:46"
+    },
+    "7465820650040290685": {
+        "title": "Supported Games for Steam for Linux",
+        "url_code": "679B-EC53-5A6D-6D7D",
+        "version": 4,
+        "timestamp": "2021-08-10 23:55:21"
+    },
+    "7520452088281282591": {
+        "title": "Dota 2 Workshop - Item Effects Models",
+        "url_code": "685E-0354-4859-B81F",
+        "version": 4,
+        "timestamp": "2021-10-28 02:13:44"
+    },
+    "7521716275295218299": {
+        "title": "Rules and Guidelines For Steam: Discussions, Reviews, and User Generated Content",
+        "url_code": "6862-8119-C23E-EA7B",
+        "version": 6,
+        "timestamp": "2021-12-17 18:22:32"
+    },
+    "7535050430889918772": {
+        "title": "Steam Guard: How to set up a Steam Guard Mobile Authenticator",
+        "url_code": "6891-E071-C9D9-0134",
+        "version": 6,
+        "timestamp": "2022-10-14 22:00:12"
+    },
+    "7553158533771523704": {
+        "title": "Steam Cloud",
+        "url_code": "68D2-35AB-09A9-7678",
+        "version": 6,
+        "timestamp": "2021-12-02 23:46:19"
+    },
+    "7582432249025910773": {
+        "title": "Intel Video Cards with Source games",
+        "url_code": "693A-35F5-00A7-D7F5",
+        "version": 5,
+        "timestamp": "2021-08-05 18:15:46"
+    },
+    "7586403624451082884": {
+        "title": "Find Downloadable Content (DLC) for My Games",
+        "url_code": "6948-51E6-E624-8A84",
+        "version": 4,
+        "timestamp": "2021-07-21 23:32:58"
+    },
+    "7605271880239749627": {
+        "title": "Dota 2 - Performance Issues, Crashes, or Failures When Launching",
+        "url_code": "698B-5A7B-09F5-19FB",
+        "version": 8,
+        "timestamp": "2021-08-12 17:21:26"
+    },
+    "7609654911247676940": {
+        "title": "Valve Index Fit Guide",
+        "url_code": "699A-ECD2-F839-760C",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7629964938087517224": {
+        "title": "Steam Deck - Basic Use & Troubleshooting Guide",
+        "url_code": "69E3-14AF-9764-4C28",
+        "version": 6,
+        "timestamp": "2023-01-11 00:00:06"
+    },
+    "7633566947121337714": {
+        "title": "Dota 2 Workshop - Chat Emoticons",
+        "url_code": "69EF-E0B1-AC54-9572",
+        "version": 4,
+        "timestamp": "2021-08-28 00:50:56"
+    },
+    "7663351218451343229": {
+        "title": "Steam is no longer supported on this computer's operating system",
+        "url_code": "6A59-B154-BCD9-677D",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7673269715324575046": {
+        "title": "Linux Dedicated Server System Requirements",
+        "url_code": "6A7C-EE26-BFAF-1D46",
+        "version": 3,
+        "timestamp": "2021-08-17 17:29:55"
+    },
+    "7681404295339481420": {
+        "title": "Low Violence Option in Left 4 Dead",
+        "url_code": "6A99-D482-3FDE-994C",
+        "version": 4,
+        "timestamp": "2021-08-05 19:51:00"
+    },
+    "7698765082706437407": {
+        "title": "Clear download cache",
+        "url_code": "6AD7-820D-8BE5-E51F",
+        "version": 4,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7717593881592806808": {
+        "title": "Family View",
+        "url_code": "6B1A-66BE-E911-3D98",
+        "version": 9,
+        "timestamp": "2022-02-20 09:00:38"
+    },
+    "7785014492859060907": {
+        "title": "Secure connection failed, No Steam logon, or A connection to the VAC servers could not be made",
+        "url_code": "6C09-ED6F-3A21-D2AB",
+        "version": 4,
+        "timestamp": "2021-07-21 23:44:52"
+    },
+    "7851066054108918429": {
+        "title": "Enabling the Half-Life Hi-Def Model Pack",
+        "url_code": "6CF4-96FA-BF4A-329D",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7882946670718611008": {
+        "title": "Bots in Valve games",
+        "url_code": "6D65-DA3B-3B87-EE40",
+        "version": 8,
+        "timestamp": "2021-12-02 23:07:43"
+    },
+    "7883391850674475728": {
+        "title": "Item and Trading Bugs",
+        "url_code": "6D67-6F1E-C4A9-52D0",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "7898652090463192329": {
+        "title": "Scam: Offers to buy Steam items",
+        "url_code": "6D9D-A63A-3874-8509",
+        "version": 1,
+        "timestamp": "2023-04-28 17:41:23"
+    },
+    "7950562402793786703": {
+        "title": "Deleted Items",
+        "url_code": "6E56-1261-A719-8D4F",
+        "version": 4,
+        "timestamp": "2021-07-20 23:18:52"
+    },
+    "7951303460398500633": {
+        "title": "My computer crashes or stops at a blue or gray screen and I am forced to restart or it restarts itself",
+        "url_code": "6E58-B45E-9263-0B19",
+        "version": 6,
+        "timestamp": "2021-12-02 21:12:48"
+    },
+    "7955139165442287676": {
+        "title": "Windows XP and Windows Vista Support",
+        "url_code": "6E66-54EC-3EFC-283C",
+        "version": 4,
+        "timestamp": "2021-08-05 18:08:07"
+    },
+    "8018261768684080568": {
+        "title": "Configuring a Router for use with a Half-Life or Source Dedicated Server",
+        "url_code": "6F46-9698-9682-8DB8",
+        "version": 12,
+        "timestamp": "2021-12-02 23:30:26"
+    },
+    "8027951266919050878": {
+        "title": "How do I contact Steam Support?",
+        "url_code": "6F69-0324-B2DB-6E7E",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8031159184042460967": {
+        "title": "Information for New Users",
+        "url_code": "6F74-68BA-1B77-8727",
+        "version": 7,
+        "timestamp": "2021-08-28 00:45:46"
+    },
+    "8058614047793813267": {
+        "title": "Changing the Contact E-mail for a Steam Account",
+        "url_code": "6FD5-F2C7-B4B9-1713",
+        "version": 4,
+        "timestamp": "2021-08-09 21:24:50"
+    },
+    "8076795801402602391": {
+        "title": "Steam Downtime and Server Maintenance",
+        "url_code": "7016-8AFD-19F7-F397",
+        "version": 4,
+        "timestamp": "2021-08-04 21:48:39"
+    },
+    "8130237338020047146": {
+        "title": "Spyware, Malware, Adware, or Virus Interfering with Steam",
+        "url_code": "70D4-67C8-784D-692A",
+        "version": 4,
+        "timestamp": "2021-08-04 21:40:56"
+    },
+    "8131262101315318936": {
+        "title": "My Steam Support ticket was closed and I don't know why",
+        "url_code": "70D8-0BCC-C47E-F498",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8135358118725657467": {
+        "title": "Scam FAQ (Confidence Scams and Trade Scams)",
+        "url_code": "70E6-991B-233B-A37B",
+        "version": 19,
+        "timestamp": "2023-05-03 22:06:25"
+    },
+    "8139120050194031487": {
+        "title": "Steam Trading Cards",
+        "url_code": "70F3-F690-1013-237F",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8147800086409599480": {
+        "title": "Android Steam Link App",
+        "url_code": "7112-CD02-7B57-59F8",
+        "version": 10,
+        "timestamp": "2021-08-09 16:05:40"
+    },
+    "8190756403089708940": {
+        "title": "Managing Steam Downloads & Updates",
+        "url_code": "71AB-698D-57EB-178C",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8201958456624065082": {
+        "title": "Limited User Accounts",
+        "url_code": "71D3-35C2-AD96-AA3A",
+        "version": 6,
+        "timestamp": "2023-05-09 00:10:06"
+    },
+    "8208599559700251315": {
+        "title": "Steam Account Use",
+        "url_code": "71EA-CDCE-FB5C-82B3",
+        "version": 5,
+        "timestamp": "2021-08-04 20:40:28"
+    },
+    "8211766816778216018": {
+        "title": "Scam: Account Sellers and Traders",
+        "url_code": "71F6-0E69-7C67-E252",
+        "version": 2,
+        "timestamp": "2023-04-28 20:42:54"
+    },
+    "8219060330831152543": {
+        "title": "How do I find bonus content, artwork and soundtracks?",
+        "url_code": "720F-F7D3-0EB2-059F",
+        "version": 4,
+        "timestamp": "2022-04-21 20:54:17"
+    },
+    "8230441059236939802": {
+        "title": "Steam Sale Trading Cards & Badge FAQ",
+        "url_code": "7238-6689-609B-881A",
+        "version": 2,
+        "timestamp": "2022-12-22 19:07:21"
+    },
+    "8245783127852518814": {
+        "title": "Recurring Subscriptions",
+        "url_code": "726E-E811-168F-0D9E",
+        "version": 4,
+        "timestamp": "2021-08-04 19:17:50"
+    },
+    "8253233898342035073": {
+        "title": "Troubleshooting Game Performance Issues - Hardware",
+        "url_code": "7289-6080-C6E3-AE81",
+        "version": 6,
+        "timestamp": "2022-03-02 17:20:55"
+    },
+    "8294526361226486046": {
+        "title": "Purchasing Issues",
+        "url_code": "731C-13C7-7D04-A11E",
+        "version": 5,
+        "timestamp": "2021-08-28 00:53:17"
+    },
+    "8301944717258780187": {
+        "title": "CS:GO - X-Ray Scanner",
+        "url_code": "7336-6EBC-1923-EE1B",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8354897394685667762": {
+        "title": "Using custom subtitles in Source games",
+        "url_code": "73F2-8EEA-1113-69B2",
+        "version": 5,
+        "timestamp": "2021-08-24 22:43:25"
+    },
+    "8404346551101924452": {
+        "title": "Dota 2 - Network/Connectivity Issues",
+        "url_code": "74A2-3CA8-FBB5-A464",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8466903480464485479": {
+        "title": "CS:GO - Competitive cooldowns and bans",
+        "url_code": "7580-7BDB-1C9A-AC67",
+        "version": 16,
+        "timestamp": "2021-09-30 22:13:21"
+    },
+    "8508054175547039248": {
+        "title": "CS:GO - Steam Group Lobbies",
+        "url_code": "7612-AE31-EF42-9E10",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8533140843407049492": {
+        "title": "Dota 2 Workshop - Team, Player, or Caster Branded Items",
+        "url_code": "766B-CE62-F5A7-8314",
+        "version": 4,
+        "timestamp": "2021-08-26 21:40:11"
+    },
+    "8593836637999631280": {
+        "title": "Left 4 Dead Add-ons",
+        "url_code": "7743-70E3-E1B4-8BB0",
+        "version": 4,
+        "timestamp": "2021-08-10 17:32:19"
+    },
+    "8604539892456401617": {
+        "title": "Steam Is Asking Me To Purchase a Game I Already Paid For",
+        "url_code": "7769-7771-818A-AAD1",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8664689129339024734": {
+        "title": "Scam: Rank Boosting Services",
+        "url_code": "783F-28DB-0B70-F55E",
+        "version": 1,
+        "timestamp": "2023-04-28 17:41:36"
+    },
+    "8664747629155197650": {
+        "title": "Payment Disputes and Chargebacks",
+        "url_code": "783F-5E0F-9834-22D2",
+        "version": 5,
+        "timestamp": "2021-10-28 00:07:02"
+    },
+    "8668464167644153893": {
+        "title": "How To Request A Refund",
+        "url_code": "784C-923B-A4A1-C825",
+        "version": 6,
+        "timestamp": "2021-08-17 18:16:52"
+    },
+    "8683067691023101264": {
+        "title": "Dota 2 Workshop - NPC Animations",
+        "url_code": "7880-740F-641A-6D50",
+        "version": 5,
+        "timestamp": "2022-07-06 20:40:12"
+    },
+    "8710933858579164505": {
+        "title": "Steam Wallet",
+        "url_code": "78E3-7431-1E88-AD59",
+        "version": 5,
+        "timestamp": "2021-10-27 22:09:06"
+    },
+    "8715395377764033350": {
+        "title": "Games Are Missing from my Library",
+        "url_code": "78F3-4DEB-80B4-E346",
+        "version": 6,
+        "timestamp": "2021-10-27 23:55:55"
+    },
+    "8743771072574684084": {
+        "title": "Scam: Vote for My Team",
+        "url_code": "7958-1D76-CA26-7BB4",
+        "version": 1,
+        "timestamp": "2023-04-28 17:42:04"
+    },
+    "8781091100125471692": {
+        "title": "SteamOS / Steam Machines FAQ",
+        "url_code": "79DC-B3D4-D352-A3CC",
+        "version": 5,
+        "timestamp": "2022-07-06 20:36:41"
+    },
+    "8825269716938169804": {
+        "title": "Server Verification Failed",
+        "url_code": "7A79-A80C-9D1C-9DCC",
+        "version": 5,
+        "timestamp": "2021-08-04 18:25:01"
+    },
+    "8842624695755865797": {
+        "title": "Invalid or Damaged CD Key from Merchandise",
+        "url_code": "7AB7-504F-809F-FEC5",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "8928310935471522734": {
+        "title": "Steam Link Hardware",
+        "url_code": "7BE7-BB7D-D904-03AE",
+        "version": 7,
+        "timestamp": "2021-08-04 17:23:36"
+    },
+    "8978166077040914691": {
+        "title": "Windows Mixed Reality Setup",
+        "url_code": "7C98-DA7A-8C7C-7103",
+        "version": 4,
+        "timestamp": "2021-07-15 21:50:44"
+    },
+    "9006745404719029267": {
+        "title": "Failed to start game (app already running)",
+        "url_code": "7CFE-6339-CEA8-DC13",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "9007712579960580437": {
+        "title": "Setting Game Launch Options",
+        "url_code": "7D01-D2DD-D75E-2955",
+        "version": 6,
+        "timestamp": "2021-08-24 20:05:54"
+    },
+    "9041373518389234842": {
+        "title": "Index Headset FAQ",
+        "url_code": "7D79-694F-CD36-CC9A",
+        "version": 8,
+        "timestamp": "2021-12-30 19:16:37"
+    },
+    "9061896879059087246": {
+        "title": "Changing the radar and map displays in Counter-Strike: Source",
+        "url_code": "7DC2-5333-1389-AF8E",
+        "version": 3,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "9067089756590837321": {
+        "title": "Steam Deck - Software Info & Troubleshooting Guide",
+        "url_code": "7DD4-C618-182E-0E49",
+        "version": 2,
+        "timestamp": "2022-02-28 17:55:19"
+    },
+    "9067654268722456352": {
+        "title": "Troubleshooting Microphone Problems",
+        "url_code": "7DD6-C783-D141-A720",
+        "version": 5,
+        "timestamp": "2021-10-27 21:56:19"
+    },
+    "9090673684631364026": {
+        "title": "Making a Custom Spray",
+        "url_code": "7E28-8F8D-3D71-A1BA",
+        "version": 3,
+        "timestamp": "2021-10-06 23:20:11"
+    },
+    "9102067325513940398": {
+        "title": "Steam Guides",
+        "url_code": "7E51-0A01-FAF2-BDAE",
+        "version": 4,
+        "timestamp": "2021-08-03 22:44:08"
+    },
+    "9113043585562955314": {
+        "title": "Buying or selling a Steam account",
+        "url_code": "7E78-08DB-AC21-CE32",
+        "version": 4,
+        "timestamp": "2021-08-05 19:56:13"
+    },
+    "9123492164012614105": {
+        "title": "Steam Link Support",
+        "url_code": "7E9D-27C8-EB08-21D9",
+        "version": 4,
+        "timestamp": "2021-10-28 01:59:27"
+    },
+    "9150536737600248881": {
+        "title": "Steam Guard Mobile Authenticator",
+        "url_code": "7EFD-3CAE-64D3-1C31",
+        "version": 8,
+        "timestamp": "2022-10-17 23:09:43"
+    },
+    "9173301652853126141": {
+        "title": "Scam: Trade Redirection",
+        "url_code": "7F4E-1D40-43D0-73FD",
+        "version": 1,
+        "timestamp": "2023-04-28 17:41:57"
+    },
+    "9186630737186145065": {
+        "title": "Valve Index Setup Guide",
+        "url_code": "7F7D-77FB-8CAA-4329",
+        "version": 2,
+        "timestamp": "2021-07-10 19:49:55"
+    },
+    "9198165838761275289": {
+        "title": "Extra Copies",
+        "url_code": "7FA6-7318-AC7F-AF99",
+        "version": 4,
+        "timestamp": "2021-07-22 19:06:33"
+    }
+}

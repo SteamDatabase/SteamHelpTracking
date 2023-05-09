@@ -1,0 +1,53 @@
+[h1]Refresh Rate and VSYNC[/h1]
+
+What are [b]refresh rate[/b] and [b]VSYNC[/b] and how do they affect gameplay?
+
+[h1]Refresh Rates[/h1]
+This setting determines how many times your display is illuminated every second. This is distinct from the measure of frames per second (FPS). The refresh rate includes the repeated illumination of identical frames, while the FPS is a measure of how often a display can change from one image to another.
+
+Please follow these steps if you would like to change the refresh rate for your display:
+
+[h1]In Windows 10:[/h1]
+
+[olist]
+
+[*]Select the [b]Start[/b] button then [b]Settings[/b] from the menu
+
+[*]From the window that appears select [b]System[/b] and then [b]Display[/b] from menu on the left side
+
+[*]At the bottom click the [b]Advanced display settings[/b] link
+
+[*]Select the display you want to adjust from the drop down
+
+[*]Click the link below the display's information [b]Display adapter properties for [Display #][/b]
+
+[*]Navigate to the [b]Monitor[/b] tab and then pick a [b]Screen refresh rate[/b] from the drop-down menu
+
+[*]Click [b]OK[/b] to test your settings
+
+[/olist]
+
+[h1]Using the Nvidia Control Panel:[/h1]
+[i]Specific steps may vary depending on the control software or model of your GPU. Please consult the documentation associated with your GPU.[/i]
+
+[olist]
+
+[*]Right-click on the Windows desktop and select [b]NVidia Control Panel[/b]
+
+[*]Click on [b]Change Resolution[/b]
+
+[*]Check the refresh rate and select the appropriate [b]Screen refresh rate [/b]from the drop-down menu
+
+[*]Click [b]OK[/b] to test your settings
+
+[/olist]
+
+[h1]Using AMD Radeon Software:[/h1]
+[i]Specific steps may vary depending on the control software or model of your GPU. Please consult the documentation associated with your GPU.[/i]
+
+See AMD's support page for [url=https://www.amd.com/en/support/kb/faq/dh3-005]How to Adjust Display Brightness, Resolution, and Refresh Rate[/url].
+
+[h1]VSYNC[/h1]
+This setting determines whether or not Windows will allow your games and other applications to display different images at frame rates (FPS) which exceeds your refresh rate. If you have disabled VSYNC you may experience visual "tearing" and video artifacts while playing, as you will not see all of the frames which are being rendered.
+
+Please see the [url=https://support.steampowered.com/kb_article.php?ref=9257-TUJL-7421]Troubleshooting Gameplay and Performance - Software[/url] topic if you would like to optimize game performance on your machine.

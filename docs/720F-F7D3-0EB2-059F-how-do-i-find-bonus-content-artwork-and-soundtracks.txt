@@ -1,0 +1,33 @@
+[h1]How do I find bonus content, artwork and soundtracks?[/h1]
+
+How do I find the following content that comes with my purchase?
+
+[list]
+
+[*]Digital Artwork
+
+[*]Soundtracks
+
+[*]Digital Deluxe Content
+
+[*]Other/Misc Content
+[/list]
+
+All [url=https://support.steampowered.com/kb_article.php?ref=2668-CFOM-1881]Downloadable Content (DLC)[/url] access should automatically be added to the product. Please contact the product's support for assistance with DLC content.
+
+[h1]In most cases, bonus content can be found within the products's downloaded files:[/h1]
+To access this content please do the following...
+
+[olist]
+
+[*]Right click the product in your Steam Library and select "Properties".
+[*]Under the "Local Files" tab, select "Browse...".
+
+[*]Within the product's local files, locate a folder that has a similar name to the content you are searching for.
+
+[/olist]
+
+Please note, the folder containing the bonus material may have a different title, but should be identifiable as the location for this content. All Soundtracks should be in MP3 format, while Art Books should be a PDF or ePub.
+
+[h1]Where can I find Soundtracks within Steam?[/h1]
+Some soundtracks are automatically integrated into the Steam Music Player after the associated product has been completely installed. Please visit our [url=https://support.steampowered.com/kb_article.php?ref=5460-QTPM-9243]Steam Music Library and Player[/url] FAQ for more info. Soundtracks that are not automatically added can be found using the instructions above.

@@ -1,0 +1,52 @@
+[h1]Dota - Low Priority Matchmaking[/h1]
+
+Low Priority is a temporary matchmaking penalty that is applied to accounts that have engaged in behaviors that are detrimental to the community. An account with a Low Priority penalty will be restricted to the Single Draft game mode for a specified number of games. Winning the specified number of games is the only way to remove the Low Priority penalty.
+
+Accounts that demonstrate a frequent pattern of user reports and low priority assignments may see an escalation of penalties such as temporary matchmaking restrictions, and/or an increase in the amount of low priority games assigned.
+
+The Conduct Summary, viewable in-game, will provide a history of the behaviors associated with Low Priority over a span of the previous 15 games that an account has played.
+
+[h3]How can a Low Priority penalty be removed?[/h3]
+As mentioned above, the only way to remove the Low Priority penalty is to win the required number of games in Single Draft mode. Steam Support may be able to help you address the underlying cause of the behavior that led to the penalty; ie, crashing issues. However, Steam Support does not modify or remove these penalties under any circumstance.
+
+[h3]What types of behaviors can result in a Low Priority penalty?[/h3]
+
+[list]
+
+[*]Abandoning a matchmaking game that is not marked as 'safe to leave'. [/*]
+[*]Being in a Ranked party when one of the party members is assigned an abandon. [/*]
+[*]Being reported by other users for negative in-game behavior. [/*]
+[*]Abusing hero abilities
+[*]Extended AFK behavior or otherwise not participating in a game that you have joined. [/*]
+[*]Joining a group with another individual that is in the low priority matchmaking queue will cause the entire group to be placed in the low priority queue until the group is disbanded or the low priority individual leaves. [/*]
+
+[/list]
+
+[h3]What if these behaviors are performed while an account has an active Low Priority penalty?[/h3]
+If an account in low priority engages in any of the activities outlined above, more Low Priority games will be assigned to the account. If an account is already at the max five-game penalty, a matchmaking ban will be applied in addition, preventing matchmaking of any kind.
+
+[h3]What other effects does a Low Priority penalty have on an account?[/h3]
+An account with a Low Priority penalty will also experience the following consequences while the penalty is active.
+
+[list]
+
+[*]The account will not qualify for any item drops. [/*]
+[*]Achievements and quests will not be counted. [/*]
+[*]Battle points or other seasonal rewards cannot be earned. [/*]
+[*]Queuing with other accounts will place them in the Low Priority matchmaking pool while partied. [/*]
+
+[/list]
+
+[h3]What if technical issues are resulting in game abandons?[/h3]
+We know this happens, and we've built in a small threshold to accommodate occasional abandons. A single abandon will not put you into low priority.
+
+If you are continuing to experience technical issues that result in abandons, it is important to keep in mind that this is causing a bad game for the other 9 players as well. We encourage you to address the underlying issue, so that you can complete the game penalty free, while also making sure that the other players can complete the game as well.
+
+Read the following articles for general information on how you can ensure that your PC is capable of completing a game successfully:
+
+[list]
+
+[*][url=http://support.steampowered.com/kb_article.php?ref=7720-IOAM-7915]Troubleshooting Dota crash & performance issues[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=4292-UFXV-9228]Troubleshooting Networking & Connection issues[/url] [/*]
+
+[/list]

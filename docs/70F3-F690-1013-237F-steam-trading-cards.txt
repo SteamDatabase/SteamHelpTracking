@@ -1,0 +1,20 @@
+[h1]Steam Trading Cards[/h1]
+
+This page contains an overview of Steam Trading Cards. For more specific information, read the Steam Trading Cards FAQ here: [url=http://steamcommunity.com/tradingcards/faq/]http://steamcommunity.com/tradingcards/faq/[/url]
+
+[url id=0][/url]
+
+[h2]What are Steam Trading Cards?[/h2]
+Steam Trading Cards are virtual cards, earned by buying and playing games on Steam, that can be crafted into badges that grant rewards. Collect a set of cards to earn items that help you customize your profile and show off your gameplay.
+
+[h2]How can I get trading cards?[/h2]
+You can get trading cards simply by playing one of the [url= http://store.steampowered.com/search/?category1=998&category2=29]participating games[/url]. As you play, you'll occasionally receive trading card drops which will be placed in your Steam Inventory.
+
+[h2]Is there a limit to how many trading cards can drop?[/h2]
+Most games will drop a number of cards equal to about half the number of cards in that game's set of cards. For example, Half-Life 2 has 8 cards in its set, you can receive 4 card drops by playing it. You'll need to collect the other half of the set from other community members. You can check how many drops you have remaining on your Badges page.
+
+[h2]Do free to play games drop trading cards?[/h2]
+Free to play games drop game cards based on your in-game purchasing. For every $9 USD spent (approximate) since the launch of the game's trading cards, you will earn one card drop. This card will drop at some point as you play.
+
+[h2]Why is my free to play game purchase not granting drops?[/h2]
+DLC from the Steam Store will not grant additional trading card drops for a free to play game. The only purchases that qualify are those completed through the in-game store.

@@ -1,0 +1,51 @@
+[h1]Scam: Vote for My Team[/h1]
+
+[section style=warning][b]Even when sent from from a trusted friend's account, any request that you navigate to a website to vote on or support a friend's team or account in a tournament or other event is likely part of a phishing scam.[/b]
+
+Phishing scams are fake websites that impersonate legitimate sites with the goal of stealing any login information and security codes you enter. This information will then be used to take over your account.
+
+Tournament scams and other phishing websites can be very sophisticated and appear legitimate. If you're not completely sure, [b][i]never[/i][/b] follow links or enter your account credentials.
+[/section]
+
+[h1]General scam avoidance[/h1]
+While some scammers may target Steam users or reference Steam, Steam games, or Valve as part of their scam, it's important to know that these types of online scams are not unique to Steam. Maintaining healthy skepticism in online interactions is important for preventing scams regardless of the platform.
+
+[h1]Identifying the Scam[/h1]
+This scam primarily propagates through online chat systems such as Steam Chat or Discord, but may also involve Steam Comments or comments/IMs in external forums.
+
+[list]
+
+[*]A friend or unknown person contacts you through Steam, Discord or any other community to ask if you'd take a little time to "vote for" or support their account or team in a tournament or contest.
+
+[*]You're directed to a phishing website to log in and cast your vote.
+
+[/list]
+
+[h1]Preventing the Scam[/h1]
+
+[h5]Protecting your account[/h5]
+
+You don't need knowledge of this specific scam style to protect yourself from it. If you remain generally skeptical in online interactions, especially if they seem to good to be true, or contain pressure, odd requests, or links to unknown websites, it should be trivial to identify and avoid this scam.
+
+[h5]Don't follow suspicious links[/h5]
+
+The key component of this scam however is phishing - never follow unrecognized links to even if the link came from a trusted friend. Never enter your credentials for any account online unless you're completely confident the website is trusted and secure.
+
+[h1]Reporting Scammers[/h1]
+
+[h5]Reporting Steam accounts used to scam[/h5]
+
+[url=https://help.steampowered.com/faqs/view/4D07-D139-587C-2080]Report[/url] any Steam accounts involved in the scam. If a friend's account is involved their account is likely stolen. Your report will help Steam identify and lock down the stolen account until its owner recovers it.
+
+[h5]Reporting any external chat, voice, or email accounts involved in the scam[/h5]
+
+If the scammer spoke to you using any non-Steam accounts, you can use that service's own reporting tools to help them identify the scammer accounts and prevent their misuse.
+
+[h1]Recovering your account[/h1]
+
+[h5]You can always recover your account through Steam Support[/h5]
+
+If you've fallen for this scam, you can recover your Steam account at any time using the [url=https://help.steampowered.com/en/]Steam Support Help Site[/url]. Click [url=https://help.steampowered.com/wizard/HelpWithLogin]Help, I can't sign in[/url] to start the recovery process.
+
+[section style=note]Some scammers may state that you can't recover your account because they already changed all of its information. This is part of the scam, and is false. You should ignore any statements or advice the scammer offers.
+[/section]

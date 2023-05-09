@@ -1,0 +1,61 @@
+[h1]Scam: Account Sellers and Traders[/h1]
+
+[section style=warning][b]Do not buy or trade Steam accounts.[/b]
+
+You can never be considered the owner of an account you've obtained from someone else. The only legitimate, supported, and ultimately protected way to use Steam is through an account you personally created.
+
+If an account is discovered to be in possession of anyone other than its creator, or Steam determines the account was sold to someone else, the account will be locked.
+[/section]
+
+[h1]General scam avoidance[/h1]
+While some scammers may target Steam users or reference Steam or Valve as part of their scam, it's important to know that these types of online scams are not unique to Steam. Maintaining healthy skepticism in online interactions is important for preventing scams regardless of the platform. Most online accounts can't be bought or sold, and trying to buy online accounts from others is often very risky.
+
+[h1]Account sales scams[/h1]
+
+[h5]Using a bought account has risks[/h5]
+
+[list]
+
+[*]You risk losing all time, effort, and value you add to a purchased account with no option for recovery. The account will be locked when identified as purchased, or recovered by its owner.
+
+[*]There's no way you can know the origin of an account that's listed for sale. While it may technically belong to the seller, it's more likely the account is stolen or the content it contains was obtained fraudulently.
+
+[*]Steam's rules related to account use are for your protection. Using an account you personally created carries no risk, while using a purchased account is very risky.
+
+[/list]
+
+[h5]Steam's rules protect you[/h5]
+
+[list]
+
+[*]The [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] states Steam accounts are for the use of their owner only. An account's owner is defined as its creator.
+
+[*]Steam Support will take action against an account seller who reclaimed an account sold to you if reported, but you will not receive compensation or be able to recover any value from the account.
+
+[*]By buying accounts from others, you're directly supporting the prohibited and risk laden activity of account buying and selling, and encouraging account thieves to steal and sell accounts.
+
+[/list]
+
+[h1]Preventing the scam[/h1]
+
+[h5]Do not buy accounts from others[/h5]
+
+The best way to avoid the risks related to using a purchased account is to create and use your own Steam account.
+
+If you've purchased an account from someone else without realizing what you were doing, cease using that account and instead create one of your own [url=https://store.steampowered.com/join/]here[/url]. Steam accounts are free to create.
+
+[h1]Reporting Scammers[/h1]
+
+[h5]Reporting an account you believe has been sold or is listed for sale[/h5]
+
+You can [url=https://help.steampowered.com/faqs/view/4D07-D139-587C-2080]Report[/url] any Steam accounts that you know has been sold or you've seen posted for sale or trade. Steam Support will review the report and take appropriate action against the account or seller.
+
+[h1]Recovering your account[/h1]
+
+[h5]You can always recover your account through Steam Support[/h5]
+
+If you've fallen for this scam, you can recover your Steam account at any time using the [url=https://help.steampowered.com/en/]Steam Support Help Site[/url]. Click [url=https://help.steampowered.com/wizard/HelpWithLogin]Help, I can't sign in[/url] to start the recovery process.
+
+[h5]Account selling has consequences[/h5]
+
+An account you've sold to someone else will be partially restricted on recovery. Steam Support will take steps to ensure you don't benefit from the buyer's use of your account. Individuals who repeatedly participate in account trading or sales will have all of their Steam accounts locked.

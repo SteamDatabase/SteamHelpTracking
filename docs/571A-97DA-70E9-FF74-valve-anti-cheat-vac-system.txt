@@ -1,0 +1,118 @@
+[h1]Valve Anti-Cheat (VAC) System[/h1]
+
+[section style=warning]VAC bans are permanent, non-negotiable, and cannot be removed by Steam Support. If a VAC ban is determined to have been issued incorrectly, it will automatically be removed.
+
+[exclude_realm=china]If you wish to discuss Valve Anti-Cheat with the community, you may do so [url=http://steamcommunity.com/discussions/forum/9/]here[/url].
+[/exclude_realm]
+
+[/section]
+
+[list]
+
+[*][url=#whatisvac]What is VAC?[/url] [/*]
+[*][url=#avoidvac]How can I ensure I don't get VAC banned?[/url] [/*]
+[*][url=#consequences]If I'm VAC banned what does it mean for my account?[/url] [/*]
+[*][url=#report]How do I report a new cheat?[/url] [/*]
+[*][url=#reportplayer]How do I report a cheater?[/url] [/*]
+[*][url=#vacgames]What games are VAC enabled?[/url] [/*]
+[*][url=#insecure]If I'm VAC banned can I play on insecure servers?[/url] [/*]
+[*][url=#share]Will I be punished if someone sharing my Library cheats?[/url] [/*]
+[*][url=#notvac]What is the difference between a VAC Ban and a Server Ban?[/url] [/*]
+
+[/list]
+
+[section id=whatisvac]
+
+[h2]What is VAC?[/h2]
+VAC stands for Valve Anti-Cheat, an automated system designed to detect cheats installed on users' computers. If a user connects to a VAC-Secured server from a computer with identifiable cheats installed, the VAC system will ban the user from playing that game on VAC-Secured servers in the future.
+
+The VAC system reliably detects cheats using their cheat signatures. Any third-party modifications to a game designed to give one player an advantage over another is classified as a cheat or hack and will trigger a VAC ban. This includes modifications to a game's core executable files and dynamic link libraries.
+
+While server admins may choose to ban specific players, server admins cannot VAC ban players.
+
+The following will [i]not[/i] trigger a VAC ban:
+
+[list]
+
+[*]System hardware configurations. [/*]
+[*]Updated system drivers, such as video card drivers. [/*]
+
+[/list]
+
+[/section]
+
+[section id=avoidvac]
+
+[h2]How can I ensure I don't get VAC banned?[/h2]
+To ensure your account does not get VAC banned, use only trusted machines to play on VAC-Secured servers. If you are not sure whether or not the machine you are using to connect to Steam may have cheats installed, do not play on VAC-Secured servers.
+
+Use caution when installing any game modifications like scripts or custom skins, and only download custom content from trusted sources. Hackers may maliciously disguise their cheats to cause others to get banned.
+For more information on how you can protect yourself and your account, please refer to our [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] help article.
+
+[exclude_realm=china]
+Additional information on Valve's policies can be found in our [url=http://www.steampowered.com/v/index.php?area=subscriber_agreement]Steam Subscriber Agreement[/url].
+
+[/exclude_realm]
+
+[exclude_realm=global]
+Additional information on Perfect World's policies can be found at [url=https://store.steamchina.com/subscriber_agreement]Steam China Subscriber Agreement[/url].
+
+[/exclude_realm]
+
+[/section]
+
+[section id=consequences]
+
+[h2]If I'm VAC banned what does it mean for my account?[/h2]
+For detailed information on how VAC bans affect your account, please visit the [url=https://support.steampowered.com/kb_article.php?ref=4044-qdhj-5691]I've been VAC banned[/url] help article.
+[/section]
+
+[section id=report]
+
+[h2]How do I report a new cheat?[/h2]
+If you know of a new cheat, especially private cheats (ones that aren't on a public website), and can provide the links or the actual binaries, please send an email with pertinent information to the following email address:
+
+[i]vacreview [at] valvesoftware [dot] com[/i]
+
+All emails are read and reviewed by the VAC development team.
+[/section]
+
+[section id=reportplayer]
+
+[h2]How do I report a cheater?[/h2]
+If you believe to have played with or against a cheater, please follow the instructions in the [url=https://support.steampowered.com/kb_article.php?ref=1010-TOKN-8461]Reporting suspected cheaters[/url] help article to report the suspected cheater.
+
+[b]Note:[/b] Users are not VAC banned based on reports alone. Other factors are taken into account before VAC bans are issued.
+[/section]
+
+[section id=vacgames]
+
+[h2]What games are VAC enabled?[/h2]
+A list of VAC enabled games can be found on the Steam Storefront by clicking [url=http://store.steampowered.com/search/?category2=8]here[/url].
+[/section]
+
+[section id=insecure]
+
+[h2]If I'm VAC banned can I play on insecure servers?[/h2]
+Yes, if the game offers insecure servers.
+
+Some VAC protected games allow servers that are not protected by VAC. Users that are VAC banned are still able to play on insecure servers for the game they are VAC banned in. Please note that not all games have insecure servers.
+[/section]
+
+[section id=share]
+
+[h2]Will I be punished if someone sharing my Library cheats?[/h2]
+Your Family Sharing privileges may be revoked and your account may also be VAC banned if your library is used by others to cheat. Additionally, VAC-banned games cannot be shared between accounts.
+
+We recommend you only authorize Steam Accounts and computers you know to be secure, and as always, never give out your password to anyone or share your account.
+[/section]
+
+[section id=notvac]
+
+[h2]What is the difference between a VAC Ban and a Server Ban?[/h2]
+VAC bans prevent you from playing on secured servers across all of Steam. Server administrators may issue a Server ban, but these are not as severe as a VAC ban. We cannot prevent Server bans at Valve; whoever runs the server can ban players for any reason they desire.
+
+If you find that you are banned from a large number of community servers you have likely been banned by a third-party ban tool, such as Steambans or Punkbuster. These third-party tools are used by a large number of servers sharing a common database of banned IDs. These tools are unrelated to Steam and we cannot assist you in resolving these issues.
+
+You will not be banned by the VAC system unless you log in to a VAC-secure server with a cheat installed on your computer.
+[/section]

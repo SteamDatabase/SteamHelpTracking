@@ -1,0 +1,7 @@
+[h1]Windows 7 and Windows 8 Support[/h1]
+
+As of January 1 2024, Steam will officially stop supporting the Windows 7, Windows 8 and Windows 8.1 operating systems. After that date, the Steam Client will no longer run on those versions of Windows. In order to continue running Steam and any games or other products purchased through Steam, users will need to update to a more recent version of Windows.
+
+This change is required as core features in Steam rely on an embedded version of Google Chrome, which no longer functions on older versions of Windows. In addition, future versions of Steam will require Windows feature and security updates only present in Windows 10 and above.
+
+Although support won't end until 2024, we strongly encourage all Windows 7/8/8.1 users to update sooner rather than later. Microsoft ended security updates and technical support for Windows 7 in January 2020 and for Windows 8.1 in January 2023. Computers running these operating systems, when connected to the internet, are susceptible to new malware and other exploits which will not be patched. That malware can cause your PC, Steam and games to perform poorly or crash. That malware can also be used to steal the credentials for your Steam account or other services.

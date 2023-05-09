@@ -1,0 +1,99 @@
+[h1]Dota 2 Workshop - Contract Only Submissions[/h1]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/workshop_banner.jpg[/img]
+
+Contract Only submissions are only intended for partners working with Valve who need to establish a Steam Workshop item ID number and accept the Steam Workshop Agreements. This category cannot be used for the submission of item files.
+
+[list]
+
+[*][url=#newusers]CONTRACT ONLY SUBMISSIONS FOR NEW USERS[/url] [/*]
+[*][url=#instructions]INSTRUCTIONS[/url]  [/*]
+[*][url=#failures]SUBMISSION FAILURES[/url] [/*]
+[*][url=#revenuerestrictions]REVENUE SHARE RESTRICTIONS[/url] [/*]
+
+[/list]
+
+[url id=newusers][/url]
+
+[h2]CONTRACT ONLY SUBMISSIONS FOR NEW USERS[/h2]
+
+[list]
+
+[*]If you have not yet set up an account for submitting items to the Dota Workshop, please see [url=https://support.steampowered.com/kb/8860-WOSX-7503/dota-2-account-preparation-for-workshop-item-submission]Account Preparation for Workshop Item Submission[/url] for instructions on account set up and installing and launching Dota and Dota Workshop Tools. The [url=http://steamcommunity.com/workshop/workshoppaymentinfofaq]Workshop Payment FAQ[/url] will explain details of how payment accounts and revenue shares are handled. [/*]
+
+[/list]
+
+[url id=instructions][/url]
+
+[h2]INSTRUCTIONS[/h2]
+
+[list]
+
+[*]After installing the Dota Workshop Tools, chose "Launch Dota 2 - Tools" when you start Dota [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/choose_launch_dota_tools.jpg?v=1577836800[/img]
+
+[list]
+
+[*]Once the Workshop Tools have loaded, click the "Launch Item Tools" button. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/launch_item_tools.jpg?v=1577836800[/img]
+
+[list]
+
+[*]Once the Workshop Manager has loaded, click the "Create New Item" button. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/create_new_item.jpg?v=1577836800[/img]
+
+[list]
+
+[*]Select "Contract-Only Submission" from the item types. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/contract_only_button.jpg?v=1577836800[/img]
+
+[list]
+
+[*]You will be asked "Have you been contacted by Valve to submit a contract-only submission?"  [/*]
+[*] If Valve has not asked you to do a Contract-Only submission, you will need do your submission under another category of supported item types. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/contract_only_question.jpg?v=1577836800[/img]
+
+[list]
+
+[*]If the item involved needs to be confidential, you will have the option to mark your submission "Hidden" at the end of the process. Valve admins are still able to see hidden submissions. You will be able to make the item public later when you are ready to publicize it and get votes from the Dota 2 community. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/hidden_submission.jpg?v=1577836800[/img]
+
+[url id=failures][/url]
+
+[h2]SUBMISSION FAILURES[/h2]
+
+[list]
+
+[*]If you attempt to add item files to a contract-only submission, the submission will fail and you will see an error saying "Invalid zip file". To submit item files, you will need do your submission under another category of supported item types. [/*]
+
+[/list]
+
+[h2][img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/invalid_zip.jpg?v=1577836800[/img][/h2]
+[url id=revenuerestrictions][/url]
+
+[h2]REVENUE SHARE RESTRICTIONS[/h2]
+
+[list]
+
+[*]Please be aware that revenue shares cannot be changed once an item is submitted. If you have to change revenue shares on an unshipped item, you will need to do a new item submission and inform Valve of the new workshop URL so the correct workshop ID and revenue shares will be used for the item.  [/*]
+[*]Revenue shares and the related accounts cannot be changed on an item after it ships. For more information about workshop payments, see the [url=http://steamcommunity.com/workshop/workshoppaymentinfofaq]Workshop Payment FAQ[/url]. [/*]
+
+[/list]

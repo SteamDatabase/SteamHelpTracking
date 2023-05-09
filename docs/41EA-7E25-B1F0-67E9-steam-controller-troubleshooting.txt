@@ -1,0 +1,138 @@
+[h1]Steam Controller Troubleshooting[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
+
+[h1]Steam Controller Troubleshooting[/h1]For a guided troubleshooting experience, see our [url=https://help.steampowered.com/wizard/HelpWithGame/?appid=353370]Troubleshooting Tree[/url]
+
+Otherwise, you can optimize your Steam Controller by completing the steps below:
+
+[expand type=title title="Run Steam in Big Picture Mode"]
+
+The Steam Client can be run in two ways. The standard desktop client (Two Foot) or the 10 foot user interface known as Big Picture Mode. The Steam Controller is designed to be used with Steam’s Big Picture Interface. To access Big Picture, please click the [i]rectangle with two opposing arrows[/i] icon in the top right corner of the Steam Client.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/ade37ca59689983368c046636abd7aad9b91b41a.png[/img]
+
+You can also launch Big Picture Mode from your Steam Controller. Press the Steam button once to bring the Steam Client into focus and a second time to enter Big Picture Mode
+
+[/expand]
+
+[expand type=title title="Opt into the most up to date version of the Steam Beta"]
+
+The Steam Client Beta is a feature any Steam user can opt into. Opting into the beta will allow users to receive updates and fixes before they are made available through the regular Steam Client.
+
+To get the latest updates and features from the development team, please opt into the Steam Client beta.
+
+[list]
+
+[*]While in Big Picture Mode, select the [i]Settings[/i] icon from the top right section of the client. [/*]
+[*]From here, select the [i]System[/i] menu. [/*]
+[*]Ensure that the [i]Participate in Client Beta[/i] option is checked. [/*]
+[*]Finally, select [i]Check for Updates[/i]. If updates are available, they will automatically be downloaded and installed. [/*]
+
+[/list]
+
+[/expand]
+
+[expand type=title title="Enable the Steam Overlay"]
+
+Please ensure that the Steam Overlay is enabled.
+
+[list]
+
+[*]While in Big Picture Mode, select the [i]Settings[/i] icon from the top right section of the client. [/*]
+[*]From here, select [i]Steam Overlay[/i] under [i]Features[/i]. [/*]
+[*]Make sure the [i]Enable the Steam Overlay[/i] option is checked. [/*]
+
+[/list]
+
+[/expand]
+
+[expand type=title title="Run Steam as Admin"]
+
+Depending on your setup, certain features may require Steam to be run with administrator privileges. Try running Steam as administrator by doing the following:
+
+[list]
+
+[*]Navigate to the Steam installation folder (C:\Program Files (x86)\Steam\ by default) [/*]
+[*]Right-click on steam.exe [/*]
+[*]Select [i]Run as administrator[/i] [/*]
+
+[/list]
+
+[/expand]
+
+[h2]Is my Controller Defective?[/h2]
+There are multiple diagnostic tools that can help in determining whether or not a controller has a hardware defect.
+
+[list]
+
+[*]The Input test tool can be used to verify the functionality of each button on the Steam Controller. It will also verify the functionality of the Steam Controller’s haptic feedback. To do this, please follow these steps:
+
+[list]
+
+[*]In Big Picture mode, go to Settings > Controller > Controller settings [/*]
+[*]Highlight your Steam Controller in the device list and select [i]Support[/i] [/*]
+[*]Follow the on-screen instructions to complete the diagnostic test [/*]
+
+[/list]
+[/*]
+[*]The calibration tool automatically adjusts the controller so that the Joystick, Track Pads, and Gyro function optimally.
+
+[list]
+
+[*]In Big Picture mode, go to Settings > Controller > Controller settings [/*]
+[*]Highlight your Steam Controller in the device list and select [i]Calibrate[/i] [/*]
+[*]Follow the on-screen instructions to complete the calibration [/*]
+[*]The development team recommends performing the calibration twice [/*]
+
+[/list]
+[/*]
+
+[/list]
+
+[expand type=title title="Diagnostics Failed"]
+
+If you are unable to complete the hardware diagnostic tests, then your device may have a physical defect. You may need to initiate an RMA to pursue a refund or replacement.
+
+You may request a replacement for your device through the Steam Support site by following the instructions below.
+
+[olist]
+
+[*]If purchased on Steam: [/*]
+[*]Go to [url=https://help.steampowered.com]https://help.steampowered.com[/url] [/*]
+[*]Select [i]A Purchase[/i] [/*]
+[*]Locate and select the Steam Controller [/*]
+[*]Select [i]Technical Issue[/i] [/*]
+[*]Select [i]I would like a replacement[/i] [/*]
+[*]Follow the instructions to request your replacement [/*]
+
+[/olist]
+
+More information about Steam Hardware returns and replacements is available here:
+
+[list]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=7013-OXBM-2746]Steam Hardware RMA Guide[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=4577-TUJV-6223]Steam Hardware Warranty[/url] [/*]
+
+[/list]
+
+[/expand]
+
+[expand type=title title="Diagnostics Passed"]
+
+If the problem does not appear to be hardware related, then it may be a software issue. Our developers frequently read the Steam Hardware Forums, and are constantly releasing updates and bug fixes. Please submit all bugs and feedback to the Steam Hardware forums, found here:
+
+[url=http://steamcommunity.com/app/353370/discussions/]Visit Steam Discussions[/url]
+[/expand]
+
+If further assistance is required please contact Steam Support:
+
+[url=https://help.steampowered.com/wizard/HelpWithGame/?appid=353370]Contact Support[/url]
+
+[h4]Intended Trackpad Dead Zone Area[/h4]
+To avoid unintentional inputs while switching between the right trackpad and the face buttons (A B X Y), the lower left edge of the right trackpad will sometimes deliberately ignore input. This is intended behavior and does not indicate a defect with your controller.
+
+If another piece of your hardware has been lost or damaged, please contact Steam Support for replacement options.
+
+[url=https://help.steampowered.com/wizard/HelpWithGame/?appid=353370]Contact Support[/url]

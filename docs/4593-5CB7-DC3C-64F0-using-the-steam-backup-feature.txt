@@ -1,0 +1,89 @@
+[h1]Using the Steam Backup Feature[/h1]
+
+How do I use the Steam backup feature to save copies of my game files and restore my game files from backup copies?
+
+[section style=note]
+
+[h3]Note:[/h3]
+Many games that use third party installers or downloaders will not work with Steam's backup feature. This includes many MMO style or third party free to play titles. Only games that completely download, install, and patch through Steam are compatible with this tool.
+[/section]
+
+[section style=important]
+
+[h3]Important:[/h3]
+Backups for [b]Valve [/b]created games will not include saved games, custom multiplayer maps or configuration files. To backup your entire installation (including custom content), ensure that copies of all custom files are in the following folders in the path:
+[exclude_realm=china][b]C:\Program Files (x86)\Steam\steamapps\common\<game name>\[/b]
+[/exclude_realm]
+
+[exclude_realm=global][b]C:\Program Files (x86)\SteamChina\steamapps\common\<game name>\[/b]
+[/exclude_realm]
+:
+
+[list]
+
+[*][b]\cfg\[/b] - Custom configurations and configuration scripts [/*]
+[*][b]\downloads\[/b] - Custom content for multiplayer games [/*]
+[*][b]\maps\[/b] - Custom maps which have been installed or downloaded during multiplayer games [/*]
+[*][b]\materials\[/b] - Custom textures and skins [/*]
+[*][b]\SAVE\[/b] - Single-player saved games [/*]
+
+[/list]
+
+For [b]third party[/b] created games; the location of game saves can vary by game as the location is determined by the game's developer. To find the location you can: check the game's Community forum on Steam to see if other users know it and have posted the information already, visit their website for specific file location information for their game, or reach out to the developer to ask.
+
+These files will need to be copied to the corresponding folders after restoring with the Steam backup feature.
+[/section]
+
+[h4]Backing up all of your games[/h4]
+It is recommended that you use the method outlined in [url=https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129][b]Moving a Steam Installation[/b][/url] as this will save time and simplify the backup and restore process.
+
+[h4]Creating Backup Files[/h4]
+
+[olist]
+
+[*]Open your Steam Library [/*]
+[*]Right click the game's title and select [b]Properties...[/b]. [/*]
+[*]From the [b]Local Files tab[/b] select [b]Backup game files...[/b] [/*]
+[*]Check the boxes for games to backup at this time [/*]
+[*]Click [b]Next >[/b] [/*]
+[*]Browse to the folder where you wish to create the backup files (the files will be stored in
+[exclude_realm=china][b]c:\Program Files (x86)\Steam\Backups[/b]
+[/exclude_realm]
+
+[exclude_realm=global][b]c:\Program Files (x86)\SteamChina\Backups[/b]
+[/exclude_realm]
+by default) and click [b]Next >[/b] [/*]
+[*]Select the [b]Backup file name[/b] and set the [b]File size[/b] for the media you plan to use. [/*]
+[*]Click [b]Next >[/b] to begin the backup process. [/*]
+[*]Once complete, choose [b]Open backup folder[/b]  to move or burn copies of the backup files [/*]
+
+[/olist]
+
+[section style=note]
+
+[h3]Important:[/h3]
+We recommend testing the backup discs after their creation to ensure the integrity of the files for future reinstallation.
+[/section]
+
+[h4]Restoring from Backup Files[/h4]
+
+[olist]
+
+[*]Install Steam and [b]log in [/b]to the correct Steam account (see [url=https://support.steampowered.com/kb_article.php?ref=3046-ECVN-3712]Installing Steam[/url] for further instructions) [/*]
+[*]Launch Steam [/*]
+[*]Click on "Steam" in the upper left corner of the Steam application [/*]
+[*]Select "Backup and restore games..." [/*]
+[*]Select "Restore a previous backup" [/*]
+[*]Browse to the location of the game's backup files [/*]
+[*]Continue through the Steam windows to install the necessary games. [/*]
+
+[/olist]
+
+[section style=note]
+
+[h3]Important:[/h3]
+If the path to your Steam installation contains [b]special characters[/b], such as [b]C:\Steam安装路径\Steam[/b], the restore process may not complete successfully. If this issue occurs, you may need to re-install Steam to a location without special characters, such as [b]C:\Steam[/b].
+[/section]
+
+[h3]Testing[/h3]
+To avoid problems in the future, make sure to test any backups that you create. If other applications interfere with the backup process or the backup process is interrupted, the backup may not be created successfully. Testing your backup will ensure that will not need to re-download the game at a later time.

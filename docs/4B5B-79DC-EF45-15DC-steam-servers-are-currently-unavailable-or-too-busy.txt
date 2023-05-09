@@ -1,0 +1,104 @@
+[h1]Steam Servers Are Currently Unavailable or Too Busy[/h1]
+
+I receive the message [b]The Steam Servers are currently unavailable. Please try again later.[/b] or [b]The Steam Servers are too busy[/b] while using Steam - what should I do?
+
+[h2]Error Code 53[/h2]
+This error can often be resolved by checking for [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which May Interfere with Steam[/url] that are preventing Steam from operating normally.
+
+[h2]Change your Download Region[/h2]
+Try changing your Download Region to see if it affects the issue:
+
+[h3]On Windows[/h3]
+
+[olist]
+
+[*]Start Steam [/*]
+[*]Go to [b]Steam > Settings > Downloads[/b] tab [/*]
+[*]Under [b]Download region[/b], select a different but relatively close region. [/*]
+[*]Try launching or installing the game once more  [/*]
+
+[/olist]
+
+[h3]On Mac[/h3]
+
+[olist]
+
+[*]Start Steam [/*]
+[*]Click on [b]Steam > Preferences > Downloads[/b] tab [/*]
+[*]Under [b]Download region[/b], select a different but relatively close region. [/*]
+[*]Try launching or installing the game once more  [/*]
+
+[/olist]
+
+[h2]Repairing corrupted Steam files[/h2]
+It is possible that over time your Steam files have become corrupted. Try the following to repair your Steam files.
+
+[h3]On Windows[/h3]
+To fix this error use the following steps:
+
+[list]
+
+[*]Exit Steam [/*]
+[*]Navigate to your Steam installation directory. ([b]C:\Program Files (x86)\Steam\ [/b] by default.) [/*]
+[*]Delete everything in that directory [b]EXCEPT[/b] the following:
+
+[list]
+
+[*][b]steam.exe[/b] [/*]
+[*][b]steamapps[/b] directory (All of Steam's game files are kept here.) [/*]
+
+[/list]
+[/*]
+[*]Restart Steam to test the issue [/*]
+
+[/list]
+
+[h3]On Mac[/h3]
+To fix this error use the following steps:
+
+[list]
+
+[*]Exit Steam [/*]
+[*]Navigate to [b]Users/[username]/Library/Application Support/Steam[/b] [/*]
+[*]Delete everything in that directory except for the steamapps folder (Note: you may lose mods or custom content with this method) [/*]
+[*]Launch Steam from your Dock or Applications folder [/*]
+
+[/list]
+
+[h2]Connection Issues[/h2]
+
+[section style=note]
+
+[h3]Note:[/h3]
+Steam does not support connecting through a network DMZ (de-militarized zone), so this setting must be disabled in your router for Steam to function. For more information, please follow our guide to [url=https://support.steampowered.com/kb_article.php?ref=6776-MYXU-0480]Using a Router with Steam[/url].
+[/section]
+
+Many Steam issues can be caused by a firewall, anti-virus, or a problem with your router or internet connection.
+
+Please use the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] guide to ensure that your network is properly configured for use with Steam.
+
+[h2]Disable any programs which interfere with Steam[/h2]
+Please consult the topic linked below and make sure any programs on the list are either disabled or uninstalled:
+
+[url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs Which Interfere with Steam[/url]
+
+[h2]Remove Spyware, Adware, and Viruses[/h2]
+If the issue persists it is possible that a virus, adware, or spyware may be interfering with the installation process. Please see the topic linked below for instructions to remove the offending program:
+
+[url=https://support.steampowered.com/kb_article.php?ref=6057-YLBN-1660]Spyware, Malware, Adware, and Viruses Interfering with Steam[/url]
+
+[h2]Steam Network Outage[/h2]
+If the Steam Network is experiencing a large amount of traffic or if the network is temporarily off-line, you may not be able to use Steam immediately. Please follow the link below to check the Steam Network Status page:
+
+[url=http://store.steampowered.com/stats/]Steam Network Status[/url]
+
+[h2]Recent purchase not recognized yet[/h2]
+If you experience this error while trying to install or register a game, log out of Steam and log back in to determine whether or not your purchase was successfully processed:
+
+[olist]
+
+[*]Go to the upper left in the Steam client and select [b]Steam[/b]
+[*]Then select [b]Change Account...[/b] [/*]
+
+[/olist]
+After Steam restarts you will be prompted for your username and password. After logging in you should be able to download and/or install the games.

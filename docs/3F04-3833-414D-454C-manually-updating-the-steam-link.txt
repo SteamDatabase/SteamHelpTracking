@@ -1,0 +1,127 @@
+[h1]Manually Updating the Steam Link[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_link/SteamLink_Support_Header01.png[/img]
+
+[h1]Updating the Steam Link[/h1]Need to update your Steam Link or load a specific build on it? Click on the scenario that best describes your setup for detailed instructions.
+
+[expand type=title title="Loading Specific Steam Link Builds"]
+You may need to load specific Steam Link builds to better troubleshoot issues. To do this, follow the steps below:
+
+[olist]
+
+[*]From the Steam Link’s base page, check your system settings to ensure that you are using [i][b]build 449 or newer.[/b][/i] If your Steam Link is not using this build, you may need to switch to click the [i][b]Switch to Public Build[/b][/i] button from the Steam Link System Setting Page.
+
+[*]If you are still unable to update to the required build version, please try updating after performing a factory reset.
+
+[*]Determine [url=https://support.steampowered.com/kb_article.php?ref=8293-PDVM-4434]which build[/url] you would like to load. Create a text file called [i][b]update_branch.txt[/b][/i] containing the number of the build you wish to use. Place this file on a USB drive using the file path [i][b]/steamlink/config/system/update_branch.txt[/b][/i]
+
+[*]Insert the USB drive into the Steam Link
+
+[*]Unplug your Steam Link, wait 3 seconds, then plug it back in
+
+[*]The correct build will automatically be downloaded and installed
+
+[*]After the update, navigate to the System Settings page to ensure that both the Release and Build version have been updated.
+
+[/olist]
+
+[h2]Additional Notes[/h2]
+If you do not see the correct build number after performing this process please do the following:
+
+[olist]
+
+[*]Check to make sure the file on your USB drive does not have a hidden extension (update_branch.txt.txt)
+
+[*]Try another USB drive
+
+[/olist]
+
+[/expand]
+
+[expand type=title title="Manually Updating the Steam Link"]
+If your Steam Link is not connected to the internet, you can update it manually using the steps for setup and installation below:
+
+[olist]
+
+[*][url=https://media.steampowered.com/steamlink/06_2015/SystemUpdate.zip]Download[/url] the installation file for the current Steam Link Build. [b]- SystemUpdate.zip[/b]
+
+[*]Using a USB drive, create a folder called [b]steamlink[/b] in the root directory, or top-level. When you open the drive, you should see the steamlink folder
+
+[*]Move the [b]SystemUpdate.zip[/b] file you just downloaded into the steamlink folder. Your file path should look like [b]/steamlink/SystemUpdate.zip[/b]
+
+[*]In the steamlink folder, create a new folder called [b]config[/b]
+
+[*]Open the config folder and create a new folder called [b]system[/b]
+
+[*]Inside the system folder, create an empty text file (.txt) called [b]update_branch.[/b] Your file path should be [b]/steamlink/config/system/update_branch.txt[/b]
+
+[*]Follow the [b]Installation[/b] steps below to update the Steam Link to the latest build
+
+[/olist]
+
+[/expand]
+
+[expand type=title title="Loading Builds while Link is not Connected to the Internet"]
+If you would like to load a specific Steam Link build while the Link is not connected to the internet, please follow the steps below:
+
+[olist]
+
+[*]Determine [url=https://support.steampowered.com/kb_article.php?ref=8293-PDVM-4434]which build[/url] you would like to load. Create a text file called [b]update_branch.txt[/b], open the file, and type in the number of the build you wish to use.
+
+[*]Place this file on a USB drive using the file path [b]/steamlink/config/system/update_branch.txt[/b]
+
+[*]Copy this URL into a web browser and replace the [b]‘XXX’[/b] with the desired build number
+
+[*]https://media.steampowered.com/steamlink/06_2015/SystemUpdate_full_XXX.zip
+
+[*]Press [b]Enter[/b] and download the .zip file to the [b]/steamlink/[/b] folder you just created on the USB drive
+
+[*]Edit the file name to [b]SystemUpdate.zip[/b]
+
+[/olist]
+
+The file paths should look like this:
+
+[list]
+
+[*][b]/steamlink/SystemUpdate.zip[/b]
+
+[*][b]/steamlink/config/system/update_branch.txt[/b]
+
+[/list]
+
+[h2]Installation[/h2]
+
+[olist]
+
+[*]Power on the Steam Link, connect to your local network, and verify that you can navigate to the Settings > System menu
+
+[*]Use a wired Ethernet connection if possible
+
+[*]Remove all input devices except a mouse and keyboard
+
+[*]Remove the power cord and wait 3 seconds
+
+[*]Insert the prepared USB drive into the port closest to the power cord
+
+[*]Power on the Steam Link by plugging the cord back in
+
+[*]The update should start after a longer than usual delay on the splash screen
+
+[/olist]
+After the update finishes, test the build by navigating to [b]System > Settings.[/b]
+
+[h2]Additional Notes[/h2]
+If the update does not start automatically:
+
+[olist]
+
+[*]Verify that the Steam Link was connected to your local area network before attempting to update.
+
+[*]Check to make sure the file on your USB drive does not have a hidden extension (update_branch.txt.txt)
+
+[*]Perform a quick format on the USB drive (using default values) and repeat the steps in the Setup section
+
+[/olist]
+
+[/expand]

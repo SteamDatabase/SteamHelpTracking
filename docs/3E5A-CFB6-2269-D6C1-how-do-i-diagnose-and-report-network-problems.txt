@@ -1,0 +1,160 @@
+[h1]How do I diagnose and report network problems?[/h1]
+
+This article explains some basic steps you can take to diagnose network-related problems and what information to share when communicating with support or posting on forums.
+
+[h1]Different types of network problems[/h1]
+The first thing to do is categorize the type of problem. Pay close attention to what's happening on your screen, and any FPS or ping readouts, to be clear about the nature of the problem.
+
+[list]
+
+[*]
+
+[h4]Client-side frame rate problems[/h4]
+
+These are not network problems, but people often confuse the two, and use words like "lagging" or "hitching" to describe both problems. When you have a client-side frame rate problem, the whole screen will freeze ("frame rate hitching") or the animation of the entire screen will stop being fluid. In contrast, if your frame rate is smooth, but characters walk in place or warp around, or some screen elements continue animating while others are jerky, or if you have an FPS indicator and it doesn't drop, then you probably have a network problem.
+
+[*]
+
+[h4]High latency[/h4]
+
+This is when packets consistently take a long time to reach the gameserver and back. (This roundtrip time is usually called the "ping".) This can manifest itself in a few different ways, depending on the game. There might be a noticeable delay between the time you perform some input, such as clicking to issue an order or fire a weapon, and when you see the appropriate response on your screen. Another sign of high ping, common in first person shooters, is when bullets seems to miss their targets even though it looked like it should have hit them, or when you get shot "from around a corner." Or if you run near an obstacle and you seem to slide around after a little delay, even though on your screen you didn't hit the obstacle. This is because your computer is trying to predict what will happen on the server, but what happened on the server didn't match up with that prediction, and your computer is trying to correct the situation after it gets the update from the server of what "really" happened.
+
+[*]
+
+[h4]Packet loss[/h4]
+
+This happens when packets are sent by your client or the gameserver, but they are not received by the other side. In most of the world, packet loss above 1% is relatively rare, and a small amount of packet loss on this scale is usually not noticeable. Depending on the game, packet loss of 10% or higher can seriously degrade the experience. Packet loss can share many of the same symptoms as high latency, so if you don't have an in-game readout, it can be difficult to tell the difference between the two problems. In general, packet loss tends to be a bit more erratic and "bursty".
+
+Typically packet loss is symmetric, meaning that packets sent to the gameserver are dropped about as often as packets sent by the gameserver to your client. However, sometimes one direction has more loss than the other. When this happens, it might prevent packet loss readouts from diagnosing the problem, depending on the method used to measure packet loss. For example, if the game measures packet loss based on gaps in sequence numbers attached to incoming packets, it will not be able to detect outgoing packet loss. The ping test described below is based on loss of roundtrip packets, so it can detect packet loss, even if it's asymmetric.
+
+[*]
+
+[h4]NAT problems[/h4]
+
+This can prevent your computer from accessing more than a small number of remote hosts in quick succession. For example, if the game needs to ping multiple servers or regions to find out which one has the best connection. Server browsing in games like Counter-Strike and TF2 ping thousands of servers. If your computer only shows a few servers when there should be hundreds or thousands, or if you experience network problems immediately after using the server browser in these games, then it's likely that you have a NAT problem.
+
+NAT problems are almost always caused by old home routers, and the solution is to buy a newer one.
+[/list]
+
+These problems are not mutually exclusive. Before reporting a problem, please take the time to try to identify what kind of problem(s) you have. When reporting a problem, provide data whenever possible: the symptoms you're experiencing, what your network configuration looks like, your ISP, what connectivity tests you have tried, etc. Problems reported without data are very difficult for us to help you with.
+
+[h1]Running a ping test[/h1]Here's a simple but very useful diagnostic tool you can run to test network connectivity. First, you need to pick the host that you want to measure connectivity with. Usually this will be one of three options:
+
+[list]
+
+[*]
+
+[h4]A gameserver[/h4]
+
+You'll need to find the IP address of the server you are actually talking to. Don't assume that you can just ping a domain name such as "valvesoftware.com" or "dota2.com"; those are web servers that don't have anything to do with gameplay. The exact method to find the IP address you are playing on differs by game. In most Valve games, you can open a console and the IP address of the server will be in there somewhere.
+
+[b]Instructions for Dota 2:[/b]
+
+[olist]
+
+[*]Set the Launch options for the game to [i]-console[/i]
+
+[*]Use [i]`[/i] key to access the console after launching the game
+
+[*]Type and enter the command: [i]status[/i] to get Ping and other status information
+
+[/olist]
+
+[b]Instructions for Counter-Strike: Global Offensive:[/b]
+
+[olist]
+
+[*]Launch the game and go to the Settings menu
+
+[*]Set [i]Enable Developer Console[/i] to [i]Yes[/i]
+
+[*]Use the [i]`[/i] key to access the console
+
+[*]Type and enter the command: [i]netgraph 1[/i] to enable the display of Ping and other network performance information
+
+[/olist]
+
+In some situations, you can run a test on an IP address that you have good reason to believe has equivalent network characteristics, if you don't know the IP address you are trying to talk to. For example, if you know the address of one of the gameservers in the US East region for a certain game, you might be able to use that IP address for a general test to all gameservers in US East. But only do this if you cannot get the exact IP address, and always share that information in any report, to make sure it doesn't invalidate any information you gather.
+
+[*]
+
+[h4]Your home router[/h4]
+
+Communications problems to home routers are extremely common, especially over wireless networks. To find the address of your router: Open the Command Prompt and type "ipconfig" on Windows. Your router's address is the "default gateway." It's very common for routers to have an address like "192.168.0.x" or "10.0.0.x".
+
+[*]
+
+[h4]Some other major website[/h4]
+
+Confirming connectivity with another site can help rule out general Internet connectivity problems. For these sites, you don't need a numeric IP address, you can use a domain name, such as "amazon.com", "google.com", "facebook.com", "netflix.com", etc.
+[/list]
+
+[h3]Once you have decided which computer you want to test connectivity to:[/h3]
+
+[olist]
+
+[*]Open up a command prompt.
+
+[*]On Windows, run the command: "[b]ping -t [i]address[/i][/b]", replacing [b][i]address[/i][/b] with the IP address or domain name you want to test.
+
+[*]Your computer will ping the given server repeatedly until you stop it with Ctrl+C.
+
+[*]Pay attention to how often the pings fail, and what the ping times are.
+
+[/olist]
+
+Some hosts will block ping requests and will never reply to them. When this happens, you may see "Request timed out" instead of a ping response. If you experience this, you may need to try another host.
+
+You can keep one or more of these tests running in the background while you play the game. This is especially helpful if the problem is intermittent. When the problem happens in game, switch over and examine what's happening to the ping test(s).
+
+If ping is reporting lost packets, you may be able to narrow down where the problem is by running another tool:
+
+[olist]
+
+[*]Open up a command prompt.
+
+[*]On Windows, run the command: "[b]pathping [i]address[/i][/b]", replacing [b][i]address[/i][/b] with the IP address or domain name you want to test.
+On Linux, you can use the similar "<code>mtr</code>" command (you may need to install the "mtr" package to use it). For example: "<code>mtr -n -c 100 --report --report-wide [i]address[/i]</code>"
+
+[*]Wait until the test finishes. It may take several minutes to complete.
+
+[/olist]
+
+Pathping/MTR will report the latency for each hop your packets went through, as well as the loss at each hop. If a hop reports 100% packet loss but different hops do not, then the host at that hop may be blocking ping requests and does not represent a network problem. If your first hop is reporting loss, then there is a problem between your computer and your router (wireless connections are often to blame for this).
+
+[h1]MTU problems[/h1]
+If the ping test doesn't show any problems, but you are having connectivity issues with a game, it could be because of a difference between how ICMP packets (used by ping) are being handled compared to the type of packets (probably UDP) used by the game. One of the most common problems is that the game packets are larger than your maximum transmission unit (MTU). MTU is a measure of the size of packet that your network allows before either fragmenting it (which increases the chances of packet loss) or dropping it completely. MTU limitations could be present on your local network, or possibly somewhere further away, with your ISP.
+
+On Windows, you can add "[b]-l 1300[/b]" to force the ping test to use larger packets. If those pings stop working, then your home router or ISP might be enforcing a smaller MTU than the game expects.
+
+[h1]What information to share when reporting a network problem[/h1]
+When communicating with Steam support or a
+[exclude_realm=china][b]Valve[/b]
+[/exclude_realm]
+
+[exclude_realm=global][b]Perfect World[/b]
+[/exclude_realm]
+employee, or just posting on a forum asking for help, your odds of getting help increase dramatically if you share the appropriate details. Here are the most important things to share:
+
+[list]
+
+[*]A detailed description of the problem. If you have a ping or packet loss readouts, share that. Is there any sort of error messages or console output? Share that. Also, always make sure that you share what you are actually seeing on your screen, not just your guess as to what the problem is.
+[*]Is the problem intermittent or pretty constant? If it happens only in certain circumstances, what are those circumstances?
+[*]If you know the IP, a "trace route" is [i]extremely[/i] useful; always take the time to gather and share this information. It's really easy. On Windows, run "[b]tracert [i]address[/i][/b]" from a command prompt. On Linux, run "<code>traceroute [i]address[/i]</code>" Share the complete output.
+[*]Where are you in the world? What server are you trying to connect to? If you have the IP, share it. How did you decide that was the correct IP to use? If you only know the geographic region, share that. Network problems are EXTREMELY localized, if you do not describe where you are, you're unlikely to get help.
+[*]Describe your home network environment. Are you playing over wireless or wired? Are you in a dorm room? A house? Who else is using your network?
+[*]Who is your ISP?
+[*]If you have done ping or pathping tests, share those. Don't just share the result summaries. If possible, share the full output of the test.
+[*]What steps have you taken to confirm that the problem is not with your local network or ISP? Have you done the ping test with your router, and with another major web site? Are you consistently able to access other web sites?
+
+Please note that while the inability to access these web sites is strong evidence that there's a local problem, the lack of such problems is NOT usually conclusive evidence that everything is working properly. Likewise, internet speed test results, bandwidth metrics, or the fact that you are on a fiber connection are typically just not relevant. Game traffic is significantly different from web traffic and is handled differently by your router and your ISP.
+
+[*]If you are posting on a forum where a
+[exclude_realm=china][b]Valve[/b]
+[/exclude_realm]
+
+[exclude_realm=global][b]Perfect World[/b]
+[/exclude_realm]
+employee might read it, make sure and share a link to your Steam community profile. This helps us locate your account, access recent matches, server connections, etc.
+
+[/list]

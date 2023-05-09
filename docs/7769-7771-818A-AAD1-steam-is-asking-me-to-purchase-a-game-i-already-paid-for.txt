@@ -1,0 +1,16 @@
+[h1]Steam Is Asking Me To Purchase a Game I Already Paid For[/h1]
+
+I bought a game through Steam and I was able to play for a little while, but now Steam is asking me to purchase the game again. What's the problem?
+
+[section style=important]
+
+[h3]Important:[/h3]
+If you have not recently purchased a game please see the [url=https://support.steampowered.com/kb_article.php?ref=5168-EUIA-6643]Games are Missing from the Library[/url] article for instructions.
+[/section]
+
+[h3]Recent Purchases[/h3]
+Steam may allow you to play the game while it is in the process of authorizing your credit card.
+
+In the event that your credit card purchase is declined, Steam will remove the games from the Library list. The next time you try to play the game, Steam will ask if you want to attempt the purchase again.
+
+You must make a valid purchase in order to play if your payment was declined for any reason.

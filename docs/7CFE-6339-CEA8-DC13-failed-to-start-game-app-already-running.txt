@@ -1,0 +1,67 @@
+[h1]Failed to start game (app already running)[/h1]
+
+When attempting to launch a game, Steam displays an error message:
+
+[list]
+
+[*] Failed to start game (app already running)
+
+[/list]
+
+This error is most commonly seen when launching a game that has closed improperly with a silent crash, or that is failing to launch properly.
+
+Sometimes, the game may already be running under a different user account within your operating system.
+
+[h2]Verifying your Game Files[/h2]
+In some cases, this error message will appear when there is an issue with the installation of a game. Complete the instructions as they are shown in the following link:
+
+[url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verifying your Game Cache Files (GCF)[/url]
+
+[h2]Forcing a silently crashed or hanging game to close[/h2]
+[b]Windows operating systems:[/b]
+Try the following to close any hung game processes that may be preventing the game from launching correctly:
+
+[olist]
+
+[*]Press the following keys at the same time: [b]Ctrl  Shift  Esc[/b]. This will launch the Windows Task Manager. [/*]
+[*]Select the Processes tab. [/*]
+[*]Find and select the game's executable file in the list. You can obtain detailed information by expanding the Description column. [/*]
+[*]Right-click on the selected process. [/*]
+[*]Select "End Process". [/*]
+[*]If Windows asks you to confirm that you wish to quit this game, click the "End Process" button to confirm. [/*]
+
+[/olist]
+
+The game should now be closed. You can try launching the title again, or proceed to other troubleshooting options.
+
+If this fails, or Windows is having trouble closing the game with this method, try restarting your computer.
+
+[b]Other operating systems (macOS, Linux):[/b]
+Try restarting your computer. Once your computer restarts, perform any troubleshooting operations that you intend before attempting to launch the game again.
+
+[h2]Opting out of the current Steam beta[/h2]
+If you are currently participating in the Steam beta, try opting out and testing the issue again.
+
+[olist]
+
+[*]In Steam, click on "Steam" in the upper left, then choose the "Settings" menu. (Preferences on Mac) [/*]
+[*]On the "Account" tab under "Beta Participation" click the "Change..." button. [/*]
+[*]Select the "NONE - Opt out of all beta programs" from the drop down list and click "OK". [/*]
+[*]You will be prompted to restart Steam, please select the "Restart Steam" button. [/*]
+
+[/olist]
+
+Participants in the Steam beta programs should always test both the beta and normal versions of Steam when troubleshooting an issue.
+
+[h2]Different user account on computer running game[/h2]
+
+If you think there may be another user account on your computer that may be running this title, try logging out of all other user accounts, restarting your computer and testing the issue again.
+
+[h2]Further Troubleshooting[/h2]
+If the game is still failing to launch correctly, you will need to contact the support team for that game to troubleshoot the crash/failure to launch.
+
+[section style=important]
+
+[h3]Important:[/h3]
+You can find the third-party game's support contact information by selecting the game in your Steam Library and then on the right hand side select "Support" from the tabs available above the "Activity" section.
+[/section]

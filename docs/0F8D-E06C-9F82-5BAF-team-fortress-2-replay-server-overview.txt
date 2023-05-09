@@ -1,0 +1,123 @@
+[h1]Team Fortress 2 Replay Server Overview[/h1]
+
+[h1]Intro[/h1]
+For a non-technical overview of the replay feature, you can view the press release [url=http://store.steampowered.com/news/5416/]here[/url].
+
+At its core, Replay is an extension of SourceTV. The feature must be enabled on the server side, and the "demo" files that are ultimately generated include the full PVS, meaning everyone's perspective is recorded. Regular demos, on the other hand, only record the local player's perspective.
+
+At the beginning of the "setup" phase for a round of gameplay, the Replay system will begin recording if enabled (via the replay_enable ConVar). The round, also known as a [i]recording session[/i], is given a unique name based on the date and time of the recording. As the round/recording session progresses, small blocks of data are periodically [i]published[/i] to a [i]fileserver[/i] where they can be downloaded by clients.
+
+[h4]Replay File Types[/h4]
+
+There are two types of files that are published:
+
+1. [b]Recording Session Blocks[/b] - These files are essentially compressed chunks of a demo file. When a client saves a Replay, the system figures out how many blocks it needs to download in order to play back the corresponding file. When the client goes to play back a particular Replay, the blocks are decompressed, validated, and written to one monolithic demo file for the game to play.
+
+2. [b]Session Info Files[/b] - Each round/recording session has one session info file, which maintain the state of all recording session blocks. The files use the extension .dmx, and are updated every time a block's status changes. Clients download the session info file for a particular replay multiple times if all blocks are not available (e.g. if they're still being published or not enough time has passed). Session info files also maintain a flag, indicating whether the session is currently recording or not.
+
+There is no client-specific data in recording session blocks or session info files, since any resultant demo file contains everyone's perspective. Each client records its own player slot information, so that watching the replay can start from the correct first-person perspective.
+
+When a client requests to save a replay, it must download all blocks, starting from the beginning of the round. For the curious, the reason for this is that the demo files are "delta compressed" - which means that every "frame" in the demo is dependent on the previous frame. While this is not ideal, it should be noted that clients are smart about which blocks need to be downloaded, meaning that for any particular round, each block will only be downloaded once.
+
+[h4]Publishing[/h4]
+
+There are two ways a Replay server can publish files for clients to download:
+
+1. [b]Local Web server[/b] - This method requires the installation of a Web server on the same machine as the game server. To publish a given file, the server will write it to a temporary location on disk, and then move (rename) it to a local path that the Web server sees. If the rename operation fails, the system will explicitly copy to the destination and delete the source file.
+
+The advantage of this approach is that some may find it more secure, and it requires less work to configure.
+
+There are several disadvantages to consider here. The main issue is that clients downloading from the Web server may be using bandwidth and CPU needed to run the game server smoothly. This approach is also particularly costly for the game server in terms of bandwidth, since the cost is multiplied by however many clients are downloading the files. Lastly, this approach may open your server up to potential "Denial of Service" attacks if proper security measures are not taken. For faster machines with faster connections, this approach may be preferred.
+
+2. [b]FTP Offloading[/b] - The alternative approach requires access to a second machine, which must be running both an FTP server and a Web server. The Replay system will asynchronously offload Replay files from the game server to this second machine via FTP. The Web server must point to the same location on disk so that it can serve the uploaded files to clients.
+
+The main advantage to this approach is that the burden of serving the Replay data is lifted off of the game server machine and put onto another machine. The bandwidth cost is minimized, since each replay block file is only streamed (uploaded) once, vs the Local Web server approach, where, for example, every single client who saves a replay for a particular round is going to download the first block file.
+
+FTP is not a secure protocol, so caution should be taken to make sure login credentials do not become vulnerable to exposure.
+
+[h4]Configuring Replay[/h4]
+
+There will be three replay related .cfg files with detailed comments in each. You will only need to worry about two of the files.
+
+replay_local_http.cfg - Edit this file if you plan on using the "Local Web server" method described above.
+
+replay_ftp.cfg - Edit this file if you plan on using the "FTP Offloading" method described above.
+
+replay.cfg - Edit the bottom of this file to execute either replay_local_http.cfg or replay_ftp.cfg. This is the main configuration file for Replay and should be executed on server launch (i.e. "+exec replay.cfg").
+
+Regardless of which publishing method you choose for your server, you'll need to set the following three ConVars:
+
+[b]replay_fileserver_host
+
+replay_fileserver_port
+
+replay_fileserver_path[/b]
+
+These ConVars are shared with clients and are used to construct the URLs for downloading recording session blocks and session info files.
+
+The URL is constructed using the following as a template:
+
+http:// (replay_fileserver_host) : (replay_fileserver_port) (replay_fileserver_path)
+
+So, as an example, if you have a Web server running on [i]my.domain.com[/i] on port 80, you would set replay_fileserver_host to "my.domain.com" and replay_fileserver_port to 80. replay_fileserver_path should be set to the relative path where replay files will be published, so this would be something like "/" or "/replay". Note that none of these ConVars should contain "http://". You also do not want to include any slashes in your replay_fileserver_host.
+
+If you cannot successfully point a Web browser to the URL constructed by replacing the template above with the values you have specified for the three fileserver ConVars, clients will not be able to download their Replays.
+
+[h4]Configuring replay_local_http.cfg[/h4]
+
+You will only need to edit replay_local_fileserver_path, which is the full path for the Web server. For Apache on a Windows machine, using the replay_fileserver_* ConVars above, this path might be something like:
+
+"C:\MyWebServer\htdocs\replay"
+
+On Linux, this might be something like:
+
+"/path/to/my/web/server/htdocs/replay"
+
+[h4]Configuring replay_ftp.cfg[/h4]
+
+You will need to edit the following ConVars, which are used to login and upload and clean up Replay files:
+
+[b]replay_fileserver_offload_hostname[/b] - The host name of your FTP server.
+
+[b]replay_fileserver_offload_port[/b] - The port needed to connected to your FTP server. This is usually 21.
+
+[b]replay_fileserver_offload_login[/b] - Your FTP username.
+
+[b]replay_fileserver_offload_password[/b] - Your FTP password.
+
+[b]replay_fileserver_offload_remotepath[/b] - The path on the FTP server where Replay files should be uploaded. For example, "/users/myusername/replay"
+
+[h4]Testing Your Replay Configuration[/h4]
+
+Once you've edited the config files, you can test everything by start a dedicated server, making sure to include [b]+exec replay.cfg[/b] to the command line parameters.
+
+Once the game launches, the Replay system will run a series of self-tests using your configuration. Depending on the publishing method you chose, the system will either try to publish a temporary file to your local HTTP path or publish a file to your FTP server. At the time of this writing, your replay_fileserver_* ConVars will not be validated - you should do this yourself by filling out the template URL noted in the "Configuring Replay" section above and pointing a Web browser to that location.
+
+[h4]Cleanup of Stale Replay Data[/h4]
+
+Replay files are considered "stale" if they were published more than replay_data_lifespan days ago. An asynchronous cleanup operation is launched in between every round, although it can be cleaned up explicitly using the replay_docleanup command.
+
+[h1]Frequently Asked Questions[/h1]
+[b]I want to run a Replay-enabled server. Where do I start? [/b]
+Read this document, from beginning to the end.
+
+[b]I'm running multiple servers on the same machine. Is there a way to specify a different directory for each server? [/b]
+Yes. Add -replayserverdir <dir name> to each server command line. The directory name should be something like "server01" or "server02," and not a full path.
+
+[b]When a client presses the F6 key, what exactly does that do? [/b]
+On the client side, number of kills, spawn and death ticks, dominations, etc are maintained on a per-life basis. If a life goes by and the client does not press F6, the data is thrown away. If a client does press F6, however, this data gets flagged and is saved to disk. Once the player dies (if they weren't already dead when the pressed F6), the death tick is written and the system figures out the maximum recording session block needed to reconstruct a demo that will cover the entire life.
+
+[b]If no one saves a Replay for a particular round, does the data get thrown away?[/b]
+Yes.
+
+[b]Does Replay record on an empty server?[/b]
+No. Replay begins recording at the start of the "setup" phase and ends with each round.
+
+[b]If clients disconnect from my server, will they still be able to download their Replay data?[/b]
+Yes. Since Replay data is served on a Web server (and not on the game server itself), clients can download replays after disconnecting.
+
+[b]Will executing a changelevel command disrupt recording or publishing of Replay data?[/b]
+No.
+
+[b]Will shutting down my server mess up Replays?[/b]
+If you shut down your server using the "exit" command, it should publish any data it needs to and shut down gracefully. The "quit" command should work fine, too.

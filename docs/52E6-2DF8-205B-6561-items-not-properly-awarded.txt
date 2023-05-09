@@ -1,0 +1,40 @@
+[h1]Items Not Properly Awarded[/h1]
+
+[section style=important]
+
+[h3]Important:[/h3]
+Steam Support does not modify these bans and restrictions, regardless of the circumstances under which an account became restricted.
+[/section]
+
+[h1]VAC Bans[/h1]
+[hr][/hr]
+
+[h3]Team Fortress 2[/h3]
+
+If you receive a VAC ban in Team Fortress 2, Counter-Strike: Source, or Half-Life 2 all your items will be removed from your Team Fortress 2 inventory. Steam Support is unable to restore these items. Additionally, you will no longer have access to the TF2 Store or receive item drops.
+
+[h3]Counter-Strike: Global Offensive[/h3]
+
+If you receive a VAC ban (for any game) you will no longer have access to the CS:GO Store, receive CS:GO item drops, or be able to trade CS:GO items.
+
+[h1]Low Priority, Cooldowns, or Overwatch Bans[/h1]
+[hr][/hr]
+
+[h3]Dota 2[/h3]
+
+If you are in low priority or your account is locked, you will no longer receive Battle Points or item drops.
+
+[h3]Counter-Strike: Global Offensive[/h3]
+
+If you have received a cooldown or Overwatch ban your account, you will no longer have access to the CS:GO Store, receive CS:GO item drops, or be able to trade CS:GO items.
+
+[h1]Promotional Items[/h1]
+[hr][/hr]
+
+[h3]Steam Purchases[/h3]
+
+Games associated with these items must be launched before the items can be received.  If you're still missing items after launching the game, please exit Steam if it is already running, then relaunch the Steam client and login to ensure you establish a good connection to our servers.
+
+[h3]Non-Steam Purchases[/h3]
+
+Purchase made outside of Steam, do not qualify for items included with Steam promotions.

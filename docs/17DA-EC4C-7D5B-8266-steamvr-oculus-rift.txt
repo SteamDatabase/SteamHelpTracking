@@ -1,0 +1,22 @@
+[h1]SteamVR + Oculus Rift[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_vr/vive_install/SteamVR_Support_Header_Main.png[/img] [h1][b]SteamVR + Oculus Rift[/b][/h1]
+
+[h3][b]SteamVR + Oculus Rift Instructions[/b][/h3]
+SteamVR supports the Oculus Rift. When using the Rift with SteamVR, use the Back button on an Xbox controller to bring up and dismiss the SteamVR Dashboard.
+
+To enable this, follow the instructions below.
+
+[olist]
+
+[*]Start the Oculus App on your computer and select the gear icon in the upper right. [/*]
+[*]Select Settings. [/*]
+[*]Select General on the left. [/*]
+[*]Find the Unknown Sources toggle and click it so a check appears instead of an X. [/*]
+[img]https://support.steampowered.com/images/faq/steam_vr/vive_install/oculus_1.png[/img]
+[*]You will need to confirm this selection before it is enabled. [/*]
+[img]https://support.steampowered.com/images/faq/steam_vr/vive_install/oculus_2.png[/img]
+[*]Once enabled, you will be able to run SteamVR with the Oculus Rift. [/*]
+[*]When using the Rift with SteamVR, use the Back button on an Xbox controller to bring up and dismiss the SteamVR Dashboard. [/*]
+
+[/olist]

@@ -1,0 +1,32 @@
+[h1]Games Are Missing from my Library[/h1]
+
+[h1]New to Steam - Where are my games?[/h1]
+If you purchased a retail package and created a Steam account, you will need to register your CD Key to activate the product.  Learn how to [url=https://support.steampowered.com/kb_article.php?ref=5414-TFBN-1352]activate a product on Steam[/url].
+
+[h1]I've used Steam before - Where are my games?[/h1]
+If you have already activated and played games on Steam in the past but the games are no longer appearing in your list of activated games, you are most likely logged into the wrong Steam account.
+
+You can use the [url=https://help.steampowered.com/en/wizard/HelpWithLoginInfo]Help site[/url] to figure out if you have other accounts associated with your email address or phone number. Follow the steps to find your accounts and recover them if you no longer remember the password.
+
+[h1]Most of my games appear but some are missing[/h1]
+Sometimes Steam will appear to be functioning correctly, except certain games will be missing from your list. If you are sure that you are logged in to the correct Steam account, then the issue is most likely that your filter is set incorrectly. Please log in to your Steam account using the Steam client and ensure that all games are visible in your Library.
+
+[img]{STEAM_CLAN_IMAGE}/1976/a2b8ace8fe94524b2eafebe7645613471716fcd3.png[/img]
+
+[h3]Do you have any games hidden?[/h3]
+
+If you are still missing any games, check to see if any have been added to your hidden list.  You can view this list by selecting [b][i]View > Hidden Games[/i][/b] at the top of the Steam client.
+
+To remove any game from this list: [b][i]Right-click the game > select Manage > Remove from Hidden[/i][/b].
+
+[h1]I just purchased a game but I don't see it in the Library list[/h1]
+Check your email to ensure you received an email receipt from Steam for your purchase. If you didn't receive a receipt, your purchase may still be pending.
+Find the purchase in your [url=https://store.steampowered.com/account/history/] purchase history[/url] and you can select it to verify if this is the case.
+
+If your purchase was completed and you can't find the game, try logging out of the Steam Client and logging back in.
+
+[h1]All or some of my games are showing up as "Pre-Load Complete"[/h1]
+The status of [b]Pre-load Complete[/b] means that the game is installed on your computer, but your account doesn't own it or no longer has access to it via Family Sharing. Most often this happens when people forget they have more than one account.  Follow the previous instructions to find out if you have multiple Steam accounts.
+
+[h1]Games that were previously installed are appearing as uninstalled[/h1]
+If games that were previously installed on your account are now appearing as uninstalled, check out[url=https://support.steampowered.com/kb_article.php?ref=8379-RYIP-2998] this FAQ[/url] for a more information.

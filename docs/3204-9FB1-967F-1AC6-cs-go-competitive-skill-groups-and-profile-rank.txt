@@ -1,0 +1,74 @@
+[h1]CS:GO - Competitive Skill Groups and Profile Rank[/h1]
+
+[list]
+
+[*][url=#skillgroup]What are competitive skill groups?[/url] [/*]
+[*][url=#ranklist]What are all of the competitive skill groups?[/url] [/*]
+[*][url=#displayrank]Where is my skill group displayed in-game?[/url] [/*]
+[*][url=#norank]Why don't I have a skill group?[/url] [/*]
+[*][url=#lostrank]Why have I suddenly lost my skill group?[/url] [/*]
+[*][url=#withfriends]Should I avoid partying up with lower skilled friends? Will this affect my skill group?[/url] [/*]
+[*][url=#whycomp]I’m not a very good player. Should I still use competitive matchmaking?[/url] [/*]
+[*][url=#diffrank]How is my competitive skill group different than my profile rank?[/url] [/*]
+
+[/list]
+
+[section id=skillgroup]
+
+[h2]What are competitive skill groups?[/h2]
+Like an Elo rating in Chess, CS:GO competitive skill groups predict how well players will perform when playing against other players. Two equally skilled teams should, on average, win an equal number of matches when competing against each other.
+[/section]
+
+[section id=ranklist]
+
+[h2]What are all of the competitive skill groups?[/h2]
+In the image below, CS:GO skill groups are arranged from lowest skill group in the upper left (Silver I), to highest skill group in the lower right (Global Elite):
+
+[img]http://steamcdn-a.akamaihd.net/steam/support/csgo/rank_2018.jpg[/img]
+[/section]
+
+[section id=displayrank]
+
+[h2]Where is my skill group displayed in-game?[/h2]
+Once a player has been assigned a skill group, it will be displayed in the main menu, in party lobbies, and in the match scoreboard next to their name. Players sharing a lobby will have their skill group displayed at all times.
+[/section]
+
+[section id=norank]
+
+[h2]Why don't I have a skill group?[/h2]
+New players will not immediately have a skill group because it has not been calibrated yet. A skill group will be assigned to a new player after they have won ten games.
+
+When new players play their first game, we have no idea what their skill level is. As they play more games, we use those wins and losses to make predictions about what skill group we think they should be in. The more games they play, the more confident the system is in predicting who the other players are that they should be playing against. Winning 10 games gives us enough data to confidently place new players in a skill group where we think they will be matched up with others of the same skill level.
+
+If a player has taken an extended break from the game, their skill group may not be visible until it has been recalibrated after one win.
+[/section]
+
+[section id=lostrank]
+
+[h2]Why have I suddenly lost my skill group?[/h2]
+If one or more members of your recent competitive parties were permanently banned for cheating, your competitive wins and skill group may have been adjusted to reflect this. CS:GO skill groups are calculated and adjusted automatically and cannot be modified.
+
+Another reason your skill group may no longer be visible is because of inactivity. If you have taken an extended break from Competitive matchmaking we are less confident in where you fit into the current skill groups. If you previously had a skill group and it no longer shows, you will need to win one Competitive match to have your skill group reassessed and issued.
+[/section]
+
+[section id=withfriends]
+
+[h2]Should I avoid partying up with lower skilled friends? Will this affect my skill group?[/h2]
+No. The matchmaking system will take your lower-skilled friend into consideration when finding a match. Additionally, the system makes a prediction about how well each team member will perform in a match, so losing a match with a lower skilled player on your team is not likely to significantly impact your skill group. If you always play your best, your skill group will provide you with well matched teammates and opponents.
+[/section]
+
+[section id=whycomp]
+
+[h2]I’m not a very good player. Should I still use competitive matchmaking?[/h2]
+Yes! Competitive matchmaking will match you with other players of similar skill, which is more likely to increase your overall skill and result in a fun match.
+[/section]
+
+[section id=diffrank]
+
+[h2]How is my competitive skill group different than my profile rank?[/h2]
+Your competitive skill group is calibrated and assigned through competitive matchmaking [i]only[/i] and may increase and decrease based on your match results.
+
+Your CS:GO profile rank is displayed above your competitive skill group and increases through match XP. Match XP is earned in both casual and competitive matchmaking and is earned after the match has concluded. Max profile rank is 40.
+
+Players electing to receive a Service Medal will have their profile reset to rank 1. Receiving a Service Medal will not affect a player's competitive skill group or [url=https://support.steampowered.com/kb_article.php?ref=2235-QYCN-3295]Prime Matchmaking[/url] eligibility.
+[/section]

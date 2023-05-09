@@ -1,0 +1,151 @@
+[h1]I've been VAC banned[/h1]
+
+[section style=warning]VAC bans are permanent, non-negotiable, and cannot be removed by Steam Support. If a VAC ban is determined to have been issued incorrectly it will automatically be removed.
+
+[exclude_realm=china]If you wish to discuss Valve Anti-Cheat with the community, you may do so [url=https://steamcommunity.com/discussions/forum/9/]here[/url].
+[/exclude_realm]
+
+[/section]
+
+[list]
+
+[*][url=#whyban]Why was I VAC banned?[/url] [/*]
+[*][url=#reason]Can you tell me what program or software caused my VAC ban?[/url] [/*]
+[*][url=#appeal]Can I appeal my VAC ban?[/url] [/*]
+[*][url=#compromised]I was not using my account when it was VAC banned. Can the ban be removed?[/url] [/*]
+[*][url=#othergame]The software I was using was a cheat, but not for a VAC-secured game. Can I disable the software and remove the ban?[/url] [/*]
+[*][url=#application]What games am I VAC banned from?[/url] [/*]
+[*][url=#eligible]What games can I play if I have been VAC banned?[/url] [/*]
+[*][url=#phone]How do VAC bans relate to phone numbers?[/url] [/*]
+[*][url=#items]Can I move my items and games to a different Steam account?[/url] [/*]
+
+[exclude_realm=china]
+[*][url=#contenthubs]Can I upload content to game hubs if I have been VAC Banned?[/url] [/*]
+
+[/exclude_realm]
+
+[exclude_realm=china]
+[*][url=#voting]Can I vote on Steam Workshop content in the game I have been VAC banned from?[/url] [/*]
+
+[/exclude_realm]
+
+[*][url=#gifts]Does my VAC ban affect my ability to send games as gifts?[/url] [/*]
+
+[/list]
+
+[section id=whyban]
+
+[h2]Why was I VAC banned?[/h2]
+VAC bans are applied when an account, or an account using the phone number tied to other accounts, connects to a VAC-secured server while running cheat software.
+
+Valve Anti-Cheat regularly checks the game files of all users connected to Valve's servers to ensure third party software is not being used which gives players an advantage. If software of this kind is detected a VAC ban will be issued.
+[/section]
+
+[section id=reason]
+
+[h2]Can you tell me what program or software caused my VAC ban?[/h2]
+No. We do not disclose the cheats that were detected while connected to a VAC-secured server that resulted in a VAC ban. We have detailed records for each VAC ban, however, releasing this information would only benefit cheat developers. The VAC team regularly investigates claims of false VAC bans to increase the effectiveness of Valve Anti-Cheat.
+[/section]
+
+[section id=appeal]
+
+[h2]Can I appeal my VAC ban?[/h2]
+No. VAC bans cannot be appealed. If a VAC ban is issued incorrectly it will be automatically removed after investigation, but Steam Support does not manually remove VAC bans applied to accounts for any reason.
+[/section]
+
+[section id=compromised]
+
+[h2]I was not using my account when it was VAC banned. Can the ban be removed?[/h2]
+No. Any bans added to an account will remain regardless of who was using the account at the time the infraction occurred. Ultimately, the use and security of your Steam account are your responsibility.
+
+While we understand this can be frustrating, we must maintain a zero tolerance policy for cheating to foster a fair game that all players will enjoy.
+
+[/section]
+
+[section id=othergame]
+
+[h2]The software I was using was a cheat, but not for a VAC-secured game. Can I disable the software and remove the ban?[/h2]
+No. We are aware that cheat software exists for single player and offline games, but VAC bans are only issued when software provides an advantage on VAC-secured servers.
+
+[/section]
+
+[section id=application]
+
+[h2]What games am I VAC banned from?[/h2]
+To see which games your VAC ban affects, please launch Steam and go to [i]Steam[/i] > [i]Settings[/i] > [i]Account tab[/i] > select [i]"Click here for details"[/i] under VAC Status.
+[/section]
+
+[section id=eligible]
+
+[h2]What games can I play if I have been VAC banned?[/h2]
+VAC banned accounts can still play single-player games, local LAN games, and multiplayer on non VAC-secured game servers. To find non VAC-secured servers, from the Steam main menu click on [i]View[/i], select [i]Servers[/i], then select the [i]Change Filters[/i] button in the bottom left and [i]Not secure[/i] in the Anti-cheat dropdown.
+
+Cheating in one of the following Source games or a Source mod will result in a VAC ban for all games in the list below:
+
+[list]
+
+[*]Counter-Strike: Source [/*]
+[*]Half-Life 2: Deathmatch [/*]
+[*]Day of Defeat: Source [/*]
+[*]Team Fortress 2 [/*]
+
+[/list]
+Similarly, cheating in one of the following Gold Source games will result in a VAC ban for all games in the list below:
+
+[list]
+
+[*]Counter-Strike [/*]
+[*]Counter-Strike: Condition Zero [/*]
+[*]Ricochet [/*]
+[*]Day of Defeat [/*]
+[*]Team Fortress Classic [/*]
+[*]Half-Life: Deathmatch [/*]
+[*]Deathmatch Classic [/*]
+
+[/list]
+
+[/section]
+
+[section id=phone]
+
+[h2]How do VAC bans relate to phone numbers?[/h2]
+VAC bans are applied to all accounts sharing a phone number at the time of the infraction. For this (and many other) reasons we do not recommend sharing your phone number or using another user's phone number on your Steam account. Accounts sharing the phone number that do not own the game the VAC ban is for will still receive a VAC ban and will not be able to purchase the game moving forward.
+
+There are no restrictions placed on phone numbers that were on an account when the account was VAC banned; phone numbers can immediately be used on new accounts.
+
+[b]Note:[/b] This feature is not enabled for all games and is used at the discretion of the developer.
+[/section]
+
+[section id=items]
+
+[h2]Can I move my items and games to a different Steam account?[/h2]
+No. Items and games cannot be moved from a VAC banned account to a different account, however, new games can still be purchased and registered on a VAC banned account and the account can still receive items, but not send them.
+
+To prevent additional bans on your account, please remove all cheat software from your computer before playing on VAC-secured servers. If you do not know how or where the cheats were installed, you may want to consider reformatting your hard drive(s) and starting over with a fresh installation of your operating system.
+[/section]
+
+[exclude_realm=china]
+
+[section id=contenthubs]
+
+[h2]Can I upload content to game hubs if I have been VAC Banned?[/h2]
+No. You cannot upload new content, such as guides and artwork, to a game hub if you have been VAC banned from that game.
+[/section]
+
+[/exclude_realm]
+
+[exclude_realm=china]
+
+[section id=voting]
+
+[h2]Can I vote on Steam Workshop content in the game I have been VAC banned from?[/h2]
+No. VAC bans prevent voting within the game where the VAC ban occurred. VAC bans on an account also prevent voting in Free to Play games and their communities.
+[/section]
+
+[/exclude_realm]
+
+[section id=gifts]
+
+[h2]Does my VAC ban affect my ability to send games as gifts?[/h2]
+Yes. VAC banned accounts cannot send the game they've been VAC banned in as a gift to other Steam accounts in the future. Similarly, if you gift a VAC-enabled game to an account and the giftee's account is VAC banned you will not be able to gift that game in the future.
+[/section]

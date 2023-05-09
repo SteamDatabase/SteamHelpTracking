@@ -1,0 +1,89 @@
+[h1]Dota Underlords Mobile FAQ[/h1]
+
+[img]https://steamcdn-a.akamaihd.net/steam/support/faq/underlordskbbanner.png[/img]     [h1]Dota Underlords Mobile FAQ[/h1]Hire a crew, destroy your rivals, and rule White Spire in this new strategy battler set in the world of Dota.
+
+You can play Dota Underlords on many modern mobile devices. If you're looking for the PC version, please visit [url=https://store.steampowered.com/app/1046930/Dota_Underlords/]Dota Underlords[/url] on the Steam Store.
+
+[h4]Minimum Hardware Specifications[/h4]
+
+[list]
+
+[*]Android: Supports OpenGL ES 3.0, 1.5+GB of Ram, Android 5.0.x+ [/*]
+[*]iOS: iOS 11, 1.5+ GB RAM, A8 or higher GPU [/*]
+
+[/list]
+
+[h4]Download and Installation[/h4]
+
+[list]
+
+[*]Android devices: Download from the [url=https://play.google.com/store/apps/details?id=com.valvesoftware.underlords]Google Play[/url] store. [/*]
+[*]iOS devices: Download from the [url=https://apps.apple.com/app/id1465996312]iOS App Store[/url]. [/*]
+
+[/list]
+
+[expand type=title title="Android Frequently Asked Questions"]
+
+[h4]Download and Installation Troubleshooting[/h4]
+If you are experiencing an issue downloading, updating, or installing Dota Underlords please review Google Play's knowledge base article: [url=https://support.google.com/googleplay/answer/7513003]Play Store won’t open, load, or download apps[/url].
+
+[h4]Dota Underlords is Crashing or Freezing[/h4]
+If Dota Underlords is unstable on your device:
+
+[list]
+
+[*]Check that your device meets the minimum requirements. [/*]
+[*]Step through the suggestions in Google Play's knowledge base article [url=https://support.google.com/googleplay/answer/2668665]Fix an installed Android app that isn't working[/url].
+[/list]
+
+[h4]Performance[/h4]
+You can adjust settings in Dota Underlords to optimize performance for your device. Click the Settings (gear icon) on the main page, then the "Video" tab.
+
+[/expand]
+
+[expand type=title title="iOS Frequently Asked Questions"]
+
+[h4]Download and Installation Troubleshooting[/h4]
+If you are experiencing an issue downloading, updating, or installing Dota Underlords please review Apple's knowledge base article: [url=https://support.apple.com/HT207165]If you can't download or update apps, or if apps get stuck[/url].
+
+[h4]Dota Underlords is Crashing or Freezing[/h4]
+If Dota Underlords is unstable on your device:
+
+[list]
+
+[*]Check that your device meets the minimum requirements. [/*]
+[*]Step through the suggestions in Apple's knowledge base article [url=https://support.apple.com/HT201398]If an app unexpectedly quits, stops responding, or won’t open[/url].
+[/list]
+
+[h4]There is No Sound[/h4]
+If you're unable to hear any sound while playing Dota Underlords, please ensure that your device is not muted or in Do Not Disturb mode. Apple's knowledge base has a walk through article for managing sound on various iOS devices, here: [url=https://support.apple.com/HT203794]If you hear no sound or distorted sound from your iPhone, iPad, or iPod touch speaker[/url].
+
+[h4]Performance[/h4]
+You can adjust settings in Dota Underlords to optimize performance for your device. Click the Settings (gear icon) on the main page, then the "Video" tab.
+
+[h4]Compatible iOS Devices[/h4]
+The following devices are compatible with Dota Underlords
+
+[list]
+
+[*]iPad Air 2 (2014) [/*]
+[*]9.7-inch iPad Pro [/*]
+[*]iPhone 7 [/*]
+[*]iPhone 7 Plus [/*]
+[*]iPad (2017) [/*]
+[*]10.5 inch iPad Pro [/*]
+[*]12.9-inch iPad Pro [/*]
+[*]iPhone 8 [/*]
+[*]iPhone 8 Plus [/*]
+[*]iPhone X [/*]
+[*]iPad (2018) [/*]
+[*]iPhone XS [/*]
+[*]iPhone XS Max [/*]
+[*]iPhone XR [/*]
+[*]11-inch iPad Pro [/*]
+[*]iPad Mini (2019) [/*]
+[*]iPad Air (2019) [/*]
+
+[/list]
+
+[/expand]

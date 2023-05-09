@@ -1,0 +1,49 @@
+[h1]Purchasing Issues[/h1]
+
+[h2]General Troubleshooting[/h2]
+
+[list]
+
+[*][url=#purfail]My purchase attempts are failing[/url] [/*]
+[*][url=#purtravel]I am visiting another country and cannot complete a purchase[/url] [/*]
+[*][url=#pendcharge]I failed my purchase but a pending charge appears on my bank statement[/url] [/*]
+[*][url=#giftcard]I cannot complete a purchase with a prepaid gift card[/url] [/*]
+
+[/list]
+
+[h2]Specific Error Messages[/h2]
+
+[list]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=3382-QYOD-8584]An unexpected error has occurred. Your purchase has not been completed. Please contact Steam Support.[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=7061-JKZC-5657]Your credit card information has been declined by your credit card company due to an incorrect address being entered.[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=4004-OFKB-3935]Your purchase has not been completed. Your credit card information has been declined by your credit card company.[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=2885-QEJN-6071]Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.[/url] [/*]
+
+[/list]
+
+[h3]My purchase attempts are failing. What can I do?[/h3]
+If you are attempting your purchase through the Steam website, please try purchasing through the Steam application, or vice versa.
+
+Disable or completely remove any IP proxy or VPN software that you may be using, restart your computer, and test your purchase again. All transactions that are initiated through anonymous proxies will be declined by Steam.
+
+If you are unable to complete a purchase, [url=https://help.steampowered.com/]contact Steam Support[/url] with detailed information, including your Steam account name and the exact error message that you are seeing.
+
+[url id=purtravel][/url]
+
+[h3]I am currently travelling to another country, and my purchases are failing. How can I resolve this issue?[/h3]
+Ensure that any IP proxy or VPN software that you may have is disabled and attempt your purchase using the billing address as it appears on your bank statement. If the issue persists, [url=https://help.steampowered.com/]contact Steam Support[/url] and be sure to include your Steam account, the country that you are from, and the country that you are currently visiting.
+
+[url id=pendcharge][/url]
+
+[h3]Steam informed me that my purchase failed, but there is a pending charge on my credit/debit card. Why?[/h3]
+If the error message that you see for a failing purchase refers to a "hold," you may have failed an [url=https://support.steampowered.com/kb_article.php?ref=7061-JKZC-5657]AVS (address verification)[/url] or [url=https://support.steampowered.com/kb_article.php?ref=4004-OFKB-3935]CVV2 (3-digit code on the back of the card)[/url] check with your bank.
+
+In these cases, most banks will still allow the purchase to go through by setting the funds for the purchase amount aside, despite this information being incorrect. Steam will [b]always[/b] decline a transaction that fails an address or CVV check. Steam will not collect the funds that your bank has put on hold. Your bank will release the funds to you at a later date per their policy. This can often take up to 10 business days.
+
+[url id=giftcard][/url]
+
+[h3]My prepaid gift card is not working with Steam. Why?[/h3]
+Most gift cards require that you register them on the gift card issuer's website before they can be used for online purchases. Information regarding this process can usually be found through a web address that is printed on the back of the card itself.
+
+If you have not registered your gift card before attempting a purchase, it's likely that the issuer has put a hold on the card for the failed purchase amount. This hold will be removed per the card issuer's policy, which may take up to 10 business days.

@@ -1,0 +1,16 @@
+[h1]Updating Your Package Cache[/h1]
+
+How do I update my package cache using Ubuntu 12.04?
+
+Ubuntu maintains a cache of packages that are used when installing a new product. If a recommended package is not in this list, you will be unable to install it. In this case, you will need to refresh the cache before installing the recommended package:
+
+[olist]
+
+[*]Open [b]Update Manager[/b] by clicking the Unity symbol on the taskbar and typing "update manager'".  [/*]
+[*]Click the [b]Check [/b]button. This will update your package cache and display any existing updates.
+[/olist]
+
+If you have the RTM version of Ubuntu 12.04 and have never installed any of the Ubuntu updates, Steam will fail to install. Applying these updates will fix this.
+
+[h3]NOTE:[/h3]
+It is important that your package cache is up to date when you launch Steam because Steam compares your current video driver against the current contents of your package cache.

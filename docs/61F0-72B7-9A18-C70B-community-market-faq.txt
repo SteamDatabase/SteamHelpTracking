@@ -1,0 +1,397 @@
+[h1]Community Market FAQ[/h1]
+
+[h4]General Questions[/h4]
+
+[list]
+
+[*][url=#howtosell]How do I put an item up for sale?[/url]
+
+[*][url=#howtobuy]How do I buy an item?[/url]
+
+[*][url=#removelisting]How do I remove a listing?[/url]
+
+[*][url=#walletfunds]How do I add funds to my Steam Wallet?[/url]
+
+[*][url=#refund]How can I reverse or cancel a completed Community Market transaction and/or get a refund?[/url]
+
+[*][url=#eligibleparticipants]Who is eligible to participate in the Community Market?[/url]
+
+[*][url=#allitems]Why don't I see all of my items when I try to sell something?[/url]
+
+[*][url=#currency]How are cross-currency transactions handled in the Community Market?[/url]
+
+[*][url=#viewtransactions]Where can I see my Community Market transactions?[/url]
+[/list]
+
+[h4]Restrictions[/h4]
+
+[list]
+
+[*][url=#restrictions]What kind of Steam Wallet and item listing restrictions apply?[/url]
+
+[*][url=#prices]Are there minimum or maximum sales prices for items in the Community Market?[/url]
+
+[*][url=#steamguard]Why is Steam Guard required?[/url]
+
+[*][url=#withdrawfunds]Can I withdraw or transfer funds from my Community Market sales/transactions?[/url]
+
+[*][url=#eligibleitems]Why are some of my items not eligible?[/url]
+
+[*][url=#limited]Why aren't all games on the Community Market?[/url]
+
+[*][url=#whererestrictions]Where can I see all of the restrictions that can block me from using the Community Market?[/url]
+[/list]
+
+[h4]Fees[/h4]
+
+[list]
+
+[*][url=#steamfee]What is the "Steam Transaction Fee"?[/url]
+
+[*][url=#whopayssteamfee]Who pays the "Steam Transaction Fee"?[/url]
+
+[*][url=#tf2fee]What is the "Team Fortress 2 Fee"?[/url]
+
+[*][url=#dota2fee]What is the "Dota 2 Fee"?[/url]
+
+[*][url=#csgofee]What is the "Counter-Strike: Global Offensive Fee"?[/url]
+
+[*][url=#artifactfee]What is the "Artifact Fee"?[/url]
+[/list]
+
+[h4]Taxes and 200 Item Sale Limit[/h4]
+
+[list]
+
+[*][url=#providing1099s]Will you be asking me to provide tax information to you, and/or will you be providing 1099’s based on my transactions in the Community Market?[/url]
+
+[*][url=#incometaxes]Do I have to pay income taxes on the proceeds of sales I make in the Community Market?[/url]
+
+[*][url=#VATtaxes]Do I have any obligation to collect or pay sales, VAT, or other transaction taxes based on transactions I engage in in the Community Market?[/url]
+[/list]
+
+[h4]Buy Orders[/h4]
+
+[list]
+
+[*][url=#commodity]What is a commodity item?[/url]
+
+[*][url=#buyorder]What is a buy order?[/url]
+
+[*][url=#buyordersactive]How many buy orders can I have active?[/url]
+
+[*][url=#buyordersview]How can I see my buy orders?[/url]
+
+[*][url=#buyordersperiod]How long do buy orders stay active?[/url]
+
+[*][url=#buyordershelp]How do buy orders help me?[/url]
+
+[*][url=#buyordersinfo]How do buy orders choose which listing to buy?[/url]
+
+[*][url=#buyordersnewlistings]If multiple buy orders satisfy a new market listing, which buy order gets processed?[/url]
+[/list]
+
+[h4]Credit Card Verification[/h4]
+
+[list]
+
+[*][url=#whatisit]What is credit card verification?[/url]
+
+[*][url=#howtoverify]How do I verify my recently used credit card?[/url]
+
+[*][url=#failattempts]What happens if I use all three attempts to verify my credit card?[/url]
+
+[*][url=#drop]When will the authorizations be removed from my credit card statement?[/url]
+
+[*][url=#conversion]In what currency do the amounts need to be entered in and how do I get the original pre-converted amounts?[/url]
+
+[*][url=#virtual]Are virtual online credit cards supported?[/url]
+
+[*][url=#paypal]What do I do if I used PayPal to fund my Wallet? Can I verify PayPal?[/url]
+
+[*][url=#onecharge]What do I do if I only see one verification charge?[/url]
+
+[*][url=#banksupport]What do I do if my bank is unable to help convert or provide the verification charges? Can you help me find them?[/url]
+
+[*][url=#howlong]Once my credit card has been successfully verified through the verification tool, will I ever trigger this restriction again?[/url]
+
+[*][url=#paymentmethods]Which payment methods will trigger this three day payment restriction?[/url]
+
+[*][url=#keephittingit]Why do I keep triggering this three day payment restriction when adding funds to my Wallet?[/url]
+
+[*][url=#whatifIwait]Will my credit card and/or PayPal account become 'verified' once the three day restriction ends?[/url]
+
+[*][url=#giftcards]How do I verify a gift card that has a limited amount of funds?[/url]
+[/list]
+
+[h1][b]General Questions[/b][/h1]
+
+[url id=howtosell][/url]
+
+[h3]How do I put an item up for sale?[/h3]
+Eligible items can be either be sold from the Community Market home page or from within your item inventory.
+
+[url id=howtobuy][/url]
+
+[h3]How do I buy an item?[/h3]
+Clicking the "Buy now" button on any listing will start the purchase process. Please note that all purchases are final.
+
+[url id=removelisting][/url]
+
+[h3]How do I remove a listing?[/h3]
+All of your current listings are shown at the top of the Community Market home page. Any listing can be canceled/removed before it is purchased by clicking the "Remove" button.
+
+[url id=walletfunds][/url]
+
+[h3]How do I add funds to my Steam Wallet?[/h3]
+Check out the [url=https://support.steampowered.com/kb_article.php?ref=1122-RTSC-0478]Wallet Funds FAQ[/url]. Steam Wallet Funds can be added from your [url=https://store.steampowered.com/steamaccount/addfunds]Account Details page[/url] in the Steam Store.
+
+[url id=refund][/url]
+
+[h3]How can I reverse or cancel a completed Community Market transaction and/or get a refund?[/h3]
+All purchases are final – you will not have any right to a refund or a reversal of any Community Market transaction once it is completed.
+
+[url id=eligibleparticipants][/url]
+
+[h3]Who is eligible to participate in the Community Market?[/h3]
+The account must have a successful purchase older than 7 days, but not older than a year. Additionally, Steam Guard must be enabled for 15 days. Please note, redeeming a Steam gift does not grant access to the Community Market.
+
+For a complete list of Market restrictions and requirements to use The Community Market, please view our [url=https://support.steampowered.com/kb_article.php?ref=1047-EDFM-2932]Market and Trade Restrictions FAQ[/url] and our [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited User Account FAQ[/url].
+
+[url id=allitems][/url]
+
+[h3]Why don't I see all of my items when I try to sell something?[/h3]
+When selecting an item to sell on the Community Market, only items that are eligible to be sold will be visible. Steam Support is unable to modify items in your inventory to allow them to be sold on the Community Market.
+
+[url id=currency][/url]
+
+[h3]How are cross-currency transactions handled in the Community Market?[/h3]
+Sellers will always list items for sale in the native currency of their Steam Wallet, and buyers will always see Community Market prices expressed in the native currency of their Steam Wallet. For items listed for sale in a different currency than the buyer's Steam Wallet currency, we apply an exchange rate which we update daily. You must be signed into your Steam account to view the correct currency. If you do not see your local currency on the Community Market this is likely due to never funding your Steam Wallet on the account. You can find out more on how to fund your Steam Wallet by visiting the [url=https://support.steampowered.com/kb_article.php?ref=1122-RTSC-0478]Steam Wallet FAQ[/url].
+
+[url id=viewtransactions][/url]
+
+[h3]Where can I see my Community Market transactions?[/h3]
+Your Community Market history is accessible from the top of the Community Market home page, as well as from your Account Details page in the Steam Store. A receipt for each transaction will also be emailed to you.
+
+[h1][b]Restrictions[/b][/h1]
+
+[url id=restrictions][/url]
+
+[h3]What kind of Steam Wallet and item listing restrictions apply?[/h3]
+Currently we are restricting Steam Wallet balances to $2000. In other currencies, the limit will be set to a value close to $2000. We also limit the maximum price of a single listing on the market to $1800 (or similar for other currencies). You will be restricted from listing items for sale in the Community Market if the existing balance in your Steam Wallet, plus the sale price of the item(s), would together exceed the $2000 limit. We may be adjusting the Steam Wallet balance limit, or otherwise changing this restriction, in the future. Note that, if you have multiple Steam accounts, balances for all Steam Wallets associated with all of your accounts will be aggregated for purposes of applying this limit.
+
+[url id=prices][/url]
+
+[h3]Are there minimum or maximum sales prices for items in the Community Market?[/h3]
+Currently there is no minimum sales price, although we may decide to impose a minimum price in the future. Currently, the maximum price for any particular item is $1800.
+
+[url id=steamguard][/url]
+
+[h3]Why is Steam Guard required?[/h3]
+We require Steam Guard to be enabled for 15 days to help protect your items and Steam Wallet funds from being misused by somebody who may have illicitly obtained your account.
+
+[url id=withdrawfunds][/url]
+
+[h3]Can I withdraw or transfer funds from my Community Market sales/transactions?[/h3]
+No. All Community Market sales and purchases are completed using the Steam Wallet. The funds cannot be withdrawn or transferred to another Steam account or to a bank/3rd party account. You may use the funds to purchase Steam gifts to send to other users.
+
+[url id=eligibleitems][/url]
+
+[h3]Why are some of my items not eligible?[/h3]
+Newly purchased Dota 2 treasures can’t be sold on the Community Market for the set amount of time noted on their item details page. Items gained as timed drops from Dota 2 are permanently not marketable. Some 3rd party games items might not be marketable after purchase. You can select the item in your Steam inventory and read its description to see when it can be marketable.
+
+[url id=limited][/url]
+
+[h3]Why aren't all games on the Community Market?[/h3]
+It is up to the game developer to decide whether or not they want to participate in the Community Market.
+
+[url id=whererestrictions][/url]
+
+[h3]Where can I see all of the restrictions that can block me from using the Community Market?[/h3]
+Please see our [url=https://support.steampowered.com/kb_article.php?ref=1047-EDFM-2932]Trading and Market Restrictions FAQ[/url] for a detailed list of restrictions.
+
+[h1][b]Fees[/b][/h1]
+
+[url id=steamfee][/url]
+
+[h3]What is the "Steam Transaction Fee"?[/h3]
+The Steam Transaction Fee is collected by Steam and is used to protect against nominal fraud incidents and cover the cost of development of this and future Steam economy features. The fee is currently 5% (with a minimum fee of $0.01). This fee may be increased or decreased in the future.
+
+[url id=whopayssteamfee][/url]
+
+[h3]Who pays the "Steam Transaction Fee"?[/h3]
+The buyer pays the Steam Transaction Fee. The Steam Transaction Fee is calculated based on the item cost and is shown on the confirmation page before purchase.
+
+[url id=tf2fee][/url]
+
+[h3]What is the "Team Fortress 2 Fee"?[/h3]
+The Team Fortress 2 Fee is a game specific fee that is determined and collected by the game publisher. The Fee is currently set at 10%.
+
+[url id=dota2fee][/url]
+
+[h3]What is the "Dota 2 Fee"?[/h3]
+The Dota 2 Fee is a game specific fee that is determined and collected by the game publisher. The Fee is currently set at 10%.
+
+[url id=csgofee][/url]
+
+[h3]What is the "Counter-Strike: Global Offensive Fee"?[/h3]
+The CS:GO Fee is a game specific fee that is determined and collected by the game publisher. The Fee is currently set at 10%.
+
+[url id=artifactfee][/url]
+
+[h3]What is the "Artifact Fee"?[/h3]
+The Artifact Fee is a game specific fee that is determined and collected by the game publisher. The Fee is currently set at 10%.
+
+[url id=ItemSaleLimit][/url]
+
+[h1][b]Taxes and 200 Item Sale Limit[/b][/h1]
+
+[url id=providing1099s][/url]
+
+[h3]Will you be asking me to provide tax information to you, and/or will you be providing 1099’s based on my transactions in the Community Market?[/h3]
+No. Previously we required that U.S. citizens and residents provide us with certain information, including name, address and social security number, prior to exceeding 200 separate sales transactions in a calendar year.  We have concluded that this information is not required and we will no longer be asking you for this information as part of Community Market participation.  We will also not be providing IRS Form 1099’s with respect to sales activity in the Community Market.
+
+[url id=incometaxes][/url]
+
+[h3]Do I have to pay income taxes on the proceeds of sales I make in the Community Market?[/h3]
+Different countries have different rules relating to the taxation of digital transactions. Ultimately, the responsibility for determining any income tax liabilities, which you may or may not have, rests with you. If you are concerned about your liability, please consult a tax advisor.
+
+[url id=VATtaxes][/url]
+
+[h3]Do I have any obligation to collect or pay sales, VAT, or other transaction taxes based on transactions I engage in in the Community Market?[/h3]
+Different countries have different rules relating to the taxation of digital transactions. Most jurisdictions do not require individuals to register for, collect or pay sales taxes, VAT or use taxes in connection with occasional sales where they do not qualify as "professional" sellers. However, the ultimate responsibility for determining any tax requirements that may apply to sales you make in the Community Market rests with you. If you are concerned or have further questions about this issue, please consult your own tax advisor. Note: With respect to our administrative fee, if any sales, VAT, or other taxes are due on that payment, we will be responsible for paying those taxes.
+
+[h1][b]Buy Orders[/b][/h1]
+
+[url id=commodity][/url]
+
+[h3]What is a commodity item?[/h3]
+A commodity is a kind of item where all the items are identical, and can be traded interchangeably. There aren't individual listings for commodity items on the market; instead you place an order to purchase, and an item is selected for you. This is very helpful when trying to buy items that are very frequently traded, and item listings can appear and disappear very quickly.
+
+[url id=buyorder][/url]
+
+[h3]What is a buy order?[/h3]
+When buying a commodity items, you specify the price you want to pay, and when an item comes available at that price the purchase completes. If there isn't an item available immediately at that price, then that request to purchase stays active until an item listed at the right price comes along. This request to purchase is called a buy order. The buy order price is the maximum amount that will be spent; if an item comes along for a cheaper price, you'll only pay that lower price.
+
+[url id=buyordersactive][/url]
+
+[h3]How many buy orders can I have active?[/h3]
+You can have up to 10 times your current wallet balance in buy orders active at any time. This is so you can place low-priced buy orders on a lot of items that you're interested in. If you don't have enough money in your Steam Wallet to fulfill a buy order, that buy order will be automatically cancelled.
+
+[url id=buyordersview][/url]
+
+[h3]How can I see my buy orders?[/h3]
+You can see the list of all buy orders you have active on the front page of the Steam Community Market - [url=https://steamcommunity.com/market/]https://steamcommunity.com/market/[/url]. You can cancel any of your active buy orders from here.
+
+[url id=buyordersperiod][/url]
+
+[h3]How long do buy orders stay active?[/h3]
+Buy orders may be cancelled by the system at any time including but not limited to the following reasons:
+
+[list]
+
+[*]if something about the item changes
+[*]if there are any issues with your wallet balance
+[*]if there are issues with trying to complete a purchase
+[*]if something changes about your Steam Account
+[*]if the buy order results in a purchase
+[/list]
+
+You can check on the status of your buy orders at any time by visiting [url=https://steamcommunity.com/market/]https://steamcommunity.com/market/[/url].
+
+[url id=buyordershelp][/url]
+
+[h3]How do buy orders help me?[/h3]
+Buy orders are helpful in making it easier to buy items - since you don't have to choose individual listings, you can choose your price, and you can specify how many of the item you want to buy with each purchase.
+
+Buy orders help with selling, as you can see what other users are willing to pay for an item, and you can choose if you want to do a lower price to sell immediately; or go for a higher price and wait.
+
+[url id=buyordersinfo][/url]
+
+[h3]How do buy orders choose which listing to buy?[/h3]
+When you place a buy order, the market first looks for all the cheapest items that can fulfill your order. Then the oldest listing (i.e. the seller who has waited the longest) is selected and purchased. If the items are listed in multiple currencies, the amounts are first converted into your currency before being selected (i.e. a 0.03 RUB listing has no priority over a 0.03 USD listing)
+
+[url id=buyordersnewlistings][/url]
+
+[h3]If multiple buy orders satisfy a new market listing, which buy order gets processed?[/h3]
+We have made some changes to how this works in March of 2017, and again in July of 2017 to try to be more fair for users of all currencies.
+
+The oldest matching buy order will be selected. It used to be that the buy order for the highest amount after currency conversion would be selected, but that was unfair to users of some currencies as the maximum amount differs from currency to currency. So now, if multiple buy orders could fulfill a newly-listed item, the oldest buy order will be selected.
+
+[h1][b]Credit Card Verification[/b][/h1]
+
+[url id=whatisit][/url]
+
+[h3]What is credit card verification?[/h3]
+Credit card verification allows you to remove market restrictions associated with using a new credit card. After a successful verification, you will regain Market capabilities.
+
+[url id=howtoverify][/url]
+
+[h3]How do I verify my recently used credit card?[/h3]
+After using a credit card on Steam to add Wallet funds, please go to the [url=https://store.steampowered.com/account/verifycards]Credit Card Verification page[/url] and choose the card you wish to verify. Two pending authorization amounts will be sent to your bank account. These authorizations may take one or two days to appear on your statement. Once they appear, you must enter the exact pre-converted amounts into the two fields on the verification page. Please note that you only have [b]three[/b] attempts to input the correct amounts into the verification page.
+
+[url id=failattempts][/url]
+
+[h3]What happens if I use all three attempts to verify my credit card?[/h3]
+If you fail to verify the card after three attempts, you will have to wait the normal three day period to use the Community Market. Steam Support cannot override or remove this restriction.
+
+[url id=drop][/url]
+
+[h3]When will the authorizations be removed from my credit card statement?[/h3]
+The authorizations will be removed from your credit card statement in 5-10 business days, whether you successfully verified your credit card or not.
+
+[url id=conversion][/url]
+
+[h3]In what currency do the amounts need to be entered in and how do I get the original pre-converted amounts?[/h3]
+The verification authorizations are sent to your bank in the currency that your Steam Wallet is in. If the bank converts these to your local currency, you must contact them to request the original amount before any fees assessed by them or conversion made by the bank. The phone number for most banks will be on the back of your credit card.
+
+[url id=virtual][/url]
+
+[h3]Are virtual online credit cards supported?[/h3]
+The verification process does not currently support virtual credit cards. You must wait three days to use the Community Market each time you use a virtual card on Steam.
+
+[url id=paypal][/url]
+
+[h3]What do I do if I used PayPal to fund my Wallet? Can I verify PayPal?[/h3]
+PayPal cannot be verified through this system. If you fund your Wallet with a PayPal account you will have to wait three days to use the funds on the Community Market.
+
+[url id=onecharge][/url]
+
+[h3]What do I do if I only see one verification charge?[/h3]
+You are likely seeing the initial charge which was made to fund your Steam Wallet balance. This is not the verification amount. Your bank may not support our verification system or the charges may not have appeared yet.
+
+[url id=banksupport][/url]
+
+[h3]What do I do if my bank is unable to help convert or provide the verification charges? Can you help me find them?[/h3]
+If your bank can't provide or assist you with finding the correct verification amounts you will have to wait three days to use the Community Market. Steam Support cannot assist with verifying the funds or provide you with the verification amounts.
+
+[url id=howlong][/url]
+
+[h3]Once my credit card has been successfully verified through the verification tool, will I ever trigger this restriction again?[/h3]
+Once you have successfully verified your credit card through our tool you will never trigger this restriction on your account again unless you use a new unverified payment method or PayPal account to fund your Steam Wallet.
+
+[url id=paymentmethods][/url]
+
+[h3]Which payment methods will trigger this three day payment restriction?[/h3]
+Only credit cards and PayPal currently trigger this restriction. We recommend using another payment method to purchase Wallet funds if you do not wish to incur this restriction, especially if you are not able to verify your credit card successfully.
+
+[url id=keephittingit][/url]
+
+[h3]Why do I keep triggering this three day payment restriction when adding funds to my Wallet?[/h3]
+This can happen if the credit card you are using has not been verified on your account yet. If you are not able to successfully verify your credit card, we recommend using another payment method to fund your wallet such as Steam Gift Cards/Wallet Codes. You can read more about using them in the [url=https://support.steampowered.com/kb_article.php?ref=1122-RTSC-0478]Steam Wallet[/url] article.
+
+[url id=whatifIwait][/url]
+
+[h3]Will my credit card and/or PayPal account become 'verified' once the three day restriction ends?[/h3]
+No, the only way to verify your credit card is through our [url=https://store.steampowered.com/account/verifycards]verification tool[/url]. If you do not successfully verify your credit card through this tool you may hit this restriction again in the future.
+
+[url id=giftcards][/url]
+
+[h3]How do I verify a gift card that has a limited amount of funds?[/h3]
+In order to complete credit card verification, you'll need between $3 and $4 USD remaining on the card. In 5-10 business days, the money will be returned to the card. If you cannot complete credit card verification yourself, you will have to wait three days until the restriction is removed automatically.
+
+[section style=note]
+
+[h3]Still Have Questions?[/h3]
+[b]Check out the [url=https://steamcommunity.com/groups/community_market]Community Market Group[/url] with user discussions and official announcements.[/b]
+[/section]

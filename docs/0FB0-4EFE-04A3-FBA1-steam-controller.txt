@@ -1,0 +1,29 @@
+[h1]Steam Controller[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]
+
+[h1]The Steam Controller[/h1]Featuring dual trackpads, HD haptic feedback, dual-stage triggers, back grip buttons, and fully-customizable control schemes, the Steam Controller allows you to play your entire Steam game collection, even those designed without controller support in mind.
+
+[section id=setup]    	[url=https://help.steampowered.com/wizard/HelpWithGame/?appid=353370]    [img]https://support.steampowered.com/images/faq/steam_controller/Controller_PR_Shot.png[/img]
+
+[h2][b]Troubleshooting[/b][/h2]
+Having trouble with your Steam Controller? See our guided Troubleshooting Tree
+
+[/url]
+[/section]
+
+[section id=setup]    	[url=https://support.steampowered.com/kb_article.php?ref=6490-QOAJ-7167]
+
+[h2][b]FAQs[/b][/h2]
+Have questions about your Steam Controller? See our FAQ page for answers.
+
+[/url]
+[/section]
+
+[section id=setup]    	[url=http://steamcommunity.com/app/353370/discussions/]
+
+[h2][b]Visit Community Discussions[/b][/h2]
+Talk with other users about your experience with the Steam Controller
+
+[/url]
+[/section]

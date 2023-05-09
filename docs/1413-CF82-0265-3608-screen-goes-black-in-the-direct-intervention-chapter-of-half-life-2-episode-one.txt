@@ -1,0 +1,17 @@
+[h1]Screen goes black in the Direct Intervention chapter of Half-Life 2: Episode One[/h1]
+
+The screen goes black in the Direct Intervention chapter of Half-Life 2: Episode One - what can I do to resolve this issue?
+
+This issue is caused by color correction settings obscuring the colors in the map - even if you try to light up the area with the flashlight or gravity gun, all that will be visible on the screen will be the crosshairs.
+
+Please follow the instructions below to correct this issue:
+
+[olist]
+
+[*]Launch Half-Life 2: Episode One through Steam [/*]
+[*]From the main menu select [b]Options[/b] [/*]
+[*]In the [b]Video[/b] window click the [b]Options[/b] button [/*]
+[*]Use the drop down menu for [b]Color Correction[/b] to turn color correction [b]Off[/b] [/*]
+[*]Save the settings and reload your game from the last auto-save [/*]
+
+[/olist]

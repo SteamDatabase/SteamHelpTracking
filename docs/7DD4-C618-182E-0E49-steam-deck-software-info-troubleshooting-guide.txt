@@ -1,0 +1,78 @@
+[h1]Steam Deck - Software Info & Troubleshooting Guide[/h1]
+
+[h3]First steps[/h3]
+[b]Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:[/b]
+
+[list]
+
+[*]To address issues with system instability, install any available system updates (Steam > Settings > System > Software Updates) and restart your Steam Deck (from the Software Updates section or via Steam > Power > Restart).
+
+[*]To address issues with instability in applications running through Steam, exit or disable any third party applications that you have installed via Desktop Mode and restart your Steam Deck (Steam > Power > Restart).
+
+[*]For non-Steam application instability, exit or disable any other third party applications that you have installed via Desktop Mode and restart your Steam Deck (Steam > Power > Restart). You should also contact the application's product support team if your issue persists.
+
+[*]Found a bug? You can submit bug reports to the forum [url=https://steamcommunity.com/app/1675200/discussions/1/]here[/url].
+
+[/list]
+
+[hr][/hr]
+
+[h1]Deck Verified[/h1]
+The Deck Verified system has four categories that indicate how well games will work on Steam Deck.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/622f0d364f2a353710b3422503b47fa3da9488a1.png[/img] [b]Verified[/b] - The game works great on Steam Deck by default. No additional modification is necessary.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/c43fd819ff38f9aa311ea1357e25380ef59c150a.png[/img] [b]Playable[/b] - The game works, but may require some manual configuration from the user. This could include adjusting controller configurations or using a mouse or touchscreen to navigate a launcher.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/8ca851cdad861eda0660ed3905325638af4d29c8.png[/img] [b]Unsupported[/b] - The game is currently not considered playable on Steam Deck.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/1caab6ba754dda893c6ae291854e5093c15444d2.png[/img] [b]Unknown[/b] - We haven't tested this game for compatibility yet. Feel free to give it a try, but we don't have any information about how it works.
+
+If a game is Playable or Unsupported, you can see what requirements of Verified are not currently met by referring to the Steam Deck Compatibility section on the game's Steam Store page.
+
+[url=https://www.steamdeck.com/en/verified]Check out the website[/url] for more information about Deck Verified.
+
+To see Steam Deck compatibility for your entire Library at a glance, check out [url=https://store.steampowered.com/steamdeck/mygames]your personalized breakdown[/url].
+
+[hr][/hr]
+
+[h1]System issues[/h1]
+If you have persistent issues with stability or performance after checking for updates and restarting your system (see [i]First steps[/i] above), you can also opt into the Steam Deck Beta from here to see if we've recently shipped any changes that address the problem. Do this from Steam > Settings > System > Beta Participation.
+
+You can also check the SteamOS/Steam Deck Discussions forums to see if there's any information available for the problem you're experiencing.
+
+If you're not able to resolve your issue, [url=https://help.steampowered.com/en/wizard/HelpWithSteamDeck]contact Steam Support[/url].
+
+[hr][/hr]
+
+[h1]Desktop Mode[/h1]
+For more information about using Steam Deck in Desktop Mode, check out our [url=https://help.steampowered.com/faqs/view/671A-4453-E8D2-323C]Desktop FAQ[/url].
+
+[hr][/hr]
+
+[h1]Issues with a specific app[/h1]
+
+[h4]Steam apps[/h4]
+
+If you're having stability or performance issues running an application you downloaded from Steam, be sure to check:
+
+[b]Are there system updates available?[/b]
+Check in Steam > Settings > System > Software Updates.
+
+[b]Has the game been Deck Verified?[/b]
+See above for information about the Deck Verified program.
+
+[b]Can you enable Proton if you haven't already?[/b]
+Enable Proton for a specific game by highlighting the game in your Library, then pressing the Menu button and selecting > Properties > Compatibility > Force the use of a specific Steam Play compatibility tool. Try choosing the latest version of Proton. Please note that if you only have the Linux version of the game installed, Steam may automatically download the Windows version in this case.
+
+[b]Are there graphics settings that can be adjusted to improve performance?[/b]
+Try a lower graphics preset or adjust individual settings to decrease system load.
+
+[h4]Non-Steam apps[/h4]
+
+Before trying to install apps from sources other than Steam, you'll want to be sure they are supported by the Arch Linux distribution.
+
+[hr][/hr]
+
+[h1]Contact Steam Support[/h1]
+Unable to resolve your issue? [url=https://help.steampowered.com/en/wizard/HelpWithSteamDeck]Open a ticket with Steam Support[/url].

@@ -1,0 +1,112 @@
+[h1]Secure connection failed, No Steam logon, or A connection to the VAC servers could not be made[/h1]
+
+I am trying to connect to a secure game server, but I received the error message 'SECURE CONNECTION FAILED'.
+
+[h2]Common causes:[/h2]
+
+[list]
+
+[*][url=#connection]Connection Issues[/url] [/*]
+[*][url=#security]Security Software[/url] [/*]
+[*][url=#background]Background Applications[/url] [/*]
+[*][url=#third]Third-party Anti-Cheat Applications[/url] [/*]
+
+[/list]
+This issue stems from four main sources: connection issues, security software, background applications and third-party anti-cheat applications.
+[url id=connection][/url]
+
+[h2]Connection Issues[/h2]
+
+[list]
+
+[*]
+
+[h2]Firewalls and Routers[/h2]
+If your computer is behind a router with a firewall, you must open the ports that Steam uses to connect to the Internet. Most embedded firewalls require you to open ports manually (they do not automatically learn your used ports). Routers without firewalls rarely need to have ports opened for a game client, but usually do for game servers.
+
+If you can specify ports to open, please use the ports specified in the following article: [url=https://support.steampowered.com/kb_article.php?ref=8571-GLVN-8711]Required Ports for Steam[/url]
+
+After making any changes to your router and firewall settings please [b]EXIT STEAM AND RESTART[/b] before attempting to connect to a secure server. [/*]
+[*]
+
+[h2]Router Problems[/h2]
+Routers can cause connectivity problems, especially Wireless routers. If you have a stand-alone router and you are having connection problems, you can always bypass the router and plug your computer directly into your modem to see if the router is the problem.
+
+If you determine that the router is the source of the issue, please follow the [url=https://support.steampowered.com/kb_article.php?ref=6776-MYXU-0480]Using a Router with Steam[/url] guide.
+
+Dual WAN Routers are not compatible with Steam. [/*]
+[*]
+
+[h2]Internet Connectivity Issues[/h2]
+Check the stability and reliability of your Internet connection. An unstable connection can cause Steam to download improperly and connections to game servers time out.
+
+There are many online tools that help you to check for problems with your connection, here are two of the most popular ones:
+
+[url=http://www.dslreports.com/tools]http://www.dslreports.com/tools[/url]
+
+[url=http://www.speedguide.net/analyzer.php]http://www.speedguide.net/analyzer.php[/url]
+
+If you suspect that you are having a problem related to your Internet Connection, please contact your Internet Service Provider (ISP). [/*]
+
+[/list]
+
+[url id=security][/url]
+
+[h2]Security Software[/h2]
+
+[list]
+
+[*]
+
+[h2]Security, Firewall, and Anti-Virus Software[/h2]
+If you're using Internet security, firewall or anti-virus software, make sure they are set to recognize Steam.exe and all instances of HL.exe and HL2.exe as trusted programs. Please consult your security program manuals for instructions.
+
+[h5]Problems Directly After a Steam Update[/h5]
+If you have a connection problem immediately after a Steam update, it is most likely being caused by a firewall.
+
+The best solution is to go to the firewall permissions and remove all references to Steam.exe, HL.exe and HL2.exe and let them be relearned again. Just because there are existing permissions does NOT mean they are correct permissions. Every time the Steam client is updated, your firewall permissions need to be reset.
+
+[h5]Multiple Firewalls[/h5]
+Never run more than one firewall program at a time while using Steam. They can conflict with each other and cause many different connection problems. Examples of running multiple firewalls include:
+
+[list]
+
+[*]Running the Windows firewall with your router's firewall simultaneously [/*]
+[*]Running the Windows firewall with Zone Alarm, Tiny Personal Firewall or some other third-party firewall application [/*]
+[*]Running the Windows firewall with your motherboard's built-in firewall (mainly an issue with nForce motherboards) [/*]
+
+[/list]
+
+After making any changes to your firewall, anti-virus or security software settings please [b]EXIT STEAM AND RESTART[/b] before attempting to connect to a secure server. Once you have restarted you should be able to connect to VAC servers. [/*]
+[*]
+
+[h2]PeerGuardian[/h2]
+PeerGuardian is not compatible with Steam. Please disable PeerGuardian before launching Steam to avoid connection issues. [/*]
+
+[/list]
+
+[url id=background][/url]
+
+[h2]Background Applications[/h2]
+
+[list]
+
+[*]
+
+[h2]P2P, FTP and Web Server Applications[/h2]
+Do not run Peer-to-Peer (P2P) programs like BitTorrent, Kazaa, eMule, LimeWire or Exeem in the background. These programs can consume large portions of your bandwidth. The same is true for FTP and Webserver applications such as Apache, MySQL servers and Microsoft's IIS services.
+
+After exiting your Peer to Peer software please [b]EXIT STEAM AND RESTART[/b] before attempting to connect to a secure server. Once you have restarted you should be able to connect to VAC servers. [/*]
+[*]
+
+[h2]Viruses, spyware and malware, netlimiting, anonymous IP masking programs[/h2]
+Connection problems can also arise if your system is infected with a virus or spyware. We strongly recommend running virus checks while you are not using Steam if you suspect there is a virus or trojan on your system. For more information, please follow the [url=https://support.steampowered.com/kb_article.php?ref=6057-YLBN-1660]Spyware, Malware, Adware, and Viruses Interfering with Steam[/url] topic.
+
+Programs like Cybersitter, Netlimiter, X-Fire and Steganos Anonymous Internet can also interfere with normal Steam operations. Please disable these programs before launching Steam. [/*]
+
+[/list]
+
+[url id=third][/url]
+
+[h2]Third-party Anti-Cheat Applications[/h2]
+Using third-party anti-cheat applications, both server and client-side, is not necessary and may result in the errors outlined above. Do not use third-party anti-cheat applications while playing on a VAC secured server.

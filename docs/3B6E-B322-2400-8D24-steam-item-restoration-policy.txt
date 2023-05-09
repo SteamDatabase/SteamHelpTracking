@@ -1,0 +1,25 @@
+[h1]Steam Item Restoration Policy[/h1]
+
+Steam Support does not restore items that have left accounts for any reason, including trades, market transactions, deletions, or gifting.
+
+It is your responsibility to secure your Steam account. To quickly make trades or sales on the Market, your account must be protected by a Steam Guard Mobile Authenticator. This ensures that only you are able to remove items from your account. If you can’t enable an Authenticator, Steam will hold the trade or Market sell listing for a period of 15 days so that you’ll have enough time to discover and cancel pending transactions if your account was compromised.
+
+Steam Support does not restore lost items. Items often exchange hands multiple times before a restoration request and this means they cannot be restored without duplicating them or removing them from another innocent user’s inventory. Duplicating items has a negative impact on everyone who trades or uses the Market by lowering the value of items.
+
+You can read a more [url=http://store.steampowered.com/news/19618/] detailed explanation of account security related to trading[/url] and [url=http://store.steampowered.com/news/20631/]the update that expanded account security to the Community Market[/url].
+
+[hr][/hr]
+
+For more information on Steam Trades and the Community Market, please use the following resources:
+
+[list]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=6088-UDXM-7214]Community Market FAQ[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454]Recommended Trading Practices[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433]Scam FAQ[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=6262-QXCN-0755]Steam Gifts[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=2178-QGJV-0708]Steam Trade Offers[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=6748-ETSG-5417]Steam Trading[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=1047-EDFM-2932]Trading and Market Restrictions[/url] [/*]
+
+[/list]

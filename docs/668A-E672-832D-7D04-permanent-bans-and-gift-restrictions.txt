@@ -1,0 +1,21 @@
+[h1]Permanent Bans and Gift Restrictions[/h1]
+
+VAC and Game Ban enabled games can either be bought for your own account or gifted immediately. These games can no longer be saved to your inventory for trading purposes. If you directly gift a game to someone who receives a VAC ban, you will not be able to gift that game again.
+
+[h2]Valve Anti-Cheat Technology (VAC)[/h2]
+
+Many games on Steam utilize the Valve Anti-Cheat System (VAC) or third party anti-cheat technology that can result in cheaters being banned from secure servers for multi-player games. VAC bans are permanent and cannot be removed from an account. If a VAC ban has been issued incorrectly it will automatically be rolled back by the VAC team.
+
+You can learn more about Valve Anti-Cheat [url=https://support.steampowered.com/kb_article.php?ref=7849-Radz-6869]here[/url].
+
+[h2]Game Bans[/h2]
+
+Game Bans are used by game developers to address malicious behavior that falls outside of VAC detection. Game bans are determined by the game developer; they can range from single day bans to permanent bans.
+
+You can learn more about Game Bans [url=https://support.steampowered.com/kb_article.php?ref=6899-IOSK-9514]here[/url].
+
+[h2]How do VAC and Game Bans affect gifting?[/h2]
+
+When a user is VAC or Game Banned, their Steam account is banned from playing multiplayer on secured servers. This creates an incentive for people who cheat to stockpile copies of games on one account and to gift them to low value accounts where they can continue cheating. In response to this problem, Steam no longer allows users to purchase copies of VAC or Game Ban enabled games to their inventory. Additionally, if an account has directly gifted a game to other players who have been VAC or permanently Game Banned, the gifter's account will lose the ability to gift that game moving forward.
+
+We've taken these steps to ensure the integrity of the multiplayer experience for those participating in online gaming communities. We understand that the restrictions on buying to your Inventory may be inconvenient, but we believe these steps will reduce the number of cheaters you'll play against.

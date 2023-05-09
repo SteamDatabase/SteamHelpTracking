@@ -1,0 +1,66 @@
+[h1]Apple Steam Link App[/h1]
+
+The Steam Link app for iOS extends Steam Link functionality to many iOS phones, tablets, and Apple TVs. Head to [url=https://www.apple.com/app-store/]App Store[/url] to download the free app. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.
+
+[h1]Required/Recommended Equipment[/h1]
+
+[list]
+
+[*]A computer running Steam, Windows 7 or newer, Mac OS X 10.10 (Yosemite) or newer, SteamOS, or Linux Ubuntu 12.04 or newer. [/*]
+[*]Wireless router 2.4/5GHz [/*]
+
+[/list]
+
+[h1]Supported Input/Controllers[/h1]
+
+[list]
+
+[*][url=https://store.steampowered.com/app/353370/Steam_Controller/]The Steam Controller[/url] [/*]
+[*]MFi Controllers [/*]
+[*]Microsoft Xbox One S Controller (on iOS and tvOS 13 and higher) [/*]
+[*]Sony Dualshock 4 (on iOS and tvOS 13 and higher) [/*]
+[*]Razer Kishi controller [/*]
+
+[/list]
+
+[h1]Getting Started[/h1]
+
+[olist]
+
+[*]Turn on your home PC, launch Steam, and log in. [/*]
+[*]Ensure your phone is connected to the same network as your host PC. [/*]
+[*]Download the app from the App Store and follow the on screen instructions. [/*]
+
+[/olist]
+
+If you have questions about the app or need help using it, just click the appropriate tab.
+
+[expand type=title title="Frequently Asked Questions"]
+
+[h3]How can I make the text on the screen bigger?[/h3]
+The app supports pinch gestures to change the zoom level. Alternatively, you can adjust the Big Picture Mode resolution to a smaller size to improve legibility.
+
+[h3]The game is choppy and unresponsive. How can I improve the experience?[/h3]
+The majority of people have found that switching to a 5GHz network significantly improves the gaming experience.
+
+Also, you can switch to the ‘Fast’ streaming quality option from the Streaming settings in the Steam Link.
+
+[h3]Do I need a controller to use the Steam Link app?[/h3]
+You can use the Steam Link app without a controller using your touchscreen, however input will be limited with some games.
+
+[h3]Can I use the Steam Link app with my cellular network?[/h3]
+Using Remote Play Anywhere with your cellular network may work, depending on the policies of your cellular provider.
+
+[/expand]
+
+[expand type=title title="Troubleshooting"]
+
+[h3]Experiencing Performance Issues?[/h3]
+If you are experiencing performance issues please ensure that your [url=https://support.steampowered.com/kb_article.php?ref=4950-EBNM-7843]settings are optimized for Streaming.[/url]
+
+[h3]Contacting Steam Support[/h3]
+If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] and [i][b]streaming_log.txt[/b][/i] files to your ticket.
+
+The default location for these files is [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
+
+[/expand]

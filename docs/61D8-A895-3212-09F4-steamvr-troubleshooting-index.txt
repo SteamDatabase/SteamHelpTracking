@@ -1,0 +1,59 @@
+[h1]SteamVR Troubleshooting (Index)[/h1]
+
+[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	        	[h1]General troubleshooting[/h1]The following steps solve the majority of issues. Before following any of the additional instructions below, please be sure to:
+
+[*]Verify Integrity of Tool Files (in the Steam Client, navigate to [i]Library[/i] and type "SteamVR" in the search box, then right-click SteamVR and select  				[i]Properties...[/i] > [i]Local Files[/i] > [i]Verify Integrity of Tool Files[/i]). [/*]
+[*]Check your graphics driver versions and update if necessary - see [url=https://support.steampowered.com/kb_article.php?ref=6416-EYDH-0477]Updating Drivers[/url]. [/*]
+[*]Restart SteamVR and test your issue again. [/*]
+[*]Rerun Room Setup from the SteamVR status window. [/*]
+[*]Restart Windows. [/*]
+
+[hr][/hr]
+
+[h1]Devices are not solid green in the SteamVR status window[/h1]A device will appear solid green in the SteamVR status window when it is ready for use.
+
+[video poster="https://support.steampowered.com/steamvr/FitGuide/Thumbnails/SteamVR Status Window all green.jpg" mp4="https://support.steampowered.com/steamvr/Room_Setup/SteamVR_StatusWindow_360x202_MP4.mp4" autoplay=0][/video]
+
+If a device does not appear this way in the status window, refer to our troubleshooting articles for each device for help.
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=3803-QDGM-9237#hmdnotgreen]Index Headset[/url]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=7995-TPGZ-4643#knucklenotgreen]Index Controllers[/url]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=7897-DHKB-9990#basenotgreen]Index Base Stations[/url]
+[hr][/hr]
+
+[h1]Problems with your play area[/h1]
+
+[h4]My virtual position is different than my actual position[/h4]
+These issues are usually a result of tracking problems. Follow [url=https://support.steampowered.com/kb_article.php?ref=7897-DHKB-9990#tracking]these steps[/url] to resolve the issue.
+
+[h4]The orientation of my play area is not correct[/h4]
+If the position of your virtual floor or the "front" of your virtual space is incorrect, you can run Room Setup from the SteamVR menu.
+
+You can also change orientation and other features through advanced setting in room setup.
+
+[hr][/hr]
+[h1]Common Issues[/h1]
+
+[h4]Headset is not connecting or loses connection[/h4]
+Check all of your headset's connections. If you see any of the messages below, securing loose cables and restarting the heaset (SteamVR menu > [i]Devices.[/i]   				[i]Restart headset[/i]) can resolve the issue.
+
+[*][b][b]Headset Display Disconnected[/b][/b] [/*]
+[*][b][b]Headset not Detected[/b][/b] [/*]
+[*][b][b]Laptop: Headset Display Disconnected[/b][/b] [/*]
+
+[h4]SteamVR fails to start, quits unexpectedly or is unresponsive[/h4]
+Start by performing all the steps from the General Troubleshooting section above. If your problem persists, you can try running SteamVR in safe mode:
+
+[*]Type "run" into the Windows search bar. [/*]
+[*]Type "vrmonitor://safemode/enable" into the Run window. [/*]
+[*]You can exit safe mode at any time from the dialog above the SteamVR status window. [/*]
+
+If safe mode has not resolved your issue, click "Contact Steam Support" below to get help.
+
+[h4]SteamVR Safe Mode[/h4]
+SteamVR's safe mode prevents the loading of some third party drivers and other components that can cause problems. If safe mode resolves your issue, it is likely that you have installed something that is interfering with SteamVR. For example, some VR "utility" applications such as Natural Locomotion and LIV are known to conflict with SteamVR in some cases.
+
+[h1]Still having problems?[/h1]
+[url=https://help.steampowered.com/en/wizard/HelpWithVRHardware]Contact Steam Support[/url] for assistance.

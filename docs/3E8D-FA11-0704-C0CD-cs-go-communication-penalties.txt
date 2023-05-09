@@ -1,0 +1,69 @@
+[h1]CS:GO - Communication Penalties[/h1]
+
+[list]
+
+[*][url=#whywarning]I received an abusive communication warning. What does this mean?[/url] [/*]
+[*][url=#whypenalty]Why did I receive a communication penalty?[/url] [/*]
+[*][url=#removepenalty]How do I remove a communication penalty from my account?[/url] [/*]
+[*][url=#morepenalties]What happens if I receive another communication penalty?[/url] [/*]
+[*][url=#falsepenalty]Can I appeal my communication warning or penalty?[/url] [/*]
+[*][url=#falsereports]Is it possible to receive false reports which result in a communication warning or penalty?[/url] [/*]
+[*][url=#actonreports]I have reported a user for abusive communication in-game. When will action be taken on their account?[/url] [/*]
+
+[/list]
+
+[section id=whywarning]
+
+[h2]I received a communication warning. What does this mean?[/h2]
+Abusive communication warnings are issued to accounts that receive an excessive number of in-game reports for abusive communication.
+
+If you continue to receive in-game reports for abusive communication after the warning you may receive a communication penalty, but there are no effects on your account as the result of a warning.
+[/section]
+
+[section id=whypenalty]
+
+[h2]Why did I receive a communication penalty?[/h2]
+There are two reasons an account may receive an in-game communication penalty:
+
+[*]You have received an excessive number of reports for in-game abuse after being warned.
+
+[*]You have been Community banned on Steam.
+
+Accounts with communication penalties are muted by default on all CS:GO servers they join and cannot communicate with other users via voice or text chat unless they are manually unmuted from the scoreboard.
+[/section]
+
+[section id=removepenalty]
+
+[h2]How do I remove a communication penalty from my account?[/h2]
+Communication penalties due to in-game reports can only be removed by earning XP on official Valve servers.
+
+Communication penalties due to Steam Community bans will expire when the Steam community ban does.
+[/section]
+
+[section id=morepenalties]
+
+[h2]What happens if I receive another communication penalty?[/h2]
+Subsequent communication penalties will require more XP to remove than previous communication penalties, meaning you will not be able to communicate via voice or text chat for longer periods of time.
+
+Accounts receiving excessive communication penalties may be permanently muted on all Valve servers.
+[/section]
+
+[section id=falsepenalty]
+
+[h2]Can I appeal my communication warning or penalty?[/h2]
+No. Communication warnings and penalties cannot be appealed or manually removed from accounts.
+[/section]
+
+[section id=falsereports]
+
+[h2]Is it possible to receive false reports which result in a communication warning or penalty?[/h2]
+No. Communication warnings and penalties were designed with checks in place to ensure they are only issued as a result of legitimate reports.
+[/section]
+
+[section id=actonreports]
+
+[h2]I have reported a user for abusive communication in-game. When will action be taken on their account?[/h2]
+A number of factors are taken into account before communication penalties are issued. If you have reported a user and no action has been taken on their account, it is because we are not able to corroborate your report or the data we have confirms no action should be taken at this time.
+
+Reporting a user for abusive communication will mute them by default and you should no longer see their in-game text chat or hear their voice chat. These actions were put in place to reduce the effect users have on your in-game experience, and we regularly evaluate reports from the community in an effort to appropriately issue communication penalties.
+[/section]

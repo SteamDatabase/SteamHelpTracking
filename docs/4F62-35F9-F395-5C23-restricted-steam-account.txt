@@ -1,0 +1,86 @@
+[h1]Restricted Steam Account[/h1]
+
+[list]
+
+[*][url=#whyrestrict]Why would a Steam account be restricted?[/url] [/*]
+[*][url=#restrictiontypes]What types of restrictions can be applied to a Steam account?[/url] [/*]
+
+[/list]
+
+[section style=warning]Valve employees will [i]never[/i] communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [url=https://help.steampowered.com]Steam Support Help Site[/url]. There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.
+
+If someone claims they reported you accidentally or falsely, you do not need to do anything to protect your account. These claims are always fake and only meant scam you. If someone did report your account falsely, you can rest assured that Steam disregards false reports.
+
+Anyone claiming to be a Valve employee or Steam Support representative, asking to verify your items for an investigation or security reasons should be immediately [url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433#reportscammer] reported for trade scams.[/url]
+[/section]
+
+[url id=whyrestrict][/url]
+[h1]Why would a Steam account be restricted?[/h1]Steam Support does not contact the owners of restricted accounts by email in most circumstances. Most restrictions present their details in a lock or ban notification message shown on the account as long as that restriction remains active.
+
+[b]All accounts[/b] owned by an individual may be restricted for any violation of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] or [url=https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810]Steam Community Guidelines[/url] including but not limited to:
+
+[list]
+
+[*]
+
+[h3]Piracy or Hacking[/h3]
+This includes using an unauthorized ("hacked") Steam client to access Steam, attempting to register fake CD Keys or attempting to register a CD Key which has been published on the internet. [/*]
+[*]
+
+[h3]Payment Fraud[/h3]
+Any fraudulent credit card use, credit card chargebacks, or PayPal chargebacks (regardless of when the transaction occurred). [/*]
+[*]
+
+[h3]Redeeming Fraudulent Gifts[/h3]
+Never accept a gift from an unknown user. [/*]
+[*]
+
+[h3]Hijacking or Sharing Accounts[/h3]
+Do not use Steam accounts which you did not create. [/*]
+[*]
+
+[h3]Account Theft and other Deliberately Deceptive Activity[/h3]
+Any attempt to gain access to someone else's account is considered account theft. [/*]
+[*]
+
+[h3]Buying, Selling, or Trading Accounts[/h3]
+Accounts which have been bought, sold or traded will be restricted. [/*]
+[*]
+
+[h3]Scamming, Impersonation, or Social Engineering[/h3]
+This includes any type of scam targeting a Steam user over Steam Chat or other systems outside of Steam, or deliberately submitting false information to Steam Support. [/*]
+[*]
+
+[h3]Abuse and Harassment[/h3]
+An account used to abuse or harass others will be blocked from using Steam Community features. [/*]
+
+[/list]
+
+[url id=restrictiontypes][/url]
+[h1]What types of restrictions can be applied to a Steam account?[/h1]
+
+[h2]Account Lock[/h2]
+Account Locks are issued for various reasons related to violations of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url]. Some locks are intended to freeze an account in its current state until the account's owner contacts Steam Support to resolve the issue, and others are intended as temporary or permanent restrictions applied in response to a violation of Steam's rules. Any account lock's notification message will tell you what's restricted and why.
+
+[h2]Community Ban[/h2]
+Community Bans are issued to an account when the account is used in ways that violate [url=https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810]Steam's Community Guidelines[/url] excessively. Most Community Bans will expire, but extended or even permanent bans may be issued if the prohibited activity continues or if the moderation team finds the activity egregious.
+
+[h2]Community Profile Restrictions[/h2]
+When content is removed from a Steam account's profile for violations of [url=https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810]Steam's Community Guidelines[/url], a temporary ban is applied to the specific type of content that was removed. These bans are automatic and their duration escalates each time they are applied.
+
+[h2]Harassment Ban[/h2]
+Harassment Bans are issued to accounts that are found to be involved in harassing other Steam users. Harassment Ban durations escalate each time a new ban is issued to an account that has received a Harassment Ban previously.
+
+[h2]Trade Ban[/h2]
+Trade Bans are issued to accounts that are determined to be involved in [url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433]scamming[/url] activity. Most trade bans are permanent.
+
+[h2]Account Suspension[/h2]
+In rare cases, accounts are suspended in order to ensure they can't be accessed. This may be done because the account has been used for illegal activity, or to prevent the account's use until it can be restored to its owner in cases where a lock might not suffice.
+
+Before Steam's current [url=https://support.steampowered.com/kb_article.php?ref=4650-SDKC-0716]Account Deletion[/url] option was introduced, accounts could be Terminated on request which among other things, suspended the account.
+
+[h2]VAC Ban[/h2]
+VAC bans are issued by the Valve Anti-Cheat feature in response to an account being used with cheats. If your account has been banned, you can find more information in the [url=https://support.steampowered.com/kb_article.php?ref=4044-QDHJ-5691]I've been VAC banned[/url] article.
+
+[h2]Game Ban[/h2]
+Game bans are issued by a game's developer based on their own code of conduct for that game's online or multiplayer features. If your account has been Game Banned, see the [url=https://support.steampowered.com/kb_article.php?ref=6899-IOSK-9514]Game Ban[/url] article for more information.

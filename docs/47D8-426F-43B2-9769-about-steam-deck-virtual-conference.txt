@@ -1,0 +1,43 @@
+[h1]About Steam Deck Virtual Conference[/h1]
+
+Read more about the event here! For a list of links mentioned throughout the day across all talks, we've listed them all below, as well as in each individual talk summary.
+
+Join us November 12th for this free, one-day online event with the team who built Steam Deck! We’re looking forward to sharing in-depth information and best practices to help you make your games a seamless experience on Steam Deck.
+
+Following each talk, we'll be hosting live Q&A sessions where we can dive in to more of your questions. We can’t wait to connect with everyone on November 12th!
+
+[list]
+
+[*]What: Steamworks Virtual Conference: Steam Deck
+
+[*]Who: The Steam Deck dev team
+
+[*]When: Friday, November 12, starting at 10am PT.
+
+[*]Where: Steamworks
+
+[*]Why: To learn more about Steam Deck and how to get your game running on it
+
+[*]Cost: Free! Must be Steamworks developer to participate.
+
+[/list]
+
+Note: The English broadcast of this event is November 12, with localized versions released soon after.
+
+For more developer information about Steam Deck, please see [url=https://partner.steamgames.com/doc/steamdeck]Steam Deck Documentation[/url]
+
+[h2]Helpful Links[/h2]
+
+[url=https://partner.steamgames.com/doc/steamdeck/testing]Developing for Steam Deck without a Dev-Kit[/url] (Documentation)
+[url=https://partner.steamgames.com/doc/steamdeck/devkits/loadgames]How to load and run games on the Steam Deck dev-kit[/url] (Documentation)
+
+[url=https://partner.steamgames.com/doc/api/ISteamUtils#IsSteamRunningOnSteamDeck]Is Steam running on Steam Deck?[/url] (API reference)
+[url=https://partner.steamgames.com/doc/features/cloud#steam_auto-cloud]Steam Auto-Cloud[/url] (Documentation)
+
+[url=https://partner.steamgames.com/doc/api/ISteamUtils#AppResumingFromSuspend_t]Suspend and Resume (1 of 4)[/url] (API Reference)
+[url=https://partner.steamgames.com/doc/api/ISteamRemoteStorage#RemoteStorageLocalFileChange_t]Suspend and Resume (2 of 4)[/url] (API Reference)
+[url=https://partner.steamgames.com/doc/api/ISteamRemoteStorage#GetLocalFileChangeCount]Suspend and Resume (3 of 4)[/url] (API Reference)
+[url=https://partner.steamgames.com/doc/api/ISteamRemoteStorage#GetLocalFileChange]Suspend and Resume (4 of 4)[/url] (API Reference)
+
+[url=https://partner.steamgames.com/doc/api/ISteamUtils#ShowFloatingGamepadTextInput]Launcher and Input (1 of 2)[/url] (API Reference)
+[url=https://partner.steamgames.com/doc/api/ISteamUtils#SetGameLauncherMode]Launcher and Input (2 of 2)[/url] (API Reference)

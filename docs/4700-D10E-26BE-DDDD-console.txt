@@ -1,0 +1,60 @@
+[h1]Console[/h1]
+
+What is the Developer Console and how can I use it to change game settings?
+
+[section style=important]  [h1]Important:[/h1]
+The [b]~[/b] key will bring up the console for English/US keyboard configurations - for more information on changing the key used to open the developer's console please see the article linked below:
+
+[url=https://support.steampowered.com/kb_article.php?ref=4154-RPGK-6259]Console disappears[/url]
+[/section]
+
+[h1]What is the developer console?[/h1]The console is a text-based input/output interface to execute commands or change global settings in a game.
+
+[h1]How do I enable the console?[/h1]
+
+[h4]Most Valve titles[/h4]
+
+[olist]
+
+[*]Launch Steam and start the Valve game for which you wish to use the console.
+[*]From the main menu select [b]Options[/b]
+[*]Select the [b]Keyboard[/b] tab
+[*]Click the [b]Advanced[/b] button
+[*]Check the box next to [b]Enable developer console (~)[/b]
+[*]Click [b]Apply[/b]
+[/olist]
+
+[h4]Left 4 Dead and Left 4 Dead 2[/h4]
+
+[olist]
+
+[*]Launch Steam and start the Left 4 Dead or Left 4 Dead 2
+[*]From the main menu select [b]Options[/b] then [b]Keyboard/Mouse[/b]
+
+[*]Find the option [b]Allow Developer Console[/b] and set it to [b]Enabled[/b]
+
+[/olist]
+
+[h4]Counter-Strike: Global Offensive[/h4]
+
+[olist]
+
+[*]Launch Steam and start Counter-Strike: Global Offensive
+[*]From the main menu select the gear icon ([b]Settings menu[/b])
+[*]Under the [b]Game[/b] tab in the [b]Game[/b] section find and click the arrow next to [b]Enable Developer Console (~)[/b] so that it says [b]Yes[/b]
+
+[/olist]
+
+[h4]Half-Life: Alyx[/h4]
+
+[olist]
+
+[*]Launch Steam and go to your Library
+[*]Right-click Half-Life: Alyx in the Library and select [b]Properties...[/b]
+[*]In the [b]General tab[/b] go to the [b]Launch Options[/b] section and enter: [b]-console -vconsole[/b]
+[*]Exit the window and launch the game
+[b]Note:[/b] the console will only appear on your desktop screen and not in the headset display
+[/olist]
+
+[h1]What can I type into the developer console?[/h1]
+The developer console is host to a vast variety of commands. Many of these commands have prefixes that offer a hint as to what they deal with. A partial list of available commands can be found in the [url=http://developer.valvesoftware.com/wiki/Console_Command_List]Valve Developer Community[/url].

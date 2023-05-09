@@ -1,0 +1,43 @@
+[h1]Common Refund Questions[/h1]
+
+[h2]How do I request a refund?[/h2]
+
+All refund requests are handled through [url=https://help.steampowered.com]help.steampowered.com[/url].
+
+For a step-by-step guide, please see our [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966]How To Request A Refund[/url] FAQ.
+
+[h2]What can I request a refund for?[/h2]
+
+Valve will, upon request via [url=https://help.steampowered.com]help.steampowered.com[/url], issue a refund for any title that is requested within 14 days of purchase and has been played for less than 2 hours (this includes online, offline and shared library playtime). Even if you fall outside of the refund rules we've described, you can submit a request and we'll take a look at it.
+
+[h2]Where is my refund? My refund was approved, but it’s been more than 7 days.[/h2]
+
+Approved refunds can take up to 7 days to appear in your account – however, refunds to international payment methods may take longer. If your refund hasn’t appeared after 7 days, please contact your bank directly and ask about pending refunds on your account.
+
+[section style=note]When a refund request is approved within 24 hours of the purchase, the original transaction is cancelled and the charge drops off your bank statement. In this case, you will not see a credit on your account. This process can take up to 10 days – wait time for international payment methods may vary.
+
+[/section]
+
+Still can’t find your refund? Please review your recent purchase history; you may have used the funds to make another purchase!
+
+[h2]I tried to refund an older purchase of mine, but it looks like I can't. What can I do?[/h2]
+
+Purchases made significantly outside of the 14 day refund window are not eligible for a refund request.
+
+[h2]My refund request was denied. Can I contest this decision?[/h2]
+
+If you feel that there has been an error in the handling of your refund inquiry, please submit another request at [url=https://help.steampowered.com]help.steampowered.com[/url]. The request will be reviewed by another Valve employee.
+
+[h2]I bought a game right before it went on sale. Can I get a refund and repurchase it at the sale price?[/h2]
+
+Yes; if you have not already requested a refund [url=http://store.steampowered.com/steam_refunds/] make sure the purchase is eligible[/url] and submit a request [url=http://help.steampowered.com]here[/url].
+
+Please note that approved refunds may take up to 7 days to process.
+
+[h2]Is there a limit to how many purchases I can request a refund for?[/h2]
+
+You can submit any number of refund requests for eligible purchases.  If it appears that you are abusing the refund system, we reserve the right to revoke access to this feature.
+
+[h2]If I refund a game, will my playtime and achievements be removed from my Steam Community Profile?[/h2]
+
+No, playtime and achievements will not be removed from your Steam Community Profile. To learn more about Steam Profile privacy click [url=https://support.steampowered.com/kb_article.php?ref=4113-YUDH-6401]here[/url].

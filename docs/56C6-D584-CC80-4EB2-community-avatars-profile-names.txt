@@ -1,0 +1,53 @@
+[h1]Community Avatars & Profile Names[/h1]
+
+Steam encourages players to customize their community profiles with an avatar image and profile name. Avatars and profile names are an important part of a player's public identity and serve dual purposes of self-expression and public identification. Your avatar and name will be visible to both friends and strangers in many places. These places include multiplayer games, chatting with friends in chat rooms, on leaderboards, in discussion forums, and attached to reviews or published content.
+
+Since avatars and names are public, it is important that they are appropriate for all members of Steam's all-ages international community. We recognize the value of your self-expression, and we also recognize that judging the appropriateness of avatars and names is difficult and depends on cultural and group context. We ask that you seek to balance self-expression with a reasonable evaluation of whether your content is appropriate for our very broad and diverse community.
+
+If your avatar or name is moderated or is cleared by our support and moderation staff, please understand that our goal is simply to keep these public pieces from offending or harming other members of the community. Please seek to avoid such content as disturbing images, sexual content, harassment, or any kind of harmful or illegal activity, and make sure your profile name follows our [url=https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810]Community Guidelines[/url].
+
+[h2][url id=faq][/url]Frequently Asked Questions[/h2]
+
+[list]
+
+[*][url=#private]Can I make my avatar or profile name private?[/url] [/*]
+[*][url=#historyname]How do I remove my profile name history?[/url] [/*]
+[*][url=#historyavatar]How do I remove my avatar image history?[/url] [/*]
+[*][url=#trouble]I'm having trouble editing my profile?[/url] [/*]
+[*][url=#banned]What if my content has been banned?[/url] [/*]
+[*][url=#appeal]What if content was removed by mistake?[/url] [/*]
+[*][url=#others]Why was my content removed when worse stuff exists?[/url] [/*]
+[*][url=#report]How can content be reported?[/url] [/*]
+
+[/list]
+
+[h1][url id=private][/url]Can I make my avatar or profile name private?[/h1]No, because avatar and profile name represent you throughout Steam, they cannot be hidden. Also keep in mind that because these are publicly available once uploaded, other sites may scrape this content and keep a permanent record of it.
+
+[h1][url id=historyname][/url]How do I remove my profile name history?[/h1]Steam stores the previous 10 names that you've used for your profile. If you'd like to clear this history, follow these instructions:
+
+[list]
+
+[*]Log in to your account and go to [url=https://steamcommunity.com/my/]your profile[/url] [/*]
+[*]Click the drop down arrow next to your current persona name [/*]
+[*]Select [i]clear previous aliases[/i] [/*]
+
+[/list]
+[h1][url id=historyavatar][/url]How do I remove my avatar image history?[/h1]Steam does not store a history of avatars used on your profile. We do store avatar images on our content servers to serve any player that may be using that image. We do not give players a way to purge images from our content servers. Keep this in mind when uploading content to Steam.
+
+If a third-party site is showing an old image associated to your account, we encourage you to ask them to remove this association.
+
+[h1][url id=trouble][/url]I'm having trouble editing my profile?[/h1]If you are trying to edit your profile within the Steam client, you'll want to make sure you are logged in to the correct Steam account, make sure that you are not in offline mode, and that you are logged in to Friends & Chat (click on the "Friends & Chat" text in the lower right corner of the client).
+
+If you are still not able to edit this content, please try again from your preferred web browser at https://steamcommunity.com/my/edit/info
+
+[h1][url id=banned][/url]What if my content has been banned?[/h1]If you've recently had an avatar or profile name removed by support, you'll be prevented from changing them for a period of time which is detailed on your profile page. The length of time is based on whether or not you've had content removed in the past. Players who repeatedly have content removed, risk losing the ability to use the Steam Community.
+
+[h1][url id=appeal][/url]What if content was removed by mistake?[/h1]We understand that subjectivity plays a role when applying our [url=https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810]Community Guidelines[/url]. We rely on feedback from the community to make sure that we are applying our rules correctly. If you feel that your content was mistakenly removed, you should contact Steam Support. They can review the content and help you understand the reason for removing it.
+
+[h1][url id=others][/url]Why was my content removed when worse stuff exists?[/h1]We rely on user reports to surface content that is objectionable to players on Steam. Please report anything that you feel is in violation of our rules: [url=https://support.steampowered.com/kb_article.php?ref=1476-HJCM-5616]How to report content.[/url]
+
+The existence of content that violates Steam's rules and guidelines does not permit other objectionable content to exist.
+
+[h1][url id=report][/url]How can content be reported?[/h1]We encourage players to report any content that they find objectionable or believe to be in violation of these guidelines.
+
+Detailed instructions for how to report each type of content are available in our [url=https://support.steampowered.com/kb_article.php?ref=1476-HJCM-5616]Reporting content within the Steam Community[/url] article.

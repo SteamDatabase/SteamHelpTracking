@@ -1,0 +1,17 @@
+[h1]Assistance with a Valve Store Order[/h1]
+
+How can I get information on or assistance with something I ordered from the Valve store?
+
+All Valve Store orders are currently processed by [i]For Fans By Fans[/i]. For more information or support with a Valve Store order, please contact ForFansByFans directly via one of the methods listed on this page: [url=https://valvestore.forfansbyfans.com/contact-us]https://valvestore.forfansbyfans.com/contact-us[/url].
+
+Please also include the following information with your message:
+
+[list]
+
+[*]Your Valve Store Sales Order number [/*]
+[*]The email address you used when you placed the order [/*]
+[*]A brief description of your issue [/*]
+
+[/list]
+
+Questions about games purchased on Steam should be sent to [url=https://support.steampowered.com/kb_article.php?ref=1223-QROC-4460]Steam Support[/url].

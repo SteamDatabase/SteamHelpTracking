@@ -1,0 +1,57 @@
+[h1]Scam: Report Bot Services[/h1]
+
+[section style=warning][b]You can safely disregard any scam or comment threatening your account with a ban through automated, false, or accidental reporting.[/b]
+
+Steam Support disregards reports that can't be confirmed with the actual activity of the reported account. No Steam bans are issued purely based on report frequency.
+
+Although ineffective in their claimed goals, Steam Support bans report bot networks as they are identified because they create extra work for Steam's moderation team.
+
+[/section]
+
+[h1]General scam avoidance[/h1]
+While some scammers may target Steam users or reference Steam, Steam games, or Valve as part of their scam, it's important to know that these types of online scams are not unique to Steam. Maintaining healthy skepticism in online interactions is important for preventing scams regardless of the platform.
+
+[h1]Reports for actual infractions[/h1]
+If an account has been used for activity that violates Steam's rules, it's expected that if the account is reported and the violation confirmed, the account would be restricted appropriately.
+
+Some common infractions Steam users sometimes blame on report bots:
+
+[list]
+
+[*]Using a hijacked or purchased account
+
+[*]Engaging in trade scamming
+
+[*]Harassing or abusing others
+
+[*]Cheating in cheat protected games
+
+[/list]
+
+You'll notice these are real violations of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] or [url=https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B]Steam Community Guidelines[/url]. It's intended an account violating these rules would be restricted as a consequence.
+
+If you avoid activity that could result in a ban, you have nothing to fear from fabricated, accidental, or automated reports.
+
+[h1]Preventing the Scam[/h1]
+
+[h5]Avoid violating Steam's rules[/h5]
+
+Your account will remain in good standing if you keep your activity within the limits of Steam's rules and guidelines.
+
+[h5]Don't engage with mass reporting services[/h5]
+
+If you choose to abuse Steam's report feature in this way, Steam Support will lock your account.
+
+[h5]Disregard threats and comments related to automated reporting[/h5]
+
+As automated reporting is disregarded by Steam Support and ultimately inconsequential, you can simply disregard any such threats.
+
+[h1]Reporting scammers[/h1]
+
+[h5]Reporting any Steam accounts involved in the scam[/h5]
+
+[url=https://help.steampowered.com/faqs/view/4D07-D139-587C-2080]Report[/url] any Steam accounts involved in the scam. If a friend's account is involved their account is likely stolen. Your report will help Steam identify and lock down the stolen account until its owner recovers it.
+
+[h5]Reporting any external chat, voice, or email accounts involved in the scam[/h5]
+
+If a scammer spoke to you using any non-Steam accounts, you can use that application's own reporting tools to help them identify the scammer accounts and prevent their misuse.

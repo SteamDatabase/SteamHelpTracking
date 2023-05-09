@@ -1,0 +1,159 @@
+[h1]Dota 2 Workshop - Wards[/h1]
+
+[h1][img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/header_wards.jpg[/img][/h1]
+
+[list]
+
+[*][url=#concept]WARD CONCEPT CONSIDERATIONS[/url] [/*]
+[*][url=#model]WARD MODEL REQUIREMENTS[/url] [/*]
+[*][url=#materials]WARD MATERIALS[/url] [/*]
+[*][url=#animation]WARD ANIMATION REQUIREMENTS[/url] [/*]
+[*][url=#hitboxes]HITBOXES[/url] [/*]
+[*][url=#attachments]ATTACHMENT POINTS[/url] [/*]
+[*][url=#portrait]WARD PORTRAIT[/url] [/*]
+[*][url=#submit]SUBMITTING WARDS[/url] [/*]
+[*][url=#trouble]ITEM TROUBLESHOOTING[/url] [/*]
+[*][url=#reference]WARD REFERENCE DOWNLOAD[/url] [/*]
+
+[/list]
+
+[url id=concept][/url]
+
+[h2]WARD CONCEPT CONSIDERATIONS[/h2]
+
+[list]
+
+[*]Observer and sentry wards need an 'eyeball' element that is very prominent and can be seen clearly from above in game view. [/*]
+[*]For gameplay clarity, the eyeballs should have strong yellowish or bluish coloring.  [/*]
+[*]If the ward has a face or prominent features, make sure these can be clearly seen from above in game view.  [/*]
+[*]Our artists review wards by how they look in game, so please put as much effort into the in-game view as you do for their appearance in the loadout.  [/*]
+[*]For more information about general item design concepts, please see our [url=https://support.steampowered.com/kb/9334-YDXV-8590/dota-2-workshop-character-art-guide]Character Art Guide.[/url] [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_default.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/megagreevil_ward.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/watcher_below_ward.jpg[/img]    [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/f2p_ward.jpg[/img]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_default_game3.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_greevil_game.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_watcher_game3.jpg[/img]  [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_f2p_game.jpg[/img]
+
+​​[url id=model][/url]
+
+[h2]WARD MODEL REQUIREMENTS[/h2]
+
+[list]
+
+[*]Wards share the same model for the sentry and observer versions. [/*]
+[*]There is a limit of 60 bones for the model. [/*]
+[*]Both models can have two LOD (level of detail) meshes [/*]
+[*]LoD0 is higher resolution. It is optional, is displayed in the portrait, loadout and closeup showcase views and is limited to 2000 triangles. [/*]
+[*]LoD1 is lower resolution. It is required, is used in-game and is limited to 1500 triangles. [/*]
+[*]Please note that our budgets refer to triangles, not polygons. [/*]
+[*]It is helpful if you tessellate your model into triangles before submission to confirm that the final mesh is what you intend. Otherwise our tools will triangulate the mesh but may have different results from what you'll see using your software. [/*]
+[*]Our game is only able to support the skinning of 4 vertices per joint. Skinning to additional vertices will be removed or will cause a failure when community items go through our workshop compiler. [/*]
+[*]Please make sure the bind pose for your ward model is oriented upright and facing forward. This orientation determines the placement of the hitboxes. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/orientation_incorrect.jpg?[/img]   [img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/submission/orientation_correct.jpg[/img]
+
+[list]
+
+[*]For general information about workshop models, go to [url=https://support.steampowered.com/kb/9814-QSHK-8085/dota-2-workshop-item-model-requirements]Workshop Item Model Requirements[/url] [/*]
+[*]We no longer accept .smd files for workshop models. Please provide .dmx or .fbx files. [/*]
+
+[/list]
+
+[url id=materials][/url]
+
+[h2]WARD MATERIALS[/h2]
+
+[list]
+
+[*]Wards require two separate skin textures, one for the observer ward which has prominent areas of yellow coloring, and another for the sentry ward, which has prominent areas of blue coloring.  [/*]
+[*]The final material size for each texture is 256x256 [/*]
+[*]For general information about workshop item textures and masks, go to [url=https://support.steampowered.com/kb/3081-QUXN-6209/dota-2-workshop-item-shader-masks]Workshop Item Shader Masks[/url] [/*]
+
+[/list]
+
+[url id=animation][/url]
+
+[h2]WARD ANIMATION REQUIREMENTS[/h2]
+
+[list]
+
+[*]Wards need spawn, idle, and death animations.  [/*]
+[*]They have an option for portrait and rare animations.  [/*]
+[*]A run animation is not needed for wards since they are rooted in one place. [/*]
+[*]It may help to orient the animation of the eye, head, or primary features to face slightly upwards so that they read better from above in game view.  [/*]
+[*]If you have separate portrait animations, these can be adjusted to have the head at a normal angle. [/*]
+[*]For general information about NPC animations, go to [url=https://support.steampowered.com/kb/3634-YOPS-9967/dota-2-workshop-npc-animations]Workshop NPC Animations[/url]. [/*]
+
+[/list]
+
+[url id=hitboxes][/url]
+
+[h2]HITBOXES[/h2]
+
+[list]
+
+[*]Hitboxes creation by community artists is not currently supported for the Source 2 Dota Workshop. Hitboxes are created by Valve artists once a ward is accepted for the game. [/*]
+[*]Temporary generic hitboxes are created by the workshop tool when you test your ward in demo mode so that it can be selectable. These are not the final hitboxes. [/*]
+
+[/list]
+
+[url id=attachments][/url]
+
+[h2]ATTACHMENT POINTS[/h2]
+
+[list]
+
+[*]Hit location attachments are needed for wards.  [/*]
+[*]The hit location specifies where attack projectiles will travel to. [/*]
+[*]In the workshop submission tool you will need to enter the name of the bone that the attach_hitloc will bind to and, if necessary, adjust the attach position to be near the eye or above the center of the ward so that projectiles will stay well above the ground. [/*]
+[*]Detailed instructions about designating and editing attaches in the workshop tool can be found on the [url=https://support.steampowered.com/kb_article.php?ref=2858-RTHJ-5696]Submitting Items[/url] page. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/wards/ward_attach.JPG[/img]
+
+​[url id=portrait][/url]
+
+[h2]WARD PORTRAIT[/h2]
+
+[list]
+
+[*]The portrait options in the submission tool start with the same framing, lighting, and background as the default ward but you can customize these settings.  [/*]
+[*]If you have prepared a separate portrait animation with a different eye/head orientation, be sure to choose this animation from the drop-down list before framing your portrait. [/*]
+
+[/list]
+
+​[url id=submit][/url]
+
+[h2]SUBMITTING WARDS [/h2]
+
+[list]
+
+[*]Refer to the [url=https://support.steampowered.com/kb_article.php?ref=2858-RTHJ-5696]Submitting Items[/url] page for important general information about testing and submitting items. [/*]
+[*]It is no longer necessary to maintain our file structure when preparing your item files. The workshop tool will place your files where they need to go. [/*]
+
+[/list]
+[h1][url id=trouble][/url]ITEM TROUBLESHOOTING[/h1]
+
+[list]
+
+[*]If you have problems testing or submitting your ward, see our [url=https://support.steampowered.com/kb_article.php?ref=5872-QKZN-1281]Item Troubleshooting[/url] page. [/*]
+
+[/list]
+
+[url id=reference][/url]
+
+[h2]WARD REFERENCE DOWNLOAD[/h2]
+Download the [url=http://media.steampowered.com/apps/dota2/workshop/ward.zip ]Ward Model[/url] (675k)
+
+[list]
+
+[*]These instructions pertain to Observer/Sentry wards that can be used and shared by all Dota heroes.  [/*]
+[*]See the [url=http://support.steampowered.com/kb/7823-RUAZ-5739/dota-2-workshop-ability-models-summoned-units]Hero Ability Models[/url] webpage if you need information about the ability wards used by specific Dota heroes. [/*]
+
+[/list]
+
+[url=http://www.dota2.com/workshop/]Dota 2 Item Workshop Guidelines Homepage[/url]

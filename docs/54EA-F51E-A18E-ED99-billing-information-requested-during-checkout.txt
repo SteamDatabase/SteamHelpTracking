@@ -1,0 +1,16 @@
+[h1]Billing Information Requested During Checkout[/h1]
+
+[url id=billinginfo][/url]
+
+[h3]What billing information do I need to enter?[/h3]
+You may be prompted to enter your billing information during checkout whether you are using Steam Wallet funds or a local payment method. If you do not have billing information, please enter your name and physical address.
+
+[url id=required][/url]
+
+[h3]Why is my billing information required?[/h3]
+In the EU, merchants are required to gather location information from customers in order to properly source the sale. To read more about this requirement for all EU countries, please see Regulation No 1042/2013 [url=https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R1042&from=EL] here[/url]. In the US and Canada, billing information is needed to apply the appropriate sales tax rate for your state/province.
+
+[url id=tax][/url]
+
+[h3]Is this information used for tax purposes? [/h3]
+You may live in a region subject to a value-added tax, sales tax, or goods and service tax. Valve reports information to the applicable tax authorities in your state or country as required by local rules.    You can print your own invoices from the Support Help site at any time. To do so, log in to [url=https://help.steampowered.com] Steam Support[/url] and select [i]Purchases[/i], then locate the transaction and select [i]I would like to view or print the receipt for this purchase[/i].

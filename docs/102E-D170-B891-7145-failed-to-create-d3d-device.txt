@@ -1,0 +1,30 @@
+[h1]Failed to create D3D Device[/h1]
+
+D3D errors typically occur if you are running the game at settings which your machine does not adequately support or if you are running outdated video drivers. Other potential causes include outdated Windows installs or larger video card issues.
+
+[h2]Reduce your video resolution[/h2]
+If you have recently increased or changed your game's video resolution, a good first step is to revert your resolution to a setting that previously worked and re-test the issue. If you are able to play at a lower resolution we recommend using that going forward.
+
+[h2]Use the -autoconfig launch option[/h2]
+If you would like the game to automatically choose appropriate settings for your machine, please use the [i]-autoconfig[/i] [url=https://support.steampowered.com/kb_article.php?ref=1216-JMTZ-0860#autoconfig]launch option[/url].
+
+[h2]Update your video drivers[/h2]
+Before updating your drivers, please visit the [url=http://www.update.microsoft.com/microsoftupdate/v6/default.aspx?ln=en-us]Windows Update FAQ[/url] and make sure you have all of the critical updates and the .NET Framework installed.
+
+To update your video drivers, please follow the instructions below for your current operating system:
+
+[list]
+
+[*][url=https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers]Windows 10[/url] [/*]
+[*][url=https://support.microsoft.com/en-us/help/15046/windows-8-download-install-drivers]Windows 8[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=1244-WEJN-0804]macOS[/url] [/*]
+
+[/list]
+
+[h2]None of these solutions worked. What can I do now?[/h2]
+If you have reduced your video resolution, are running the game using settings your machine can adequately support, and have the latest drivers for your video card and are still receiving D3D errors it's possible that your system has gotten into an unusual state. Please restart your machine and re-test the issue.
+
+If the issue persists, please set the following launch option for the affected game: [i]-dxlevel 81[/i]
+
+[/h5]
+If you are attempting to play Left 4 Dead, Left 4 Dead 2, Portal 2, or Counter-Strike: Global Offensive, you must set your launch option to [i]-dxlevel 90[/i] instead.

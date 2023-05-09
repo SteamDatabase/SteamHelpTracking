@@ -1,0 +1,54 @@
+[h1]DirectX and Pixel Shader Requirements for Games on Steam[/h1]
+
+Pixel Shading is a method used for rendering advanced graphical features such as bump mapping and shadows. Most modern PC games utilize pixel shaders in conjunction with advanced GPUs (Graphics Processing Units) found on most NVIDIA, AMD and certain Intel video cards. Pixel Shaders also directly correspond with Microsoft's DirectX platform.
+
+It is extremely important to check each game's system requirements before deciding on making a purchase. If you are not sure what Pixel Shader level your video card can support, there is a chance that your video card will not be capable of running a game that requires an advanced Pixel Shader model - even if your card meets the minimum DirectX requirements.
+
+[b]General Guideline - DirectX Levels and Pixel Shader Versions:[/b]
+
+[list]
+
+[*]DirectX 8.0 - Pixel Shader 1.1 [/*]
+[*]DirectX 8.1 - Pixel Shader 1.3 & 1.4 [/*]
+[*]DirectX 9.0 - Pixel Shader 2.0 [/*]
+[*]DirectX 9.0c - Pixel Shader 3.0 [/*]
+[*]DirectX 10.0 - Pixel Shader 4.0 [/*]
+[*]DirectX 10.1 - Pixel Shader 4.1 [/*]
+[*]DirectX 11.0 - Pixel Shader 5.0 [/*]
+[*]DirectX 12.0 - Pixel Shader 5.1 [/*]
+
+[/list]
+
+Please follow our [url=https://support.steampowered.com/kb_article.php?ref=1510-QIJN-6861]DirectX Guide[/url] to determine what version of DirectX you currently have installed and how to update DirectX.
+
+[h4]DirectX Hardware Support[/h4]
+Please note that the version of DirectX that your video card supports can be misleading. You may be able to install the latest version of DirectX on your system, however there is distinct level of [b]hardware[/b] DirectX support that must also be met in order for your video card to utilize Pixel Shader functions. Even with DirectX 9.0c installed, your video card may only be capable of supporting DirectX 7 due to the hardware limitation.
+
+You can use the following pages to locate the video card you are using and then check the DirectX level of hardware support to compare with the system requirements of games available on Steam.
+
+[table]
+
+[tr]
+[td][b]Nvidia[/b][/td]              [td][url=http://en.wikipedia.org/wiki/Comparison_of_NVIDIA_Graphics_Processing_Units]Comparison of NVIDIA Graphics Processing Units[/url][/td]
+[/tr]
+
+[tr]
+[td][b]AMD[/b][/td]              [td][url=https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units]Comparison of AMD Graphics Processing Units[/url][/td]
+[/tr]
+
+[tr]
+[td][b]Intel[/b][/td]              [td][url=https://en.wikipedia.org/wiki/Intel_Graphics_Technology]Intel HD Graphics[/url][/td]
+[/tr]
+[/table]
+
+Certain Intel video cards such as the Intel 945GM have a limitation in design that may result in issues when trying to run Source Engine games. The 3D graphics core does not support hardware transform and lighting and the similar vertex shader technologies, which is an important part of the 3D acceleration pipeline. Instead, this functionality is emulated in software which may reduce compatibility and performance with 3D games.
+
+If you are experiencing crashing or slow performance with your Intel card and The Orange Box games (Half-Life 2, Half-Life 2: Episode One, Half-Life 2: Episode Two, Portal and Team Fortress 2), then please try running the game and then typing this command in the console:
+
+[code]mat_max_worldmesh_vertices 1024[/code]
+
+If that improves stability then please add it to your config file. Your config file can be located by right-clicking Team Fortress 2 in your Steam Library and selecting Properties, then click the Local Files tab, and click the "Browse..." button. Once in this directory, open the "tf" folder and then the "cfg" folder.
+
+Intel is working on improving driver support for their video cards. Please always make sure you are running the latest drivers for the best experience.
+
+For more information, check the [url=https://support.steampowered.com/kb_article.php?ref=6956-UGCB-7160]Intel Video Cards with Source games[/url] topic.

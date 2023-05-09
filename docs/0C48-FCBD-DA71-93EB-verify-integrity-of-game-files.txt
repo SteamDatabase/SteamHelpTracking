@@ -1,0 +1,32 @@
+[h1]Verify Integrity of Game Files[/h1]
+
+If you are missing textures or other content in game or experiencing crashing while playing a game, you can have Steam verify that the game's files are installed correctly on the computer.
+
+[section style=section]
+
+[olist]
+
+[*]Restart your computer and launch [b]Steam[/b] [/*]
+[*]Next, you can either right click the game in your Library, or click the gear icon from the game's Library page on the far right
+
+[*] From the drop down menu, select [b]Properties...[/b] [/*]
+[*]Select the [b]Local Files[/b] tab and click the [b]Verify integrity of game files...[/b] button [img]{STEAM_CLAN_IMAGE}/1976/48bde6da12dec86f0d07bb36d4949ee02e3f5f3d.png[/img] [/*]
+[*]Steam will verify the game's files - this process may take several minutes[img]{STEAM_CLAN_IMAGE}/1976/2633d7ae8d4b626f6b31dc918a571b5ce53cb323.png[/img] [/*]
+
+[/olist]
+
+[/section]
+
+[section style=note]
+
+[h3][b]Important:[/b] One or more files may fail to verify.[/h3]
+This is normal for most Steam games. The files that fail to verify are local configuration files that should not be replaced as part of this process. [b][b]You can safely ignore this message.[/b][/b]
+[/section]
+
+[section style=warning]
+
+[h3]Warning:[/h3]
+Do not run the verification process while performing other system-intensive processes, such as defragmenting your hard drive or scanning for viruses.
+
+Do not run this process for multiple games at the same time.
+[/section]

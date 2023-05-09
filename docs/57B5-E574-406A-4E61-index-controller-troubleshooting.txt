@@ -1,0 +1,97 @@
+[h1]Index Controller Troubleshooting[/h1]
+
+[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	        	[h1]General troubleshooting[/h1]Before reading further, be sure to:
+
+[*]Ensure your device is charged and powered. [/*]
+[*]Ensure your firmware is up to date. [/*]
+[*]Restart SteamVR. [/*]
+
+[hr][/hr]
+[h1]Input issues[/h1]
+
+[h4]Track Button[/h4]
+Responsiveness and output can be affected if the controller detects input on the Track Button while it is being powered on. If the Track Button does not seem to   		be registering input or feels sluggish, try these steps:
+
+[*]Hold down the System button for 5 seconds to turn the controller off. [/*]
+[*]Wait 2 seconds. [/*]
+[*]Power the controller back on by pressing the System Button. Make sure you do not touch the Track Button. [/*]
+
+Try this a couple of times. If the problem persists, go to  [url=https://help.steampowered.com/wizard/HelpWithValveIndex]Help With Valve Index[/url] to contact Steam Support regarding the issue.
+
+[h4]Issue with legacy bindings or app-specific input[/h4]
+Titles without native Index Controller support should automatically map existing control schemes and work without additional customization. If you would like to   		remap these controls or load a custom controller binding from the Steam Workshop, you can do so by going to the SteamVR status window, opening the menu, and selecting   		[i]Devices[/i] > [i]Configure Controller[/i].
+
+For advanced information about how to use the legacy input system to create custom controller bindings, you can check out   		[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1545634111]our rebinding guide[/url].
+
+[hr][/hr]
+
+[h1]Controller is not solid green in SteamVR status window[/h1]If your controller is not ready, first check the LED above the Track Button and follow the steps below:
+
+[h4]LED is blue[/h4]
+Controller is powered, but not paired to your headset. Pair your controller again:
+
+[list]
+
+[*]Navigate to the SteamVR status window. [/*]
+[*]Open the menu and select [i]Devices[/i] > [i]Pair Controller[/i]. [/*]
+[*]Hold down both the System and B buttons for a few seconds. [/*]
+
+If this does not pair the controller, try turning the device on and off to power-cycle it.
+[/list]
+
+[h4]LED is red (flashing)[/h4]
+The controller is in an error state. If you just updated your controller firmware, go to  [url=https://help.steampowered.com/wizard/HelpWithValveIndex]Help With Valve Index[/url] to contact Steam Support regarding the issue.
+
+If you did not just update your controller firmware, you should be able to recover your controller by following the [i]Reset your controller[/i] instructions below.
+
+[h4]LED is off[/h4]
+Controller is not powered. If your controller will not power on, plug it in for a while to ensure that it has a charge and then try again. If the LED remains off, check the device's status in VR Monitor. It should be gray. If it is in another state, you can try resetting your controller using the instructions immediately below.
+
+[h4]Still having problems? Reset your controller.[/h4]
+If none of this information solved the problem, you can try performing a "hard reset" on your controller. To do this:
+
+[*]Plug the controller in via USB and leave it to charge for 10 minutes. [/*]
+[*]Unplug it and hold down the System Button for 15 seconds, then release. [/*]
+[*]Power the controller on again. [/*]
+
+The controller should recover. If you continue having problems, go to  [url=https://help.steampowered.com/wizard/HelpWithValveIndex]Help With Valve Index[/url] to contact Steam Support regarding the issue.
+
+[hr][/hr]
+[h1]Controller is not tracking[/h1]If you're having a tracking issue, please refer to our [url=https://support.steampowered.com/kb_article.php?ref=7897-DHKB-9990]Base Station & Lighthouse Tracking[/url] article.
+
+[hr][/hr]
+
+[h1]Other Issues[/h1]
+
+[section id=wired-controller-usage]
+
+[h4]Wired Controller Usage[/h4]
+
+Please unplug controllers during gameplay. Pulling the charge cable at an angle may cause damage.
+
+[img]{STEAM_CLAN_IMAGE}/1976/4dee04d8473768abe44989c4901ac18aba13d406.png[/img]
+
+If you suspect damage to your controller's USB-C connector, please [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=250820&issueid=370&nodeid=44&return_nodeid=48]contact Steam Support[/url]
+
+Developers and users who prefer wired controller workflows should consider using a "USB-C breakaway cable".
+[/section]
+
+[h4]3rd-party charging cables[/h4]
+We're aware that some USB-C charging cables are not compatible with the molding around the controller's ports. We recommend using the included cables or avoiding cables with bulky plug housings.
+
+[h4]Fast Charging[/h4]
+To take advantage of fast charging, you can use any USB charging port capable of at least 1 Amp with the included Type-A to Type-C charge cable.
+
+Examples of fast charge ports:
+
+[*]Cell phone charger
+
+[*]USB Charge station
+
+Examples of standard charge ports:
+
+[*]PC USB host ports
+
+[*]USB hub ports [/*]
+
+The device does not take advantage of USB PD ports (power delivery).

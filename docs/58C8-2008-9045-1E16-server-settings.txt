@@ -1,0 +1,11 @@
+[h1]Server Settings[/h1]
+
+A list of console variables and console commands for different Half-Life and Source powered games can be found on the developer wiki:
+
+[list]
+
+[*][url=https://developer.valvesoftware.com/wiki/Category:Console_Variables]Console Variables[/url]
+
+[*][url=https://developer.valvesoftware.com/wiki/Console_Command_List]Console Commands[/url]
+
+[/list]

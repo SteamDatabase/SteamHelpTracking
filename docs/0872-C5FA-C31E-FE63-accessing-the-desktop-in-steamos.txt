@@ -1,0 +1,5 @@
+[h1]Accessing the Desktop in SteamOS[/h1]
+
+To access the SteamOS desktop, you must enable it from the Steam Settings menu.
+
+Select Settings (the gear icon in the top right) then select Interface and check the "Enable access to the Linux desktop" box. Now the Exit button will have an additional option, "Return to Desktop" that will switch to the SteamOS desktop.

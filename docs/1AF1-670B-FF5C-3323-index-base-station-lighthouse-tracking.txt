@@ -1,0 +1,97 @@
+[h1]Index Base Station & Lighthouse Tracking[/h1]
+
+[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]  	  	        	[h1]General troubleshooting[/h1]Before reading further, be sure to:
+
+[list]
+
+[*]Check power connections for all Base Stations [/*]
+[*]Make sure your Base Stations are pointed at your play area and are visible to you. [/*]
+[*]Restart SteamVR [/*]
+
+[/list]
+
+[hr][/hr]
+[h1]Trouble with tracking?[/h1]
+
+Tracking issues commonly manifest as drifting or floating movement of the controllers or game world when you are not in motion. To minimize potential tracking issues in your environment, start with these steps:
+
+[h4]Remove Film Sticker[/h4]
+Base Stations are packaged with a protective sticker on the front-facing surface. The sticker can interfere with tracking if it is not removed before use.
+
+[h4]Check Base Station positioning[/h4]
+Base Stations should be aimed and angled toward the center of the play area. In the ideal setup, Base Stations should be	above head height (at least 6.5 feet / 2 meters), angled down by 30-45 degrees, positioned no more than 16 feet / 5 meters apart, and place opposite one another in separate corners of the play area. Make sure your Base Stations are mounted or set on a solid surface that isn't prone to vibration or movements - bumps and vibrations can cause tracking problems.
+
+Many other setups are also perfectly functional. Remember that if you are placing a Base Station at head height or lower, you should take height into account when deciding how to angle it. A base station on a coffee table should be pointed slightly upward, while one between waist and shoulder height won't need to be angled at all.
+
+[h4]Remove or cover reflective surfaces in your play area[/h4]
+Objects such as windows, mirrors, televisions, and monitor screens can interfere with tracking. If you are losing tracking or motion controllers occasionally float away in VR, try covering or removing reflective surfaces in your play area.
+
+[h4]Rerun Room Setup[/h4]
+Performing a fresh room setup can help clear up any issues caused by changes to the environment or Base Station positioning.
+
+[h4]Performance issues can mimic tracking issues[/h4]
+Spikes in performance quality and "lagging" behavior are usually caused by computer configurations that don't meet our recommended requirements or aren't functioning optimally. Local issues like these are tough to troubleshoot, so we recommend checking with a local computer specialist to find out how to best improve your computer's performance.
+
+To check for spikes in performance, run SteamVR and navigate to menu > [i]Developer[/i] > [i]Advanced frame timing[/i]. For detailed information on how to use this feature, [url=https://developer.valvesoftware.com/wiki/SteamVR/Frame_Timing]check out this developer article[/url].
+
+[hr][/hr]
+
+[h1]Base Station is not solid green in SteamVR status window[/h1]Check the LED in the top center of the Base Station's front (convex) surface:
+
+[h4]LED is flashing blue[/h4]
+This indicates that the Base Station is not stable or is encountering vibrations. This will prevent the laser from functioning. Make sure your Base Station is in a stable location and is not being subject to vibration or shaking. If the problem continues, consider moving the location of your Base Stations.
+
+[h4]LED is flashing red[/h4]
+The Base Station has encountered an error. Please click "Contact Steam Support" below to get help.
+
+[h4]No LED[/h4]
+The Base Station is not receiving power. Try swapping your other Base Station to the same power outlet to test whether the device or the outlet is at fault. If a Base Station will not power on and the outlet is not causing the problem, please click "Contact Steam Support" below to get help.
+
+[hr][/hr]
+[h1]Channel conflicts[/h1]SteamVR will notify you if it detects a channel conflict in your Base Stations. Although Base Stations should arrive correctly configured, you can change their channel settings from the SteamVR status window if the [i]Base Station Setup Error[/i] message appears. To do this:
+
+[list]
+
+[*]Navigate to the SteamVR status window. [/*]
+[*]Select the menu, then [i]Devices[/i] > [i]Base Station Settings[/i] > [i]Configure Base Station Channels[/i] [/*]
+[*]Wait for SteamVR to identify nearby base stations, then either select [i]Automatic Configuration[/i] or manually change each channel by clicking on it. [/*]
+
+[/list]
+
+Base Stations packaged with VR Kits are configured to channels 1 and 2. Individually purchased Base Stations have their channels set between channels 3 and 16.   		If you're using a fourth Base Station or using VR in a place with more than one play area set up, you may need to update channel settings to avoid conflicts.
+
+[hr][/hr]
+[h1]Power Management issues[/h1]SteamVR's Base Station Power Management  feature is turned OFF by default. Turning this feature ON ensures that your Base Stations power off when not in use to reduce power usage and extend their lifespan.
+
+Valve recommends turning this feature ON if you are not in a shared tracking space.
+
+You can turn this feature on/off at any time by navigating to SteamVR->Settings->Base Station->Power Management.
+
+[list]
+
+[*]When this feature is OFF, your Base Stations will remain powered and emitting whenever they are plugged in. [/*]
+[*]When this feature is ON, your Base Stations will go into standby when SteamVR is not in use and wake up when SteamVR starts. [/*]
+
+[/list]
+
+If you're having problems with your Power Management settings, please click [url=https://help.steampowered.com/en/wizard/HelpWithValveIndex]Contact Steam Support[/url] to get help.
+
+If you are using VR in a shared tracking space with multiple instances of SteamVR running, turn off Base Station Power Management to avoid power state conflicts.
+
+[hr][/hr]
+[h1]Other questions[/h1]
+
+[h4]Base Station compatibility?[/h4]
+
+[list]
+
+[*]1.0 (HTC-branded) and 2.0 (Valve-branded) Base Stations will not work with each other in the same VR setup. [/*]
+[*]Index will work with both 1.0 and 2.0 Base Stations. [/*]
+[*]2.0 Base Stations will not work with the original Vive headset or Wand controllers, but will work with the Vive Pro product family. [/*]
+
+[/list]
+
+[h4]How many Base Stations do I need?[/h4]
+We recommend two Base Stations for most room-scale play areas. If you're covering an area larger than 5 x 5 meters (~16 x 16 feet), you can add additional Base Stations for additional tracking and increased accuracy.
+
+For seated or standing-only play areas, one Base Station can be sufficient, but two are still recommended to ensure your Base Stations don't lose sight of your devices.

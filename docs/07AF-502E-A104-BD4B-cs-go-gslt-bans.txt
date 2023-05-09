@@ -1,0 +1,103 @@
+[h1]CS:GO - GSLT Bans[/h1]
+
+[section style=warning]GSLT bans are non-negotiable and cannot be removed or reduced by Steam Support.
+
+If an automated cooldown or ban is determined to have been issued incorrectly, it will automatically be rolled back by our servers. If you wish to discuss this system with the community, you may do so [url=http://steamcommunity.com/app/730/discussions/]here[/url].
+[/section]
+
+[h2]General questions:[/h2]
+
+[list]
+
+[*][url=#gsltinfo]What is a GSLT ban?[/url] [/*]
+[*][url=#receiveban]What happens if I receive a GSLT ban?[/url] [/*]
+[*][url=#dontoffer]What should not be offered on community servers?[/url] [/*]
+[*][url=#tradegslt]Am I able to trade CS:GO items if I've received a GSLT ban?[/url] [/*]
+
+[/list]
+
+[h2]Frequently asked questions from server operators:[/h2]
+
+[list]
+
+[*][url=#customknife]My server provides custom knives to users. Is this OK?[/url] [/*]
+[*][url=#onlyplayer]My server changes the way a weapon appears in-game only to the player using the weapon. Is this OK?[/url] [/*]
+[*][url=#stockweapons]My server grants stock primary/secondary weapons and grenades to players through a gun selection menu, but not knives or weapon skins. Is this OK?[/url] [/*]
+[*][url=#scoreboard]My server doesn’t spoof competitive ranks or coins, but does adjust the scoreboard. Is this OK?[/url] [/*]
+[*][url=#removehide]My server allows users to "remove all weapons"/"hide knife", as well as "knife drop"/"knife switch". Is this OK?[/url] [/*]
+
+[/list]
+
+[section id=gsltinfo]
+
+[h2]What is a GSLT ban?[/h2]
+GSLT (Game Server Login Token) bans are issued to server operators offering false inventories and/or profiles as a free or paid service via mods on their servers. These mods inaccurately report the contents of a player’s inventory and/or matchmaking status, devaluing both and potentially creating a confusing experience for players.
+[/section]
+
+[section id=receiveban]
+
+[h2]What happens if I receive a GSLT ban?[/h2]
+Server operators receiving a GSLT ban will receive the following in-game message:
+
+[list]
+
+[*][i]A server using your game server login token has been banned. Your account is now permanently banned from operating game servers, and you have a cooldown from connecting to game servers.[/i] [/*]
+
+[/list]
+Players receiving this message are permanently banned from operating community servers in CS:GO and will receive a matchmaking cooldown. The matchmaking cooldown for GSLT bans restricts users from playing CS:GO competitive matches and trading in-game items for the duration of the cooldown. For more information about cooldowns, please see our [url=https://support.steampowered.com/kb_article.php?ref=1203-WJCV-7019]competitive cooldowns and bans help article[/url].
+
+Players wanting to host servers in the future will need to use a Steam account that has never shared a phone number with a GSLT banned account.
+[/section]
+
+[section id=dontoffer]
+
+[h2]What should not be offered on community servers?[/h2]
+If a server provides any of the following services we ask that you disable them:
+
+[list]
+
+[*]Services allowing players to claim temporary ownership of CS:GO items that are not in their inventory (weapon skins, knives, etc.). [/*]
+[*]Services providing a falsified competitive skill group and/or profile rank status or scoreboard coin (Operation Challenge Coins). [/*]
+[*]Services that interfere with a player's ability to correctly access their CS:GO inventories, items, or profile. [/*]
+
+[/list]
+
+[/section]
+
+[section id=tradegslt]
+
+[h2]Am I able to trade CS:GO items if I've received a GSLT ban?[/h2]
+Players that have been GSLT banned also receive a matchmaking cooldown and are unable to trade for the duration of their cooldown.
+[/section]
+
+[section id=customknife]
+
+[h2]My server provides custom knives to users. Is this OK?[/h2]
+No. Servers that provide custom knives (for example, 'vanilla' Karambit or Bayonet knives) are generating/simulating items that are not owned by a player. Doing so may result in a GSLT ban.
+[/section]
+
+[section id=onlyplayer]
+
+[h2]My server changes the way a weapon appears in-game only to the player using the weapon. Is this OK?[/h2]
+No. Regardless of who can see the items, mods should not generate/simulate items that are not owned by a player. Offering these mods may result in a GSLT ban.
+[/section]
+
+[section id=stockweapons]
+
+[h2]My server grants stock primary/secondary weapons and grenades to players through a gun selection menu, but not knives or weapon skins. Is this OK?[/h2]
+Yes, it’s fine to provide basic stock weapons to players via a mod.
+[/section]
+
+[section id=scoreboard]
+
+[h2]My server doesn’t spoof competitive ranks or coins, but does adjust the scoreboard. Is this OK?[/h2]
+Yes, it’s fine to offer a mod that modifies scores or player names in the scoreboard. These mods typically exist on surf servers where group tags represent skill rating, score is your rank on the server, MVP is your completion percentage, etc.
+[/section]
+
+[section id=removehide]
+
+[h2]My server allows users to "remove all weapons"/"hide knife", as well as "knife drop"/"knife switch". Is this OK?[/h2]
+As long as the mod is not granting an item that a player does not own, these mods are OK to offer. There are some game modes where it makes sense to have unarmed players, like surfing and trading servers where players give items to each other to inspect.
+
+[b]Note:[/b] If a game server is allowing players to drop their knives, no additional plugins should be required if the server runs with a built-in "mp_drop_knife_enable 1" setting.
+[/section]

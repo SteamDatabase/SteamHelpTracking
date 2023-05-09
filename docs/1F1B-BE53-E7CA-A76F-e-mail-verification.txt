@@ -1,0 +1,84 @@
+[h1]E-Mail Verification[/h1]
+
+[list]
+
+[*][url=#why]Why should I verify my email address?[/url]
+
+[*][url=#verify]How do I verify my email address?[/url]
+
+[*][url=#noemail]I never received the verification email message from Steam Support. What should I do?[/url]
+
+[*][url=#lostemail]What do I do if I no longer have access to the contact email account on record with Steam?[/url]
+
+[*][url=#change]What can I expect to change once my email address has been verified?[/url][
+
+[/list]
+
+[url id=why][/url]
+
+[h2]Why should I verify my email address?[/h2]
+
+Verifying your email address with Steam improves the security of your Steam Account. Once you've verified your email address with Steam, both your Steam Account password and access to your email account are required in order to make any changes to your Steam Account credentials, such as your password and contact email address. This helps further protect your Steam Account from being stolen by a potential phisher.
+
+[url id=verify][/url]
+
+[h2]How do I verify my email address?[/h2]
+
+[img]{STEAM_CLAN_IMAGE}/1976/a30c53527108c680f3ede0566a47b4e5737260e5.png[/img]
+
+Verifying your email address with Steam is a simple process:
+
+[h4]On Windows[/h4]
+
+[olist]
+
+[*]Right-click on the Steam icon in the System Tray and select [b]Settings[/b] or press click [b]Settings[/b] in the Steam option in the upper left corner of the client.
+
+[*]Click on the [b]Verify email address[/b] button.
+
+[*]Follow the on-screen instructions.
+
+[*]You should then receive an email message from Steam Support.
+
+[*]Click the unique link provided in this email message to finish verifying your email address. The web page which then launches will confirm your success.
+[/olist]
+
+[h4]On Mac[/h4]
+
+[olist]
+
+[*]Open Steam and click on [b]Steam > Preferences[/b]
+
+[*]Click on the [b]Verify email address[/b] button.
+
+[*]Follow the on-screen instructions.
+
+[*]You should then receive an email message from Steam Support.
+
+[*]Click the unique link provided in this email message to finish verifying your email address. The web page which then launches will confirm your success.
+[/olist]
+
+[url id=noemail][/url]
+
+[h2]I never received the verification email message from Steam Support. What should I do?[/h2]
+
+If you do not receive the email message from Steam Support and you are running a Spam filter, check and make sure the message has not been filtered as spam.
+
+Please try adding "support@steampowered.com" and "noreply@steampowered.com" to your contacts or trusted senders list within your email client and attempt to re-verify your email address.
+
+[url id=lostemail][/url]
+
+[h2]What do I do if I no longer have access to the contact email account on record with Steam?[/h2]
+
+If you no longer have access to the contact email address associated with your Steam Account, please [url=https://support.steampowered.com/kb_article.php?ref=1223-QROC-4460]contact Steam Support[/url].
+
+[url id=change][/url]
+
+[h2]What can I expect to change once my email address has been verified?[/h2]
+Once you have successfully verified your email address, it will be indicated as [b]Verified[/b] in your Steam Account settings.
+
+A Steam Account associated with a verified email address will behave a bit differently each time you make any changes to your Steam Account credentials. Steam Support will send an automated email message containing a confirmation code to your contact email address each time you begin to change your Steam Account password  or contact email address. This unique code must then be entered into Steam in order to complete the change to your account.
+
+Your email address will also continue to be used to communicate with you regarding your transactions on the Steam Store, and to assist you in regaining access to your Steam Account, should you ever need help with that.
+
+For more information on how to ensure the security of your Steam Account, please see the [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] guide.

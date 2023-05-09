@@ -1,0 +1,48 @@
+[h1]Soundtracks and Steam Music Player[/h1]
+
+Soundtracks are purchasable on Steam as standalone music products or as DLC specific to a parent game (deprecated method). Some soundtracks were also included as bonus content for much older games on Steam.
+
+With the Steam Music Player, you can access all of your soundtracks as well as any other non-steam music files that are installed on your computer.
+
+[h1]How do I access my soundtracks?[/h1]Soundtracks are automatically added to your Library when purchased, but you'll still need to install them.
+
+The method for installing a soundtrack depends on what type of app it is. All new soundtracks are delivered as [i]music apps[/i]. For some older soundtracks, you'll need to install the game they are associated with in order to access them as DLC. We're in the process of converting all pre-exisiting DLC sountracks to music apps
+
+[list]
+
+[*]
+
+[h3]From the Steam Store tab:[/h3]
+
+On the soundtrack storepage, select the [i]Play Now[/i] button. This will bring up an installation dialog where you can specify installation options. Once finished, your soundtrack will be included in your Steam Music Library.
+
+[*]
+
+[h3]From the Steam Library tab:[/h3]
+
+Select the dropdown below the [i]Home[/i] button in the upper left corner and check the [i]Soundtracks[/i] box. If a soundtrack is not shown here, you'll likely need to install the base game first.
+
+[*]
+
+[h3]From the game installation folder:[/h3]
+
+In very rare cases, the soundtrack is included with the game as bonus content. In these cases, the music files are included when the game is installed. You'll need to browse to the installation folder to look for them. You can right-click the game in your Library and select [i]Manage > Browse local files[/i].
+
+[/list]
+
+[h2]How do I access the music player?[/h2]
+You can open the music player from the menu bar in the upper left corner of your Steam client: [i]View > Music Player[/i]
+
+[h2]How to I access music settings?[/h2]
+To open the advanced music player settings from your Steam client menu [i]Steam > Settings > Music[/i]
+
+[h2]How do I change the music quality?[/h2]
+All soundtracks are available in MP3 format by default. Developers can also choose to support additional levels of quality. You'll automatically install the highest quality format, unless you specify otherwise in your settings.
+
+[h2]How to add non-Steam music to the music player?[/h2]
+If you have music files on your computer, you can sync them with your Steam Music Player.
+
+First, go to your music settings: [i]Steam > Settings > Music[/i]: There you can specify a folder on your hard drive for Steam to scan for any supported music files. Once scanned they will be available in your music player.
+
+[h2]What music file formats does Steam support?[/h2]
+Currently we support MP3, FLAC, OGG Vorbis, and M4A (both AAC and Apple Lossless) files.

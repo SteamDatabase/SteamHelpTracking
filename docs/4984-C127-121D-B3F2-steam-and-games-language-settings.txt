@@ -1,0 +1,37 @@
+[h1]Steam and Games - Language Settings[/h1]
+
+How can I change the language for Steam and my games?
+
+[h4]Changing the language of the Steam client[/h4]
+The Steam language setting determines which language the Steam client application displays, as well as the language which games are presented in. (Third-party titles may have their own language settings - these settings will generally be independent of the Steam language setting)
+
+[olist]
+
+[*]Log into your Steam account [/*]
+[*]Click on "[b]Steam" [/b]in the top menu bar (this is in the very upper left of Steam on Windows, or in the menu bar above Steam on OSX) [/*]
+[*]Go to the [b]Settings[/b] option ("Preferences on" OSX) [/*]
+[*]Go to the [b]Interface[/b] tab [/*]
+[*]Select the language you wish to use from the drop-down menu [/*]
+[*]Click [b]OK[/b] and then select the option to [b]Restart Steam[/b] [/*]
+[*]Once Steam restarts, you will be able to use Steam and Valve games in the language which you selected. [/*]
+[*]If you have games installed that support the language you have selected, files for that language may need to be downloaded before you can play.  [/*]
+
+[/olist]
+
+[h4]Changing the language of individual games[/h4]
+The language of many games can be changed independently from the Steam client language.
+
+[olist]
+
+[*]Open your Steam Library [/*]
+[*]Right click the game title and select [b]Properties...[/b]. [/*]
+[*]Go to the [b]Language[/b] tab [/*]
+[*]Select the language you wish to use from the drop-down menu [/*]
+[*]If the game supports the language you have selected, files for that language may need to be downloaded before you can play. [/*]
+
+[/olist]
+
+If you are experiencing problems enabling a language, make sure your desired language is selected in both locations.
+
+[section style=note]Some languages may not be available for the game you wish to play. Check the Steam store page for the game to see which languages are offered.
+[/section]

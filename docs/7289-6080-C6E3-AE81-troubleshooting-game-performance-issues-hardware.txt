@@ -1,0 +1,51 @@
+[h1]Troubleshooting Game Performance Issues - Hardware[/h1]
+
+What can I do to make sure that my hardware is running optimally?
+
+[section style=note]
+
+[h3]Note:[/h3]
+This article is part of a series of articles regarding system and game performance. When troubleshooting performance, please also complete all possible steps in our [url=https://support.steampowered.com/kb_article.php?ref=9257-TUJL-7421]Troubleshooting Game Performance Issues - Software[/url] article.
+[/section]
+
+[h3]Diagnosing Game Performance Problems[/h3]
+Game performance problems, such as slow frame rates or occasional slow frames, can be caused by bugs or inefficient coding in the games, or by hardware problems. Before contacting Steam Support to report game performance problems it is worth doing some testing to see if your computer is the source of the issue. Hardware problems don’t evenly affect all games, so even if just one game is showing problems it is worth checking your hardware.
+
+These tips all assume that you are running Windows. Some of the tools used are third-party tools that are not controlled by Valve. Valve’s mentioning of these tools is not meant to endorse these tools or make any promises about their behavior. The list below is also not meant to be a complete list of the available tools.
+
+[h3]CPU slowdowns[/h3]
+In some situations your CPU may slow down while you are playing a game. This can be caused by overheating, or it can be caused by attempts to conserve battery power. Sudden slowdowns – where the game is running fine and then the frame rate drops quite suddenly – are sometimes caused by these CPU slowdowns. If your frame rate doesn’t improve when you lower the game’s resolution then the game’s performance is probably limited by CPU performance and these diagnostic steps may be appropriate.
+
+Most Valve games have a built-in command for monitoring your CPU speed. If you add "+cpu_frequency_monitoring 2" to your CS:GO command line then the CPU's speed will be measured every two seconds. The measured frequency is compared to how fast Windows says that the CPU is running and this percentage is displayed in the [url=https://developer.valvesoftware.com/wiki/Cl_showfps]cl_showfps[/url] and net_graph displays. Under normal circumstances this percentage should be 90% or higher. If it is 80% or lower then it suggests that your CPU may be overheating and being thermally throttled. If these CPU slowdowns happen when your game is running slowly then it is reasonable to assume that they are the cause and that your CPU is overheating. Since this is a hardware problem (a properly designed PC should never overheat) the only solutions are hardware fixes, such as a better heat sink, better ventilation, etc. If this percentage is above 100% this means that your CPU is overclocking itself (Turbo Core or Turbo Boost) and is running well.
+
+There are also some third-party tools that can be used to diagnose these problems.
+
+[list]
+
+[*]CPU-Z  ([url=http://www.cpuid.com/softwares/cpu-z.html]http://www.cpuid.com/softwares/cpu-z.html[/url]) is a free tool that shows your CPU’s speed in real-time. If you run the game in a window and run CPU-Z beside it then you can monitor the CPU speed and see if it is dropping when the game slows down. Unfortunately, some types of thermal throttling are not correctly measured by CPU-Z.
+
+[/list]
+Since the main cause of CPU slowdowns is overheating, monitoring your CPU temperature is another way to diagnose what is happening.
+
+[list]
+
+[*]Real Temp ([url=http://www.techpowerup.com/realtemp/]http://www.techpowerup.com/realtemp/[/url]) supports Intel processors only.
+
+[*]Core Temp ([url=http://alcpu.com/CoreTemp/]http://alcpu.com/CoreTemp/[/url]) supports both Intel and AMD processors. Note that the maximum temperature allowed may vary considerably between manufacturers and models.
+
+[/list]
+Temperature monitoring will generally never show your CPU above its limits because modern CPUs slow down to avoid overheating. Anytime that the CPU temperature approaches the limits you should treat that as a likely problem. If your CPU is overheating then it usually means that the cooling system is not working correctly. This can be caused by poor design (too small a heat sink, or poor ventilation), by poor placement (a PC in a stereo cabinet may not get enough fresh air), or by dust accumulating on the vents, fans, and heat sinks. Make sure that your PC is getting enough cool room air, be careful that vents aren’t being blocked by carpet, and perhaps open up your PC and remove clumps of dust, or blow them away with compressed air.
+
+[h3]Insufficient memory[/h3]
+Modern games use large amounts of memory, and gamers often leave many other programs running while playing their games, which can cause even machines with 16 GB or more of memory to be running low. If your system runs low on memory then your game or Steam might start being swapped to disk which can cause repeated frame rate hitches. In addition, if Windows doesn’t have many GB of free RAM then it cannot cache frequently used files, which can make level loading take far longer.
+
+As a rule of thumb you should try to ensure that the Available memory shown in the Performance tab of Task Manager shows at least 1,000 MB available. Having 2,000 MB or more available is safer. If available memory goes below about 800 MB then Windows will start writing data to disk in order to make more memory available. Therefore, available memory will rarely be seen to be below 800 MB, and the safe thing to do is to ensure that it never gets too close to this point.
+
+There truly is no such thing as too much memory. If you have 16+ GB of memory then Windows will cache many files, and level loads and game relaunches will be fast and fluid.
+
+[h3]Disk drive slowdowns[/h3]
+Games sometimes have to read or write data during game play. If the disk drive responds quickly then these disk accesses will cause small or unnoticeable frame rate hitches. However a drive will occasionally take a second or longer to respond, and when this happens it is common for the game to pause for this length of time.
+
+Surprisingly enough, these long pauses seem to happen most frequently with SSDs (Solid State Drives). Some SSDs, particularly those that are almost full, will occasionally do a significant amount of house-keeping at inopportune times. It may be possible to use Resource Monitor to detect this situation. You can run Resource Monitor by typing its name into the Start Menu’s search box. Then go to the Disk tab and open up the Disk Activity section. The Response Time column shows how long the disk is taking to respond to requests. If you click this column header it will sort the results by response time and then you can watch, while you are gaming, for excessively long responses that are correlated with frame rate problems. A response time of more than 10-20 ms may start causing performance problems in games.
+
+Some hard drives go to sleep (spin down the platters) after just ten or fifteen seconds of no disk activity. These drives will then take a second or longer to respond to any read requests because they have to get the platters spinning again before they can read any data. These drives can easily cause read delays that are too long for games to hide, and therefore these drives can lead to significant frame rate hitches.

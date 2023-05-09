@@ -1,0 +1,25 @@
+[h1]Low Violence Option in Left 4 Dead[/h1]
+
+How can I lower the violence and content for Left 4 Dead?
+
+[section style=important]
+
+[h3]Important:[/h3]
+Some countries require low violence to be permanently enabled. If you live in a country where low violence settings are required, you will be unable to remove the low violence version.
+[/section]
+
+[h4]Launch in Low Violence Mode[/h4]
+
+[olist]
+
+[*]Locate Left 4 Dead in your Library and right-click the game. [/*]
+[*]Select "Properties..." [/*]
+[*]Go to the [b]Launch Options[/b] section on the General tab in the Properties window. [/*]
+
+[/olist]
+
+In the Launch Options field, type "-lv" as shown in the example below:
+
+[img]{STEAM_CLAN_IMAGE}/1976/4bc0a402f254c490f39759406ff68d57d0b26363.png[/img]
+
+Close the Properties window, and then launch Left 4 Dead. The game should run with less bodies, limbs, and other content.

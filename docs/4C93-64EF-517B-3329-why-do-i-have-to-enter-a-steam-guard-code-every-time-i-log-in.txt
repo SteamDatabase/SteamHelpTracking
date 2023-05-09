@@ -1,0 +1,62 @@
+[h1]Why do I have to enter a Steam Guard code every time I log in?[/h1]
+
+With [url=https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519]Steam Guard[/url], Steam saves a cookie to remember your computer or browser. Your browser must have cookies enabled for [url=https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519]Steam Guard[/url] to work properly.
+
+If you are being repeatedly asked for a Steam Guard code on the same computer, you will need to ensure your browser has cookies enabled.
+
+Please note that the following browser settings may prevent your Steam Guard cookie and login credentials from staying stored for your next login:
+
+[list]
+
+[*]Browser security is set to "high" [/*]
+[*]History is auto-cleared after a short period of time or when you close your browser [/*]
+[*]Private browsing is enabled  [/*]
+
+[/list]
+
+Please follow the instructions below to enable cookies and turn off other browser features that may be interfering with [url=https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519]Steam Guard[/url]:
+
+[h4]Edge[/h4]
+
+[list]
+
+[*][u][url=https://support.microsoft.com/en-us/search?query=enable%20cookies%20in%20edge]Enable Cookies[/url][/u] [/*]
+[*][u][b]Avoid using InPrivate browsing mode[/b][/u]
+Make sure you are not using InPrivate browsing when using Steam in your web browser. If you are using it, your web browser will show a button in the upper right that says "InPrivate". To stop doing InPrivate browsing just click that button and close the window and open a new normal browser window. [/*]
+
+[/list]
+
+[h4]​Chrome[/h4]
+
+[list]
+
+[*][u][url=https://support.google.com/accounts/answer/61416]Enable Cookies[/url][/u] [/*]
+[*][u][b]Avoid using Incognito browsing mode[/b][/u]
+Make sure you are not using Incognito browsing when using Steam in your web browser. If you are using it, your web browser will show a button in the upper right that says "Incognito". To stop doing Incognito browsing just click that button and select "Close Incognito" and then open a new normal browser window. [/*]
+[*][u][url=https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en-GB#zippy=%2Cdelete-cookies-after-you-close-chrome/]Disable Automatic Clearing of History[/url][/u] [/*]
+
+[/list]
+
+[h4]Safari[/h4]
+
+[list]
+
+[*][u][url=https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac]Enable Cookies[/url][/u] [/*]
+
+[/list]
+
+[h4]​Firefox[/h4]
+
+[list]
+
+[*][u][url=https://support.mozilla.org/en-US/kb/websites-say-cookies-are-blocked-unblock-them]Enable Cookies[/url][/u] [/*]
+[*][u][b]Avoid using Private browsing mode[/b][/u]
+Make sure you are not using Private browsing when using Steam in your web browser. If you are using it, your web browser will show an icon with a purple circle with a white mask inside it in the upper right of your browser window next to the minimize and maximum buttons. To stop doing Private browsing close the browser window and open new normal browser window.
+[/*]
+[*][b][u]Disable Automatic Clearing of History[/u][/b]
+Make sure that you do not have the setting "Delete cookies and site data when Firefox is closed" checked. You can find this setting by clicking the menu button then "Settings" > "Privacy & Security" > and then going to the "Cookies and Site Data" section. [/*]
+
+[/list]
+
+[section style=note]Running programs, including security software, that clear internet history, delete unused files, or that clean up orphaned registry entries may have a setting to clear cookies as well. Disabling this feature will prevent this issue from occurring when logging into Steam via your web browser.
+[/section]

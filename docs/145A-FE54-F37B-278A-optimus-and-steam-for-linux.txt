@@ -1,0 +1,27 @@
+[h1]Optimus and Steam for Linux[/h1]
+
+[h2]How can I force a Steam for Linux game to use my NVidia card instead of the integrated video card?[/h2]
+
+The latest client release includes support for using Primus to run Steam client games. To take advantage of this you will need to install Primus for Bumblebee on your system. For installation instructions, see [url=https://wiki.ubuntu.com/Bumblebee]https://wiki.ubuntu.com/Bumblebee[/url] or [url=http://www.webupd8.org/2012/11/primus-better-performance-and-less.html]here[/url].
+
+[b]Note - Primus must be installed with 32-bit support because Steam for Linux (and most games downloaded from Steam) are 32-bit.[/b]
+
+To verify that Primus is available on your system, run the following command: [b]primusrun glxspheres[/b].
+
+There are two methods for using Primus with Steam. The first method involves running Steam on the Intel GPU and only selected graphically intensive games on the discrete GPU.
+
+To make a game run using the discrete GPU, use these simple steps:
+
+[olist]
+
+[*]Select a game - that you want to run using your discrete Nvidia card - from the [b]Library[/b] page of the Steam client, right-click, and select [b]Properties...[/b].
+
+[*]On the [b]General[/b] tab go to the section [b]LAUNCH OPTIONS[/b] and enter the command: [b]primusrun %command%[/b] for the command line.
+
+[*]Close the window. This method allows you to pick when the discrete NVidia GPU should be used on a per-game basis.
+
+[/olist]
+
+The second method is not as efficient (in terms of power consumption) but quicker by running the Steam client and all games using Primus. From the command line, enter [b]primusrun steam[/b] instead of [b]steam[/b]. This is inefficient because all games do not require the power of an NVidia card and power consumption is greatly increased during a Steam client/game session.
+
+For more information about instaling and configuring Primus (and installing Steam on Ubuntu, 64-bit), see this [url=http://cjenkins.wordpress.com/2013/01/01/steam-for-linux-on-optimus-enabled-computer-running-ubuntu-12-04-64bits]article[/url].

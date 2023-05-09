@@ -1,0 +1,45 @@
+[h1]Programs Which May Interfere with Steam[/h1]
+
+There is always the potential that applications running on a machine might negatively affect the performance of Steam games or the Steam client. Certain applications can even lead to more serious issues such as connectivity losses and application crashes. If you are encountering poor performance, it may be necessary to investigate other applications on your machine and possibly disable them for testing purposes.
+
+It is always a good idea to work with a specialist to help determine how these applications are setup on your machine, while also ensuring that nothing is interfering.
+
+[h1]Identifying the Problem[/h1]The types of applications you are using will affect your computer differently depending on what these applications are designed to do. The following list explains some of the more common types of applications, as well as what to look out for in terms of interfering behavior.
+
+[h5]Anti-virus Software[/h5]
+Anti-virus software hooks very deep into user systems and can affect disk and network operations which will cause issues with Steam. Some games also use copy protection technology that can appear as malicious software to an AV scanner, resulting in potential false-positive alerts.
+
+You'll want to ensure that your AV software is not interfering with Steam. You may also need to add exceptions for Steam and its games in your AV configuration.
+
+[h5]Virtual Private Network (VPN) Software[/h5]
+VPN software has the potential of preventing the Steam client application from accessing the Steam network. If a game requires network capability, it may also interfere with that connection.
+
+You'll want to ensure that your network is configured to allow the traffic of Steam and the games you are playing.
+
+[h5]Anti-Spyware Software[/h5]
+Aggressive spyware detection software can block the Steam client from receiving updates or prevent connection to Steam content servers.
+
+Certain Steam web features might also not function if your web traffic is being aggressively monitored by a anti-spyware or other web security applications.
+
+[h5]Firewalls & Security Applications[/h5]
+Certain firewalls and firewall configurations may prevent Steam from talking to its servers. It may be necessary to add exceptions in your firewalls for Steam if you discover that this is the cause.
+
+[h5]Peer-to-Peer (P2P) Clients & File Sharing Software[/h5]
+P2P programs have the potential to consume a large portion of your bandwidth or other system resources if not properly configured. This can prevent connections or traffic that Steam depends on, while also interfering with resources required by games. It is not recommended to have file sharing applications active while you are using Steam.
+
+[h5]FTP and Web Server Applications[/h5]
+As with P2P programs, these programs are generally very bandwidth-intensive and have the potential generate issues with Steam. Examples include database, HTTP and many other types of dedicated server software.
+
+[h5]IP Filtering/Blocking Programs[/h5]
+These types of programs are explicitly designed to limit what type of traffic is received and sent through your network. These are typically found in institutional and corporate networks, but can also be used on personal computers. These programs are known to cause issues with Steam and game connections.
+
+[h5]Download Accelerator and Download Manager Programs[/h5]
+These programs curate your network experience, resulting in the possibility that Steam and game traffic may be hindered. Download accelerator programs should be disabled while using Steam.
+
+[h4]Disabling and Testing[/h4]
+Issues related to any of these types of programs may be resolved by exiting and/or disabling the program and then exiting and restarting Steam. For certain applications, a system reboot may be required after you have shut down or disabled them.
+
+[h5]Hidden Processes[/h5]
+Many applications are configured to launch when a computer starts. These might not even appear in the Windows task bar, but may still be among some of your active processes using your system's resources.
+
+Because of the complexity of these systems and the expertise required to make changes to them, we recommend working with an expert to ensure that nothing damaging is done to your computer, while also ensuring that hardware, applications, security and network are all setup to work together without conflict.

@@ -1,0 +1,89 @@
+[h1]Information for New Users[/h1]
+
+[list]
+
+[*][url=#what]What is Steam?[/url] [/*]
+[*][url=#how]How do I use Steam?[/url] [/*]
+[*][url=#games]What games are available through Steam?[/url] [/*]
+[*][url=#download]How do I download games from Steam?[/url] [/*]
+[*][url=#secure]How can I protect my account?[/url] [/*]
+[*][url=#ssa]What is the Steam Subscriber Agreement?[/url] [/*]
+[*][url=#contact]How do I contact Steam Support?[/url] [/*]
+
+[/list]
+
+[section style=important]
+
+[h2]If you are unable to create a Steam account from Steam website[/h2]
+If you encounter issues when creating an account while using a web browser, please try creating a Steam account using the Steam client/application:
+
+[list]
+
+[*]Download and run the installer for Steam from [url=http://store.steampowered.com/about]http://store.steampowered.com/about[/url] [/*]
+[*]Click the "Create a new Account..." button from the Steam login page and follow the prompts [/*]
+
+[/list]
+
+[/section]
+
+[section id=what]
+
+[h2]What is Steam?[/h2]
+Steam is a broadband platform for direct software delivery and content management. It is an integral part of all Valve software.
+[/section]
+
+[b]Steam...[/b]
+
+[list]
+
+[*]Allows you to purchase and immediately download games via the internet. [/*]
+[*]Allows you to register retail versions of Valve games as well as some third-party games. [/*]
+[*]Lets you access games from any PC that can connect to the Steam network. [/*]
+[*]Automatically keeps all of your games up-to-date with the latest available patches. [/*]
+[*]Allows you to chat with friends in the Steam community even during gameplay. [/*]
+[*]Makes it easy to browse and connect to online and LAN game servers for certain games. [/*]
+[*]Allows you to view which games your friends are currently playing and join them. [/*]
+
+[/list]
+
+[url id=how][/url]
+
+[h2]How do I use Steam?[/h2]
+First, please see the [url=https://support.steampowered.com/kb_article.php?ref=3046-ECVN-3712]Installing Steam[/url] topic for instructions on downloading and installing Steam.
+
+Once you have installed Steam, create an account and add games to it by downloading [url=https://support.steampowered.com/kb_article.php?ref=8795-TIDH-0077]free to play games[/url], or purchasing games from the [url=https://store.steampowered.com/]Steam Store[/url], or by [url=https://support.steampowered.com/kb_article.php?ref=5414-TFBN-1352]Activating a Product on Steam[/url].
+
+[url id=games][/url]
+
+[h2]What games are available through Steam?[/h2]
+The list of games available through Steam is constantly expanding.
+
+For a full list of games currently available for purchase through Steam, please visit the [url=http://storefront.steampowered.com/]Steam Storefront[/url].
+
+[url id=download][/url]
+
+[h2]How do I download games from Steam?[/h2]
+Once you have installed the [url=https://store.steampowered.com/about]Steam application[/url], you will need to login to the Steam account you have added (or will add) your game to.  Your game is tied to this Steam account and cannot be re-registered to a different account.
+
+Clicking [b]Library[/b] in the Steam application will bring you to a listing of all games that have been registered to this Steam account. Double click any of these titles to install and run the game.
+
+[url id=secure][/url]
+
+[h2]How can I protect my account?[/h2]
+NEVER give out your account password to anyone over Steam or elsewhere. Please see the [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] topic for instructions on protecting your Steam account.
+
+[url id=ssa][/url]
+
+[h2]What is the Steam Subscriber Agreement?[/h2]
+For more information on Valve's policies, please see the Steam Subscriber Agreement and the Rules of Steam Online Conduct.
+
+[b]Steam Subscriber Agreement[/b]
+[url=https://store.steampowered.com/subscriber_agreement/]https://store.steampowered.com/subscriber_agreement/[/url]
+
+[b]Rules of Steam Online Conduct[/b]
+[url=https://store.steampowered.com/online_conduct/]https://store.steampowered.com/online_conduct/[/url]
+
+[url id=contact][/url]
+
+[h3]How do I contact Steam Support?[/h3]
+Please see the [url=https://support.steampowered.com/kb_article.php?ref=1223-QROC-4460]How do I contact Steam Support[/url] FAQ.

@@ -1,0 +1,136 @@
+[h1]Account Security Recommendations[/h1]
+
+[list]
+
+[*][url=#steamguard]Enable Steam Guard two-factor authentication[/url] [/*]
+[*][url=#verify]Verify your contact email address with Steam[/url] [/*]
+[*][url=#friends]Steam Friends[/url] [/*]
+[*][url=#beware]Things to watch out for[/url] [/*]
+[*][url=#general]General security recommendations[/url] [/*]
+
+[/list]
+
+[section style=important]
+
+[section id=phishing_warning]
+[/section]
+
+[section id=phishing_content]
+
+[h2]Watch out for Account Hijacking:[/h2]
+
+[list]
+
+[*]NEVER give out your password to anyone. [/*]
+[*]NEVER click unknown links from untrusted sources. [/*]
+[*]NEVER follow instructions to speak with someone claiming to represent Steam Support through Discord or any other chat system, even if they come from a friend's account. [/*]
+[*]There's no such thing as a false report that you need to take steps to solve. This is a scam. [/*]
+
+[/list]
+
+[/section]
+
+[/section]
+
+[section id=steamguard_div][url id=steamguard][/url]
+
+[img]https://support.steampowered.com/images/faq/account_security/shield.png[/img]  [h1]Enable Steam Guard two-factor authentication[/h1]Steam Guard is an additional level of security that can be applied to your Steam account. When Steam Guard is enabled on your account, anyone attempting to login to your Steam account from an unrecognized computer must provide additional authorization. A special access code will be sent to your contact email address, and this code must be entered into Steam before your login is complete.
+[exclude_realm=china][b]Steam Guard security is also available through the Steam app on your smartphone, by using the Steam Guard Mobile Authenticator.[/b]
+[/exclude_realm]
+
+[exclude_realm=china][url=https://support.steampowered.com/kb_article.php?ref=4440-RTUI-9218]Steam Guard: How to set up a Steam Guard Mobile Authenticator[/url]
+[/exclude_realm]
+
+[url id=verify][/url]
+
+[img]https://support.steampowered.com/images/faq/account_security/envelope.png[/img]  [h1]Verify your contact email address with Steam[/h1]Verifying your email address with Steam improves the security of your Steam account. Once you've verified your email address with Steam, both your Steam Account password and access to your email account are required in order to make any changes to your Steam Account credentials, such as your password and contact email address. This helps further protect your Steam Account from being stolen.
+
+[url=https://support.steampowered.com/kb_article.php?ref=5151-RUAS-1543#verify]How to verify your contact email address with Steam[/url].
+[/section]
+
+[section id=friends_div][url id=friends][/url]
+
+[img]https://support.steampowered.com/images/faq/account_security/friends.png[/img]  [h1]Steam Friends[/h1]
+
+[h2]Anyone can attempt to add you[/h2]
+It's good to keep in mind that the users who add you may not be people you have chatted with before. Users can add you to their Friends list if they find your profile by searching for your in-game name or your account's contact e-mail address.
+
+Be aware that users can change their profile name displayed in Friends at any time.
+
+[h2]Account Phishing[/h2]
+Attempting to trick other users into providing password information is commonly called "phishing" - unfortunately, some individuals are using deceptive Steam Friends names to request password information from other users. Steam Support does not use the Friends network to contact users, nor will we request CD Key or credit card purchase information unless you have contacted us for assistance by using the [url=https://support.steampowered.com/kb_article.php?ref=1223-QROC-4460]Steam Support System[/url].
+
+If you receive a link from another user, especially one claiming free access to Steam content, use extreme caution! All official Steam logins are directed to the [b][u]www.steampowered.com[/u][/b], [b][u]store.steampowered.com[/u][/b], [b][u]steamcommunity.com[/u][/b], or [b][u]help.steampowered.com[/u][/b] domains. If you suspect a site asking for your login information is not an official Steam site, do not enter any information on the site and disregard it.
+
+[exclude_realm=china]
+[exclude_realm=global][img]https://steamcommunity.com/public/images/steamguard/SSL.png[/img]
+[/exclude_realm]
+
+[/exclude_realm]
+
+[/section]
+
+[section id=beware_div][url id=beware][/url]
+
+[img]https://support.steampowered.com/images/faq/account_security/caution.png[/img]  [h1]Things to Watch Out For[/h1]Account hijackers have several common methods of attack, most of which rely upon misinformation or deception. Your account cannot be stolen if you follow these recommendations and refrain from sharing your account.
+
+Watch out for these activities:
+
+[h2]Requests for login and password information[/h2]
+Deny requests for login and password information from other users. Do not share your account login information with anyone. No reputable gaming group will ask for your login information to join, and game server administrators do not need your Steam account information.
+
+[h2]Unsolicited messages from "Steam Support" (Phishing Scams)[/h2]
+Ignore unsolicited messages from "Steam Support" unless the message originates from the [u]help.steampowered.com[/u] domain.
+
+[h2]Malicious programs in downloads[/h2]
+Hacks are another very common source of malicious programs. It is common for executable ( .EXE ) files, Windows screensaver ( .SCR ) files, dynamic link libraries ( .DLL ) files, and batch ( .BAT ) files being offered as parts of "mods" to contain malicious software designed to steal Steam account login information.
+
+[exclude_realm=china]
+
+[h2]Examples of hijacking attempts[/h2]
+A list of common scams can be found [url=http://www.reddit.com/r/Steam/wiki/scamtypes]here[/url].
+
+[/exclude_realm]
+
+[/section]
+
+[section id=general_div][url id=general][/url]
+
+[img]https://support.steampowered.com/images/faq/account_security/lock.png[/img]  [h1]General Security Recommendations[/h1]It is a good idea to maintain the security of your system in the following ways:
+
+[url=https://support.steampowered.com/kb_article.php?ref=5151-RUAS-1543#verify]Verify your contact email address with Steam[/url]
+
+[h2]Select a Strong Password[/h2]
+A strong password is a necessary first step toward ensuring the security of your account. Your password should meet all of the minimum requirements listed below:
+
+[list]
+
+[*]Use at least 6 characters [/*]
+[*]Use a combination of uppercase and lowercase letters. [/*]
+[*]Include at least one number within the password [/*]
+[*][u]Do not[/u] use a name, a word that could be found in the dictionary, or a series of letters as it appears on the keyboard ("qwerty" and "12345" are not secure passwords) [/*]
+
+[/list]
+
+[h2]Use unique passwords[/h2]
+Make sure you are using a different password for your Steam account and your contact e-mail address.
+
+[h2]Scan your computer[/h2]
+Regularly scan your computer for viruses, key loggers, spyware, and other malicious code with a virus scan utility that has the most recent virus definitions.
+
+[h2]Avoid insecure computers[/h2]
+Avoid accessing your Steam Account from internet cafes or shared computers - if you must use an internet cafe or shared computer, make sure it has been scanned for viruses, trojans, and keyloggers.
+
+[h2]Always log out of your account on shared machines[/h2]
+If the machine you use to access Steam has multiple users, be sure to fully Exit (log out of) Steam when you are done using the machine (if the "Remember Password" option is checked or if Steam is minimized to the Windows system tray but not fully Exited another user may be able to access your account).
+[/section]
+
+[section style=important]
+
+[h3]Important:[/h3]
+
+[h2]Report Hijackings and Suspicious Activities[/h2]
+If your account has been compromised, please see the [url=https://support.steampowered.com/kb_article.php?ref=2347-QDFN-4366]Retrieving a Lost or Stolen Steam Account[/url] topic for instructions to retrieve your account.
+
+If another user requests your account information or attempts to steal your account, please see the [url=https://support.steampowered.com/kb_article.php?ref=1476-HJCM-5616]Reporting content within the Steam Community[/url] topic for instructions to submit a report.
+[/section]

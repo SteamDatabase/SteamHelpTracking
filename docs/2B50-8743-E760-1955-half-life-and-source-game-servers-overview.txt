@@ -1,0 +1,46 @@
+[h1]Half-Life and Source Game Servers Overview[/h1]
+
+How do I install and update a stand-alone Dedicated Server for Windows?
+
+[list]
+
+[*][url=#types]Types of Servers[/url] [/*]
+[*][url=#help]Dedicated Server Assistance[/url] [/*]
+
+[/list]
+
+[h4][url id=#types][/url]Types of Servers[/h4]
+Half-Life Dedicated Servers can host GoldSource-engine games like Half-Life, Counter-Strike, and Team Fortress. Source-engine Dedicated Servers can host Source-engine games like Half-Life 2: Deathmatch, Counter-Strike: Source, and Day of Defeat: Source.
+
+[list]
+
+[*]
+
+[h5]Listen Server[/h5]
+This type of server may be started in-game by selecting the [b]Create Server[/b] option. Listen Servers are ideal for small LAN games (this type of server is not intended to be used as a public server). [/*]
+[*]
+
+[h5]Steam Dedicated Server[/h5]
+This type of server may be started through Steam Library by selecting a server application in the [b]Tools[/b] category. Steam Dedicated Servers require more system resources than the Stand-Alone Dedicated Server and cannot be started automatically when your computer is booted up. [/*]
+[*]
+
+[h5]Stand-Alone Dedicated Server[/h5]
+This type of server is intended for advanced users who are intend to run the dedicated server software to host internet games. Stand-Alone Dedicated Servers offer the best performance and configuration options, however, you must use a console interface to manage the server. [/*]
+[*]
+
+[h5]Linux Dedicated Server[/h5]
+The Linux Dedicated Server is a variant of the Stand-Alone Dedicated Server designed to run on Linux. [/*]
+
+[/list]
+
+[h4][url id=#help][/url]Dedicated Server Assistance[/h4]
+Join the dedicated server discussion list for your operating system and review the mailing list archives to find solutions for dedicated server issues:
+
+[list]
+
+[*][url=https://steamcommunity.com/discussions/forum/13/]Source Dedicated Server (Windows)[/url] [/*]
+[*][url=https://steamcommunity.com/discussions/forum/14/]Source Dedicated Server (Linux)[/url]
+[*][url=https://steamcommunity.com/discussions/forum/15/]Half-Life Dedicated Server (Windows)[/url] [/*]
+[*][url=https://steamcommunity.com/discussions/forum/16/]Half-Life Dedicated Server (Linux)[/url] [/*]
+
+[/list]

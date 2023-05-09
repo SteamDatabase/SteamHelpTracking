@@ -1,0 +1,48 @@
+[h1]CS:GO - X-Ray Scanner[/h1]
+
+[list]
+
+[*][url=#wherecontainer]I scanned a container and it is no longer in my Inventory. Where did it go?[/url] [/*]
+[*][url=#seecontents]Can I scan a container, see the contents, then trade or sell the container on the Community Market?[/url] [/*]
+[*][url=#scananother]I have scanned a container and the item has been revealed. How do I scan another container?[/url] [/*]
+[*][url=#resetcontainer]Can I reset a container’s contents or scan the same container more than once?[/url] [/*]
+[*][url=#diffcontainers]Can I scan multiple containers if they are different types?[/url] [/*]
+[*][url=#scansouv]Can I scan Souvenir Packages?[/url] [/*]
+
+[/list]
+
+[section id=wherecontainer]
+
+[h2]I scanned a container and it is no longer in my Inventory. Where did it go?[/h2]
+Scanned containers are consumed, meaning they will no longer appear in your CS:GO or Steam Inventories. Scanned containers cannot be traded or sold on the Steam Community Market.
+[/section]
+
+[section id=seecontents]
+
+[h2]Can I scan a container, see the contents, then trade or sell the container on the Community Market?[/h2]
+No. A scanned container cannot be traded or sold on the Steam Community Market.
+[/section]
+
+[section id=scananother]
+
+[h2]I have scanned a container and the item has been revealed. How do I scan another container?[/h2]
+Once a container has been scanned and the item has been revealed, the only way to scan another container is to purchase and claim the previously revealed item.
+[/section]
+
+[section id=resetcontainer]
+
+[h2]Can I reset a container’s contents or scan the same container more than once?[/h2]
+No. Containers cannot be scanned more than once. Once scanned, the item inside the container is locked and cannot be changed.
+[/section]
+
+[section id=diffcontainers]
+
+[h2]Can I scan multiple containers if they are different types?[/h2]
+No. Only one container of any kind (Weapon Case, Sticker Capsule, Souvenir Package, etc.) can be scanned at a time.
+[/section]
+
+[section id=scansouv]
+
+[h2]Can I scan Souvenir Packages?[/h2]
+Yes. Souvenir Packages are containers, and like other containers they are consumed when scanned and can only be scanned once. After being scanned, Souvenir Packages cannot be traded or sold on the Community Market and the revealed the item must be claimed before another container can be scanned.
+[/section]

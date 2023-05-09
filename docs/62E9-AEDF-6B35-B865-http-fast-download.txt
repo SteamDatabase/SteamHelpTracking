@@ -1,0 +1,112 @@
+[h1]HTTP Fast Download[/h1]
+
+How do I Get HTTP Fast Download working for my Server?
+
+Source supports the download of custom content (maps, skins, sounds, and so on) from a HTTP server (ie: webserver) when connecting, instead of downloading directly from the game server itself.
+
+HTTP downloading has three major benefits:
+
+[olist]
+
+[*]There is no impact on the game server when downloading custom content, as a completely separate HTTP content server does the transfer. [/*]
+[*]Players will download custom content at their maximum transfer rate, resulting in much faster downloads. [/*]
+[*]Players downloading custom content do not take up a player slot on the server while waiting. [/*]
+
+[/olist]
+
+[h4]Server with Custom Content: User Experience[/h4]
+When a player connects to a server utilizing custom content, one of two things will occur:
+
+[olist]
+
+[*]If the server is not configured for HTTP download, the game server will use the normal [b]trickle[/b] download mechanism. [/*]
+[*]If the server is configured for HTTP downloading, the player will see an enhanced download dialog and much faster downloads. While this content is downloading, they are not connected to the game server. Once the download finishes, they are automatically reconnected to the game server and ready to play. [/*]
+
+[/olist]
+
+[section style=note]
+
+[h3]Note:[/h3]
+If any of the custom content is not present on the HTTP content server or the case of the file name does not match then the player will disconnect from the HTTP and fall back and download any remaining content via trickle download from the server.
+[/section]
+
+[h4]Configuring your server to use fast HTTP Downloading[/h4]
+
+[olist]
+
+[*]Make a list of all the custom files (bsp, wav, mdl, etc) used on your server. [/*]
+[*]Put those files on a HTTP server (ie: webserver), keeping the folder layout intact. [/*]
+[*][b]Optional:[/b] To display a [b]banner image[/b] to players that download content, place a [b]340x56[/b] pixel image in the [b]file (custom content directory)/gfx/banner.gif[/b]. [/*]
+[*]Set the [i]sv_downloadurl[/i] cvar to [b]http://yourserver/custom_content_directory/[/b].
+
+[b]Example:[/b]
+
+[expand style=details]Your server uses the non-standard map [b]de_generic[/b], which requires the following files:
+
+[list]
+
+[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\maps\de_generic.map [/*]
+[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\de_generic.wad [/*]
+[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\sound\ambience\de_generic_a.wav [/*]
+[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\sound\ambience\de_generic_b.wav [/*]
+[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\sound\ambience\de_generic_c.wav [/*]
+
+[/list]
+
+[/expand]
+
+You have web space (perhaps through your ISP) with the URL [b]http://www.turtlerockstudios.com/~matt[/b] that you will use to host your custom content. [/*]
+[*]Copy the files needed for [b]de_generic[/b] to your webspace, placing them in a folder called [b]my_cstrike[/b]; in your webspace top-level directory, keeping their directory layout intact. [/*]
+[*]You now have the following files in your webspace:
+
+[expand style=details]
+
+[list]
+
+[*]http://www.turtlerockstudios.com/~matt/my_cstrike/maps/de_generic.map [/*]
+[*]http://www.turtlerockstudios.com/~matt/my_cstrike/de_generic.wad [/*]
+[*]http://www.turtlerockstudios.com/~matt/my_cstrike/sound/ambience/de_generic_a.wav [/*]
+[*]http://www.turtlerockstudios.com/~matt/my_cstrike/sound/ambience/de_generic_b.wav [/*]
+[*]http://www.turtlerockstudios.com/~matt/my_cstrike/sound/ambience/de_generic_c.wav [/*]
+
+[/list]
+
+[/expand]
+
+[/*]
+[*]You now set the [b]sv_downloadurl[/b] cvar on your game server to [i]http://www.turtlerockstudios.com/~matt/my_cstrike/[/i] [/*]
+[*]Players who then connect to your server will automatically download the map [b]de_generic[/b] and its required files from your webspace when they connect, unless they already have it. [/*]
+
+[/olist]
+
+[h4]Technical Details[/h4]
+
+[list]
+
+[*]The maximum length of the [b]sv_downloadurl[/b] is 127 characters. [/*]
+[*]A username and password can be specified for the HTTP server by embedding them in the [b]sv_downloadurl[/b] like so:
+
+[b]http://username:password@www.somewhere.com/[/b] [/*]
+[*]If a connecting player has an existing file of the same name, it will not be overwritten. The download file will be skipped. [/*]
+[*]Certain game-crtical and/or dangerous files cannot be downloaded (ie: *.exe, *.vbs, etc) [/*]
+
+[/list]
+
+[h4]Summary[/h4]
+The command you enter into the server is:
+[code]sv_downloadurl "http://(your URL)/valve/"[/code]
+use quotemarks on either side of the string and include the final "[b]/[/b]".
+
+(valve = hldm, cstrike = counterstrike, etc.)
+
+Then you create folders for gfx/env, maps, overviews, sound, sprites and models and populate them with the respective resource and in the "valve" directory exactly the way you would populate your server normally, including the WAD files.
+
+If the client has ANY of the files already (including the WAD) it will not be overwritten, there is no way to do that, the client must delete the out of date or offending resource themself.
+
+[section style=note]
+
+[h3]Note:[/h3]
+[b]You must make .res files for all the maps[/b] and make sure all resource names listed (and placed at the http) are spelled exactly the same.
+
+If the bsp has all lower-case letters for the entity then the .res file must be all lower-case and the file name itself must be all lower-case.
+[/section]

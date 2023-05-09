@@ -1,0 +1,35 @@
+[h1]Licenses to Run and Broadcast DOTA 2 Events[/h1]
+
+[h1]The International DOTA 2 Tournament[/h1]
+
+[h2]Community Casts for The International DOTA 2 Tournament 2021[/h2]
+
+Valve encourages members of the community to create community broadcasts for The International DOTA 2 Tournament 2021 under the terms of the [url=http://www.dota2.com/dotatv]DOTA 2 Community Stream Policy[/url].
+
+Valve has decided not to publish any Event-Specific Requirements for The International, so only the default rules of the Community Stream Policy apply:
+
+[list]
+
+[*] The content of your Community Stream is based exclusively on DotaTV, artwork provided by Valve for this purpose (located [url=https://www.dropbox.com/sh/scasdch3i1vnrrh/AAALA8Jj-MnMThQKDfBWYmzia?dl=0]here[/url]) and content you have originally created or licensed. In particular, this means that you must not include any material from Valve’s official video feeds.
+
+[*] Your Community Stream must be strictly non-commercial in nature.
+
+[/list]
+
+Make sure you read the [url=http://www.dota2.com/dotatv]DOTA 2 Community Stream Policy[/url] as this goes into more detail.
+
+[h2]Public Viewing Events for The International DOTA 2 Tournament 2021[/h2]
+
+You are welcome to use the official video feeds of The International produced by Valve in public viewing events or pub stomps, provided that all of the following conditions are met:
+
+[olist]
+
+[*] You do not modify the official video feeds, in particular you do not insert third-party content or advertisements.
+
+[*] The events are open to the public, i.e. no entry fee is charged.
+
+[*] You do not misrepresent the relationship between Valve and yourself, in particular you do not present the event as being supported or endorsed by Valve.
+
+[/olist]
+
+This license only covers the official video feeds produced by Valve in the English, Chinese, Russian, Spanish and Portuguese languages. If you want to use community casts or independent third-party video feed productions in your event you need to clear the necessary rights in those with the producers of such content.

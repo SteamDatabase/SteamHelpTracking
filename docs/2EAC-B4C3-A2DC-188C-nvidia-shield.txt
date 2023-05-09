@@ -1,0 +1,23 @@
+[h1]NVIDIA Shield[/h1]
+
+[h3]Games[/h3]
+Portal and Half-Life 2 are now available on the NVIDIA Shield via the Google Play store.
+
+[url=https://play.google.com/store/apps/details?id=com.nvidia.valvesoftware.portal]Portal[/url]
+
+[url=https://play.google.com/store/apps/details?id=com.nvidia.valvesoftware.halflife2]Half-Life 2[/url]
+
+[section style=note]Note:
+
+Your Steam account is separate from your Google Play/NVIDIA Shield account.  Purchases of games made on Google Play using the NVIDIA Shield will not provide you with a copy of the game on Steam.
+[/section]
+
+[h3]NVIDIA Support[/h3]
+NVIDIA Shield account and technical support is provided by NVIDIA, including support for the Shield versions of Portal and Half-Life 2.
+
+[url=https://nvidia.custhelp.com/app/shield/st/5/p/178/page/1]NVIDIA Shield Support Site[/url]
+
+[h3]Google Play Support[/h3]
+For Google Play purchase and account issues, please contact Google Support:
+
+[url=https://support.google.com/googleplay/]Google Play Support[/url]

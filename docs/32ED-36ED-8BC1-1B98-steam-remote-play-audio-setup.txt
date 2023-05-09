@@ -1,0 +1,46 @@
+[h1]Steam Remote Play Audio Setup[/h1]
+
+[list]
+
+[*][url=#supportedformats]Steam Remote Play Audio Support[/url]
+[*][url=#channelconfig]Speaker Configuration[/url]
+[*][url=#what51audio]What 5.1 audio can Steam record?[/url]
+[*][url=#51audiolinux]Is 5.1 audio supported when streaming to a Linux or macOS client?[/url]
+[*][url=#51tv]Requirements for 5.1 audio on TV[/url]
+[*][url=#additionalsupport]Need additional support?[/url]
+[/list]
+[url id=supportedformats][/url]
+
+[h3]Steam Remote Play Audio Support[/h3]
+Steam supports streaming stereo (2 channel) audio from all streaming host operating systems to all streaming clients (including the Steam Link). Steam Clients running on Windows can also stream quadraphonic (4 channel) and 5.1 surround sound (6 channel) audio to all streaming clients.
+
+[url id=channelconfig][/url]
+
+[h3]Speaker Configuration[/h3]
+Steam will try to automatically detect how many speakers are connected to the streaming client's computer or TV. You can view how many speakers Steam detected and choose a different configuration by:
+
+[list]
+
+[*][b]Steam Link[/b]: Before connecting to your host machine, select Settings -> Streaming -> Audio -> Speaker Configuration
+[*][b]Steam Client[/b]: Select Steam menu -> Remote Play -> Advanced Client Options -> Speaker Configuration
+[/list]
+
+[url id=what51audio][/url]
+
+[h3]What 5.1 audio can Steam record?[/h3]
+Steam currently only records 5.1 audio from processes launched through Steam on Windows. Other host system audio will be mixed with audio recorded from the game process as stereo audio.
+
+[url id=51audiolinux][/url]
+
+[h3]Is 5.1 audio supported when streaming to a Linux or macOS client?[/h3]
+Yes, however you will need to go into the Remote Play settings and select your speaker configuration manually.
+
+[url id=51tv][/url]
+
+[h3]Requirements for 5.1 audio on TV[/h3]
+The Steam Client and Steam Link output 6 channel PCM audio when configured for 5.1 surround sound audio. When connected to a TV, the TV or audio receiver need to support 6 channel PCM. Please refer to your device's user manual to check if your device supports this format. It is usually required to use an HDMI cable to connect to your Steam Link, instead of an optical cable, to enable PCM support.
+
+[url id=additionalsupport][/url]
+
+[h3]Need additional support?[/h3]
+The [url=http://steamcommunity.com/groups/homestream/discussions]Steam Remote Play discussion forum[/url] contains many posts by community members that can be useful when debugging specific streaming issues and the forum can be used to ask specific questions about your streaming setup. You can also contact [url=https://help.steampowered.com]Steam Support[/url].

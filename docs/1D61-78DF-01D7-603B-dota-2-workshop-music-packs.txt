@@ -1,0 +1,404 @@
+[h1]Dota 2 Workshop - Music Packs[/h1]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/music/music_pack_web_guide.jpg[/img]
+
+[list]
+
+[*][url=#what]WHAT IS A DOTA 2 MUSIC PACK?[/url] [/*]
+[*][url=#audioquality]AUDIO QUALITY AND DYNAMIC RANGE[/url] [/*]
+[*][url=#elements]MUSIC PACK ELEMENTS[/url] [/*]
+[*][url=#ui]UI MENU TRACKS[/url] [/*]
+[*][url=#pregame]PRE-GAME TRACKS[/url] [/*]
+[*][url=#ingame]IN GAME TRACKS[/url] [/*]
+[*][url=#laning]LANING TRACKS AND LAYERS[/url] [/*]
+[*][url=#battle]BATTLE TRACKS[/url] [/*]
+[*][url=#roshan]ROSHAN TRACKS[/url] [/*]
+[*][url=#smoke]SMOKE TRACKS[/url] [/*]
+[*][url=#gank]GANK STINGERS[/url] [/*]
+[*][url=#killed]KILLED TRACKS[/url] [/*]
+[*][url=#end]END OF MATCH STINGERS[/url] [/*]
+[*][url=#submitting]SUBMITTING YOUR MUSIC PACK[/url]  [/*]
+[*][url=#artwork]MUSIC PACK ARTWORK[/url] [/*]
+[*][url=#failures]WORKSHOP SUBMISSION FAILURES[/url] [/*]
+[*][url=#restrictions]REVENUE SHARE RESTRICTIONS[/url] [/*]
+
+[/list]
+
+[url id=what][/url]
+
+[h2] WHAT IS A DOTA 2 MUSIC PACK?[/h2]
+
+[list]
+
+[*]Dota 2 music packs are optional replacements for all the music in the game, including the main menu and all music heard while in a match. They function in two ways: as new songs to wholly replace existing tracks in menus and in-game, and as a series of layered tracks which are dynamically mixed in order to enhance events occurring during a match. [/*]
+[*]Here is an example music pack from The International 4: [url=http://cdn.dota2.com/apps/dota2/audio/workshop_music_pack/music_pack_ti4.zip]Example Download[/url] [/*]
+
+[/list]
+
+[url id=audioquality][/url]
+
+[hr][/hr]
+
+[h2] [/h2]
+
+[h2]AUDIO QUALITY AND DYNAMIC RANGE[/h2]
+
+[list]
+
+[*]Submit your files via the Music Pack submission tool in stereo, 16 or 24 bit, 48Khz WAV format.  [/*]
+[*]We suggest submitting "unmastered" mixes, or at least using a very light touch with any final mastering plug ins (such as L1) so that we can master your tracks appropriate to their function in the game. Feel free to master any versions you post to YouTube, SoundCloud, etc, for public preview and feedback at levels appropriate for those platforms. [/*]
+
+[/list]
+
+[url id=elements][/url]
+
+[hr][/hr]
+
+[h2] [/h2]
+
+[h2]MUSIC PACK ELEMENTS[/h2]
+
+[list]
+
+[*]There are three discrete sections of the game which each have their own requirements when constructing a music pack: UI Tracks, Pre-Game Tracks and In-Game Tracks. [/*]
+
+[/list]
+
+[url id=ui][/url]
+
+[h2] [/h2]
+
+[h2]UI MENU TRACKS[/h2]
+
+[list]
+
+[*]These are complete tracks that are played in the main menu. During this time, the player is navigating the UI, and is not in a match. [/*]
+
+[/list]
+
+ui_startup ~1:00-2:00
+
+[list]
+
+[*]This track begins playing when the game client is started, and can be stopped by player input. If this track is not stopped, it will play to its end, after which ui_main will play. [/*]
+
+[/list]
+
+ui_main ~2:00
+
+[list]
+
+[*]This track is heard if ui_startup is allowed to play to its end without interruption. ui_main can be stopped by player input. If this track is allowed to play to its end, it will restart after a 10 to 15 second gap of silence. This will continue until the player either joins a match, or closes the game client. [/*]
+
+[/list]
+
+[url id=pregame][/url]
+
+[h2] [/h2]
+
+[h2]PRE-GAME TRACKS[/h2]
+
+[list]
+
+[*]These are complete tracks that play during the Hero Selection phase, and in the Preparation phase of a match (before the horn of battle). [/*]
+
+[/list]
+
+ui_hero_select ~1:00 loop
+
+[list]
+
+[*]This is a looping track that repeats for as long as the player is in the Hero Selection phase of the game. Hero selection duration can last from less than 1 minute, to over 10 minutes. If pick-up beats or intro bars are used, the loop duration can be less than the full file length. This track stops when the hero selection screen closes and the match begins. [/*]
+
+[/list]
+
+countdown ~2:30
+
+[list]
+
+[*]This track plays during the Preparation phase of the game. Players are now preparing their selected heroes for the match, and the countdown to battle has begun. Usually this track will be stopped before it ends when the timer reaches t-minus 10 seconds and the in-game battle horns play (in F#). The duration of this phase is somewhat indeterminate as players can pause the game while the track continues to play. If the game remains paused such that the track reaches its end, it simply stops. [/*]
+
+[/list]
+
+[url id=ingame][/url]
+
+[h2] [/h2]
+
+[h2]IN GAME TRACKS[/h2]
+
+[list]
+
+[*]Throughout a match, music is created by dynamically combining a series of tracks based on the events in the game. [/*]
+
+[/list]
+
+[url id=laning][/url]
+
+[h2]      [/h2]
+
+[h2]      [u]Laning Tracks and Layers[/u][/h2]
+
+[list]
+
+[*] Laning tracks consist of three synchronized musical layers (rendered as separate files, or stems) that play together while the volume of each layer is individually controlled by game events in real time to create a "music intensity" value. They are by far the most-played compositions in a typical match, so we recommend a minimum runtime of 100 seconds per track. [/*]
+[*]In general, layer_01 of each set should be able to function as the basis or backbone of the track since the other layers may be silent at times. When the volume of layer_02 is increased by the intensity value, it should add musical intensity (however you define that for your composition) to layer_01. Similarly, layer_03 should add musical intensity to both layer_01 and layer_02 as its volume is increased. [/*]
+[*]The active Laning track can be stopped at any time by a higher intensity Track in response to action in the game, usually a Battle track or the Killed track. If the Laning track is not stopped it will play to completion, after which there will be a 10 to 20 second pause, then one of the other Laning Tracks will begin. [/*]
+
+[/list]
+
+laning_01_layer_01 >1:40
+
+laning_01_layer_02 "
+
+laning_01_layer_03 "
+
+laning_02_layer_01 >1:40
+
+laning_02_layer_02 "
+
+laning_02_layer_03 "
+
+laning_03_layer_01 >1:40
+
+laning_03_layer_02 "
+
+laning_03_layer_03 "
+
+[url id=battle][/url]
+
+[h2]      [/h2]
+
+[h2]      [u]Battle Tracks[/u][/h2]
+
+[list]
+
+[*]These begin when the game events drive the music intensity value higher than the Laning track values. Like the Laning tracks, Battle tracks are shuffle-selected by the music engine. Any Battle track can interrupt any Laning track. Though it’s rare for a battle to last for more than 30 seconds, Battle tracks should be able to loop in musically pleasing fashion. However, the entire file need not loop if pick-up beats are used at the top of the composition. The music engine can seamlessly loop back to any point in the file. [/*]
+[*]Though Battle tracks need to loop, each track also requires a short end segment or coda lasting one or two bars that will play when the battle is over. This segment can also have a pick up beat if needed as well; the music engine will properly align the downbeat and crossfade the end segment in over the Battle track in a musical fashion. [/*]
+[*]The active Battle track will be stopped by the Killed track if the player’s hero dies. If the hero survives the battle and the intensity of the match returns to Laning levels (for example, when a fight is over), the music engine will queue and play the appropriate battle_XX_end file at the next musical transition point, usually a bar line. You are encouraged to include markers or regions as well as loop points or other standard metadata in your Battle Track wav files to indicate your preferred transition points and to indicate the bpm value of the track. [/*]
+[*]After the battle_XX_end track plays, assuming no more action, a random Laning set will be chosen to play next.  [/*]
+
+[/list]
+
+battle_01 ~0:40
+
+battle_01_end ~0:10
+
+battle_02 ~0:40
+
+battle_02_end ~0:10
+
+battle_03 ~0:40
+
+battle_03_end ~0:10
+
+[url id=roshan][/url]
+
+[h2]      [u]Roshan Tracks[/u][/h2]
+
+[list]
+
+[*] These tracks play while the player is fighting the monster Roshan, a critical moment in any match. [/*]
+
+[/list]
+
+NOTE: The stinger that plays when Roshan is killed is not replaced by Dota 2 Music Packs.
+
+roshan ~0:45
+
+[list]
+
+[*]This track functions similarly to the Battle Tracks, though it plays when the player is fighting the large neutral boss monster Roshan. This track stops playing if the player disengages from the fight, or is killed. [/*]
+
+[/list]
+
+roshan_end ~0:10
+
+[list]
+
+[*]This track plays under certain circumstances when the player stops fighting Roshan. [/*]
+
+[/list]
+
+[url id=smoke][/url]
+
+[h2]      [u]Smoke Tracks[/u][/h2]
+
+[list]
+
+[*]These tracks are played as the player goes through the process of using the in-game item "Smoke of Deceit". [/*]
+
+[/list]
+
+smoke ~0:45
+
+[list]
+
+[*]This track begins playing when both the player and several teammates are affected by the "Smoke of Deceit" in-game item, which allows players to turn invisible. This item is often used with the intent of ambushing an enemy. The track can play until it ends, or be stopped by game events. [/*]
+
+[/list]
+
+smoke_end ~0:10
+
+[list]
+
+[*]This track plays if the duration of "Smoke of Deceit" expires, or if the invisibility ends for some reason other than being uncovered by a hero. [/*]
+
+[/list]
+
+smoke_end_hero ~0:10
+
+[list]
+
+[*]This track plays if an enemy hero uncovers the player’s "Smoke of Deceit" invisibility. The invisibility offered by "Smoke of Deceit" ends if the player moves too close to an enemy hero. [/*]
+
+[/list]
+
+[url id=gank][/url]
+
+[h2]      [u]Gank Stingers[/u][/h2]
+
+[list]
+
+[*]These are short stingers that play when the player’s hero is ambushed by enemies while alone. They will duck any currently active Laning Set. The more enemies present, the "larger" the stinger. [/*]
+
+[/list]
+
+ganked_sml_01 ~0:05 - 0:10
+
+ganked_med_01 ~0:05 - 0:10
+
+ganked_lg_01 ~0:05 - 0:10
+
+[url id=killed][/url]
+
+[h2] [/h2]
+
+[h2]      [u]Killed Tracks[/u][/h2]
+
+[list]
+
+[*]These tracks are played when the player has died and is waiting to be returned to battle. [/*]
+
+[/list]
+
+NOTE: The stinger that plays when a player uses Buyback is not replaced by Dota 2 Music Packs.
+
+killed ~2:00
+
+[list]
+
+[*]This track plays immediately when the player’s hero is killed. The first ten seconds should function as a musical stinger, and then transition into a more ethereal death underscore for the next 1:50. The track will be stopped when the player respawns or chooses to spend gold on Buyback. [/*]
+
+[/list]
+
+respawn ~0:10
+
+[list]
+
+[*]This track ends the killed track, and notifies the player that their dead hero is returning to life to resume the battle. [/*]
+
+[/list]
+
+[url id=end][/url]
+
+[h2]   [/h2]
+
+[h2]      [u]End of Match Stingers[/u][/h2]
+
+[list]
+
+[*]These stingers play when either team’s Ancient is destroyed, ending the match. These stop all other current music. The appropriate stinger is chosen depending on which team the player was on (Radiant or Dire), and whether the player’s team won or lost. [/*]
+
+[/list]
+
+radiant_win ~0:15 - 0:15
+
+radiant_lose ~0:15 - 0:15
+
+dire_win ~0:15 - 0:15
+
+dire_lose ~0:15 - 0:15
+
+[url id=submitting][/url]
+
+[hr][/hr]
+
+[h2] [/h2]
+
+[h2]SUBMITTING YOUR MUSIC PACK[/h2]
+
+[list]
+
+[*] If this is your first time submitting an item to the Dota Workshop, please follow the instructions in [url=https://support.steampowered.com/kb/8860-WOSX-7503/dota-2-account-preparation-for-workshop-item-submission]Account Preparation for Workshop Item Submission[/url]. These instructions will also explain how to install the Dota 2 Workshop Tools. [/*]
+[*]After installation, choose "Launch Dota 2 - Tools" when you start Dota [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/music/choose_launch_dota_tools.jpg?v=1577836800[/img]
+
+[list]
+
+[*]Once the Workshop Tools have loaded, click the "Launch Item Tools" button. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/music/launch_item_tools.jpg?v=1577836800[/img]
+
+[list]
+
+[*]Once the Workshop Manager has loaded, click the "Create New Item" button. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/music/create_new_item.jpg?v=1577836800[/img]
+
+[list]
+
+[*]Select "Music Pack" from the item types and follow the instructions. [/*]
+
+[/list]
+
+[img]http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/music/music_pack_button.jpg?v=1577836800[/img]
+
+[list]
+
+[*]It is recommended that you save your submission session so that if you need to update your submission, you won't need to input all of the track information again. [/*]
+
+[/list]
+
+[url id=artwork][/url]
+
+[h2]MUSIC PACK ARTWORK[/h2]
+
+[list]
+
+[*]If you have not already done so, you will need to prepare a marketing image that we will overlay onto a background to create a store banner and armory icons for the music pack. This artwork needs to be a 600x600 72dpi png image on a transparent background. This needs to be original artwork or an image you have permission to use for this purpose. You will be required to submit this artwork when you submit your music files. [/*]
+[*]If you are not able to create an image you could ask a workshop artist to create your music pack image. If you have a workshop artist create your art and want to give them a share of the revenue, you will need to include this revenue share in your music pack submission. See the [url=#restrictions]Revenue Share Restrictions[/url] section below for more information. [/*]
+
+[/list]
+
+[url id=failures][/url]
+
+[h2]WORKSHOP SUBMISSION FAILURES[/h2]
+If you get an 'Item Not Found' or 'Invalid Zip File' error when trying to submit an item or can't find your submission when you search for it, try these steps:
+
+[list]
+
+[*]You need to make sure you are not using a limited account to make a submission. To combat fraud, we require that Steam accounts need to have purchased at least $5 USD on the Steam store before they have certain privileges, including being able to submit items to the Workshop. You can find out more on the [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited User Accounts FAQ[/url]. [/*]
+[*]If you are trying to view a submission that you have marked hidden, be sure that you are trying to view it through the same account you used to submit it. [/*]
+[*]You will get an "Invalid Zip File" error if you try to add additional files to your workshop submission beyond those supported through the workshop tool.  [/*]
+
+[/list]
+
+[url id=restrictions][/url]
+
+[h2]REVENUE SHARE RESTRICTIONS[/h2]
+
+[list]
+
+[*]Please be aware that revenue shares cannot be changed once an item is submitted. If you have to change revenue shares on an item Valve has not yet shipped, you will need to do a new item submission and inform Valve of the new workshop URL so the correct workshop ID and revenue shares will be used for the item. [/*]
+[*]Revenue shares and the related accounts cannot be changed on an item after it ships. For more information about workshop payments, see the [url=http://steamcommunity.com/workshop/workshoppaymentinfofaq]Workshop Payment FAQ[/url]. [/*]
+
+[/list]
+
+[url=http://www.dota2.com/workshop/]Dota Workshop Items Submission Guidelines Homepage[/url]

@@ -1,0 +1,31 @@
+[h1]Changing the radar and map displays in Counter-Strike: Source[/h1]
+
+How can I change the radar display in Counter-Strike: Source?
+
+[section style=note]
+
+[h3]Note:[/h3]
+The options below will require you to use the Developer's Console in the game - if you are not familiar with the Developer's Console you should read the article linked below to get started:
+
+[url=https://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]Console[/url]
+[/section]
+
+[h4]Turn off radar in Counter-Strike: Source[/h4]
+If you would like to disable the radar, please enter the following command into the developer's console: [i]cl_radar_alpha 0[/i]
+
+[h4]Radar display settings[/h4]
+
+[list]
+
+[*][i]cl_radar_locked #[/i] (where [i]#[/i] is [i]0[/i] or [i]1[/i]) - locks the angle of the radar screen (off or on) [/*]
+[*][i]cl_radaralpha #[/i] (where [i]#[/i] is [i]0[/i] to [i]255[/i]) - sets transparency of radar display (transparent to opaque) [/*]
+[*][i]drawradar[/i] - shows the location text under your radar screen [/*]
+[*][i]hideradar[/i] - hides the location text under your radar screen [/*]
+[*][i]overview_alpha #[/i] (where [i]#[/i] is [i]0[/i], [i]0.5[/i], or [i]1[/i]) - adjusts overview map translucency (transparent, semi-transparent, opaque) [/*]
+[*][i]overview_health #[/i] (where [i]#[/i] is [i]0[/i] or [i]1[/i]) - shows player’s health in map overview (off or on) [/*]
+[*][i]overview_locked #[/i] (where [i]#[/i] is [i]0[/i] or [i]1[/i]) - locks map angles so the map does not follow your point of view angle (off or on) [/*]
+[*][i]overview_names #[/i] (where [i]#[/i] is [i]0[/i] or [i]1[/i]) - shows player’s name in map overview (off or on) [/*]
+[*][i]overview_preferred_mode #[/i] (where [i]#[/i] is [i]0[/i], [i]1[/i], or [i]2[/i]) - determines preferred overview mode while in spectator mode (off, mini-map, full map) [/*]
+[*][i]overview_tracks #[/i] (where [i]#[/i] is [i]0[/i] or [i]1[/i]) - shows player’s tracks in map overview (off or on) [/*]
+
+[/list]

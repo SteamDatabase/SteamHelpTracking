@@ -1,0 +1,78 @@
+[h1]Scam: Rank Boosting Services[/h1]
+
+[section style=warning][b]All rank boosting account sales or services carry risk and should be considered scams.[/b]
+[/section]
+
+[h1]General scam avoidance[/h1]
+While some scammers may target Steam users or reference Steam, Steam games, or Valve as part of their scam, it's important to know that these types of online scams are not unique to Steam. Maintaining healthy skepticism in online interactions is important for preventing scams regardless of the platform.
+
+[h1]What is a rank boosting scam?[/h1]
+
+[h5]A store offers rank boosted accounts sale[/h5]
+
+You can never know the origin of an account you purchase, how the account was ranked up, and the seller can always recover their account at a later time. You risk losing all time, effort, and value you add to a purchased account at any time.
+
+[h5]A service offers to access your account and rank it up for you[/h5]
+
+Providing someone else with access to your account carries immense risk for your account in the form of locks and bans for any violations of the  [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] by the scammer, or any use of cheats to help them improve the account's rank.
+
+[h1]Account sales scams[/h1]
+
+[h5]Using a bought account has risks[/h5]
+
+[list]
+
+[*]You risk losing all time, effort, and value you add to a purchased account with no option for recovery. The account will be locked when identified as purchase, or recovered by its owner.
+
+[*]There's no way you can know the origin of an account that's listed for sale. While it may technically belong to the seller, it's more likely the account is stolen or the content it contains was obtained fraudulently.
+
+[*]Steam's rules related to account use are for your protection. Using an account you personally created carries no risk, while using a purchased account is very risky.
+
+[/list]
+
+[h5]Steam's rules protect you[/h5]
+
+[list]
+
+[*]The [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] states Steam accounts are for the use of their owner only. An account's owner is defined as its creator.
+
+[*]Steam Support will take action against an account seller who reclaimed an account sold to you if reported, but you will not receive compensation or be able to recover any value from the account.
+
+[*]By buying accounts from others, you're directly supporting the prohibited and risk laden activity of account buying and selling, and encouraging account thieves to steal and sell accounts.
+
+[/list]
+
+[h1]Boosting services using your account[/h1]
+
+[h5]Sharing your account has risks[/h5]
+
+[list]
+
+[*]Allowing someone else to access your account is a violation of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] and will cause your account to be locked by Steam Support.
+
+[*]You have no way of knowing what software someone else is running on their computer. When sharing your account, you're risking having the account banned for use with cheats.
+
+[*]Someone you share your account with may hijack and sell the account or cheat with it. Bans your account incurs as the result of sharing will not be removed.
+
+[/list]
+
+[h1]Preventing the scam[/h1]
+
+[h5]Play the game yourself[/h5]
+
+The best way to avoid the risks related to boosting services is to use your own account and earn your own rank. Using your own account to play games avoids all of the risk that you'd see when buying an account or paying a service to improve your rank.
+
+[h1]Reporting Scammers[/h1]
+
+[h5]Reporting an account you believe has been sold or is listed for sale[/h5]
+
+You can [url=https://help.steampowered.com/faqs/view/4D07-D139-587C-2080]Report[/url] any Steam accounts that you know has been sold or is posted for sale or trade. Steam Support will review the report and take appropriate action against the account or seller.
+
+[h1]Recovering your account[/h1]
+
+[h5]You can always recover your account through Steam Support[/h5]
+
+If you've fallen for this scam, you can recover your Steam account at any time using the [url=https://help.steampowered.com/en/]Steam Support Help Site[/url]. Click [url=https://help.steampowered.com/wizard/HelpWithLogin]Help, I can't sign in[/url] to start the recovery process.
+
+[section style=note]Some scammers may state that you can't recover your account because they already changed all of its information. This is part of the scam, and is false. You should ignore any statements or advice the scammer offers.
+[/section]

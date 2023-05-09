@@ -1,0 +1,152 @@
+[h1]Using Launch Settings for Video and Display Problems[/h1]
+
+I'm having video and display problems in a Valve/Source game, how do I change my video and display settings during launch?
+
+[section style=important]
+
+[h5]Check Drivers are recently Updated[/h5]
+
+If you have not recently changed your video settings and you are experiencing video and display problems, please ensure your video drivers and DirectX are updated before proceeding:
+
+[url=https://support.steampowered.com/kb_article.php?ref=6416-EYDH-0477]Updating Drivers[/url]
+
+If that does not resolve the issue you can try using the launch options below to try and troubleshoot the issue.
+
+[b]Note:[/b] The following processes are suggested only for Valve games. These options will have no effect when launching other Steam games.
+[/section]
+
+[list]
+
+[*][url=#autoconfig]How do I set the autoconfig launch option?[/url] [/*]
+[*][url=#safe]How do I set the safe mode launch option?[/url]
+[*][url=#force]How do I force a working DirectX level and video mode?[/url] [/*]
+
+[/list]
+
+[section id=#autoconfig][h1]How do I set the autoconfig launch option?[/h1]
+[/section]
+
+The [i]-autoconfig[/i] launch option will allow Steam to configure a Valve/Source game with the best settings for use on your machine.
+
+[olist]
+
+[*]Open Steam [/*]
+[*]Go to the "Library" [/*]
+[*]Right-click the game which needs to be reconfigured [/*]
+[*]Select "Properties..." from the menu [/*]
+[*]Go to the section "Launch Options" [/*]
+[*]Remove any launch options currently shown in the input box [/*]
+[*]Type [i]-autoconfig [/i]in the box [/*]
+
+[/olist]
+
+[section id=#safe][h1]How do I set the safe mode launch option?[/h1]
+[/section]
+
+The [i]-safe[/i] launch option will cause the game to launch with minimal video settings, in windowed mode and with a 640 x 480 resolution. This can be helpful for solving video configuration problems.
+
+[olist]
+
+[*]Open Steam [/*]
+[*]Go to the "Library" [/*]
+[*]Right-click the game which needs to be reconfigured [/*]
+[*]Select "Properties..." from the menu [/*]
+[*]Go to the section "Launch Options" [/*]
+[*]Remove any launch options currently shown in the input box [/*]
+[*]Type [i]-safe [/i]in the box. [/*]
+
+[/olist]
+
+[section id=#force][h1]How do I force a working DirectX level and video mode?[/h1]
+[/section]
+
+If the Valve/Source game fails to load with the default settings, you will need to test for a working DirectX level and video mode.
+
+[h4]Force a DirectX level[/h4]
+This process may help with some older video cards - some users report the game will run faster, as well:
+
+[olist]
+
+[*]Open Steam [/*]
+[*]Go to the "Library" [/*]
+[*]Right-click the game which needs to be reconfigured [/*]
+[*]Select "Properties..." from the menu [/*]
+[*]Go to the section "Launch Options" [/*]
+[*]Remove any launch options currently shown in the input box [/*]
+[*]Type one of the DirectX level launch options specified below in the box  [/*]
+
+[/olist]
+[b]DirectX Level Launch Options[/b]
+
+[list]
+
+[*][i]-dxlevel 90 [/i](DirectX v9.0) [/*]
+[*][i]-dxlevel 81 [/i](DirectX v8.1) [/*]
+[*][i]-dxlevel 80 [/i](DirectX v8.0) [/*]
+
+[/list]
+
+[h4]Force a Video Mode[/h4]
+Follow these instructions to configure your video mode and resolution before launching a game:
+
+[section style=important]
+
+[h3]Important:[/h3]
+If you are forcing a refresh rate on your system (this is not recommended), you will need to ensure that you specify the forced refresh rate in the launch options.
+[/section]
+
+[olist]
+
+[*]Open Steam [/*]
+[*]Go to the "Library" [/*]
+[*]Right-click the game which needs to be reconfigured [/*]
+[*]Select "Properties..." from the menu [/*]
+[*]Go to the section "Launch Options" [/*]
+[*]Remove any launch options currently shown in the input box [/*]
+[*]Specify the appropriate Video Mode and Video Option switches from the lists below [/*]
+
+[/olist]
+
+[b]Supported Video Modes[/b]
+
+[list]
+
+[*][i]-gl [/i]use the OpenGL engine [b]GoldSource Only [/b] [/*]
+[*][i]-16bpp[/i] or [i]-32bpp[/i] - Forces the selected color mode (bit depth). [b]GoldSource only[/b] [/*]
+[*][i]-soft [/i]use the Software engine [/*]
+[*][i]-width # [/i](where " [i]# [/i]" is the width in pixels of desired video mode) sets the video mode width [/*]
+[*][i]-w # [/i](see the [url=#videores]Supported Video Resolutions[/url] list below) [/*]
+[*][i]-fullscreen [/i]or [i]-full [/i]use Full Screen mode (default) [/*]
+[*][i]-startwindowed [/i]/ [i]-sw [/i]/ [i]-windowed [/i]/ [i]-window [/i]/ [i]-win [/i]use the Window display mode (game appears as a window on the desktop) [/*]
+
+[/list]
+
+[section id=#videores][b]Supported Video Resolutions[/b]
+[/section]
+
+Use the [i]-w # [/i]switch (where " [i]# [/i]" is a number from the list below) to specify the display resolution:
+
+[list]
+
+[*][i]640 [/i](640x480) [b]GoldSource Only [/b] [/*]
+[*][i]720 [/i](720x576) [/*]
+[*][i]800 [/i](800x600) [/*]
+[*][i]1024 [/i](1024x768) [/*]
+[*][i]1152 [/i](1152x864) [/*]
+[*][i]1280 [/i](1280x1024) [/*]
+[*][i]1600 [/i](1600x1200) [/*]
+[*][i]1768 [/i] (1768 x 992)
+[*][i]1920[/i] (1920 x 1080)
+[*][i]2560[/i] (2560 x 1440)
+[/list]
+
+[section style=note][b]Notes on Display Resolution Settings[/b]
+
+[list]
+
+[*]Higher resolutions will affect the Frames Per Second which your machine can display.
+
+[*]640x480 resolution may run slower than 800x600 resolution on newer video cards.
+[/list]
+
+[/section]

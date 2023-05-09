@@ -1,0 +1,566 @@
+[h1]HLTV[/h1]
+
+[list]
+
+[*][url=#overview]Overview[/url] [/*]
+[*][url=#spectate]Spectating Games[/url] [/*]
+[*][url=#basics]HLTV Basics[/url] [/*]
+[*][url=#broadcast]Broadcasting Games[/url] [/*]
+[*][url=#record]Recording HLTV demos[/url] [/*]
+[*][url=#large]Larger Broadcasts[/url] [/*]
+[*][url=#config]HLTV Configuration[/url] [/*]
+
+[/list]
+
+[section style=important]
+
+[h5]Steam Broadcasting for all Steam games[/h5]
+For information on Steam's built in game broadcasting/spectating feature for all games on Steam, see the [url=https://support.steampowered.com/kb_article.php?ref=6730-toak-6497]Steam Broadcasting[/url] page.
+[/section]
+
+[url id=overview][/url]
+
+[h4]Overview[/h4]
+Half-Life TV offers the ability to have an unlimited number of spectators watching online games. They can follow the game just like they would as a spectator on the game server. Spectators are invisible to players and can't interact with the running game in any way. Each spectator can choose any view position or choose any player to track individually.
+
+To have the most enjoyable spectating experience, spectators can enable the Auto-Director mode. Then the camera is changed automatically so that only interesting scenes are shown from a suitable viewpoint. Thus the spectator can lean back and won't miss any relevant action. All the time, spectators may communicate between each other using the standard HL chat system.
+
+Most popular Half-Life mods are supported. HLTV providers have full control over their HLTV system, may change number of spectator slots, add text messages or change the HLTV logo.
+
+The broadcast is delayed by a customizable amount of time, by default 30 seconds. This ensures that the playing teams can't use HLTV to get any usable information about their opponents. Providing a single HLTV server for up to 100 spectators is an easy task and doesn't need any changes in default configurations.
+
+Installing a larger HLTV network for thousands of spectators needs some more planning time and experience about required bandwidth and CPU/RAM demands [url=#large](see Larger Broadcasts)[/url].
+
+[section style=note]For information on broadcasting and spectating of Source games see [url=https://developer.valvesoftware.com/wiki/SourceTV]developer Wiki on SourceTV[/url].
+[/section]
+
+[url id=spectate][/url]
+
+[h4]Spectate[/h4]
+To watch a HLTV game, start Half-Life, select 'Find Servers' from the main menu. To search for currently broadcasted games, choose the 'Spectate' section and hit 'Refresh All'. After the list has been updated, double click on the server you want to spectate and you'll be connected.
+
+If computer game leagues announce important matches to be broadcasted via HLTV, they often provide IP:Port addresses of their HLTV servers. Instead of searching them via the server browser, you can also go to the 'Favorites' folder and add the HLTV address to your server list by pressing the right mouse button. Otherwise, you can also open the console window and use the 'connect' command to spectate a certain game.
+
+For example:
+
+connect 192.168.130.42:27020
+
+The default HLTV port number is 27020, but may be changed. It should always be included in the given address, since commonly this port number is different from the default port number 27015.
+
+You can spectate the game in different modes: Chase Cam, First Person, Free Look, Map Overview and Map Chase. The easiest way to change modes is to press the JUMP key (default SPACE). Alternatively you can use the spectator menu, which can be enabled by pressing the DUCK key (default CTRL). Here you can customize your personal view style and enable the Auto-Director Mode. Press USE (default E) to cycle through the different Picture-In-Picture modes.
+
+The following HL console commands can be used to customize spectator settings:
+
+[list]
+
+[*][i]spec_autodirector (0|1) [/i]- turns Auto Director mode on or off [/*]
+[*][i]spec_drawcone (0|1) [/i]- shows your view cone in map overview mode [/*]
+[*][i]spec_drawnames (0|1) [/i]- shows player names under their icons [/*]
+[*][i]spec_drawstatus (0|1) [/i]- shows game information (time, map etc) [/*]
+[*][i]spec_pip (0|1) [/i]- turns Picture-In-Picture mode on or off [/*]
+[*][i]spec_menu [/i]- opens the spectator menu [/*]
+[*][i]spec_help [/i]- shows a help screen [/*]
+[*][i]spec_mode (1-6) [(0-4)] [/i]- set the main view mode, seconds parameter is the PIP mode. Not all combinations are valid. [/*]
+
+[/list]
+
+Main modes are:
+
+[list]
+
+[*][b]1[/b] : Locked Chase [/*]
+[*][b]2 [/b]: Free Chase [/*]
+[*][b]3[/b] : Free Roaming [/*]
+[*][b]4[/b] : First Person [/*]
+[*][b]5[/b] : Map Overview [/*]
+[*][b]6[/b] : Chase Map Overview [/*]
+
+[/list]
+
+PIP modes are:
+
+[list]
+
+[*][b]0[/b] : PIP off [/*]
+[*][b]1[/b] : Free Chase [/*]
+[*][b]2[/b] : First Person [/*]
+[*][b]3[/b] : Map Overview [/*]
+[*][b]4[/b] : Chase Map Overview [/*]
+
+[/list]
+[url id=basics][/url]
+
+[h4]Basics[/h4]
+The core of the HLTV broadcasting system is the HLTV server, also called HLTV proxy. The HLTV executable is a console application that works much like a HL dedicated server. To broadcast a game running on a certain game server, the HLTV proxy connects to this server just like a normal player.
+
+Spectators connect themselves to the HLTV proxy and the game data stream is relayed through the HLTV proxy to all connected spectator clients. The next figure shows a basic HLTV configuration:
+
+HL Game Server -> HLTV Proxy => Spectator Clients
+
+The number of clients that one HLTV proxy can serve depends on available hardware and network resources. Theoretically, a single proxy can hold a maximum of 255 spectator clients. But be careful, even a proxy with 100 spectator clients needs a full 2 MBit line to run smoothly. If more spectator slots are needed, the required network load must be distributed over multiple HLTV proxies.
+
+The first HLTV proxy connected to the game server is called the Master proxy, which sets the general broadcast settings like game stream delay or packet rate. All other HLTV proxies linked to this proxy are the Relay proxies. Their total number and link order is not restricted, they may form a chain or tree of proxies. Most important is that their location is in different networks to ensure a balanced bandwidth usage.
+
+-> HLTV Relay Proxy 1 => Spectator Clients
+
+HL Game Server -> HLTV Master -> HLTV Relay Proxy 2 => Spectator Clients
+
+-> HLTV Relay Proxy 3 => Spectator Clients
+[url id=broadcast][/url]
+
+[h4]Broadcasting Games[/h4]
+Let's assume the most simple configuration, a single HLTV proxy in a LAN environment. This is a very common situation and the default HLTV settings doesn't need to be changed. Choose a dedicated computer as your HLTV proxy and install the Half-Life Dedicated Server, which also includes all files needed by a HLTV proxy. This isn't needed if Half-Life is already installed.
+
+Start the HLTV application (HL icon with a small camera) and the HLTV console will open, showing some initialization messages (if that takes a long time, HLTV maybe can't resolve some IP addresses, then start HLTV with the '-nodns' command line option). Then the console is ready to accept your commands, here we use '>' as the console prompt. First give your HLTV proxy an unique name:
+
+> [i]name "My HLTV Proxy" [/i]
+
+Let's assume you have started the proxy on host [b]192.168.1.2[/b] and the game server you want to spectate is running on host [b]192.168.1.3:27015[/b]. Then connect the HLTV proxy to this game server by typing:
+
+> [i]connect 192.168.1.3:27015 [/i]
+
+After a few seconds HLTV will be fully connected and ready to serve spectator clients. Use the ' [b]status[/b] ' command to verify that the HLTV proxy has connected properly :
+
+[expand style=details]
+> [i]status [/i]
+
+--- HLTV Status ---
+
+Online 00:23, FPS 79.0, Version 2435 (Win32)
+
+Local IP 192.168.1.2:27020, Network In 1.7, Out 1.0, Loss 0.00
+
+Local Slots 128, Spectators 0, Proxies 0
+
+Total Slots 128, Spectators 0, Proxies 1
+
+Source Game Server 192.168.1.3:27015, Delay 30
+
+Server Name "Half-Life dedicated server"
+
+Time 01:35, Game "valve", Map "maps/rapidcore.bsp", Players 1
+
+The [b]'status'[/b] command shows your own IP address, HLTV system cycles per second, total incoming and outgoing network traffic in kB/sec. Local slot and spectator numbers your HLTV proxy is providing, total numbers are the sum of all slots & spectators on all proxies broadcasting this game. The game source can be a game server, another HLTV proxy or a demo file.
+[/expand]
+
+[url id=record][/url]
+
+[h4]Recording HLTV demos[/h4]
+HLTV demo files are like normal recorded games in Half-Life, but you can choose any view point, view mode or player to chase during replay. To play back a HLTV demo, a HLTV proxy is not needed. Just start Half-Life and type in console [i]playdemo <demoname> [/i]or [i]viewdemo <demoname> [/i](viewdemo offers more options during playback like fast forward/backward, pause & slowmotion). To record a HLTV demo, connect the proxy to a game server (see [url=#broadcast]Broadcasting Games[/url] ) and type in console:
+
+[i]record (name) [/i]
+
+All games will be recorded after issuing this command. The demo files will be saved in the current Mod directory, e.g. [b]\cstrike[/b]. All demo files have a special naming convention [b]<name>-<YYMMDDhhmm>-<map>.dem,[/b] including the given name, date/time and map name. Demo files record the same data as sent to spectator clients. That means also, the demo file records the game with the same delay as used for spectators. To verify, that a demo file is recorded use the [i]status [/i]command. The recording may be stopped with [i]stoprecording [/i].
+
+Sometimes a HLTV broadcast is not wanted and the HLTV proxy is only used to record a demo file. In this case, some HLTV settings should be made to gain optimal recording results:
+
+[expand style=details]
+[i]maxclients 0 [/i]// don't allow any spectator clients
+
+[i]delay 0 [/i]// no game stream delay
+
+[i]rate 10000 [/i]// maximum data rate
+
+[i]updaterate 20 [/i]// standard update rate
+
+[i]nomaster 1 [/i]// don't register at master servers
+[/expand]
+
+[url id=large][/url]
+
+[h4]Large[/h4]
+Setting up a HLTV network that can handle a larger number of spectators (>1000) is a difficult and time consuming task. The following guide should help to configure and run such a HLTV network. One of the most important rule should be [b]Quality, not Quantity[/b]. It's better to offer a smaller number of spectator slots, than operating at the maximum bandwidth limit, thus all spectators would suffer from lags and timeouts. Check carefully your available bandwidth capacity and calculate how many spectators can be handled by your HLTV servers. The average bandwidth demand per spectator is between 2 and 3 KB/sec and depends on the current mod, map and number of players. CPU and RAM shouldn't be a bottleneck on modern PC systems.
+
+This list for common Internet connection types gives a feeling, how bandwidth-demanding HLTV can be:
+
+[list]
+
+[*][b]ISDN 64 Kbps[/b] : 2 spectators [/*]
+[*][b]DSL 128 Kbps[/b] (upstream) : 5 spectators [/*]
+[*][b]T1 1.5 Mbps[/b] : 75 spectators [/*]
+[*][b]LAN 10 Mbps[/b] : 500 spectators [/*]
+[*][b]T3 75 Mbps[/b] : 4000 spectators [/*]
+
+[/list]
+
+Use the [i]maxclients [/i]command to set how many clients should be accepted by a HLTV proxy. Make sure that the [i]maxrate [/i]variable is set too a reasonable value, e.g. 3500 kilobits/sec. Lower values are possible, but make sure spectators don't get too much choke during a running game. Choke occurs when the server, factoring in your rate setting, determines that it can't send you an update yet because doing so would start to flood your connection.
+
+The [b]maxrate[/b] command doesn't effect the bandwidth limit between HLTV proxies, only for spectator clients. To lower the general bandwidth demand, you can turn off the internal HLTV chat ( [i]chatmode 0 [/i]) or decrease the game update rate from the default value 20 to 10 ( [i]updaterate 10 [/i]). A lower update rate may save up to 25% network traffic and is an acceptable tradeoff in this case since spectators don't need a high update rate like real players do.
+
+A very common setup for large broadcasts is to use 2 dedicated HLTV servers to create a private and a public HLTV segment. Let's assume the game server is in a closed LAN and not accessible from outside. This ensures a maximum security against attacks (DOS etc) from outside. The HLTV master server is started within the LAN and its IP address should be kept secret. The second HLTV server is started outside the LAN with a global IP and is connected to the HLTV master server. This second HLTV server is the public HLTV dispatcher, which IP address is given to the audience. Any relay proxies are connected to this HLTV dispatcher. Thus the HLTV master server is in a secure LAN environment and can be used for demo recording or for HL clients serving video projectors. Spectators connect to the HLTV dispatcher and are relayed through the HLTV network to a relay proxy with a low usage. Thus the total network load is balanced between all connected HLTV proxies.
+
+[b]+---- Private LAN -----+ +------ Public Internet --------+
+
+-> HLTV Proxy 1
+
+HL Server -> HLTV Master -> HLTV Dispatcher -> HLTV Proxy 2 -> HLTV Proxy 3[/b]
+
+The configuration files of HLTV master and HLTV dispatcher are different:
+
+[h5]master.cfg:[/h5]
+[i]nomaster 1 [/i]// don't register at WON/STEAM master servers
+
+[i]proxypassword MyPWD [/i]// protect HLTV server
+
+[i]publicgame 0 [/i]// don't show game server IP
+
+[i]dispatchmode 0 [/i]// don't dispatch spectators
+
+[h5]dispatcher.cfg:[/h5]
+[i]forcemaster 1 [/i]// register at WON/STEAM master servers
+
+[i]publicgame 0 [/i]// don't show game server IP
+
+[i]dispatchmode 2 [/i]// dispatch all clients to other proxies
+
+[i]hostname MyGame [/i]// public HLTV server name
+
+If you're running 3 or more HLTV servers in total, it's a good idea to use RCON to manage them via a single server admin tool. To enable RCON on a HLTV server an [b]adminpassword[/b] must been set. Also [b]proxypassword[/b] should be set to ensure only known HLTV providers can connect to your HLTV network. Otherwise anybody can connect with slow HLTV proxies and disturb your network load balancing.
+[url id=config][/url]
+
+[h4]HLTV Configuration[/h4]
+A short note about console command syntax:
+
+[list]
+
+[*]A command description follows the following notation:
+[code]command (parameter) [(parameter)] - description[/code]
+[*]A command may have one or more parameters. Parameters in brackets [] are optional.
+
+[/list]
+
+[b]Commonly used parameters are:[/b]
+
+[expand style=details]
+[b](string)[/b] : text, must be in quotation marks if text contains spaces "My Name"
+
+[b](n)[/b] : a whole number, e.g. 42
+
+[b](f)[/b] : a floating point number, e.g. 4.2
+
+[b](IP:Port)[/b] : an IP address, e.g. 192.168.130.42:27020
+
+[b](a|b|c)|[/b] : a set of options, a or b or c
+
+[b]connect (IP:Port)[/b] - connect HLTV proxy to game server (default port 27015)
+
+[b]disconnect[/b] - disconnects proxy from server, but doesn't stop the
+
+broadcast. All spectator clients stay connected.
+
+[b]stop [(text)][/b] - disconnects from server, disconnects all clients and stops demo recording. Optional goodbye message.
+
+[b]quit[/b] - quits the HLTV process
+
+[b]retry[/b] - retries the last server connection
+
+[b]autoretry (0|1)|[/b] - if enabled, proxy will retry connection to server if connection was interrupted for any reason
+
+[b]name (text)[/b] - sets the HLTV proxy scoreboard name
+
+[b]hostname (text)[/b] - sets the HLTV host name for game browser list
+
+[b]serverpassword (text)[/b] - sets the game server password
+
+[b]adminpassword (text)[/b] - sets password for RCON & commentator
+
+[b]proxypassword (text)[/b] - sets password for other relay proxies
+
+[b]spectatorpassword (text)[/b] - sets spectator password. Will also exclude proxy from global load balancing
+
+[b]clients[/b] - lists connected spectator clients
+
+[b]proxies[/b] - lists connected relay proxies
+
+[b]players[/b] - lists players on game server
+
+[b]kick (ID)[/b] - kicks a spectator client from proxy
+
+[b]ban (IP)[/b] - bans an IP address (completely ignored)
+
+[b]clearbans[/b] - removes all IPs from ban list
+
+[b]say (text)[/b] - sends a text message to game server (chat with players)
+
+[b]msg (text) [(duration) (pos x) (pos y) (color hex rgba)][/b] - sends a text message to all spectators as big HUD text
+
+[b]localmsg (text) [(duration) (pos x) (pos y) (color hex rgba)][/b] - same as msg, but only seen by local clients
+
+[b]servercmd (string)[/b] - forwards console command to game server
+
+[b]clientcmd (group) (string)[/b] - forwards a console command to all clients of given group: 1=spectators, 2=proxies, 3=all
+
+[b]loopcmd (id) (n) (string)[/b] - loopcmd will execute (string) every (n) seconds.
+
+[b](id)[/b] is a number between 1 and 64 to identify this loopcmd.
+
+[i]loopcmd (id) none [/i]- will disable a looping command again.
+
+[i]loopcmd [/i]- without any parameter will list any command currently in the list.
+
+[i]signoncommands (string) [/i]- Console commands that will be executed by local spectator clients after connection is established.
+
+Commands may be separated by semicolons.
+
+[i]maxclients (n) [/i]- set spectator number limit for this proxy (default 128)
+
+[i]delay (n) [/i]- delays the game stream for n seconds on the Master Proxy.
+
+The default value is 30 seconds to avoid cheating.
+
+[b]NOTE:[/b] If the delay is set to a value below 10 seconds (e.g. 0), the auto director function will be disabled.
+
+[i]rate (n) [/i]- bandwidth rate the game server sends data to the proxy.
+
+[i]updaterate (n) [/i]- game updates per seconds sent from server to proxy.
+
+[i]maxrate (n) [/i]- sets the maximum bandwidth rate for spectator clients
+
+[i]maxloss (f) [/i]- Sets the acceptable packet loss rate, default value is 0.05 (5%).
+
+If packet loss is higher, new spectator clients will be rejected.
+
+[i]maxqueries (n) [/i]- maximum of status queries per second requested by server browsers
+
+[i]dispatchmode (0|1|2) [/i]- Dispatch mode 1 (AUTO) will redirect connecting clients to other proxies balancing work load between all proxies. In dispatch mode 2 (ALWAYS) any spectator clients will be redirected so this proxy serves only as dispatcher. Dispatch mode 0 (OFF) won't redirect any clients.
+
+[i]publicgame (0|1) [/i]- if public is 1, game server IP will be visible to spectators and 'joingame' is allowed.
+
+[i]offlinetext (string) [/i]- info text clients will see as reject reason if HLTV isn't broadcasting yet
+
+[i]chatmode (0|1|2) [/i]- if chatmode is 0, spectators can't chat. If set to 1, only spectators connected to the same proxy can see their chat messages. In chatmode 2 all spectators can chat amongst each other. (then Master and all Relay proxies must have set chatmode 2).
+
+[i]bannerfile (file) [/i]- specifies a TGA file (RGBA) that will be shown as logo in spectator GUI.
+
+[i]ping (host:port) [/i]- pings a HL server on the given port (default 27015)
+
+[i]nomaster (0|1) [/i]- if enabled, proxy won't register at WON/STEAM master servers
+
+[i]forcemaster (0|1) [/i]- if enabled, proxy will register at WON/STEAM master server
+
+[i]heartbeat [/i]- sends manually a status packet to WON/STEAM master servers
+
+[i]region (n) [/i]- set the region your HLTV proxy is located in.
+
+[i]rcon (string) [/i]- sends a remote control command to other servers
+
+[i]rconaddress (IP:Port) [/i]- sets the remote control target address
+
+[i]rconpassword (string) [/i]- sets the password for the remote controlled host
+
+[i]cheeringthreshold (f) [/i]- number of cheering players must be above this threshold to play the cheering sound (by default 0.25).
+
+[i]blockvoice (0|1) [/i]- if set, all incoming voice data is blocked. This is useful to override incoming voice commentators or player voice with own commentators voice.
+
+[i]cmdlist [/i]- shows all registered proxy commands
+
+[i]logfile (0|1) [/i]- starts/stops console logging in "logfile<date>.log"
+
+[i]status [/i]- shows proxy status information
+
+[i]modules [/i]- shows all loaded HLTV modules and versions
+
+[i]exec (filename) [/i]- executes a .cfg file
+
+[i]echo (string) [/i]- prints a text to HLTV console
+
+[i]developer (0|1) [/i]- additional debug messages are shown in developer mode
+
+[i]record (filename) [/i]- records all following games to demo files using name syntax "filename-<date>-<map>.dem"
+
+[i]stoprecording [/i]- stops recording a demo file
+
+[i]playdemo (filename) [/i]- starts broadcasting a demo file.
+
+The console does auto-completion by hitting 'TAB'.
+
+All commands in the config file [b]hltv.cfg[/b] are executed during startup.
+
+Some parameters can only be set in the command line:
+
+[i]-port (n) [/i]- sets the HLTV proxy port that spectators connect to (default 27020)
+
+[i]-ip (IP) [/i]- forces the proxy to use this IP on a multihomed host
+
+[i]-comm (filename) [/i]- sets a master server info file other than woncomm.lst
+
+[i]-nodns [/i]- disables any DNS resolving (useful for LAN proxies)
+
+[i]-maxfps (n) [/i]- sets maximum system cycles per seconds (default 100)
+
+[i]-highpriority [/i]- starts the HLTV proxy as high priority process
+
+[i]-steam [/i]- proxy enables special Steam support
+
+[i]-dev [/i]- developer mode
+
+[/expand]
+
+These parameters cannot be changed during runtime, thus they can't be used in config files.
+
+All console commands can be used in the command line, if a " [b]+[/b] " is pre-pended to them,
+
+For example:
+
+[b]hltv.exe +connect localhost:27015 -port 27021[/b]
+
+A Half-Life server can set sv_proxies <n>, to determine how many proxies are allowed to connect. If HLTV proxies should be forbidden, set it to 0, otherwise 1 to allow for a Master Proxy. Other values are experimental.
+
+[b]Typical output from modules command:[/b]
+
+[expand style=details]
+modules
+
+Module nulldirector, Interface GenericModule, Version 2681
+
+Module proxy001, Interface proxy001, Version 2681
+
+Module demo, Interface democlient000, Version 2681
+
+Module world001, Interface world001, Version 2741
+
+Module server001, Interface server001, Version 2741
+
+Module master, Interface master000, Version 2681
+
+Module status, Interface status000, Version 2681
+
+Module network001, Interface network001, Version 2741
+
+--- 8 modules in total ---
+[/expand]
+
+[b]Latest version of Registered console commands:[/b]
+
+[expand style=details]
+cmdlist
+
+help
+
+logfile
+
+modules
+
+exec
+
+developer
+
+showcon
+
+quit
+
+exit
+
+echo
+
+loadmodule
+
+unloadmodule
+
+ping
+
+clients
+
+kick
+
+chatmode
+
+say
+
+msg
+
+maxrate
+
+rcon
+
+rconaddress
+
+rconpassword
+
+adminpassword
+
+proxypassword
+
+spectatorpassword
+
+signoncommands
+
+offlinetext
+
+publicgame
+
+dispatchmode
+
+cheeringthreshold
+
+localmsg
+
+loopcmd
+
+connect
+
+disconnect
+
+playdemo
+
+delay
+
+stop
+
+record
+
+stoprecording
+
+servercmd
+
+clientcmd
+
+blockvoice
+
+name
+
+rate
+
+updaterate
+
+addresource
+
+resources
+
+bannerfile
+
+ban
+
+retry
+
+autoretry
+
+serverpassword
+
+status
+
+hostname
+
+maxqueries
+
+maxclients
+
+players
+
+clearbans
+
+maxloss
+
+region
+
+fakeloss
+
+proxies
+
+heartbeat
+
+nomaster
+
+forcemaster
+
+[/expand]

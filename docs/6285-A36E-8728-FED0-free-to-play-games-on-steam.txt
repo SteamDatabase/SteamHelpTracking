@@ -1,0 +1,56 @@
+[h1]Free to play games on Steam[/h1]
+
+[list]
+
+[*][url=#f2p]What is a free to play game?[/url] [/*]
+[*][url=#payment]Will I need a credit card to play?[/url] [/*]
+[*][url=#wallet]Will I need to fund my Steam Wallet?[/url] [/*]
+[*][url=#limitations]Will my Free to Play account have limitations or restrictions?[/url] [/*]
+[*][url=#orly]Will I still be able to play and enjoy my game without buying items from the store?[/url] [/*]
+[*][url=#techsupport]What happens if I need technical support help but I only have a Free to Play account?[/url] [/*]
+[*][url=#games]What games on Steam are Free to Play?[/url] [/*]
+
+[/list]
+
+[h3]What is a free to play game?[/h3]
+
+[section id=f2p]Free to play games are available to download for free and can be played without a subscription or a credit card. Your Steam wallet allows you to purchase items and content in-game to customize your gameplay if supported by the specific game.
+[/section]
+
+[h3]Will I need a credit card to play?[/h3]
+
+[section id=payment]No, free to play games are free to download and play.
+
+[h3]Will I need to fund my Steam Wallet?[/h3]
+
+[section id=wallet]If you wish to purchase in-game items or content, you will need to fund your Steam Wallet. Please see the [url=https://support.steampowered.com/kb_article.php?ref=1122-RTSC-0478]Steam Wallet[/url] FAQ for more information.
+[/section]
+
+[h3]Will my free to play account have limitations or restrictions?[/h3]
+
+[section id=limitations]Any Steam Account that does not own a purchased game or have a funded Steam Wallet is considered a "Limited User." We have chosen to limit access to some community features as a means of protecting our customers from those who abuse Steam merely for purposes such as spamming and phishing. For more information, [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]click here[/url].
+
+Individual free to play games may choose to place limitations on accounts. Please see the respective games Steam Store page for more information.
+[/section]
+
+[h3]Will I still be able to play and enjoy my game without buying items from the store?[/h3]
+
+[section id=orly]You are absolutely under no obligation to purchase anything from the Steam Store in order to play and progress through these games.
+[/section]
+
+[h3]What happens if I need technical support help but I only have a free to play account?[/h3]
+
+[section id=techsupport]Technical support for in-game issues is provided by the respective game's Support department. To contact Steam Support, [url=https://help.steampowered.com/]Click Here[/url] to locate your issue and create a support ticket.
+[/section]
+
+[h3]What games on Steam are free to play?[/h3]
+
+[section id=games]You can find a complete list of free to play games on the Steam Store here:
+
+[list]
+
+[*][url=http://store.steampowered.com/genre/Free%20to%20Play/]Steam Store: Free to Play Games[/url] [/*]
+
+[/list]
+
+[/section]

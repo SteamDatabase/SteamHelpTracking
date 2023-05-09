@@ -1,0 +1,15 @@
+[h1]Unable to log in to Steam using a web browser[/h1]
+
+[h1]Disable Extensions that may interfere with the login process[/h1]Try disabling any browser extensions or add-ons you have installed. These may interfere with the login process.
+
+For information on how to remove extensions or add-ons with common browsers please visit the following links:
+
+[url=https://support.google.com/chrome_webstore/answer/2664769?hl=en]Google Chrome[/url]
+
+[url=https://support.microsoft.com/en-us/microsoft-edge/add-turn-off-or-remove-extensions-in-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026]Microsoft Edge[/url]
+
+[url=http://support.mozilla.org/en-US/kb/disable-or-remove-add-ons]Mozilla Firefox[/url]
+
+[h1]Attempt to log in with a different, unmodified web browser[/h1]If you are unable to log into your Steam account with your current web browser, please try using a different browser. You may want to perform a clean install of that web browser, in case any older extensions or addons may still be interfering.
+
+If you are unable to login, please contact [url=https://help.steampowered.com/]Steam Support[/url].

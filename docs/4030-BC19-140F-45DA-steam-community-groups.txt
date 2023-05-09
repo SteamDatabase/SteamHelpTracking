@@ -1,0 +1,95 @@
+[h1]Steam Community Groups[/h1]
+
+Community groups are user-created hubs where members can share interests, coordinate gaming activities and host discussions in group-specific forums.
+
+Tools are also available to group owners and admins, making it possible to control membership, curate content, and manage the privileges available to other members.
+
+[section style=important]
+
+[h5]Limited accounts[/h5]
+Some group features are not available on limited accounts. More details can be found in the [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited Account FAQ[/url].
+[/section]
+
+[h1]Group Creation & Management[/h1]Once you've decided to create a group, you can begin the process [url=http://steamcommunity.com/actions/GroupCreate]here[/url].
+
+Any non-Limited account can own up to 10 groups.
+
+[h3]Changing Group Names[/h3]
+Make sure to decide on a unique name and abbreviation. Group names cannot be changed once the group has been created.
+
+[h3]Deleting Groups[/h3]
+When all members have left a group, the group will automatically be deleted by the system. Groups cannot be manually deleted.
+
+[h3]Transferring Ownership[/h3]
+When the current owner leaves the group, the oldest Officer (by join date) will be promoted to owner. If no eligible Officers are available, the oldest Moderator will inherit ownership. If there are no Moderators in the group, the oldest group member will be promoted to owner. The ownership of a group cannot be manually transferred.
+
+[h1]Group Membership[/h1]There are three types of Steam community groups, each with different membership rules.
+
+[list]
+
+[*][b]Public group[/b] – Users can join on their own or via an invite from a friend. [/*]
+[*][b]Restricted group[/b] – Users can join by requesting membership. They can also receive an invite from a user that has permission to add members. [/*]
+[*][b]Closed group[/b] – This is the most restricted group. Users can only join via invites. Users cannot request to join these groups. [/*]
+
+[/list]
+
+[h3]How to change these settings?[/h3]
+
+[list]
+
+[*]Login to your Steam account.
+[*]Hover over your Profile name next to Community and select [i]GROUPS[/i] from the drop down.
+
+[*]Click the [i]Visit admin page[/i] link next to the group you wish to edit.
+
+[*]Select the [i]Edit group permissions[/i] tab and click the circle next to the desired Group Type to change it.
+[/list]
+
+[h3]Inviting Members[/h3]
+You can invite friends to your group directly from their Steam community profile. There is an invite option within the [i]...[/i] dropdown button near the top-right.
+[img]{STEAM_CLAN_IMAGE}/1976/99a46af87580aa00b2a356775c3ebb27c55213cc.png[/img]
+
+In order to reduce spam, group invites are limited to friends of the invitee.
+
+[h3]Requesting Access[/h3]
+Users requesting access to restricted groups will be added to the group's pending request list.
+
+To manage pending group requests, group owners (or officers/moderators if given permission) can find the [i]Manage Group Requests[/i] page from their [i]Admin Tools[/i] section on the right-hand side of the group page.
+
+If someone has been denied entry into a group, the only way for them to join in the future is to receive an invite from a member who has invite permissions.
+
+[h3]Promoting Members[/h3]
+There are four levels of membership within each group: Owner, Officer, Moderator and Member.
+
+Each member type has its own unique privileges that can be changed by the group's owner:
+
+[list]
+
+[*]Login to your Steam Community Profile and navigate to your group homepage. [/*]
+[*]From the [i]Admin Tools[/i] window at the right, select [i]Manage Group Members.[/i] [/*]
+[*]Clicking the star next to users will cycle between the various membership levels. [/*]
+
+[/list]
+
+[h3]Kicking Members[/h3]
+Members can be kicked from groups. This will prevent those users from accessing the group in the future without a direct invite from another group member.
+
+[list]
+
+[*]Select the [i]Manage Members[/i] tab and click the [b]X[/b] next to the user you wish to remove from your group. [/*]
+
+[/list]
+
+[h1]Group Permissions[/h1]Each group has permissions that can be customized for each type of member. You'll want to make sure that you check this page at least once, so that you understand what features are available to your members, officers and moderators.
+
+[h3]How to change these settings?[/h3]
+
+[list]
+
+[*]Login to your Steam account. [/*]
+[*]Hover over your Profile name next to Community and select [i]GROUPS[/i] from the drop down.
+[*]Click the [i]Visit admin page[/i] link next to the group you wish to edit.
+
+[*]Select the [i]Edit group permissions[/i] tab and choose which permissions you wish to grant to the members of your group.  [/*]
+
+[/list]

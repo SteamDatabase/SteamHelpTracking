@@ -1,0 +1,83 @@
+[h1]How to manage the use of cookies[/h1]
+
+Steam uses cookies, some of which are technically required for the website to work (e.g. a cookie that stores what you have added to your shopping cart). Others are not required but help us identify how you use Steam or improve your user experience.
+
+You can find a list of the cookies we use as well as controls for approving or denying them [url=http://store.steampowered.com/account/cookiepreferences]here[/url].
+
+As an alternative, it is possible to control the access of cookies through your browser’s settings. Please be aware that doing so may cause cookies to fail that are necessary for Steam to work. Furthermore, please note that the information below may vary depending on the browser version.
+
+[h4]How to manage the use of cookies in [b]Microsoft Edge[/b][/h4]
+
+[olist]
+
+[*]Click the "..." button in the top-right, or press Alt + F;
+
+[*]Go to 'Settings';
+
+[*]Click on 'Cookies and site permissions' from the left navigation pane;
+
+[*]Here you will find a number of settings allowing you control over how your browser handles site cookies.
+
+[/olist]
+
+[h4]How to manage the use of cookies in [b]Internet Explorer 11[/b][/h4]
+
+[olist]
+
+[*]In the tools menu, select 'Internet options';
+
+[*]Click the privacy tab;
+
+[*]Click 'Advanced';
+
+[*]Here you will see various settings around how cookies are handled. You can always accept them, block them, or have them prompt a message before accepting or blocking them.
+
+[/olist]
+
+[h4]How to manage the use of cookies in previous [b]Internet Explorer[/b] versions[/h4]
+
+[olist]
+
+[*]In the tools menu, select 'Internet options';
+
+[*]Click the privacy tab;
+
+[*]You will see a privacy settings slider which has six settings that allow you to control the number of cookies that will be placed: Block All Cookies, High, Medium High, Medium (default level), Low, and Accept All Cookies.
+
+[/olist]
+
+[h4]How to manage the use of cookies in [b]Google Chrome[/b][/h4]
+
+[olist]
+
+[*]Navigate to the Chrome Settings page: chrome://settings/
+
+[*]Click on 'Privacy and security', then click on 'Cookies and other site data';
+
+[*]Here you will find a number of settings allowing you control over how your browser handles site cookies.
+
+[/olist]
+
+[h4]How to manage the use of cookies in [b]Mozilla Firefox[/b][/h4]
+
+[olist]
+
+[*]Click the menu button and choose 'Settings'. (macOS users, go to the Firefox menu & select preferences);
+
+[*]Select the Privacy & Security panel
+
+[*]Here you will see various settings around how cookies are handled. You can always accept them, block them, or have them prompt a message before accepting or blocking them.
+
+[/olist]
+
+[h4]How to manage the use of cookies in [b]Safari[/b][/h4]
+
+[olist]
+
+[*]In the settings menu/Safari menu, select the 'Preferences' option;
+
+[*]Open the privacy tab;
+
+[*]Select the option you want related to cookie management on the page.
+
+[/olist]

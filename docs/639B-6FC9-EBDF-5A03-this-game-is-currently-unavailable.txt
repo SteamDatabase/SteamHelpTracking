@@ -1,0 +1,84 @@
+[h1]This game is currently unavailable[/h1]
+
+I see the error "[b]This game is currently unavailable"[/b] when launching a game through Steam.  What can I do?
+
+[h1]Windows Troubleshooting Steps[/h1]
+After each step, please re-test the issue:
+
+[olist]
+
+[*] Exit and restart Steam
+
+[*] [url=https://support.steampowered.com/kb_article.php?ref=6416-EYDH-0477]Update All Drivers[/url]
+
+[*] Exit Steam and delete everything under the Steam installation directory except [b]steam.exe[/b] and the [b]steamapps[/b] folder - this will force Steam to update when you log in
+
+[*] Complete the [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify Integrity of Game Files[/url] process to repair your game cache files.
+
+[*]This error may be caused by having certain Steam files set to Read Only.  To resolve this:
+
+[list]
+
+[*] Exit Steam.
+
+[*] Navigate to the directory where you have installed Steam.
+
+[*] Right-click on the Steam folder and select [b]Properties[/b].
+
+[*] Click the [b]General[/b] tab.
+
+[*] Check the [b]Read-Only[/b] checkbox and press [b]Apply[/b].
+
+[*] Uncheck the [b]Read-Only[/b] checkbox and press [b]Apply[/b].
+
+[/list]
+
+[*] If this issue is only happening on a third party non-Valve game, please try launching the game's .exe directly from its installation folder: [b]C:\Program Files (x86)\Steam\SteamApps\Common\<Game Title>[/b].  You may also try other .exe's such as Launcher.exe in the game folder to see if a different error message is found.
+
+[*] If the issue persists, it may be caused by a network configuration issue.  Please complete the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] guide to further assess the problem.
+
+[/olist]
+
+[h1]Data Execution Prevention[/h1]
+
+[olist]
+
+[*]Go to [b]Start > Control Panel > System > Advanced system settings > Settings in the Performance section > Data Execution Prevention tab[/b].
+
+[*]Select "[i]Turn on DEP for all programs and services except those I select:[/i]".
+
+[*]Select "[i]Add[/i]", navigate to C:\Program Files (x86)\Steam (or your default Steam directory), and add steam.exe to the exception list.
+
+[*]Additionally, you will want to add any .exe's for the game you are seeing issues with.  These files will be in [b]Steam\steamapps\common\<Game Title>[/b].
+
+[/olist]
+
+[exclude_realm=china]
+[h1]macOS Troubleshooting Steps[/h1]
+After each step, please re-test the issue.
+
+[olist]
+
+[*]Exit Steam.
+
+[*]Make sure your Mac is [url=https://support.steampowered.com/kb_article.php?ref=1244-WEJN-0804]fully updated[/url].
+
+[*]Delete everything except steamapps under the Steam installation directory, [b]~/Users/[username]/Library/Application Support/Steam[/b], this will force Steam to update when you log in.
+
+[*]Complete the [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify Integrity of Game Files[/url] process to repair your game cache files.
+
+[*]If the issue persists, it may be caused by a network configuration issue.  Please complete the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] guide to further assess the problem.
+
+[/olist]
+
+[/exclude_realm]
+
+[h1]Secondary Installers[/h1]
+Many Steam games include installers for features and services required by the game. These include installers for DirectX, PhysX, Games for Windows Live, C++ components, or Windows updates required by the game.
+
+Steam is designed to run these installers when the game is first launched. If an installer is canceled by a user or prevented from running by another application on your system, the game may not launch correctly.  If this occurs, these installers will need to be launched manually.
+
+These installers are found in the game's installation folder, or a subfolder, found in the following location by default: [b]C:\Program Files (x86)\Steam\steamapps\common\<Game Title>\[/b].
+
+[section style=note]Note: Your installation path may differ from the above location.
+[/section]

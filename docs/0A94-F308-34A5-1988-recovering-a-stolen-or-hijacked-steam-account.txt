@@ -1,0 +1,36 @@
+[h1]Recovering a Stolen or Hijacked Steam Account[/h1]
+
+[section style=important]
+
+[h3]Try to self-recover your account or contact Steam Support:[/h3]
+You can use [url=https://help.steampowered.com/wizard/HelpWithLogin]the Help site to try to self-recover your account[/url] or contact Steam Support if you are unable to.
+
+If you are unable to complete the self recovery process, Steam Support will verify the account is yours and recover it for you.
+
+When contacting Steam Support try to provide as much of the following as possible:
+
+[olist]
+
+[*][url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]Providing Proof of Account Ownership[/url] [/*]
+[*]Any possible Steam Account login names [/*]
+[*]Any possible email addresses used on the account [/*]
+
+[/olist]
+
+[/section]
+
+[h2]I'm concerned I may not be able to recover my account[/h2]
+
+You can [b]always[/b] contact Steam Support for account recovery even if someone has changed the account's email address, password, and phone number.
+
+If you're getting stuck in the recovery process, make sure you're entering the information Steam requests at each step. For example, when searching for an account, Steam's account recovery system asks for [b]your[/b] email address, not the account's current email address. Entering your email address as instructed for the search will help Steam identify your account, or present other options for locating an account if the email address has been changed.
+
+[h2]Providing Proof of Ownership[/h2]
+
+Please see the [url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]Providing Proof of Ownership[/url] article for a list of the information you can provide to help Steam Support recover your account.
+
+[h2]How can I safeguard my account?[/h2]
+For information on how to safeguard an account, please read our [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] and our [url=https://steamcommunity.com/actions/ReportSuspiciousLogin]Account Phishing[/url] articles.
+
+[h2]What about my items?[/h2]
+Please see the [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url] article for more information.

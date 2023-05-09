@@ -1,0 +1,19 @@
+[h1]Missing CD Key[/h1]
+
+[h1]Game purchased through Steam[/h1]
+
+[h4]Valve games[/h4]
+Valve games purchased online through Steam do not include or require a CD key.
+
+[h4]Third party games[/h4]
+CD keys are issued with many third party games.  In many cases, Steam will display your CD key when you first launch your game.  If your game launches and asks for a CD key you do not have, please try the following:
+
+[olist]
+
+[*]Right-click on the game in the [b]Library[/b] tab and select [b]Manage[/b] then [b]CD keys[/b]. This option is not available for all Steam games and a CD key is not required for all games. [/*]
+[*][b]Verify integrity of game files[/b].  Follow the directions in the [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify Integrity of Game Files[/url] article.  [/*]
+
+[/olist]
+If you are still seeing the issue or have a different issue with the key, please see the [url=https://support.steampowered.com/kb_article.php?ref=2263-RIFC-1898]Steam-Issued Activation Keys[/url] page for more information.
+
+[h1]Game purchased through a retail store[/h1]If your game did not come with a CD key where there should be one printed, you will need to contact the retail store you purchased from to discuss a refund or exchange.

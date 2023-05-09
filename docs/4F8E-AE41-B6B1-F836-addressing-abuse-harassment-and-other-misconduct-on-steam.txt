@@ -1,0 +1,131 @@
+[h1]Addressing abuse, harassment and other misconduct on Steam[/h1]
+
+Several options are available to address abusive or inappropriate behaviors encountered while using Steam. There are also practices to keep in mind that can help you avoid these types of behaviors altogether.
+
+If you are ever experiencing abuse outside of Steam, or if you ever feel that your safety is being threatened, we strongly encourage contacting local emergency or law enforcement services in your area.
+
+[h2]What Options Are Available?[/h2]
+
+There are different ways to address problematic behavior from other players. You'll want to use the options that make the most sense for your situation. We are always interested in hearing about your experience, so if an option is missing, let us know.
+
+[list]
+
+[*]
+
+[h3]Reporting Content[/h3]
+
+If another player is hosting content that is being used in an abusive or inappropriate manner, we encourage players to utilize our reporting system. Reports are reviewed and typically resolved within 24 hours of submission. You will receive a notification if action is taken.
+
+[url=https://support.steampowered.com/kb_article.php?ref=1476-HJCM-5616]Reporting content within the Steam Community[/url]
+
+[*]
+
+[h3]Remove Friend[/h3]
+
+If you are Steam friends with the other player, you always have the option of ending that relationship. Unfriending will remove the ability for the other player to contact you via Steam, It will also prevent them from viewing any content that you have set to private, or friends only.
+
+To unfriend someone, navigate to their profile and select the [i]unfriend[/i] option under the [i]...[/i] button's dropdown. Alternatively, you can use the dropdown next to their profile name in your friends list, selecting the [i]manage[/i] option.
+
+[*]
+
+[h3]Block All Communication[/h3]
+
+Blocking another player on Steam will prevent them from interacting with you in the following ways:
+
+[list]
+
+[*]Sending you friend or group invites
+
+[*]Sending messages to you through Steam chat
+
+[*]Commenting on your profile or community items that you've created
+
+[/list]
+
+To block another player, navigate to their profile and select the [i]block all communication[/i] option under the [i]...[/i] dropdown. Alternatively, you can block players from your friends list, or from your pending invites list.
+
+[*]
+
+[h3]Enable Chat Filtering[/h3]
+
+Steam Chat Filtering allows you to control the type of content that can be seen in Steam and in-game chats. You can also customize the filtration in a number of ways.
+
+To learn more about this feature and opt-in, visit your [url=https://store.steampowered.com/account/preferences/#CommunityContentPreferences]account preferences[/url] page.
+
+[*]
+
+[h3]Adjusting Privacy Options[/h3]
+
+You can adjust privacy options to manage who can view specific components of your profile, who can comment on it, as well as who can view your inventory.
+
+[url=https://steamcommunity.com/my/edit/settings]View Your Privacy Options[/url]
+
+[*]
+
+[h3]Invisible Mode[/h3]
+
+You can set your Steam status to Invisible, which will cause you to appear offline to other users. You’ll still be able to view your friends list, send and receive messages and otherwise participate in the community. However, other players won't know you are online. You can set this status from your Steam Friends list next to your profile avatar.
+
+[*]
+
+[h3]Claiming Copyright Infringement[/h3]
+
+Anyone who believes that their work has been reproduced in one of our internet sites or services in a way that constitutes copyright infringement may notify Valve's copyright agent using the form below.
+
+[url=https://steamcommunity.com/dmca/create/]Notice of Copyright Infringement[/url]
+
+[*]
+
+[h3]In-game Resources[/h3]
+
+Many games feature in-game reporting systems designed to mitigate player abuse within that game's community. Players are encouraged to utilize these systems and submit information via in-game reports.
+
+[*]
+
+[h3]Contact Your Local Authorities[/h3]
+
+You can use all of these features to manage negative behavior within the community, but if you ever feel that you are in danger, we strongly encourage you to contact law enforcement in your area.
+
+[/list]
+
+[h2]Best Practices[/h2]
+
+We always recommend that players engage in responsible behavior while using Steam. Doing so will decrease the likelihood of your account being the target of malicious activities.
+
+[list]
+
+[*]
+
+[h3]Keep Your Personal Info Safe[/h3]
+
+Malicious activity often relies on access to your personal information. Never post personally identifiable information on Steam, even in private chats or other areas that you might think are safe. Someone else can always decide to make this content public.
+
+You should also review your Steam [url=https://steamcommunity.com/my/edit/settings]privacy options[/url] and be aware of what components of your profile are public.
+
+[*]
+
+[h3]Protect Your Account[/h3]
+
+Account security is something that you can control. Take advantage of Steam's security features and never let anyone access or borrow your account, regardless of the reason.
+
+You can find more information and resources in our dedicated [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] article.
+
+[*]
+
+[h3]Engage In Responsible Steam Behavior[/h3]
+
+Make sure that you are following the Steam [url=https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810]Rules & Guidelines[/url] and that you are not engaging in activities that violate the Steam subscriber agreement. Activities like this will potentially expose your account to other bad actors, making it a target of malicious activity.
+
+[*]
+
+[h3]Unfriending and Leaving Groups[/h3]
+
+Don't participate in groups or befriend users that are involved in harassment, scamming, or other malicious activities. Associating with players or groups that are involved in inappropriate activity will increase the likelihood that you become a target.
+
+[*]
+
+[h3]Don’t Engage The Other Party[/h3]
+
+Whether it's scamming, harassment, spamming or any other malicious activity, do not engage the party that is responsible. A reaction typically results in even more dedication to the activity by the other party. We recommend ignoring the behavior and utilizing the appropriate resources outlined in this FAQ.
+
+[/list]

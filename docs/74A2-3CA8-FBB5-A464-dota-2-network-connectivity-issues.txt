@@ -1,0 +1,13 @@
+[h1]Dota 2 - Network/Connectivity Issues[/h1]
+
+I am unable to connect to the Dota 2 network, experiencing network lag in-game, or losing my connection to the Dota 2 servers while playing. What can I do?
+
+[h3]Dota 2 server downtime[/h3]
+Periodically, the Dota 2 servers may need to be brought down temporarily for maintenance or updates. You do not need to report downtime during such outages.
+
+[h3]Troubleshooting connectivity[/h3]
+If you are getting disconnected from Dota 2 across multiple games or with any regularity, this points to an issue with your connection to the Dota 2 or Steam network.
+
+We suggest that you [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshoot your Network's connectivity with Steam[/url], and remove any [url=https://support.steampowered.com/kb_article.php?ref=9828-SFLZ-9289]Programs that may interfere with Steam from your computer[/url].
+
+If other players in your region are experiencing this issue, ensure that you report it to the [url=http://dev.dota2.com]Dota 2 Development Forums[/url].

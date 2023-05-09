@@ -1,0 +1,54 @@
+[h1]Scam: Join a Tournament[/h1]
+
+[section style=warning][b]Even if originating from a trusted friend's account, any incentivized request that you join a team to take part in a tournament is likely part of a scam.[/b]
+
+This type of scam typically relies on malware in the form of fake voice chat or other communication / coordination software. Installing this malware gives the attacker access to your computer, keystrokes, and the ability to hijack files from Steam and other accounts that make your accounts easier to compromise.
+
+[/section]
+
+[h1]General scam avoidance[/h1]
+While some scammers may target Steam users or reference Steam, Steam games, or Valve as part of their scam, it's important to know that these types of online scams are not unique to Steam. Maintaining healthy skepticism in online interactions is important for preventing scams regardless of the platform.
+
+[h1]Identifying the Scam[/h1]
+This scam primarily propagates through online chat systems such as Steam Chat or Discord, but may also involve Steam Comments or comments/IMs in external forums.
+
+[list]
+
+[*]A friend or unknown person contacts you through Steam, Discord or any other community to ask if you'd consider joining their team for a tournament.
+
+[*]Typically the potential victim's skill is complemented as part of the opening scam message.
+
+[*]Many messages related to this scam offer a minimum compensation payment for participating in the tournament.
+
+[*]Messages related to this scam usually also include an excuse as to why the team needs to rush your recruitment into the tournament, such as a team member being ill.
+
+[*]If you engage with the account sending this scam message, you will be directed to sign in to a phishing site or required to install a "special version" of voice chat or other utility software that is in fact malware.
+
+[/list]
+
+[h1]Preventing the Scam[/h1]
+
+[h5]Protecting your account[/h5]
+
+You don't need knowledge of this specific scam style to protect yourself from it. If you remain generally skeptical in online interactions, especially if they seem to good to be true, contain pressure, include odd requests, or link to files hosted by unknown sites, it should be simple to identify and avoid this scam.
+
+The key component of this scam however is usually malware - never follow unrecognized links to unknown pages or software downloads even if the link came from a trusted friend. If you do think you need to download software, navigate directly to the software developer's page to do so.
+
+[h1]Reporting Scammers[/h1]
+
+[h5]Reporting Steam accounts used to scam[/h5]
+
+[url=https://help.steampowered.com/faqs/view/4D07-D139-587C-2080]Report[/url] any Steam accounts involved in the scam. If a friend's account is involved their account is likely stolen. Your report will help Steam identify and lock down the stolen account until its owner recovers it.
+
+[h5]Reporting any external chat, voice, or email accounts involved in the scam[/h5]
+
+If the scammer spoke to you using any non-Steam accounts, you can use that application's own reporting tools to help them identify the scammer accounts and prevent their misuse.
+
+[h1]Recovering your account[/h1]
+
+[h5]You can always recover your account through Steam Support[/h5]
+
+If you've fallen for this scam, you can recover your Steam account at any time using the [url=https://help.steampowered.com/en/]Steam Support Help Site[/url]. Click [url=https://help.steampowered.com/wizard/HelpWithLogin]Help, I can't sign in[/url] to start the recovery process.
+
+[section style=note]Some scammers may state that you can't recover your account because they already changed all of its information. This is part of the scam, and is false. You should ignore any statements or advice the scammer offers.
+[/section]

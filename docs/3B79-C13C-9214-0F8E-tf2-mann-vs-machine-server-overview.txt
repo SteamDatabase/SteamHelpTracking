@@ -1,0 +1,50 @@
+[h1]TF2 Mann vs Machine Server Overview[/h1]
+
+How do I setup a Mann vs Machine server?
+
+[h4]MvM General Server Requirements:[/h4]
+
+[list]
+
+[*]Your server hardware must be able to run at least a single 32 slot TF2 server. [/*]
+[*]Your server must be set to 32 players. Include "[b]+maxplayers 32[/b]" in the server command line. [/*]
+[*]You cannot have any non-mvm maps in the MvM mission cycle file found in [i]tf/tf_mvm_missioncycle.res [/i] [/*]
+[*]You must start your server on any MvM map. Include "[b]+map mvm_decoy[/b]" for example in your command line or "[b]map mvm_decoy[/b]" in your autoexec.cfg. [/*]
+
+[/list]
+
+[h4]MvM Matchmaking Server Requirements:[/h4]
+To include your MvM server in the TF2 matchmaking system which will send players who choose Boot Camp in the Co-Op screen to your server you must do the following:
+
+[list]
+
+[*]Set [b]tf_mm_servermode 1[/b]
+
+[olist]
+
+[*]A value of 0 will opt your server out of all matchmaking (Default). [/*]
+[*]A value of 1 (or higher) will opt your server into matchmaking. The lobby system will control the current map on the server.  Currently, community servers can only participate in MvM matchmaking. [/*]
+
+[/olist]
+[/*]
+[*]Clear or remove any [b]sv_password[/b] value that you may have set. You server cannot be passworded. [/*]
+
+[/list]
+
+[h3]What does [b]tf_mm_strict[/b] do and how do I set it?[/h3]
+[b]tf_mm_strict[/b] can be used to limit the visibility of your server and who can join it and can be set anytime. Setting this convar to 1 requires [b]tf_mm_servermode [/b]be set.
+
+[list]
+
+[*][b]tf_mm_strict "#" [/b]
+
+[olist]
+
+[*]A value of 0 will disable this feature and allow your server to accept both quickplay beta, matchmaking and server browser traffic (Default) [/*]
+[*]A value of 1 will hide your server from the server browser and only allow players to connect from the matchmaking system. Note: If a player has favorited your server, it will still appear in their favorites however they will not be able to connect. [/*]
+[*]A value of 2 will hide your server from the server browser and only accept direct connections to the server from a user's favorites, friends game or connect command. [/*]
+
+[/olist]
+[/*]
+
+[/list]

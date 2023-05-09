@@ -1,0 +1,282 @@
+[h1]Steam Trading[/h1]
+
+[list]
+
+[h4]Trading Basics[/h4]
+
+[*][url=#howtotrade]How do I trade?[/url] [/*]
+[*][url=#whattrade]What can I trade?[/url] [/*]
+[*][url=#viewinventory]How do I see my inventory on the Steam Community?[/url] [/*]
+[*][url=#seeitems]Who can see my items?[/url] [/*]
+
+[h4]Trading Gifts (games)[/h4]
+
+[*][url=#tradegifts]What do you mean by trading Steam Gifts? Can I trade Steam Games?[/url] [/*]
+[*][url=#usedgames]Does Steam Trading mean I can sell my used games?[/url] [/*]
+[*][url=#addtitle]How do I add a game to my library after receiving it in a trade?[/url] [/*]
+[*][url=#fraud]What if a game I received in a trade is fraudulently purchased?[/url] [/*]
+
+[h4]Scams and Trade Bans[/h4]
+
+[*][url=#lostitems]I think I just lost items in a trade! What do I do?[/url] [/*]
+[*][url=#scamshijacks]What's the difference between a scam and a hijack?[/url] [/*]
+[*][url=#whatscammers]What happens to scammers?[/url] [/*]
+[*][url=#avoidscammers]What are the best ways to avoid getting scammed?[/url] [/*]
+[*][url=#tradestoavoid]What trades should I avoid?[/url] [/*]
+[*][url=#whattodoscammed]What do I do if I was scammed?[/url] [/*]
+[*][url=#whynotrestore]Why will Steam not return items that were scammed?[/url] [/*]
+[*][url=#tradeban]What is a trade ban?[/url] [/*]
+[*][url=#probation]What is trade probation?[/url] [/*]
+[*][url=#baninfo]Why won’t Steam Support provide information on why they trade banned or locked an account?[/url] [/*]
+
+[h4]Trade and Market Restrictions[/h4]
+
+[*][url=#icanttrade]I can't trade! Why not?[/url] [/*]
+
+[h4]Feedback[/h4]
+
+[*][url=#feedback]I have ideas for other things in Steam that can be traded. How do I give that feedback?[/url] [/*]
+
+[/list]
+
+For more information on trading, refer to the [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url] and the [url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454]Recommended Trading Practices[/url] article.
+
+[h3]
+
+[section id=howtotrade]How do I trade?
+[/section]
+
+[/h3]
+You can create and send a trade offer from two places: the Trade Offers page within your Inventory or from a friend’s profile.
+
+To send an offer from your Trade Offers page:
+
+[olist]
+
+[*]Open Steam (either the client or via the web) [/*]
+[*]Hover over your persona name at the top [/*]
+[*]Click on Inventory [/*]
+[*]Click on Trade Offers [/*]
+[*]Click on New Trade Offer [/*]
+[*]Select the friend you'd like to make a trade offer to [/*]
+[*]Click and drag the items you wish to trade from both inventories into the trade boxes [/*]
+[*]Check the box to confirm the trade contents [/*]
+[*]Click on Make Offer. [/*]
+
+[/olist]
+
+To send an offer from a friend's profile:
+
+[olist]
+
+[*]Open Steam (either the client or via the web) [/*]
+[*]Hover over your persona name at the top [/*]
+[*]Click on Friends [/*]
+[*]Click on the friend you'd like to send a trade offer to [/*]
+[*]Click on "..." [/*]
+[*]Click on Offer a Trade [/*]
+[*]Click and drag the items you wish to trade from both inventories into the trade boxes [/*]
+[*]Check the box to confirm the trade contents [/*]
+[*]Click on Make Offer. [/*]
+
+[/olist]
+
+You'll then need to confirm the trade offer. If you're using a Mobile Authenticator through the Steam Mobile App on your smartphone to protect your account, you can confirm via the app. Otherwise you'll receive a confirmation request via email.
+
+[h3]
+
+[section id=whattrade]What can I trade?
+[/section]
+
+[/h3]
+Steam items, in-game items and extra copies of games (referred to as Steam Gifts) are tradable. To be sure if an item is tradable, please go to your Inventory and select the item and read the item details. The "Tags" section will indicate if it is tradable or not.
+
+[img]https://support.steampowered.com/images/faq/trading/Tradable.PNG[/img]
+
+[h3]
+
+[section id=viewinventory]How do I see my inventory on the Steam Community?
+[/section]
+
+[/h3]
+After logging in to your account, hover over your profile name in the top-middle of the Steam screen and select Inventory from the drop-down menu. You can also find a link in the right-hand menu of your profile page.
+
+[h3]
+
+[section id=seeitems]Who can see my items?
+[/section]
+
+[/h3]
+You can control who sees your items with Inventory privacy settings. The options are public, friends only, or private. You can adjust these settings through your Inventory or your general Profile settings.
+
+[h3]
+
+[section id=tradegifts]What do you mean by trading Steam Gifts? Can I trade Steam Games?
+[/section]
+
+[/h3]
+Games received as an Extra Copy can be traded to other users. They can be used to trade for other Gifts, or for items in games supporting Steam Trading.  Some older gift purchases on Steam can also be traded.
+
+[h3]
+
+[section id=usedgames]Does Steam Trading mean I can sell my used games?
+[/section]
+
+[/h3]
+No. Only games that have granted as an extra copy, and thus have never been played, can be traded. Once a Steam Gift is opened and added to your game library, you won’t be able to trade it again.
+
+[h3]
+
+[section id=addtitle]How do I add a game to my library after receiving it in a trade?
+[/section]
+
+[/h3]
+Go to the game in your Steam Inventory and click "Add to my Library…" to add it to your library.
+
+[h3]
+
+[section id=fraud]What if a game I received in a trade is fraudulently purchased?
+[/section]
+
+[/h3]
+Please view the [url=https://support.steampowered.com/kb_article.php?ref=5854-QWLN-2621]Revoked Gifts[/url] article for more information.
+
+[h3]
+
+[section id=lostitems]I think I just lost items in a trade! What do I do?
+[/section]
+
+[/h3]
+Steam Support will not return any items or gifts that you feel have been traded unfairly. There are no exceptions to this policy.
+
+To ensure that a scammer is appropriately handled, and to prevent them from benefiting from this scam or others in the future, make sure that you report them through the Steam Community:
+
+[url=https://support.steampowered.com/kb_article.php?ref=1927-RTSV-6909]How to Report a Scammer, Hijacker or Phisher[/url]
+
+Reporting a scammer through the Steam Community will always be better than submitting a Steam Support ticket containing your report. A community report includes the best information about the interaction between the accounts, and is quicker to review and act on.
+
+To learn more about scams and trading, please see the [url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433]Scam FAQ[/url] and the [url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454]Recommended Trading Practices[/url] article.
+
+[h3]
+
+[section id=scamshijacks]What's the difference between a scam and a hijack?
+[/section]
+
+[/h3]
+A scam is when a user deceives another user into willingly (at the time) completing a trade, market transaction, or sending a gift. After the trade is completed, the person who was scammed either doesn’t receive what was promised, or the items involved are not what was agreed upon.
+
+A hijacking is when an account or a computer is taken over by someone else without the account owner’s permission. This is often done with malware or a virus. In some cases the hijacker will convince a user to hand over their login information by providing a fake Steam or a third-party trading site. Hijackers most commonly steal accounts to gain items or games, and sometimes commit fraud. Hijackers often use stolen accounts to commit more hijackings. In these cases, we lock the account until the rightful owner contacts us about the hijacking.
+
+For more information on hijacked accounts, please see the [url=https://support.steampowered.com/kb_article.php?ref=2347-qdfn-4366]Recovering a Stolen or Hijacked Steam Account[/url] article and the [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url].
+
+For more information on scams, please read the [url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433]Scam FAQ[/url], [url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454]Recommended Trading Practices[/url] article and the [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url].
+
+[h3]
+
+[section id=whatscammers]What happens to scammers?
+[/section]
+
+[/h3]
+If evidence exists that the Steam user is a scammer, Steam Support will ban the account from using the Steam Community, including Trading and using the Steam Market. The length of the ban is dependent on the severity and quantity of the scams. In some cases, scammers will be banned permanently. If a scammer has multiple accounts, all of their accounts may be subject to the ban as well.
+
+In some cases, scammers will hijack an account and use it to commit scams, fraud or more hijackings. In these cases, we lock the account until the rightful owner contacts us about the hijacking.
+
+[h3]
+
+[section id=avoidscammers]What are the best ways to avoid getting scammed?
+[/section]
+
+[/h3]
+
+[list]
+
+[*]Ignore pressure and do not rush the trade. A common tactic by scammers is to force you to trade quickly so they can change items/gifts in the trade without you noticing. [/*]
+[*]Ignore the pressure to trust the other user. If you are trading with a user who insists that you trust them, they are probably attempting to scam you. Please note that +Rep comments can be generated easily by malicious groups. [/*]
+[*]Mouse over every item to ensure that the item/gift's properties are correct. Information about the item/gift will be stated here including the quality, name, description and any effects. [/*]
+[*]Pay attention to the trade log while making the trade. All changes, additions, removals and actions will be recorded in this box. You may also use it to communicate with the trader. [/*]
+[*]Ensure that you are trading with the correct user. Scammers may try to impersonate your friends and other trusted traders. It is your responsibility to know who you are trading with. [/*]
+
+[/list]
+
+[h3]
+
+[section id=tradestoavoid]What trades should I avoid?
+[/section]
+
+[/h3]
+Do not trade for anything that cannot be added into the trade offer itself. The most common examples of these scenarios are the following:
+
+[list]
+
+[*]Trading items/gifts for money outside of the Steam Community market. You cannot add Wallet credit, PayPal, gift cards or any form of money into the trade offer. [/*]
+[*]Trading items/gifts for CD Keys. You cannot add a CD Key into the trade offer. CD Keys that are offered can be for a different game, fake, used or region restricted. [/*]
+[*]Trading items/gifts for nothing in return in the first trade and expecting to get an item or gift in a later trade. There is no reason to not trade everything in one trade. You may add unlimited items/gifts to a single trade. A common example of this is using a middleman to facilitate a one sided trade. [/*]
+
+[/list]
+
+[h3]
+
+[section id=whattodoscammed]What do I do if I was scammed?
+[/section]
+
+[/h3]
+If you are scammed, please use the Report feature built into Steam:
+
+[list]
+
+[*]Go to the profile of the offending user [/*]
+[*]Click the '...' drop-down located at the top right of the page [/*]
+[*]Choose "Report Player" [/*]
+[*]Select the violation, and follow the prompts to submit the report [/*]
+
+[/list]
+
+[h3]
+
+[section id=whynotrestore]Why will Steam not return items that were scammed?
+[/section]
+
+[/h3]
+Our community assigns an item a value that is at least partially determined by that item's scarcity. If more copies of the item are added to the economy through inventory rollbacks, the value of every other instance of that item would be reduced.
+
+We sympathize with people who fall victim to scams, but we provide enough information on our website and within our trading system to help users make good trading decisions. All trade scams can be avoided.
+
+[h3]
+
+[section id=tradeban]What is a trade ban?
+[/section]
+
+[/h3]
+A trade ban prevents a Steam account from using the Steam Community, including trading and using the Steam Market. A trade ban can only be applied by a Steam employee. Trade bans are mainly associated with accounts that commit scams.
+
+[h3]
+
+[section id=probation]What is trade probation?
+[/section]
+
+[/h3]
+While most trade bans are permanent, in some circumstances a user may receive a temporary trade ban. In these cases, when the ban is automatically lifted the offending account also gets placed into trade probation. Probationary status allows other users to know that a user has recently committed a trading related offense so they can make better decisions about whether or not they want to trade with that user. Please note, probationary status does not prevent users from trading.
+
+[h3]
+
+[section id=baninfo]Why won’t Steam Support provide information on why they trade banned or locked an account?
+[/section]
+
+[/h3]
+By limiting the provided data, Steam Support prevents malicious users from learning how to avoid getting caught in the future. Steam Support relies on several data points to arrive at a decision to ban or lock an account. Users intent on committing malicious activity, most often done to other users, are constantly trying to gain this data to use in future scams, fraud and hijackings.
+
+[h3]
+
+[section id=icanttrade]I can't trade! Why not?
+[/section]
+
+[/h3]
+There are different reasons why you may be unable to trade or use the Market. Please see the following [url=https://support.steampowered.com/kb_article.php?ref=1047-EDFM-2932]Trading and Market Restrictions[/url] article for more information.
+
+[h3]
+
+[section id=feedback]I have ideas for other things in Steam that can be traded. How do I give that feedback?
+[/section]
+
+[/h3]
+You can post feedback or suggestions in our [url=http://steamcommunity.com/discussions/forum/10/]Suggestions/Ideas forum[/url] as it is regularly read by our developers.

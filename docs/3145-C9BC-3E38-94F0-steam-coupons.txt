@@ -1,0 +1,70 @@
+[h1]Steam Coupons[/h1]
+
+[list]
+
+[*][url=#use]When can I use my coupons?[/url] [/*]
+[*][url=#howmany]How many coupons can I use on an item? [/url] [/*]
+[*][url=#discounted]Can I use coupons on already discounted items? [/url] [/*]
+[*][url=#happens]What happens to my coupons when they expire? [/url] [/*]
+[*][url=#which]How do I know which products the coupon can apply to? [/url] [/*]
+[*][url=#checkout]How do I apply a coupon during checkout? [/url] [/*]
+[*][url=#expire]How do I know when my coupons will expire?[/url] [/*]
+[*][url=#trade]Can I trade Steam Coupons?[/url] [/*]
+[*][url=#give]Can I give my coupon to another Steam user?[/url] [/*]
+
+[/list]
+
+[url id=use][/url]
+
+[h3]When can I use my coupons?[/h3]
+Steam coupons are valid through the specified dates that are on each coupon. To access your coupon to see the dates please follow these steps:
+
+[olist]
+
+[*]Log in to Steam
+
+[*]Hover your Steam profile/persona name and select "Inventory" from the drop-down menu
+
+[*]Click the "Steam" tab on the Inventory page to view your coupons
+
+[/olist]
+
+[url id=howmany][/url]
+
+[h3]How many coupons can I use on an item?[/h3]
+You can use one coupon per item.
+
+[url id=discounted][/url]
+
+[h3]Can I use coupons on already discounted items?[/h3]
+Unless clearly stated otherwise, promotions such as coupons or loyalty discounts do not stack with Steam Sale pricing.
+
+[url id=happens][/url]
+
+[h3]What happens to my coupons when they expire?[/h3]
+Expired coupons will be automatically removed from your inventory.
+
+[url id=which][/url]
+
+[h3]How do I know which products the coupon can apply to?[/h3]
+Coupons in your inventory will have a button marked "View Applicable Games" in the detail panel for each one. Following this button will show you a page with available products that the coupon can apply to.
+
+[url id=checkout][/url]
+
+[h3]How do I apply a coupon during checkout?[/h3]
+When you add a valid item to your cart, Steam will apply any of your applicable coupons automatically. Prior to clicking "purchase," you can choose to save your coupon for later by clicking the "Change/Remove coupon" link for that coupon in your cart.
+
+[url id=expire][/url]
+
+[h3]How do I know when my coupons will expire?[/h3]
+The expiration date is displayed in the detailed information for each coupon in your Steam Inventory.
+
+[url id=trade][/url]
+
+[h3]Can I trade Steam Coupons?[/h3]
+Yes! You can trade your Steam Coupons using our Steam Trading system. For more information on how Steam Trading works please visit the following [url=https://support.steampowered.com/kb_article.php?ref=6748-ETSG-5417]FAQ[/url].
+
+[url id=give][/url]
+
+[h3]Can I give my coupon to another Steam user?[/h3]
+Absolutely. You can send your Steam Coupons to another user through Steam Trading. The user receiving the coupon does not have to send anything in return to complete a Steam Trade. For more information on how Steam Trading works please visit the following [url=https://support.steampowered.com/kb_article.php?ref=6748-ETSG-5417]FAQ[/url].

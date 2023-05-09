@@ -1,0 +1,15 @@
+[h1]Supported Games for Steam for Linux[/h1]
+
+Which games are currently supported by the Steam for Linux client?
+
+If you are manually searching for games supported by the Linux Steam client, correct results are not guaranteed.
+
+You can view the correct list of supported Linux games by clicking the [b]Store[/b] tab and then clicking the [b]Categories[/b] tab near the top of the page and then find and select [b]SteamOS + Linux[/b] from the [b]Special Sections[/b] area, or click this link [url=http://store.steampowered.com/browse/linux/]here[/url] to go directly to the page. This list is constantly updated and represents games that are downloadable by the Steam for Linux client.
+
+[section style=note]
+
+[h5]Steam Play[/h5]
+There is a feature for Steam called Steam Play that can allow support for Windows only games to potentially work on Linux as well.
+
+More information on Steam Play and how it works and what its limitations are can be found at the [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Steam Play announcement and details page.[/url]
+[/section]

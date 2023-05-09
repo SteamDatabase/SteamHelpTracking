@@ -1,0 +1,97 @@
+[h1]Harmonized System Codes[/h1]
+
+[img]https://support.steampowered.com/steamvr/FitGuide/GuideHeader.png[/img]
+[tr]
+[td]
+
+[h2][b]Product Name[/b][/h2]
+[/td]  			  			[td]
+
+[h2][b]Description[/b][/h2]
+[/td]  			  			[td]
+
+[h2][b]Harmonized Code[/b][/h2]
+[/td]
+[/tr]
+
+[hr][/hr]
+
+[tr]
+[td]
+
+Index VR Kit
+
+[/td]  			  			[td]
+
+VR Kit: includes 2 lighthouses, 2 VR controllers, 1 head-mounted display, and all cables necessary for operation.
+
+[/td]  			  			[td]
+
+8528520000
+
+[/td]
+[/tr]
+
+[tr]
+[td]
+
+Index HMD
+
+[/td]  			  			[td]
+
+Head-mounted display and all cables necessary for operation.
+
+[/td]  			  			[td]
+
+8528520000
+
+[/td]
+[/tr]
+
+[tr]
+[td]
+
+Index HMD + Controllers
+
+[/td]  			  			[td]
+
+Includes head-mounted display, VR controllers, and all cables necessary for operation.
+
+[/td]  			  			[td]
+
+8528520000
+
+[/td]
+[/tr]
+
+[tr]
+[td]
+
+Index Controllers (pair)
+
+[/td]  			  			[td]
+
+VR controllers and all cables necessary for operation.
+
+[/td]  			  			[td]
+
+8471609050
+
+[/td]
+[/tr]
+
+[tr]
+[td]
+
+Index Base Station
+
+[/td]  			  			[td]
+
+Lighthouse Tracking Unit and all cables necessary for operation.
+
+[/td]  			  			[td]
+
+9031499000
+
+[/td]
+[/tr]

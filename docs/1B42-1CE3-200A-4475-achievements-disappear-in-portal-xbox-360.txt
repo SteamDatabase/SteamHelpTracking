@@ -1,0 +1,24 @@
+[h1]Achievements Disappear in Portal (Xbox 360)[/h1]
+
+When playing advanced maps in Portal, some of my achievements disappear.  Why does this happen and how can I fix it?
+
+This issue occurs specifically when you do the following:
+
+[olist]
+
+[*]Beat an advanced map. [/*]
+[*]Load up another advanced map, and save the game. [/*]
+[*]Quit the game. [/*]
+[*]Start up again, and load your save without looking at the new game menu. [/*]
+[*]Beat the advanced map you loaded. [/*]
+
+[/olist]
+
+To resolve this issue:
+
+[olist]
+
+[*]Start the game, open the new game menu. [/*]
+[*]Select an advanced chamber (any one) and complete it. [/*]
+
+[/olist]

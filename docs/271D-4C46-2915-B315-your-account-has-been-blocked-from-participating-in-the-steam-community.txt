@@ -1,0 +1,18 @@
+[h1]Your account has been blocked from participating in the Steam Community.[/h1]
+
+When using the Steam Community, I get the message "Your account has been blocked from participating in the Steam Community." What does this mean?
+
+This message indicates that you have been blocked from using the Steam Community due to breaking the [url=https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810&]Rules and Guidelines for Steam[/url] or as a result of a lock placed on your account. If your account has been locked, please login to your Steam account and click on the red Steam alert banner for more information and for the length of the restriction. The block may be related but is not limited to:
+
+[list]
+
+[*]The use of graphic or otherwise inappropriate avatars, screenshots, artwork etc. [/*]
+[*]Spamming the community [/*]
+[*]Inappropriate language [/*]
+[*]Harassing other users [/*]
+[*]Continuing to post moderated content [/*]
+[*]Posting content related to racism or other forms of bigotry [/*]
+
+[/list]
+
+For more information, please contact Steam Support using the button on the right.

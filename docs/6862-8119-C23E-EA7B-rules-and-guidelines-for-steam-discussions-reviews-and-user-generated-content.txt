@@ -1,0 +1,64 @@
+[h1]Rules and Guidelines For Steam: Discussions, Reviews, and User Generated Content[/h1]
+
+These guidelines apply to all places in the Steam Store and Community where users can post content. This includes, but is not limited to, discussions, comments, guides, product reviews, screenshots, artwork, videos, tags, and Steam Workshop.
+
+When providing feedback, posting information, or discussing a product in Steam, whether it’s negative or positive, please make sure you are being relevant, constructive and polite. Developers take feedback from all kinds of sources into account, even though they may not have the time to respond to every post or question.
+
+Please note that Administrators/Moderators reserve the right to change/edit/delete/move/merge any content at any time if they feel it is inappropriate, abusive, or incorrectly categorized.
+
+All users are subject to the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] and [url=https://store.steampowered.com/online_conduct/]Steam Online Conduct[/url].
+
+[h3]General Rules[/h3]
+Do not do any of the following:
+
+[list]
+
+[*]Flame or insult other members [/*]
+[*]Bypass any filters [/*]
+[*]Abuse or encourage abuse of the Post Reporting System [/*]
+[*]Post personally identifiable information (i.e. name, address, email, phone number, etc.) [/*]
+[*]Bump threads [/*]
+[*]Derail a thread's topic [/*]
+[*]Post links to phishing sites [/*]
+[*]Post spam (i.e. +1, 10char, rickrolls) or Re-post Closed, Modified, Deleted Content [/*]
+[*]Repetitively post in the incorrect forum (example: trade requests belong in trading forum) [/*]
+[*]Openly argue with a moderator [/*]
+[*]Manipulation of the User Review system or voting/rating systems [/*]
+
+[/list]
+
+[h3]Content Rules[/h3]
+Do not post any content on Steam containing the following:
+
+[list]
+
+[*]Porn, inappropriate or offensive content, warez or leaked content or anything else not safe for work [/*]
+[*]Discussion of piracy including, but not limited to:
+
+[list]
+
+[*]Cracks [/*]
+[*]Key generators [/*]
+[*]Console emulators [/*]
+
+[/list]
+[/*]
+[*]Cheating, hacking, game exploits [/*]
+[*]Threats of violence or harassment, even as a joke [/*]
+[*]Posted copyright material such as magazine scans [/*]
+[*]Soliciting, begging, auctioning, raffling, selling, advertising, referrals [/*]
+[*]Racism, discrimination [/*]
+[*]Abusive language, including swearing [/*]
+[*]Drugs and alcohol [/*]
+[*]Religious, political, and other "prone to huge arguments" threads [/*]
+
+[/list]
+
+[h3]No Backseat Moderating[/h3]
+Let the moderators do the moderating. Backseat moderating is when people who are not moderators try to enforce the forum rules. If you see a person breaking the rules, take advantage of the Report ([img]{STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png[/img]) button or simply [u][b]ignore[/b][/u] the offensive post(s), thread, or review.
+
+[h3]Report Posts to Moderators[/h3]
+Should you observe a fellow Community member breaking these rules please report the post or item by clicking the Report ([img]{STEAM_CLAN_IMAGE}/39983882/76ed0a200c83f280b666a2eac8cdfe64a46b427b.png[/img]) button located on every item, post, and review.
+
+[h3]Repeated Offenders[/h3]
+Repeated offenders of the above rules and guidelines will be banned from the Steam Community. Any moderator has the ability to ban a user for violating the rules at their discretion.

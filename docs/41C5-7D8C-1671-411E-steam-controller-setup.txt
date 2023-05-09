@@ -1,0 +1,114 @@
+[h1]Steam Controller Setup[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]     [h1]Steam Controller Setup[/h1]Just got your Steam Controller? Check out our Controller setup tips below and get right to playing all your Steam Games.
+
+[h4]Opt into the Steam Client Beta:[/h4]
+Our engineers are constantly updating the Steam Controller by releasing new features and bug fixes. Opting into the [url=https://steamcommunity.com/groups/SteamClientBeta/discussions/1/864957817328247556/]Steam Client Beta[/url] will give you access to these features before they are released to Steam’s main branch.
+
+After opting in, click on your [i][b]Operating System[/b][/i] for tailored instructions on how to get started.
+
+[expand type=title title="Windows"]
+
+[olist]
+
+[*]Please remove the batteries and plug your Steam Controller into your host computer using the micro USB cable. [/*]
+[*]Open Steam in Big Picture mode to receive firmware updates for your Steam Controller (this should happen automatically). [/*]
+[*]Manually pair the Steam Controller to be used wirelessly:
+
+[list]
+
+[*]Insert the wireless receiver into the front of your PC with clear line of sight to the controller [/*]
+[*]Turn your Steam Controller off and launch Big Picture Mode with your mouse and keyboard. [/*]
+[*]While in Big Picture Mode, select the [i][b]Settings[/b][/i] icon from the top right section of the client. [/*]
+[*]From here, select the [i][b]Controller[/b][/i] menu. [/*]
+[*]Then select [i][b]Add Steam Controller[/b][/i] and follow the on-screen pairing instructions to enter the validation code. [/*]
+
+[/list]
+[/*]
+[*]To apply configurations from the Community or to create your own, navigate to a game in your Library from Big Picture mode
+
+[list]
+
+[*]Select [i][b]Manage Game[/b][/i] then [i][b]Controller Configuration[/b][/i] at the top [/*]
+[*]This menu will only display when a controller is connected [/*]
+[*]Edit the input manually, or select Browse to view what is available from the Community [/*]
+[*]Ensure only one type of input is applied - Xinput (gamepad), or keyboard/mouse since hybrid input is rarely accepted by a game [/*]
+
+[/list]
+[/*]
+
+[/olist]
+
+[/expand]
+
+[expand type=title title="Mac"]
+
+[olist]
+
+[*]Please remove the batteries and plug your Steam Controller into your host computer using the micro USB cable. [/*]
+[*]Open Steam in Big Picture mode to receive firmware updates for your Steam Controller (this should happen automatically). [/*]
+[*]After the drivers and firmware are updated, you must restart your computer to finish the installation process before moving forward.  [/*]
+[*]Manually pair the Steam Controller to be used wirelessly:
+
+[list]
+
+[*]Insert the wireless receiver into the front of your Mac with clear line of sight to the controller [/*]
+[*]Turn your Steam Controller off and launch Big Picture Mode with your mouse and keyboard. [/*]
+[*]While in Big Picture Mode, select the [i][b]Settings[/b][/i] icon from the top right section of the client. [/*]
+[*]From here, select the [i][b]Controller[/b][/i] menu. [/*]
+[*]Then select [i][b]Add Steam Controller[/b][/i] and follow the on-screen pairing instructions to enter the validation code. [/*]
+[*]The Gamepad-1 listed under the controller list is normal, and is how Mac recognizes Xinput for the Steam Controller [/*]
+
+[/list]
+[/*]
+[*]To apply configurations from the Community or to create your own, navigate to a game in your Library from Big Picture mode
+
+[list]
+
+[*]Select [i][b]Manage Game[/b][/i] then [i][b]Controller Configuration[/b][/i] at the top [/*]
+[*]This menu will only display when a controller is connected [/*]
+[*]Edit the input manually, or select Browse to view what is available from the Community [/*]
+[*]Ensure only one type of input is applied - Xinput (gamepad), or keyboard/mouse since hybrid input is rarely accepted by a game [/*]
+
+[/list]
+[/*]
+
+[/olist]
+
+[/expand]
+
+[expand type=title title="Linux"]
+
+[olist]
+
+[*]Please remove the batteries and plug your Steam Controller into your host computer using the micro USB cable. [/*]
+[*]Open Steam in Big Picture mode to receive firmware updates for your Steam Controller (this should happen automatically). [/*]
+[*]Check that your udev rules have been updated and match those listed [url=https://steamcommunity.com/app/353370/discussions/0/490123197956024380/]here.[/url] [/*]
+[*]Make sure you don’t have older rules that are taking priority. If there are both /lib/udev/rules.d/99-steam-controller-perms.rules AND /etc/udev/rules.d/99-steam-controller-perms.rules, one of the two will take priority and the edits will be ignored. [/*]
+[*]Manually pair the Steam Controller to be used wirelessly:
+
+[list]
+
+[*]Insert the wireless receiver into the front of your PC with clear line of sight to the controller [/*]
+[*]Turn your Steam Controller off and launch Big Picture Mode with your mouse and keyboard. [/*]
+[*]While in Big Picture Mode, select the [i][b]Settings[/b][/i] icon from the top right section of the client. [/*]
+[*]From here, select the [i][b]Controller[/b][/i] menu. [/*]
+[*]Then select [i][b]Add Steam Controller[/b][/i] and follow the on-screen pairing instructions to enter the validation code. [/*]
+
+[/list]
+[/*]
+[*]To apply configurations from the Community or to create your own, navigate to a game in your Library from Big Picture mode
+
+[list]
+
+[*]Select [i][b]Manage Game[/b][/i] then [i][b]Controller Configuration[/b][/i] at the top [/*]
+[*]This menu will only display when a controller is connected [/*]
+[*]Edit the input manually, or select Browse to view what is available from the Community [/*]
+[*]Ensure only one type of input is applied - Xinput (gamepad), or keyboard/mouse since hybrid input is rarely accepted by a game [/*]
+
+[/list]
+[/*]
+
+[/olist]
+
+[/expand]
