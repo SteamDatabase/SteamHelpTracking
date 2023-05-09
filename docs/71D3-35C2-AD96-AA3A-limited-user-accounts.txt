@@ -84,7 +84,7 @@ Limited user accounts are prevented from accessing several features on Steam, in
 
 [*]Posting hyperlinks in the Steam Community
 
-[*]Adding a phone in some countries
+[*]Adding a phone number from some countries
 
 [/list]
 
