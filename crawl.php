@@ -94,12 +94,7 @@ class HelpCrawler
 	{
 		$Queries =
 		[
-			'Steam',
-			'Valve',
-			'I',
-			'you',
-			'http',
-			'https',
+			'"Steam" OR "Valve" OR "I" OR "you" OR "STEAM_CLAN_IMAGE" OR "https" OR "game"',
 		];
 
 		if( $this->IsCI )
