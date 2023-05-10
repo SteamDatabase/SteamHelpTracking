@@ -1,0 +1,7 @@
+[h1]You've been posting too frequently[/h1]
+
+This error indicates that you have exceeded the number of posts / threads you can make a day.
+
+If you are a limited user, you do not have the ability to create new threads. Instead, you can reply to existing threads (we recommend using the search feature to find an existing thread on your topic).
+
+For more information on limited user restrictions, please see our [url=https://support.steampowered.com/kb_article.php?ref=3330-IAGK-7663]Limited User FAQ[/url].

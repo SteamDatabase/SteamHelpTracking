@@ -97,6 +97,7 @@ class HelpCrawler
 			'Steam',
 			'Valve',
 			'I',
+			'you',
 			'http',
 			'https',
 		];
