@@ -126,7 +126,7 @@ Reviewers should adhere to the following guidelines:
 
 [/list]
 
-[h1]User-Uploaded Images[/h1]
+[h1]User-Uploaded Content[/h1]
 
 [hr][/hr]
 
