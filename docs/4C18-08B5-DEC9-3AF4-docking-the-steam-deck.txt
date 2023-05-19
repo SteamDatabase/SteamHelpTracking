@@ -12,6 +12,30 @@ If you're connecting to an external display and it has [b]a 'Gaming Mode' option
 
 [h2]Troubleshooting[/h2]
 
+[h5]Update firmware on the dock[/h5]
+
+To ensure your dock has the latest firmware update, please try a full reset:
+
+[list]
+
+[*]Plug the PSU(power supply) and Deck into the dock
+
+[*]Restart the Deck
+
+[*]Fully unplug the Deck and PSU from the dock
+
+[*]Wait 10 seconds, then plug the PSU and Deck back into the dock
+[/list]
+
+This should start the firmware update to start.  If this doesn't, then:
+
+[list]
+
+[*]Connect the Deck and PSU to the dock.
+
+[*]Unplug the PSU from the dock and this may help start the update
+[/list]
+
 [h5]Compatibility notes for 3rd-party docks and hubs[/h5]
 
 [list]
