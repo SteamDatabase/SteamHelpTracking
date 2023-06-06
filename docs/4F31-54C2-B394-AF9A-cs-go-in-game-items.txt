@@ -11,7 +11,6 @@ Detailed information on this restriction can be found on the [url=https://blog.c
 
 [*][url=#whataretuc]What are Trade Up Contracts?[/url] [/*]
 [*][url=#whatitemstuc]Which weapon skins can be used in Trade Up Contracts?[/url] [/*]
-[*][url=#weaponwear]The skin I received isn't the weapon wear I'd like. Why is this?[/url] [/*]
 
 [/list]
 
@@ -95,12 +94,6 @@ To verify if a weapon can be used in a Trade Up Contract, hover over the weapon 
 [b]Note:[/b] Covert (red) weapon skins can not be used in Trade Up Contracts.
 [/section]
 
-[section id=weaponwear]
-
-[h2]The skin I received isn't the weapon wear I'd like. Why is this?[/h2]
-Regardless of the weapon wear on the skins you're trading up, the weapon wear on the skin you receive will be randomized, meaning you may receive a Battle-Scarred skin even if you trade up all Factory New skins. This result is always randomized and cannot be controlled by trading up skins with a specific weapon wear.
-[/section]
-
 [section id=whatarent]
 
 [h2]What are Name Tags?[/h2]
@@ -156,7 +149,7 @@ No. Once a Sticker has been placed on a weapon it cannot be moved. If you'd like
 [section id=stickergone]
 
 [h2]Stickers on my weapon are not visible when I inspect in-game. Why is this?[/h2]
-Stickers on your weapon may not be visible because they've been heavily scraped. When Stickers are scraped they lose their vibrance and eventually won't be visible on the weapon when inspecting it. Stickers that have been heavily scraped will only leave an outline of the original sticker.
+Stickers on your weapon may not be visible because they've been heavily scraped. When Stickers are scraped they lose their vibrance and eventually won't be visible on the weapon when inspecting it. Stickers that have been heavily scraped may leave a faint outline of the original sticker.
 
 You're free to completely remove the sticker by scraping it further using the in-game UI.
 [/section]
@@ -168,6 +161,8 @@ StatTrak Swap Tools are single use items which allow players to transfer kill co
 
 StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [url=https://steamcommunity.com/market/]Community Market[/url].
 [/section]
+
+[section id=graffiti]
 
 [h2]Graffiti information[/h2]
 Detailed information about CS:GO Graffiti can be found in our [url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]Graffiti Help Article[/url].
