@@ -1,0 +1,19 @@
+[h1]Steamwebhelper is not responding[/h1]
+
+If you're seeing this dialog, it means that a key component of Steam was slow to respond to your request. Here is more information on the options offered to you when Steamwebhelper is not responding.
+
+[h2]Restart Steam[/h2]
+
+Frequently this issue can be resolved by simply restarting Steam.
+
+[h2]Restart Steam with GPU Acceleration disabled[/h2]
+
+Some video drivers can have trouble rendering Steam content if GPU acceleration is turned on. Select this option to restart Steam with GPU acceleration disabled.  If this seems to solve the problem consider updating your GPU drivers.  If the issue is persistent even with updated drivers you can permanently disable GPU acceleration in the Steam Interface settings, but this will affect UI performance.
+
+[h2]Restart Steam with Browser Sandboxing disabled[/h2]
+
+Browser Sandboxing is a security feature that isolates individual browsers from each other and from local resources on your computer. Select this option to restart Steam with the feature disabled. It isn't recommend to run in this mode for long periods of time. Browser Sandboxing will be reenabled the next time you start Steam.
+
+[h2]Restart steamwebhelper.exe[/h2]
+
+Attempt to restart only the rendering components of Steam.
