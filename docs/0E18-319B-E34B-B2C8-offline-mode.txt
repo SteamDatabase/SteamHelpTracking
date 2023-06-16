@@ -9,12 +9,11 @@ Please follow the instructions below to successfully configure Offline Mode on y
 
 [olist]
 
-[*]Start Steam online - make sure the [b]"Remember my password"[/b] box on the login window is checked. [/*]
+[*]Start Steam online - make sure the [b]"Remember me"[/b] box on the login window is checked. [/*]
 [*]Verify that all game files are completely updated. [/*]
 [*]Launch the game(s) you would like to play offline to verify that there are no further update or installation requirements. Shut down the game and return to Steam once you have confirmed that the game can be played. [/*]
-[*]Go to [b]Steam > Settings > Account[/b] to ensure the [b]"Don't save account credentials on this computer"[/b] option is [b]not[/b] selected [/*]
+[*]Go to [b]Steam > Settings > Security[/b] to ensure the [b]"Don't save account credentials on this computer"[/b] option is [b]not[/b] selected [/*]
 [*]From the main Steam window, go to the [b]Steam [/b]menu and select [b]Go Offline...[/b] [/*]
-[*]Click [b]Restart in Offline Mode[/b] to restart Steam in Offline Mode. [/*]
 
 [/olist]
 

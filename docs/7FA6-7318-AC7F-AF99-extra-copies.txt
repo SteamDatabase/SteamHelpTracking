@@ -1,6 +1,6 @@
 [h1]Extra Copies[/h1]
 
-[h3]How does the Extra Copy Special Offer work?[/h3]
+[b]How does the Extra Copy Special Offer work?[/b]
 
 [list]
 
@@ -14,9 +14,9 @@
 Only titles purchased in special promotions as outlined below are eligible for giftable extra copies
 [/section]
 
-[h1]How do I receive extra copies to share with friends?[/h1]
+[h3]How do I receive extra copies to share with friends?[/h3]
 
-[h3]Extra copies will only be issued as a special promotion in the following specific cases:[/h3]
+[b]Extra copies will only be issued as a special promotion in the following specific cases:[/b]
 
 [olist]
 
@@ -33,44 +33,43 @@ These promotion do not apply to any games other than those specifically listed.
 
 [hr][/hr]
 
-[h1]Do all duplicate purchases on Steam work this way?[/h1][b]No.[/b] This special offer [b]only[/b] applies to games or game packages listed above.
+[h3]Do all duplicate purchases on Steam work this way?[/h3]
+[b]No.[/b] This special offer [b]only[/b] applies to games or game packages listed above.
 
 [hr][/hr]
 
-[h1]Giving away extra copies[/h1]
+[h3 id=giving]Giving away extra copies[/h3]
 
-[h3]When will I be able to give away my extra copies?[/h3]
-
+[b]When will I be able to give away my extra copies?[/b]
 Your extra copies will be available to give away once the game or game package has been registered to your Steam account.
 
-[h3]How do I know when I have extra copies available to give away?[/h3]
+[b]How do I know when I have extra copies available to give away?[/b]
 You can always find any available extra copies on your account by clicking "Manage gifts & guest passes" under the "Games" menu in Steam. The extra copies will be listed in your Steam Inventory.
 
 Furthermore, upon redeeming a bundle from your inventory when your account already owns one or more of the games you will receive a warning that explains which games you [b]will [/b]receive an extra copy for before you add the bundle to your Library.
 
-[h3][b]Will my extra copies expire if I don't give them out quickly enough?[/b][/h3]
+[b][b]Will my extra copies expire if I don't give them out quickly enough?[/b][/b]
 While some guest passes are temporary, the extra copies you receive for the promotions listed above will not expire – you can gift your extra copies at any time as long as your Steam account remains active.
 
-[h3][b]What will my friend receive when I send them my extra copy?[/b][/h3]
+[b][b]What will my friend receive when I send them my extra copy?[/b][/b]
 Your extra copy will arrive as a gift message. If your friend does not currently have a Steam account or you see an error when sending it to a Steam account, please attempt to send the gift to your friend's email address.  You can read more about how to send and re-send gifts [url=https://support.steampowered.com/kb_article.php?ref=6262-QXCN-0755]here[/url].
 
-[h3][b]How can I tell if my friend already owns one of these games?[/b][/h3]
+[b][b]How can I tell if my friend already owns one of these games?[/b][/b]
 If you are sending a gift directly through Steam, users who already own this game will automatically be filtered out of the potential list of recipients.
 
 If you are positive that they do not have this game, you can send it to their email. Users who already have a subscription to a gift they’ve received will not be able to activate it on their existing account.
 
-[h3][b]May I Buy or Sell my extra copies?[/b][/h3]
+[b][b]May I Buy or Sell my extra copies?[/b][/b]
 No. This violates the [url=http://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] and may result in all involved Steam accounts becoming permanently disabled.
 
 [hr][/hr]
 
-[h1]Receiving Extra Copies[/h1]
-
-[h3][b]How do I use an extra copy given to me by a friend?[/b][/h3]
+[h3 id="receiving"]Receiving Extra Copies[/h3]
+[b][b]How do I use an extra copy given to me by a friend?[/b][/b]
 Please visit the following [url=https://support.steampowered.com/kb_article.php?ref=6262-QXCN-0755#gifts-use]page[/url] for instructions on how to redeem an extra copy/gift.
 
-[h3][b]I sent an extra copy to a friend, but that person never received it. What now?[/b][/h3]
+[b][b]I sent an extra copy to a friend, but that person never received it. What now?[/b][/b]
 Please visit the following [url=https://support.steampowered.com/kb_article.php?ref=6262-QXCN-0755#gifts-troubleshooting]page[/url] for instructions on how to re-send an extra copy/gift.
 
-[h3][b]I sent an extra copy to a friend using their email address, but it turns out that person already owns this game. Can I give this game to someone else?[/b][/h3]
+[b][b]I sent an extra copy to a friend using their email address, but it turns out that person already owns this game. Can I give this game to someone else?[/b][/b]
 Please visit the following [url=https://support.steampowered.com/kb_article.php?ref=6262-QXCN-0755#emailown]page[/url] for instructions on what to do in this situation.

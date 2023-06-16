@@ -64,7 +64,7 @@ To optimize your network:
 [list]
 
 [*]Choose the 5 GHz WiFi band over the highly congested 2.4 GHz band. The 5 GHz band has a shorter range, but there is less interference from your neighbors and other wireless devices.
-[*]Choose a WiFi channel on the Access Point (AP) that isn't congested. One example of a program you can use see this is [url=http://nutsaboutnets.com/netsurveyor-wifi-scanner/]NetSurveyor[/url]. You lose over 50% of your data rate when there is channel interference with your neighbors.
+[*]Choose a WiFi channel on the Access Point (AP) that isn't congested. One example of a program you can use is [url=http://nutsaboutnets.com/netsurveyor-wifi-scanner/]NetSurveyor[/url]. You lose over 50% of your data rate when there is channel interference with your neighbors.
 [*]Set the AP to use a 5GHz channel near the top of the band; the top end starts at channel 149.
 [*]Try to see if you can connect when the AP channel width is set to at 40 MHz, instead of a 20 MHz width for 11n and 11ac. If 40 MHz works, then try 80 MHz that is enabled with an 11ac capable router. Higher channel bandwidths can provide faster speeds but are more sensitive to distance and other sources of RF noise.
 [/list]

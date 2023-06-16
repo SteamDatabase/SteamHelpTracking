@@ -41,9 +41,9 @@ Detailed steps can be found in the troubleshooting sections below.
 [h1]Enabling the Steam Overlay[/h1]
 Steam has a global setting that will enable or disable the Steam overlay:
 
-Open the Steam client and navigate to the [b]Steam > Settings/Preferences > In-game[/b] tab. Check the box next to [b]Enable the Steam Overlay while in-game[/b].
+Open the Steam client and navigate to the [b]Steam > Settings > In-game[/b] tab. Toggle on [b]Enable the Steam Overlay while in-game[/b].
 
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/overlay_options.JPG[/img]
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/fd7ee1723d498dc41a94b36b7e75bfbb3b13a2b6.png[/img]
 
 Additionally, you can turn on/off the Steam Overlay per game.
 
@@ -71,7 +71,7 @@ Restarting the computer flushes all kinds of system states and caches, while res
 [h3]Verify Local Game Files[/h3]
 Sometimes files on hard-disks and other storage devices become corrupted. Some of these files may be associated with the way the game utilizes the overlay. Verifying local files can fix this.
 
-Find Game in Library -> Right click the game or select the gear icon -> Properties... -> Local Files -> Verify Integrity of Game Files...
+Find Game in Library -> Right click the game or select the gear icon -> Properties... -> Local Files -> Installed Files -> Verify Integrity of Game Files...
 
 [h3]Reinstall Steam[/h3]
 The Steam installer can be downloaded [url=http://store.steampowered.com/about/]here[/url] and reinstalled to the same location where it is already installed.

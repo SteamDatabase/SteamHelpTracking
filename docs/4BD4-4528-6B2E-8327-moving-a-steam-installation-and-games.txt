@@ -23,10 +23,9 @@ You can create an alternate location on any drive, which you can choose in the f
 [olist]
 
 [*]Navigate to your Steam client 'Settings' menu. [/*]
-[*]Select 'Steam Library Folders' from the 'Downloads' tab.  	   	[img]https://support.steampowered.com/images/faq/client/add_library1.jpg[/img] [/*]
-[*]From here, you can view your default installation path, as well as creating a new path by selecting '+' button.  	   	[img]https://support.steampowered.com/images/faq/client/add_library2.jpg[/img] [/*]
+[*]Select the 'Storage' tab.  	   	 [/*]
+[*]From here, you can view your default installation drive, as well as creating a new path by selecting the '+' button at the top.  	   	 [/*]
 [*]Once you have created the new path, all future installations can be installed there. [/*]
-[*]You can click the '...' button and select 'Make Default' to set it as a default. [/*]
 [*]If you wish to move existing games without having to uninstall them, please see the instructions below. [/*]
 
 [/olist]
@@ -37,24 +36,23 @@ You can create an alternate location on any drive, which you can choose in the f
 
 [/section]
 
-To move a game's installation folder on your computer to a different location on that same computer you can use Steam's "Move install folder..." feature. To use this option do the following:
+To move a game's installation folder on your computer to a different location on that same computer you can use Steam's "Move" feature. To use this option do the following:
 
 [olist]
 
-[*]Make sure you have a different Steam Library folder created to move to (see the instructions in [url=#default]how to add a Steam Library folder[/url] above)
+[*]Make sure you have a different Steam Library path created to move to (see the instructions in [url=#default]how to add a Steam Library folder[/url] above)
 
-[*]Go to your Steam Library
+[*]Navigate to your Steam client 'Settings' menu.
 
-[*]Find the game in your Library you want to move
+[*]Open the 'Storage' tab.
 
-[*]Right click the game's title and select "Properties..."
+[*]Select the drive where the games you wish to move are located.
 
-[*]Select the "Local Files" tab and then select "Move install folder..."
-[img]{STEAM_CLAN_IMAGE}/1976/389503c9e4ebfeeaf15f4ae9ec7b5e3ba14eb36b.png[/img]
-
-[*]From the drop down menu you can then select the Steam Library folder location you want to move the game's installation to.
+[*]Select the games you wish to move, and click 'Move'
 
 [/olist]
+
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/b15e1abc62c523cd28a0f363dd488b03b73c7879.png[/img]
 
 [section id=exist]
 

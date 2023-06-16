@@ -123,7 +123,7 @@ Games received as an Extra Copy can be traded to other users. They can be used t
 [/section]
 
 [/h3]
-No. Only games that have granted as an extra copy, and thus have never been played, can be traded. Once a Steam Gift is opened and added to your game library, you won’t be able to trade it again.
+No. Only games that have been granted as an extra copy, and thus have never been played, can be traded. Once a Steam Gift is opened and added to your game library, you won’t be able to trade it again.
 
 [h3]
 

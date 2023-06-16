@@ -10,8 +10,12 @@ If you are missing textures or other content in game or experiencing crashing wh
 [*]Next, you can either right click the game in your Library, or click the gear icon from the game's Library page on the far right
 
 [*] From the drop down menu, select [b]Properties...[/b] [/*]
-[*]Select the [b]Local Files[/b] tab and click the [b]Verify integrity of game files...[/b] button [img]{STEAM_CLAN_IMAGE}/1976/48bde6da12dec86f0d07bb36d4949ee02e3f5f3d.png[/img] [/*]
-[*]Steam will verify the game's files - this process may take several minutes[img]{STEAM_CLAN_IMAGE}/1976/2633d7ae8d4b626f6b31dc918a571b5ce53cb323.png[/img] [/*]
+[*]Select the [b]Installed Files[/b] tab and click the [b]Verify integrity of game files[/b] button
+
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/2c000cc2a990cf143145d2f697a315692f171538.png[/img] [/*]
+[*]Steam will verify the game's files - this process may take several minutes
+
+[img]{STEAM_CLAN_IMAGE}/1976/2633d7ae8d4b626f6b31dc918a571b5ce53cb323.png[/img] [/*]
 
 [/olist]
 

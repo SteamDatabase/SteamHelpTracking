@@ -43,19 +43,10 @@ It is recommended that you use the method outlined in [url=https://support.steam
 
 [*]Open your Steam Library [/*]
 [*]Right click the game's title and select [b]Properties...[/b]. [/*]
-[*]From the [b]Local Files tab[/b] select [b]Backup game files...[/b] [/*]
-[*]Check the boxes for games to backup at this time [/*]
-[*]Click [b]Next >[/b] [/*]
-[*]Browse to the folder where you wish to create the backup files (the files will be stored in
-[exclude_realm=china][b]c:\Program Files (x86)\Steam\Backups[/b]
-[/exclude_realm]
-
-[exclude_realm=global][b]c:\Program Files (x86)\SteamChina\Backups[/b]
-[/exclude_realm]
-by default) and click [b]Next >[/b] [/*]
-[*]Select the [b]Backup file name[/b] and set the [b]File size[/b] for the media you plan to use. [/*]
-[*]Click [b]Next >[/b] to begin the backup process. [/*]
-[*]Once complete, choose [b]Open backup folder[/b]  to move or burn copies of the backup files [/*]
+[*]From the [b]Installed Files tab[/b] select [b]Backup game files[/b] [/*]
+[*] Click [b]Browse...[/b] to browse to the folder where you wish to create the backup files [/*]
+[*]Click [b]Create Backup[/b] to begin the backup process. [/*]
+[*]Once complete, choose [b]Open folder[/b]  to move or burn copies of the backup files [/*]
 
 [/olist]
 
@@ -71,9 +62,8 @@ We recommend testing the backup discs after their creation to ensure the integri
 
 [*]Install Steam and [b]log in [/b]to the correct Steam account (see [url=https://support.steampowered.com/kb_article.php?ref=3046-ECVN-3712]Installing Steam[/url] for further instructions) [/*]
 [*]Launch Steam [/*]
-[*]Click on "Steam" in the upper left corner of the Steam application [/*]
-[*]Select "Backup and restore games..." [/*]
-[*]Select "Restore a previous backup" [/*]
+[*]Click on [b]Steam[/b] in the upper left corner of the Steam application [/*]
+[*]Select [b]Restore Game Backup...[/b] [/*]
 [*]Browse to the location of the game's backup files [/*]
 [*]Continue through the Steam windows to install the necessary games. [/*]
 

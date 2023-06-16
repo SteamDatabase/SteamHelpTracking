@@ -2,7 +2,7 @@
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 
-[h1]Steam Link App for Android[/h1]The Steam Link app on Android extends Steam Link functionality to many Android phones, tablets, and TVs, running Android 5.0 and newer. Just head to the [url=https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink]Play Store[/url] to download the free app; android users without access to Google Play can [url=https://media.steampowered.com/steamlink/android/latest/steamlink-android.apk]download the lastest version here[/url]. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.
+[h1]Steam Link App for Android[/h1]The Steam Link app on Android extends Steam Link functionality to many Android phones, tablets, and TVs, running Android 5.0 and newer. Just head to the [url=https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink]Google Play[/url] to download the free app; android users without access to Google Play can [url=https://media.steampowered.com/steamlink/android/latest/steamlink-android.apk]download the latest version here[/url]. The App uses the same streaming technology as Valve's Steam Link, allowing you to play your favorite games and even spectate VR games right from your TV.
 
 [h2]Required/Recommended Equipment[/h2]
 
@@ -34,7 +34,7 @@
 
 [*]Turn on your home PC, launch Steam, and log in.
 [*]Ensure your phone is connected to the same network as your host PC.
-[*]Download the app from the Play Store and follow the on screen instructions.
+[*]Download the app from the Google Play and follow the on screen instructions.
 [/olist]
 
 If you have questions about the app or need help using it, just click the appropriate tab.
