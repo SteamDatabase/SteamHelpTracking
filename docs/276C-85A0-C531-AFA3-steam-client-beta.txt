@@ -1,17 +1,17 @@
 [h1]Steam Client Beta[/h1]
 
-How do I participate in the Steam Client beta?
-
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/sign_up_3mb.gif[/img]
-
 Opting in to the Steam Client Beta lets you use the latest features before they're released.
+
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/de10d93b66626726f4639480b5051e65ecdd1790.png[/img]
+
+How do I participate in the Steam Client beta?
 
 Please follow the instructions below to participate in the Steam client beta:
 
 [olist]
 
 [*]With Steam running, click on "Steam" in the upper left, then choose the "Settings" menu. (Preferences on Mac) [/*]
-[*]On the "Account" tab under "Beta Participation" click the "Change..." button [/*]
+[*]On the "Interface" tab under "Client Beta Participation" select the dropdown menu [/*]
 [*]Select the "Steam Beta Update" from the drop down list and click "OK" [/*]
 [*]You will be prompted to restart Steam, please select the "Restart Steam" button [/*]
 
