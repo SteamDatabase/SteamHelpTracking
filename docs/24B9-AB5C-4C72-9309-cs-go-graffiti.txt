@@ -5,6 +5,7 @@
 [*][url=#howgraffiti]How do I get in-game graffiti?[/url] [/*]
 [*][url=#graffititypes]How many different types of graffiti are there?[/url] [/*]
 [*][url=#graffitiuses]How many times can I use a graffiti pattern?[/url] [/*]
+[*][url=#graffitigone]My graffiti disappeared from my Inventory. Where did it go?[/url] [/*]
 [*][url=#graffittitime]How often can I apply graffiti?[/url] [/*]
 [*][url=#graffitilength]How long does my graffiti last?[/url] [/*]
 [*][url=#graffitizone]Where can I apply graffiti?[/url] [/*]
@@ -22,11 +23,11 @@ There are three ways players can get in-game graffiti:
 
 [list]
 
-[*] Players have a chance to receive graffiti as a free weekly drop for ranking up.
+[*] Players with Prime Status receive one graffiti per week as a free weekly drop for ranking up.
 
 [*] Graffiti Boxes featuring art created by Steam Community Artists can be purchased. A portion of the proceeds from sales of Community Graffiti Boxes is shared among the community artists.
 
-[*] Individual graffiti patterns can be purchased from the Steam Community Market.
+[*] Individual graffiti patterns can be purchased from the [url=https://steamcommunity.com/market/search?category_730_ItemSet%5B%5D=any&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730&q=graffiti]Steam Community Market[/url].
 
 [/list]
 
@@ -42,6 +43,20 @@ There are two different types of graffiti patterns; monochrome and multi-colored
 
 [h2]How many times can I use a graffiti pattern?[/h2]
 When a player unseals graffiti they can apply that pattern 50 times. Players who unseal a graffiti pattern they already have in their Inventory will receive 50 additional charges to their existing supply.
+[/section]
+
+[section id=graffitigone]
+
+[h2]My graffiti disappeared from my Inventory. Where did it go?[/h2]
+There are two reasons graffiti may disappear from your Inventory:
+
+[list]
+
+[*]All of the graffiti's charges were used.
+
+[*]The graffiti was deleted from your Inventory.
+[/list]
+Consumed and/or deleted graffiti cannot be restored. If you would like more charges you may purchase them through the [url=https://steamcommunity.com/market/search?category_730_ItemSet%5B%5D=any&category_730_ProPlayer%5B%5D=any&category_730_StickerCapsule%5B%5D=any&category_730_TournamentTeam%5B%5D=any&category_730_Weapon%5B%5D=any&appid=730&q=graffiti]Steam Community Market[/url].
 [/section]
 
 [section id=graffittitime]
