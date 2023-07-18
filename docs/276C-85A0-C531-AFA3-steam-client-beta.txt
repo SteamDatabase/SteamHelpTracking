@@ -4,7 +4,7 @@ Opting in to the Steam Client Beta lets you use the latest features before they'
 
 [img]{STEAM_CLAN_LOC_IMAGE}/39983882/de10d93b66626726f4639480b5051e65ecdd1790.png[/img]
 
-How do I participate in the Steam Client beta?
+[h3]How do I participate in the Steam Client beta?[/h3]
 
 Please follow the instructions below to participate in the Steam client beta:
 

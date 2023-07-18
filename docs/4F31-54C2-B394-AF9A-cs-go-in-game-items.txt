@@ -9,11 +9,37 @@ Detailed information on this restriction can be found on the [url=https://blog.c
 
 [list]
 
-[*][url=#whataresm]What are Service Medals?[/url] [/*]
-[*][url=#acceptsm]What happens when I accept a Service Medal?[/url] [/*]
+[*][url=#whataresm]What are Service Medals and what happens when I accept one?[/url] [/*]
 [*][url=#vetcoins]What are 5 and 10 Year Veteran Coins and how do I earn them?[/url] [/*]
 [*][url=#whatareoc]What are Operation and Major Tournament Coins?[/url]
+[*][url=#whatarelb]What are Loyalty Badges and how do I earn one?[/url]
 [*][url=#removemedal]Can I modify or remove Service Medals, Coins, or other display items on my account?[/url]	 [/*]
+
+[/list]
+
+[h2]Stickers[/h2]
+
+[list]
+
+[*][url=#whatarestick]What are Stickers?[/url] [/*]
+[*][url=#movesticker]I have applied a Sticker and would like to move it. Can I do this?[/url] [/*]
+[*][url=#stickergone]Stickers on my weapon are not visible when I inspect in-game. Why is this?[/url] [/*]
+
+[/list]
+
+[h2]Storage Units[/h2]
+
+[list]
+
+[*][url=#whatissu]What are Storage Units?[/url] [/*]
+[*][url=#howdoisu]How do I get a Storage Unit?[/url] [/*]
+[*][url=#whoneedssu]Who needs a Storage Unit?[/url] [/*]
+[*][url=#depositsu]How do I deposit items to a Storage Unit?[/url] [/*]
+[*][url=#retrievesu]How do I retrieve items from a Storage Unit?[/url] [/*]
+[*][url=#whereretrieve]I retrieved an item but can not find it in my Inventory. Where did it go?[/url] [/*]
+[*][url=#interactsu]How can I interact with items placed in a Storage Unit?[/url] [/*]
+[*][url=#tradesu]Can I trade or market items in a Storage Unit?[/url] [/*]
+[*][url=#renamesu]How often can I rename a Storage Unit?[/url] [/*]
 
 [/list]
 
@@ -36,13 +62,13 @@ Detailed information on this restriction can be found on the [url=https://blog.c
 
 [/list]
 
-[h2]Stickers[/h2]
+[h2]Patches[/h2]
 
 [list]
 
-[*][url=#whatarestick]What are Stickers?[/url] [/*]
-[*][url=#movesticker]I have applied a Sticker and would like to move it. Can I do this?[/url] [/*]
-[*][url=#stickergone]Stickers on my weapon are not visible when I inspect in-game. Why is this?[/url] [/*]
+[*][url=#whatarepatches]What are Patches?[/url] [/*]
+[*][url=#movepatch]I have applied a Patch and would like to move it. Can I do this?[/url] [/*]
+[*][url=#whichagents]Which Agents can I apply Patches to?[/url] [/*]
 
 [/list]
 
@@ -62,44 +88,12 @@ Detailed information on this restriction can be found on the [url=https://blog.c
 
 [/list]
 
-[h2]Storage Units[/h2]
-
-[list]
-
-[*][url=#whatissu]What are Storage Units?[/url] [/*]
-[*][url=#howdoisu]How do I get a Storage Unit?[/url] [/*]
-[*][url=#whoneedssu]Who needs a Storage Unit?[/url] [/*]
-[*][url=#depositsu]How do I deposit items to a Storage Unit?[/url] [/*]
-[*][url=#retrievesu]How do I retrieve items from a Storage Unit?[/url] [/*]
-[*][url=#whereretrieve]I retrieved an item but can not find it in my Inventory. Where did it go?[/url] [/*]
-[*][url=#interactsu]How can I interact with items placed in a Storage Unit?[/url] [/*]
-[*][url=#tradesu]Can I trade or market items in a Storage Unit?[/url] [/*]
-[*][url=#renamesu]How often can I rename a Storage Unit?[/url] [/*]
-
-[/list]
-
-[h2]Patches[/h2]
-
-[list]
-
-[*][url=#whatarepatches]What are Patches?[/url] [/*]
-[*][url=#movepatch]I have applied a Patch and would like to move it. Can I do this?[/url] [/*]
-[*][url=#whichagents]Which Agents can I apply Patches to?[/url] [/*]
-
-[/list]
-
 [section id=whataresm]
 
-[h2]What are Service Medals?[/h2]
-Service Medals are in-game display items available to players once their Counter-Strike profile rank has reached rank 40. Once you have reached rank 40, a 'Get Service Medal' button will appear above your profile rank progress bar. Selecting this option will reset your profile to rank 1 and will add a Service Medal to your Inventory.
+[h2]What are Service Medals and what happens when I accept one?[/h2]
+Service Medals are in-game display items available to players once their Counter-Strike profile rank has reached rank 40. Once you have reached rank 40, a 'Get Service Medal' button will appear above your profile rank progress bar. Selecting this option will reset your profile to rank 1 and will add a Service Medal to your Inventory. Your Competitive Skill Group will be unaffected.
 
 Different Service Medals are available every year beginning January 1st at 12:00 AM PST, each with unique appearances.
-[/section]
-
-[section id=acceptsm]
-
-[h2]What happens when I accept a Service Medal?[/h2]
-When players accept a Service Medal their profile level (XP) is reset to 1 and an upgradeable display item is added to their Inventory.
 [/section]
 
 [section id=vetcoins]
@@ -122,66 +116,28 @@ When you qualify for the coins you will need to launch CS:GO to receive them. Ve
 [b]Note:[/b] If you have refunded or removed a Counter-Strike license from your account the original registration date will no longer be recognized. The date shown on the Account Information tab is the date Veteran Coins recognize.
 [/section]
 
+[section id=whatarelb]
+
+[h2]What are Loyalty Badges and how do I earn one?[/h2]
+Loyalty Badges were issued to Steam accounts when CS:GO went free to play on December 6th, 2018.
+
+To be eligible for the Loyalty Badge, your Steam account had to be in good VAC standing (meaning no bans in CS:GO) and must have owned and launched CS:GO in the five years prior to December 6th, 2018. If you did not receive the Loyalty Badge it is because you did not meet one of the requirements.
+
+Loyalty Badges cannot be manually granted and it is no longer possible to receive one.
+[/section]
+
 [section id=whatareoc]
 
 [h2]What are Operation and Major Tournament Coins?[/h2]
 Operation and Major Tournament Coins are upgradeable display items given to players who complete missions during their respective events. The more missions a player completes during the event the more their display item may be upgraded.
 
-Once the event has concluded the display item can no longer be upgraded. This applies to Operation and Major Tournament Coins.
+Once the event has concluded the display item can no longer be upgraded.
 [/section]
 
 [section id=removemedal]
 
 [h2]Can I modify or remove Service Medals, Coins, or other display items on my account?[/h2]
-No. Service Medals, Coins of any kind, and pins cannot be modified or removed from an account once they have been added.
-[/section]
-
-[section id=whataretuc]
-
-[h2]What are Trade Up Contracts?[/h2]
-Trade Up Contracts allow players to trade 10 normal or StatTrak weapon skins of the same rarity for one weapon skin of the next highest rarity from one of the weapon collections used in the Trade Up Contract. The rarity of the item received from the Trade Up Contract will always be one higher tier than the items with which it is crafted. Ten Mil-spec (blue) skins will always trade up to a Restricted (purple) tier skin and so on.
-
-To use a Trade Up Contract, left-click on an eligible weapon and select 'Use With Trade Up Contract'.
-[/section]
-
-[section id=whatitemstuc]
-
-[h2]Which weapons can be used in Trade Up Contracts?[/h2]
-A Trade Up Contract requires all ten weapons to be the same weapon rarity (Mil-Spec, Restricted, Classified, etc.) and [i]either[/i] normal or StatTrak. Normal weapon skins cannot be used in a Trade Up Contract with StatTrak weapon skins and vice versa.
-
-To verify if a weapon can be used in a Trade Up Contract, hover over the weapon in your CS:GO Inventory and look for the Collection it is included in. Covert (red) rarity weapons and weapons which are already the rarest in their collection (like the R8 Revolver | Amber Fade) cannot be used in any Trade Up Contract.
-[/section]
-
-[section id=whatarent]
-
-[h2]What are Name Tags?[/h2]
-Name Tags are single use items which allow players to nickname their weapons. Name Tags cannot be modified once they have been applied and are not returned to the user's Inventory when removed.
-
-To remove a Name Tag on an existing weapon, left-click on the weapon, select 'Rename', then 'Remove Name'.
-
-Name Tags can be purchased for $1.99 USD in-game or from the [url=https://steamcommunity.com/market/]Steam Community Market[/url].
-[/section]
-
-[section id=characters]
-
-[h2]What characters can I use on a Name Tag?[/h2]
-The following characters can be used on Name Tags:
-
-[list]
-
-[*]a b c d e f g h i j k l m n o p q r s t u v w x y z [/*]
-[*]A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [/*]
-[*]0 1 2 3 4 5 6 7 8 9 [/*]
-[*]`!@#$%^&*-+=(){}[]/|\,.?:;'_ (and "space", but Name Tags can not start with spaces) [/*]
-
-[/list]
-[b]Note:[/b] Any characters not listed here are not officialy supported and may not display properly. Name Tags are shown to players prior to finalizing the name, and characters not shown in the Name Tag preview will not display once applied.
-[/section]
-
-[section id=tagposition]
-
-[h2]Can I change the position of the Name Tag on a weapon?[/h2]
-No. Name Tags have a pre-determined location on each weapon which cannot be changed.
+No. Service Medals, Coins of any kind, badges, pins, and other display items cannot be modified or removed from an account once they have been added.
 [/section]
 
 [section id=whatarestick]
@@ -210,20 +166,6 @@ No. Once a Sticker has been placed on a weapon it cannot be moved. If you would 
 Stickers on your weapon may not be visible because they have been heavily scraped. The more a sticker is scraped the less vibrant it is, and stickers that have been heavily scraped may only leave a faint outline of the original sticker. This is by design and cannot be modified.
 
 You are free to completely remove the sticker by scraping it further using the in-game UI.
-[/section]
-
-[section id=swaptool]
-
-[h2]What is a StatTrak Swap Tool?[/h2]
-StatTrak Swap Tools are single use items which allow players to transfer kill counts from one StatTrak weapon skin to another so long as the weapon is the same. Kills from a StatTrak M4A1-S can only be transferred to another StatTrak M4A1-S using a Swap Tool, [i]not[/i] to another weapon.
-
-StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [url=https://steamcommunity.com/market/]Community Market[/url].
-[/section]
-
-[section id=graffiti]
-
-[h2]Graffiti information[/h2]
-Detailed information about CS:GO Graffiti can be found in our [url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]Graffiti Help Article[/url].
 [/section]
 
 [section id=whatissu]
@@ -298,6 +240,54 @@ No, you would need to take the items out of the Storage Unit first. Storage Unit
 Storage Units can be renamed as often as you would like. To rename a Storage Unit click on it in your Inventory and select 'Change Label'.
 [/section]
 
+[section id=whataretuc]
+
+[h2]What are Trade Up Contracts?[/h2]
+Trade Up Contracts allow players to trade 10 normal or StatTrak weapon skins of the same rarity for one weapon skin of the next highest rarity from one of the weapon collections used in the Trade Up Contract. The rarity of the item received from the Trade Up Contract will always be one higher tier than the items with which it is crafted. Ten Mil-spec (blue) skins will always trade up to a Restricted (purple) tier skin and so on.
+
+To use a Trade Up Contract, left-click on an eligible weapon and select 'Use With Trade Up Contract'.
+[/section]
+
+[section id=whatitemstuc]
+
+[h2]Which weapons can be used in Trade Up Contracts?[/h2]
+A Trade Up Contract requires all ten weapons to be the same weapon rarity (Mil-Spec, Restricted, Classified, etc.) and [i]either[/i] normal or StatTrak. Normal weapon skins cannot be used in a Trade Up Contract with StatTrak weapon skins and vice versa.
+
+To verify if a weapon can be used in a Trade Up Contract, hover over the weapon in your CS:GO Inventory and look for the Collection it is included in. Covert (red) rarity weapons and weapons which are already the rarest in their collection (like the R8 Revolver | Amber Fade) cannot be used in any Trade Up Contract.
+[/section]
+
+[section id=whatarent]
+
+[h2]What are Name Tags?[/h2]
+Name Tags are single use items which allow players to nickname their weapons. Name Tags cannot be modified once they have been applied and are not returned to the user's Inventory when removed.
+
+To remove a Name Tag on an existing weapon, left-click on the weapon, select 'Rename', then 'Remove Name'.
+
+Name Tags can be purchased for $1.99 USD in-game or from the [url=https://steamcommunity.com/market/]Steam Community Market[/url].
+[/section]
+
+[section id=characters]
+
+[h2]What characters can I use on a Name Tag?[/h2]
+The following characters can be used on Name Tags:
+
+[list]
+
+[*]a b c d e f g h i j k l m n o p q r s t u v w x y z [/*]
+[*]A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [/*]
+[*]0 1 2 3 4 5 6 7 8 9 [/*]
+[*]`!@#$%^&*-+=(){}[]/|\,.?:;'_ (and "space", but Name Tags can not start with spaces) [/*]
+
+[/list]
+[b]Note:[/b] Any characters not listed here are not officialy supported and may not display properly. Name Tags are shown to players prior to finalizing the name, and characters not shown in the Name Tag preview will not display once applied.
+[/section]
+
+[section id=tagposition]
+
+[h2]Can I change the position of the Name Tag on a weapon?[/h2]
+No. Name Tags have a pre-determined location on each weapon which cannot be changed.
+[/section]
+
 [section id=whatarepatches]
 
 [h2]What are Patches?[/h2]
@@ -320,4 +310,18 @@ No. Once a Patch has been applied it cannot be moved. If you would like to remov
 Patches can be applied to any Agent you own but cannot be applied to default (local) agents.
 
 A link to Community Market listings for Agents that Patches can be applied to can be found [url=https://steamcommunity.com/market/search?appid=730&q=Agent]here[/url].
+[/section]
+
+[section id=swaptool]
+
+[h2]What is a StatTrak Swap Tool?[/h2]
+StatTrak Swap Tools are single use items which allow players to transfer kill counts from one StatTrak weapon skin to another so long as the weapon is the same. Kills from a StatTrak M4A1-S can only be transferred to another StatTrak M4A1-S using a Swap Tool, [i]not[/i] to another weapon.
+
+StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [url=https://steamcommunity.com/market/]Community Market[/url].
+[/section]
+
+[section id=graffiti]
+
+[h2]Graffiti information[/h2]
+Detailed information about CS:GO Graffiti can be found in our [url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]Graffiti Help Article[/url].
 [/section]
