@@ -4,7 +4,7 @@
 
 The Steam Trading system used to trade items between accounts is intended for trades where all value being transferred is included in a single trading window. If you choose to trade items to someone else for nothing or little in return, you're taking a risk by doing so, and Steam Support will not be able to recover your items if you get scammed.
 
-An offer to buy items or a backpack for cash is very often the opening of a scam intended to get you to trade your items for nothing in return.
+An offer to buy items or an inventory for cash is very often the opening of a scam intended to get you to trade your items for nothing in return.
 
 [/section]
 
@@ -15,7 +15,7 @@ While some scammers may target Steam users or reference Steam, Steam games, or V
 
 [list]
 
-[*]Item purchasing scammers will often approach you through a Steam Comment with an offer to discuss the price of an item shown on your profile or if your backpack is publicly visible.
+[*]Item purchasing scammers will often approach you through a Steam Comment with an offer to discuss the price of an item shown on your profile or if your inventory is publicly visible.
 
 [*]Scam offers are often of higher value than you'd expect in order to entice you into hearing the scammer out.
 
@@ -37,7 +37,7 @@ While some scammers may use accurate values to try to demonstrate knowledge and 
 
 [h5]Check your inventory privacy[/h5]
 
-If you're not interested in trading your items with others, setting your backpack to Private or Friends Only will reduce the likelihood of being targeted by scammers.
+If you're not interested in trading your items with others, setting your inventory to Private or Friends Only will reduce the likelihood of being targeted by scammers.
 
 [h5]Payment invoices provided by someone else are likely fabricated[/h5]
 
