@@ -1,6 +1,6 @@
 [h1]Scam: Vote for My Team[/h1]
 
-[section style=warning][b]Even when sent from from a trusted friend's account, any request that you navigate to a website to vote on or support a friend's team or account in a tournament or other event is likely part of a phishing scam.[/b]
+[section style=warning][b]Even when sent from a trusted friend's account, any request that you navigate to a website to vote on or support a friend's team or account in a tournament or other event is likely part of a phishing scam.[/b]
 
 Phishing scams are fake websites that impersonate legitimate sites with the goal of stealing any login information and security codes you enter. This information will then be used to take over your account.
 

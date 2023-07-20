@@ -4,7 +4,7 @@
 
 Steam Support disregards reports that can't be confirmed with the actual activity of the reported account. No Steam bans are issued purely based on report frequency.
 
-Although ineffective in their claimed goals, Steam Support bans report bot networks as they are identified because they create extra work for Steam's moderation team.
+Although ineffective in their claimed goals, Steam Support bans report bot networks as they are identified due to their abuse of the report feature.
 
 [/section]
 
@@ -28,7 +28,7 @@ Some common infractions Steam users sometimes blame on report bots:
 
 [/list]
 
-You'll notice these are real violations of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] or [url=https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B]Steam Community Guidelines[/url]. It's intended an account violating these rules would be restricted as a consequence.
+You'll notice these are real violations of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] or [url=https://help.steampowered.com/faqs/view/6862-8119-C23E-EA7B]Steam Community Guidelines[/url]. It's intended an account violating these rules would be restricted as a consequence.
 
 If you avoid activity that could result in a ban, you have nothing to fear from fabricated, accidental, or automated reports.
 

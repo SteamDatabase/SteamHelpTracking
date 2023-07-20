@@ -2,7 +2,7 @@
 
 [section style=warning][b]Any request or demand you trade your items for anything other than items you've determined are of roughly equivalent value is unsupported by Steam and likely part of a scam.[/b]
 
-In a trade redirection scam, a scammer will coerce you to trade your items to what you believe is a trusted account. However, the scammer has already compromised your account security and will cancel and redirect that trade to an impersonation account they control.
+In a trade redirection scam, a scammer will coerce you to trade your items to what you believe is a trusted account. However, the scammer has already compromised your account security and will cancel and redirect that trade to an impersonation account they control, and hope you fail to review the trade before confirming it on your phone.
 
 You can be confident anyone demanding or requesting you trade your items to any account for little or nothing in return is attempting a scam.
 
@@ -37,6 +37,12 @@ If you don't confirm an unbalanced trade, there's no way for a scammer to redire
 
 A scammer can't redirect your trade unless they've gained full access to your account. If you're conscious of online security and avoid risks related to phishing websites or installing malware, your trades can't be redirected.
 
+[h5]Take your time and double check the account you're confirming a trade with[/h5]
+
+Scammers use pressure intended to target greed or fear to push their scams. If you slow down and do some diligence with an online search or by contacting Steam Support, you're much more likely to identify and prevent a scam.
+
+Steam Mobile's trade confirmation system provides all the information you need to understand if a trade has been redirected. Make sure you review that information completely each time you confirm a trade.
+
 [h5]If your Steam profile changes, secure your account[/h5]
 
 Once they gain access to your account or computer, a Trade Redirection scammer may change the content of your Steam Community profile to appear under threat of a ban as part of their pressure tactics. Steam Support will never change your profile content to threaten or execute a ban - any unexpected or threatening change to your profile is part of a scam and indicates your account security is compromised.
@@ -49,13 +55,7 @@ With a little healthy skepticism in your online interactions, you don't need spe
 
 If you believe you're working with a scammer, the best thing you can do is end your conversation with them. Remember everything they've told you is part of their scam and intended to manipulate you.
 
-Secure your Steam account, email account, and scan your computer for malware.  See [url=https://help.steampowered.com/en/faqs/view/6639-EB3C-EC79-FF60]Steam's Account Security Recommendations[/url] for more detailed advice.
-
-[h5]Take your time. Double check the account you're confirming a trade with.[/h5]
-
-Scammers use pressure intended to target greed or fear to push their scams. If you slow down and do some diligence with an online search or by contacting Steam Support, you're much more likely to identify and prevent a scam.
-
-Steam Mobile's trade confirmation system provides all the information you need to understand if a trade has been redirected. Make sure you review that information completely each time you confirm a trade.
+Secure your Steam account, email account, and scan your computer for malware.  See [url=https://help.steampowered.com/faqs/view/6639-EB3C-EC79-FF60]Steam's Account Security Recommendations[/url] for more detailed advice.
 
 [h1]Reporting scammers[/h1]
 

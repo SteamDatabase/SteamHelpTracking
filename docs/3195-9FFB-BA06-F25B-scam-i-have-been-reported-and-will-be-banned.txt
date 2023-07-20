@@ -20,7 +20,7 @@ This scam can be quickly identified if [b]any[/b] of the following are present:
 
 [*]Someone you're speaking to requests your account credentials, or directs you to perform specific security related operations
 
-[*]Someone you're speaking with requests an authentication code sent by Steam over SMS or through the mobile app
+[*]Someone you're speaking with requests an authentication code sent by Steam over email, SMS or through the mobile app
 
 [*]Someone you're chatting with indicates they represent Steam Support or Valve
 
