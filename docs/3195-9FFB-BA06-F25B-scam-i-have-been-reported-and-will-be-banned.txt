@@ -4,7 +4,7 @@
 
 If someone did report your account falsely and you're concerned about being banned, you can rest assured that Steam disregards false reports.
 
-Valve employees will [i]never[/i] communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [url=help.steampowered.com]Steam Support Help Site[/url]. There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.
+Valve employees will [i]never[/i] communicate with you about your account using any chat system including Steam Chat and Discord. The only way you can speak with a Steam Support agent about your account is through the [url=https://help.steampowered.com/en/]Steam Support Help Site[/url]. There's no situation in which you'd need to reach out to a Valve or Steam employee directly to resolve an issue.
 
 Information about other scams that may target Steam accounts can be found in the [url=https://help.steampowered.com/faqs/view/70E6-991B-233B-A37B]Scam FAQ[/url].
 [/section]
