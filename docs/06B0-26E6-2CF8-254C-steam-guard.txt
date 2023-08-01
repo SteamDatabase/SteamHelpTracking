@@ -41,7 +41,7 @@ When Steam Guard is enabled on your account, you'll need to provide a special co
 You must verify your contact email address with Steam. You can check whether your email address is already verified by visiting Account Details page. A verified address will be marked as "Verified." [url=https://support.steampowered.com/kb_article.php?ref=5151-RUAS-1543#verify]Learn how to verify your email address[/url].
 
 [*]Enable Steam Guard in Steam Settings.
-While logged into the Steam client, you can enable Steam Guard by clicking on "Steam" in the top left hand corner of the client. Then Select "Settings", and click "Manage Steam Guard Account Security" under the "Account" tab. On the page that appears, select "Get Steam Guard codes by email (will require you to re-login)".
+While logged into the Steam client, you can enable Steam Guard by clicking on "Steam" in the top left hand corner of the client. Then select "Settings", "Security" tab and click "Manage Steam Guard". On the page that appears, select "Get Steam Guard codes by email (will require you to re-login)".
 
 [/olist]
 
@@ -59,7 +59,9 @@ That's it! With Steam Guard enabled, you will be asked to enter the special acce
 [url id=deauthorize][/url]
 [h1]How do I deauthorize a device?[/h1]Deauthorizing a machine removes it from Steam Guard authorization, which means that it will look like a new device the next time you use it to log in, and a Steam Guard code will be required.
 
-If you've mistakenly checked the "remember me" box when logging in to a public computer or if your account has been compromised, you should deauthorize any computers that you've previously added to Steam Guard. You can do this from your Account Details page > Manage Steam Guard and select "Deauthorize all other devices" at the bottom of the page. This will deauthorize all computers or devices other than the one you're performing this action from.
+If you've mistakenly checked the "remember me" box when logging in to a public computer or if your account has been compromised, you should deauthorize any computers that you've previously added to Steam Guard. You can do this from your Account Details page > Manage Steam Guard page. This will deauthorize all computers or devices that have access to your Steam account.
+
+Users that have enabled Steam Guard on their Steam Mobile app will be able to see information about devices that have access to their Steam account.
 
 [url id=code][/url]
 [h1]How do I get a new Steam Guard code?[/h1]Email - Exit Steam and log back into your account. This will generate a new verification email.

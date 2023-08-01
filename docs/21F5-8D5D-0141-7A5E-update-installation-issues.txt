@@ -24,17 +24,17 @@ Restarting the computer flushes all kinds of system states and caches, while res
 [h5]Clear Download Cache[/h5]
 Clearing the Steam download cache will cause the Steam client to flush locally cached configuration data and acquire it from the Steam servers again.
 
-Navigate to your Steam -> Settings -> Downloads -> Clear Download Cache
+Navigate to your Steam -> Settings -> Downloads -> Clear Cache
 
 [h5]Repair Library Folder[/h5]
 The Steam library folder contains all of your installed games on disk. These folders need to be writable by all users in order to update properly. Sometimes these user permissions break and need to be refreshed.
 
-Navigate to your Steam -> Settings -> Downloads -> Steam Library Folders -> Right click on folder -> Repair Library Folder
+Navigate to your Steam -> Settings -> Storage -> ... -> Repair Folder
 
 [h5]Verify Local Files[/h5]
 Sometimes files on hard-disks and other storage devices become corrupted because of bad hardware, software crashes, power surges etc. Steam can verify the correctness over installed game files and fix them if necessary.
 
-Find Game in Library -> Right click game title -> Properties -> Local Files -> Verify Integrity of Game Files
+Find Game in Library -> Right click game title -> Properties -> Installed Files -> Verify Integrity of Game Files
 
 [h5]Change Download Region[/h5]
 The Steam content system is divided into geographical regions. The Steam client automatically detects its current region and uses content servers located in that region for best performance. Sometimes, servers in a specific region may be slow, overloaded or have a hardware failure causing download issues. It is advisable to temporarily switch to a different download region to use another set of content servers.
@@ -51,7 +51,7 @@ WARNING! Uninstalling Steam will delete all game content.
 [h5]Move Game Folder[/h5]
 It can be very helpful to test the issue by installing on an alternate hard drive. If one is already available, you can create a new Steam library folder on this drive. You can then install new games into this Steam library folder or move already installed games there.
 
-Steam -> Settings -> Downloads -> Steam Library Folders -> Add new Library folder
+Steam -> Settings -> Storage-> +
 
 [h2]Advanced Troubleshooting[/h2]
 If the error is still occurring after following the fixes outlined above, it is possible that something outside of Steam is responsible.

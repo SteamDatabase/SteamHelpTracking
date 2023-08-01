@@ -12,7 +12,7 @@ Make sure that the game has been successfully downloaded and installed through t
 
 If the key is still not generating, please [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]verify integrity of game files[/url] and restart the Steam client.
 
-[h4]Why am I receiving a Failed to Contact Key Server error[/h4]
+[h4]Why am I receiving a Failed to Contact Key Server error?[/h4]
 
 For information on this error please see the [url=https://support.steampowered.com/kb_article.php?ref=2204-OPGC-4862]Failed to Contact Key Server[/url] page.
 
