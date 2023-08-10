@@ -1,0 +1,46 @@
+[h1]SteamVR for Linux Support [/h1]
+
+[h1]Steam Installation[/h1]
+
+SteamVR for Linux cannot run properly within the unsupported Steam Snap or Steam Flatpak packages as they break both DRM leasing and asynchronous reprojection. The native distribution package should be used instead.
+
+If using Ubuntu, ensure you have the official Steam .deb package installed, which is available from the [url=https://store.steampowered.com/about]Downloads page[/url] on the Steam website.
+
+[h1]Desktop Environment support[/h1]
+
+SteamVR for Linux requires Direct Rendering Manager (DRM) leasing to function. DRM leasing is the process which allows SteamVR to take control of your VR headset's display in order to present low-latency VR content.
+
+Unfortunately not all Wayland compositors support DRM leasing. It is not possible for SteamVR to function without leasing the display. If your window manager does not support DRM leasing you will need to either use X11 or a compatible Wayland compositor to run SteamVR.
+
+Some compatible window managers/compositors include:
+
+[list]
+
+[*] All X11 Window Managers and Compositors
+
+[*] KDE Plasma Wayland
+
+[*] Most wlroots based compositors:
+
+[list]
+
+[*] Sway
+
+[*] LabWC
+
+[*] Hyprland
+[/list]
+
+[/list]
+
+Notably, Gnome Wayland (the default manager on Ubuntu) is not supported as it does not support DRM leasing. Users using Gnome Wayland will need to switch to an alternative window manager/compositor in order to use SteamVR.
+
+We recommend using Plasma Wayland on an Arch-based distribution to have access to the latest graphics drivers and other components needed for the best experience.
+
+[h2]Workaround for Ubuntu[/h2]
+
+You can have multiple desktop environments installed on your system, but only one can be active at a time.
+
+To install KDE Plasma, use the following command:
+[code]sudo apt install kde-plasma-desktop[/code]
+Then, select "Plasma Wayland" with the Cog icon on the login screen.
