@@ -135,6 +135,8 @@ We recommend using the provided case for both short-term and long-term storage t
 
 [*]Use a small amount of isopropyl alcohol with a dry cloth to clean external plastic surfaces.
 
+[*]When cleaning the display, do not apply the alcohol directly to the display glass - instead, apply it to the cloth only, then use the cloth to clean the display. Applying any liquid directly to the display may result in damage not covered by your warranty.
+
 [*]Do not use isopropyl alcohol or other liquids when cleaning around heatsink and fan vents, input wells (around buttons, trackpads, and thumbsticks), speakers, or ports. Use a dry cloth only.
 
 [*]Avoid using compressed air devices to clean the heatsink and fan vents, as this may interfere with internal components.
