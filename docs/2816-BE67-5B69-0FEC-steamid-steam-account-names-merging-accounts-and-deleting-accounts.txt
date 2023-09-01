@@ -32,3 +32,5 @@ Steam accounts can not be merged together. Per the [url=http://store.steampowere
 If you are sure that you don't want to use Steam anymore, you can submit a [url=https://help.steampowered.com/en/wizard/HelpDeleteAccount]request to delete your account[/url]. You will be asked to provide comprehensive [url=https://support.steampowered.com/kb_article.php?ref=2268-EAFZ-9762]Proof of Ownership[/url] prior to fulfilling the request.
 
 More details can be found in the [url=https://support.steampowered.com/kb_article.php?ref=4650-SDKC-0716]Account Deletion - Common Questions[/url] article.
+
+If have further questions about these topics, please contact [url=https://help.steampowered.com/en/wizard/HelpAccountDataQuestion]Steam Support[/url].

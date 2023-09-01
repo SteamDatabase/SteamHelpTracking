@@ -1,0 +1,77 @@
+[h1]Counter-Strike 2 Leaderboards[/h1]
+
+[list]
+
+[*][url=#who]Who is eligible for Counter-Strike 2 leaderboards?[/url] [/*]
+[*][url=#count]How many leaderboards are there?[/url] [/*]
+[*][url=#selectregion]Can I select which regional leaderboard I appear on?[/url]
+[*][url=#imadeit]What happens after submitting my leaderboard name?[/url] [/*]
+[*][url=#notallowed]What names are not allowed on Counter-Strike 2 leaderboards?[/url] [/*]
+[*][url=#change]Can I change my leaderboard name after it has been approved?[/url] [/*]
+
+[/list]
+
+[section id=who]
+
+[h2]Who is eligible for Counter-Strike 2 leaderboards?[/h2]
+Prime Status players who play Premier matches are eligible for display on public leaderboards when they are among the top 1,000 players in their region.
+
+Players without Prime Status are not eligible for Counter-Strike 2 leaderboards.
+[/section]
+
+[section id=count]
+
+[h2]How many leaderboards are there?[/h2]
+There are nine Counter-Strike 2 leaderboards:
+
+[list]
+
+[*]Friends - this leaderboard tracks players on your Friends List.
+
+[*]World - the top 1,000 players in the world.
+
+[*]Africa
+
+[*]Asia
+
+[*]Australia
+
+[*]China
+
+[*]Europe
+
+[*]North America
+
+[*]South America
+
+[/list]
+
+[/section]
+
+[section id=imadeit]
+
+[h2]What happens after submitting my leaderboard name?[/h2]
+Once your leaderboard name has been submitted it will be reviewed and approved by moderation staff.
+
+If your name is not approved your leaderboard name status will be reset and you will need to submit a new name.
+[/section]
+
+[section id=selectregion]
+
+[h2]Can I select which regional leaderboard I appear on?[/h2]
+No. Your position on a regional leaderboard is determined by the location of the servers that you play on the most.
+[/section]
+
+[section id=notallowed]
+
+[h2]What names are not allowed on Counter-Strike 2 leaderboards?[/h2]
+Advertisements of any kind (websites, software, etc.) are not allowed on Counter-Strike 2 leaderboards and moderation staff may deny submissions for a number of reasons.
+
+When submitting a leaderboard name players are expected to follow [url=https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B]Steam's Community Avatars & Profile Names[/url] guidelines.
+[/section]
+
+[section id=change]
+
+[h2]Can I change my leaderboard name after it has been approved?[/h2]
+No. Once approved, your leaderboard name is locked for the remainder of the season.
+[/section]
