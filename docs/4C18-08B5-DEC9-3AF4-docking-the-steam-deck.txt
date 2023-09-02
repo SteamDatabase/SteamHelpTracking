@@ -48,6 +48,9 @@ This should start the firmware update to start.  If this doesn't, then:
 
 [h5]Display setup[/h5]
 
+[section style=important]Passive cable adapters (DisplayPort to HDMI) are not supported and may cause issues.  Ensure you're using an active cable or adapter.
+[/section]
+
 [list]
 
 [*]Check that you have the correct display input selected on your TV or monitor. It should correspond to the HDMI or Display Port cable that's plugged in to your docking Station. TVs often have many HDMI inputs and you may need to cycle through them to find the right one.
@@ -125,7 +128,7 @@ The best process to enable this is:
 To access this option, you will need to enable the developer menu.  To enables this: [code]click the 'Steam' button > System > turn on 'Enable Developer Mode'.[/code]  Once this is enabled: [code]Click the 'Steam' button > scroll to the bottom and select 'Developer' > scroll down to turn on 'External display safe mode'[/code]
 [/section]
 
-[h5]Graphics/Image quality[/h5]
+[h5]Graphics or image quality[/h5]
 
 [list]
 
