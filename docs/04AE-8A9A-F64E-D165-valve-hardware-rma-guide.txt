@@ -7,7 +7,7 @@ If you are not satisfied with your Valve Hardware ("Hardware") purchase, you can
 [hr][/hr]
 
 [h2]Warranty Repairs or Replacement[/h2]
-If you are seeking repairs or replacement under Valve's [url=https://help.steampowered.com/en/faqs/view/4E41-6123-79EF-25BA]Limited Warranty[/url] (the “Warranty”), you must notify Valve of your warranty claim via the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site[/url] and satisfy all other applicable terms and restrictions set forth in the Warranty terms. If you live in United States of America, Canada, the EU, or the UK and purchased your hardware from Steam, Valve will provide a prepaid shipping label and any other documentation necessary for your return.
+If you are seeking repairs or replacement under Valve's [url=https://help.steampowered.com/en/faqs/view/4E41-6123-79EF-25BA]Limited Warranty[/url] (the “Warranty”), you must notify Valve of your warranty claim via the [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Help Site[/url] and satisfy all other applicable terms and restrictions set forth in the Warranty terms.
 
 Hardware must be transported or shipped to a Valve-designated service center in either the original packaging or in equally protective packaging. Provided the Hardware requires repair or replacement and such repair or replacement is covered by the Warranty or by your statutory rights under applicable laws, Valve will be responsible for the costs of shipping repaired or replacement Hardware back to you. If the Hardware does not require repair or replacement, you may be responsible for the costs of shipping the Hardware back to you. If you send your Hardware, but do not include all components or requested information, it could delay the length of your product service and you may incur additional shipping costs to send additional components or information so that Valve's requirements are satisfied.
 
@@ -31,7 +31,7 @@ If you are having issues with your Hardware, please follow the steps below for a
 
 [/olist]
 
-Once the replacement or repair process has been initiated, you will receive a pre-paid shipping label along with further instructions.
+You will receive instructions about how to conduct your return once the replacement or repair process has been initiated.
 
 It is your responsibility to back up stored data before returning your Hardware. Valve is not responsible for data lost as a result of the repair or replacement process.
 
