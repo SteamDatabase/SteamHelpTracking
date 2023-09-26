@@ -1,0 +1,18 @@
+[h1]SteamVR Beta[/h1]
+
+Opting in to the SteamVR Beta lets you use the latest features before they're released.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/87a3b0aee313ab00d498dd6a2d5f3e8a5d04f533.png[/img]
+
+[h3]How do I participate in the SteamVR beta?[/h3]
+
+Please follow the instructions below to participate in the SteamVR beta:
+
+[olist]
+
+[*]With Steam running, navigate to your library. [/*]
+[*]Right click on "SteamVR" in your library list, then click "Properties" in the context menu. [/*]
+[*]Select the "Betas" tab on the left. [/*]
+[*]Select "Beta - SteamVR Beta Update" from the drop down list [/*]
+
+[/olist]
