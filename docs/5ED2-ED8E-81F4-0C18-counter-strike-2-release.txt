@@ -1,0 +1,76 @@
+[h1]Counter-Strike 2 Release[/h1]
+
+[list]
+
+[*][url=#modes]What game modes are available in Counter-Strike 2 at launch?[/url] [/*]
+[*][url=#inventory]Can I use my CS:GO inventory items in Counter-Strike 2[/url] [/*]
+[*][url=#playcsgo]Can I still play Counter-Strike: Global Offensive?[/url] [/*]
+[*][url=#workshop]Can I run or play on workshop maps in the Counter-Strike 2?[/url] [/*]
+[*][url=#commserver]Can I run or play on community servers in Counter-Strike 2?[/url] [/*]
+[*][url=#premier]What are the requirements to play Premier Mode?[/url] [/*]
+[*][url=#banned]Do bans in CS:GO carry over over to Counter-Strike 2?[/url] [/*]
+[*][url=#sysreq]What are the system requirements to play Counter-Strike 2?[/url] [/*]
+[*][url=#sysreq]Where did my CS:GO achievements go?[/url] [/*]
+[*][url=#sysreq]Is Counter-Strike 2 available on Mac?[/url] [/*]
+
+[/list]
+
+[section id=modes]
+
+[h3]What game modes are available in Counter-Strike 2 at launch?[/h3]
+Deathmatch, Casual, Wingman, Competitive, and Premier Mode are available in Counter-Strike 2 at launch.
+[/section]
+
+[section id=inventory]
+
+[h3]Can I use my CS:GO inventory items in Counter-Strike 2?[/h3]
+Yes. All of your weapon finishes, stickers, and other CS:GO inventory items are available to use in Counter-Strike 2.
+[/section]
+
+[section id=playcsgo]
+
+[h3]Can I still play Counter-Strike: Global Offensive?[/h3]
+No. With the launch of Counter-Strike 2 CS:GO is no longer available.
+[/section]
+
+[section id=workshop]
+
+[h3]Can I run or play on workshop maps in the Counter-Strike 2 Limited Test?[/h3]
+Not at launch, but Workshop map support is coming soon.
+[/section]
+
+[section id=commserver]
+
+[h3]Can I run or play on community servers in Counter-Strike 2?[/h3]
+Not at launch, but Community server support is coming soon.
+[/section]
+
+[section id=premier]
+
+[h3]What are the requirements to play Premier Mode?[/h3]
+In order to play Premier Mode your account must have Prime Status and must be level 10. Prime Status can be purchased on the [url=https://store.steampowered.com/app/730/CounterStrike_2/]Counter-Strike 2 store page[/url] or in-game.
+[/section]
+
+[section id=banned]
+
+[h3]Do bans in CS:GO carry over over to Counter-Strike 2?[/h3]
+Yes. VAC bans, game bans, and competitive cooldowns carry over from CS:GO to Counter-Strike 2.
+[/section]
+
+[section id=sysreq]
+
+[h3]What are the system requirements to play Counter-Strike 2?[/h3]
+System requirements can be found on the [url=https://store.steampowered.com/app/730/CounterStrike_2/]Counter-Strike 2 store page[/url].
+[/section]
+
+[section id=sysreq]
+
+[h3]Where did my CS:GO achievements go?[/h3]
+CS:GO achievements have been wiped and are no longer available.
+[/section]
+
+[section id=sysreq]
+
+[h3]Is Counter-Strike 2 available on Mac?[/h3]
+No. At this time CS2 is not available on Mac.
+[/section]

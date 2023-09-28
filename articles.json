@@ -1310,8 +1310,8 @@
     "5732710972950444086": {
         "title": "Addressing abuse, harassment and other misconduct on Steam",
         "url_code": "4F8E-AE41-B6B1-F836",
-        "version": 8,
-        "timestamp": "2022-02-11 21:10:21"
+        "version": 9,
+        "timestamp": "2023-09-27 23:05:44"
     },
     "5737132002687600633": {
         "title": "Downloads automatically pause when launching a game",
@@ -1578,10 +1578,10 @@
         "timestamp": "2021-10-27 23:24:56"
     },
     "6832784780995857432": {
-        "title": "Counter-Strike 2 Limited Test",
+        "title": "Counter-Strike 2 Release",
         "url_code": "5ED2-ED8E-81F4-0C18",
-        "version": 7,
-        "timestamp": "2023-03-27 20:24:19"
+        "version": 11,
+        "timestamp": "2023-09-27 22:09:06"
     },
     "6862663911468549363": {
         "title": "Antivirus software reports Steam games are malicious",

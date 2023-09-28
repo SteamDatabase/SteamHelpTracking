@@ -104,6 +104,14 @@ You should also review your Steam [url=https://steamcommunity.com/my/edit/settin
 
 [*]
 
+[h3]Be Cautious With Strangers[/h3]
+
+Steam prevents accounts from communicating directly with other accounts they are not friends with. We strongly encourage players to not accept unsolicited chat messages or friend requests. If you do accept these requests, be cautious of malicious behaviors such as account theft, scams, commercial offers, or harassment.
+
+If these types of behaviors are encountered, be sure to use the block and report options outlined above.
+
+[*]
+
 [h3]Protect Your Account[/h3]
 
 Account security is something that you can control. Take advantage of Steam's security features and never let anyone access or borrow your account, regardless of the reason.
