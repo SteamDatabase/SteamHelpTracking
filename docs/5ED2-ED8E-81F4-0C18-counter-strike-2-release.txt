@@ -13,6 +13,7 @@
 [*][url=#achievements]Where did my CS:GO achievements go?[/url] [/*]
 [*][url=#macos]Is Counter-Strike 2 available on Mac?[/url] [/*]
 [*][url=#stats]Is 360 Stats available in Counter-Strike 2?[/url] [/*]
+[*][url=#kitmedal]I did not recive the CS:GO music kit and Badge. Can these be added?[/url] [/*]
 
 [/list]
 
@@ -79,5 +80,11 @@ No. At this time CS2 is not available on Mac.
 [section id=stats]
 
 [h3]Is 360 Stats available in Counter-Strike 2?[/h3]
-No. At release, all existing 360 Stats subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed.
+No. Because CS:GO 360 Stats is no longer available all existing subscribers were refunded for their last month. 360 Stats subscriptions will not be renewed going forward.
+[/section]
+
+[section id=kitmedal]
+
+[h3]I did not recive the CS:GO music kit and Badge. Can these be added?[/h3]
+No. The CS:GO music kit and Badge were granted automatically to accounts which qualified. If your account did not receive the items this means it did not qualify. These items cannot be added by Steam Support.
 [/section]
