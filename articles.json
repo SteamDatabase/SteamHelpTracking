@@ -1580,8 +1580,8 @@
     "6832784780995857432": {
         "title": "Counter-Strike 2 Release",
         "url_code": "5ED2-ED8E-81F4-0C18",
-        "version": 16,
-        "timestamp": "2023-09-30 20:23:49"
+        "version": 17,
+        "timestamp": "2023-10-10 00:51:35"
     },
     "6862663911468549363": {
         "title": "Antivirus software reports Steam games are malicious",
@@ -2032,6 +2032,12 @@
         "url_code": "7336-6EBC-1923-EE1B",
         "version": 2,
         "timestamp": "2021-07-10 19:49:55"
+    },
+    "8353905330122744681": {
+        "title": "Legacy CS:GO Version",
+        "url_code": "73EF-08A3-0935-6369",
+        "version": 1,
+        "timestamp": "2023-10-10 00:49:37"
     },
     "8354897394685667762": {
         "title": "Using custom subtitles in Source games",
