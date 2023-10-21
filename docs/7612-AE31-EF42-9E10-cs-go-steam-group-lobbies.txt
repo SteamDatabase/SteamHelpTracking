@@ -56,7 +56,7 @@ If members of certain Steam Groups have not created a group lobby there may not 
 
 [h3]Where can I find groups to join?[/h3]
 You can find Steam Groups to join through both the Steam client and a web browser.
-While logged in, click on your persona (next to 'COMMUNITY') and select 'GROUPS'. From here you can browse existing Steam Groups, create a new group, and change your primary group.
+While logged in, hover over your persona (next to 'COMMUNITY') and select 'GROUPS' from the drop down menu that appears. From here you can browse existing Steam Groups, create a new group, and change your primary group.
 
 There are thousands of Steam Groups representing a wide variety of communities, countries, languages, and common interests.
 [/section]
