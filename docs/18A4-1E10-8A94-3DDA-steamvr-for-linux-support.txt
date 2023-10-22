@@ -1,4 +1,4 @@
-[h1]SteamVR for Linux Support [/h1]
+[h1]SteamVR for Linux Support[/h1]
 
 [h1]Steam Installation[/h1]
 
