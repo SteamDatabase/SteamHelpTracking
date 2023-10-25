@@ -1,0 +1,108 @@
+[h1]New USD Pricing For Argentina and Turkey beginning November 20th.[/h1]
+
+The Steam store in Argentina and Turkey will start using USD, along with new regional prices for LATAM and Middle East/North Africa for 25 additional countries/ territories.
+
+Starting on November 20th, Steam will change the currency used for sales in Argentina and Turkey to USD. We are implementing this with two new pricing regions: LATAM - USD (which includes Argentina) and MENA - USD (which includes Turkey).  Some countries/territories in the list below may see pricing increase and others may see pricing decrease depending on how games were priced on Steam prior to this change. As with all Steam pricing, game developers choose the price they want to sell their game on Steam. See below for a list of all countries/territories included in these new pricing regions.
+
+[b]Why Now?[/b]
+
+Exchange rate volatility in Argentina and Turkey in recent years has made it hard for game developers to choose appropriate prices for their games and keep them current. We have heard this loud and clear in our developer meet ups and round table chats. In addition, we have had a hard time keeping Steam payment methods up and running in these countries/territories due to the constant foreign exchange fluctuations, fees, taxes, and logistical issues. Pricing games in USD for Steam customers in Argentina and Turkey will help us provide greater stability and consistency for players and partners, while also enabling us to continue to offer a variety of payment methods to Steam users in those countries/territories.
+
+[b]Frequently Asked Questions[/b]
+
+[u]What will happen to my Argentine peso or Turkish lira Steam wallet balance?[/u]
+On November 20th, 2023, any balance in your Steam wallet will be converted to USD at the day's exchange rate.
+
+[u]What is happening for those other countries/territories included in LATAM-USD/MENA-USD pricing?[/u]
+25 countries/ territories in Latin America and the Middle East & North Africa will be receiving regionalized USD pricing for the first time. Some countries/territories in the list below may see pricing increase and others may see pricing decrease depending on how games were priced on Steam by the developer prior to this change.
+
+[u]What about in-game transactions?[/u]
+Going forward, in game transactions will default to transacting in USD  in these new LATAM - USD and MENA - USD pricing regions.
+
+[u]What about subscriptions?[/u]
+Any customer who had an active subscription on Steam in Argentine peso or Turkish lira will see their subscription automatically end after the active subscription period. You can re-subscribe to the new USD subscription in Steam in the Subscriptions Management Page. You can get to this page by going to your User name in the upper right of the Steam client then select Account details and click the Manage subscriptions link toward the top of the page.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/4e8e918eab15bf723dc1586bfbc488fcf85809e6.png[/img]
+
+[u]LATAM-USD Region[/u]
+[b]Central America[/b]
+
+[list]
+
+[*] Belize
+
+[*] El Salvador
+
+[*] Guatemala
+
+[*] Honduras
+
+[*] Nicaragua
+
+[*] Panama
+
+[/list]
+
+[b]South America [/b]
+
+[list]
+
+[*] Argentina
+
+[*] Bolivia
+
+[*] Ecuador
+
+[*] Guyana
+
+[*] Paraguay
+
+[*] Suriname
+
+[*] Venezuela
+
+[/list]
+
+[u]MENA-USD Region[/u]
+[b]Middle East[/b]
+
+[list]
+
+[*] Bahrain
+
+[*] Egypt
+
+[*] Iraq
+
+[*] Jordan
+
+[*] Lebanon
+
+[*] Oman
+
+[*] Palestine
+
+[*] Turkey
+
+[*] Yemen
+
+[/list]
+
+[b]North Africa [/b]
+
+[list]
+
+[*] Algeria
+
+[*] Libya
+
+[*] Morocco
+
+[*] Tunisia
+
+[*] Sudan
+
+[/list]
+
+Need Help?
+Please contact [url=https://help.steampowered.com/]Steam Support[/url] if you have any questions.
