@@ -2,7 +2,7 @@
 
 The Steam store in Argentina and Turkey will start using USD, along with new regional prices for LATAM and Middle East/North Africa for 25 additional countries/ territories.
 
-Starting on November 20th, Steam will change the currency used for sales in Argentina and Turkey to USD. We are implementing this with two new pricing regions: LATAM - USD (which includes Argentina) and MENA - USD (which includes Turkey).  Some countries/territories in the list below may see pricing increase and others may see pricing decrease depending on how games were priced on Steam prior to this change. As with all Steam pricing, game developers choose the price they want to sell their game on Steam. See below for a list of all countries/territories included in these new pricing regions.
+Starting on November 20th, Steam will change the currency used for sales in Argentina and Turkey to USD. We are implementing this with two new pricing regions: LATAM - USD (which includes Argentina) and MENA - USD (which includes Turkey). We recommend a reduced USD price in these new regions, and have updated the suggestions in our pricing tools to reflect this. Some countries/territories in the list below may see pricing increase and others may see pricing decrease depending on how games were priced on Steam prior to this change. As with all Steam pricing, game developers choose the price they want to sell their game on Steam. See below for a list of all countries/territories included in these new pricing regions.
 
 [b]Why Now?[/b]
 
