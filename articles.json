@@ -6,10 +6,10 @@
         "timestamp": "2021-08-24 20:02:52"
     },
     "67508337958896005": {
-        "title": "CS:GO - Trust Factor Matchmaking",
+        "title": "CS2 - Trust Factor Matchmaking",
         "url_code": "00EF-D679-C76A-C185",
-        "version": 5,
-        "timestamp": "2021-10-27 21:42:40"
+        "version": 7,
+        "timestamp": "2023-11-01 22:12:52"
     },
     "110456628157286625": {
         "title": "Setting Steam Launch Options",
@@ -84,10 +84,10 @@
         "timestamp": "2021-08-12 20:05:53"
     },
     "462593103816411357": {
-        "title": "CS:GO - Viewer Passes",
+        "title": "CS2 - Viewer Passes",
         "url_code": "066B-75FA-1C85-C8DD",
-        "version": 6,
-        "timestamp": "2021-10-27 23:30:11"
+        "version": 7,
+        "timestamp": "2023-11-01 22:14:44"
     },
     "470756531795269941": {
         "title": "Dota 2 Workshop - Character Art Guide",
@@ -114,10 +114,10 @@
         "timestamp": "2021-08-12 20:19:54"
     },
     "553749440390020427": {
-        "title": "CS:GO - GSLT Bans",
+        "title": "CS2 - GSLT Bans",
         "url_code": "07AF-502E-A104-BD4B",
-        "version": 5,
-        "timestamp": "2021-08-17 17:47:22"
+        "version": 6,
+        "timestamp": "2023-11-01 21:51:49"
     },
     "578010788365722146": {
         "title": "No Steam content servers are currently configured to deliver content for this game",
@@ -168,10 +168,10 @@
         "timestamp": "2021-08-09 16:23:42"
     },
     "693634028272873365": {
-        "title": "CS:GO - Trusted Mode",
+        "title": "CS2 - Trusted Mode",
         "url_code": "09A0-4879-4353-EF95",
-        "version": 3,
-        "timestamp": "2021-07-10 19:49:55"
+        "version": 4,
+        "timestamp": "2023-11-01 22:10:35"
     },
     "694090166050414025": {
         "title": "Steam Wallet Gift Card Scam",
@@ -540,10 +540,10 @@
         "timestamp": "2021-12-02 23:49:06"
     },
     "2646334668964795145": {
-        "title": "CS:GO - Graffiti",
+        "title": "CS2 - Graffiti",
         "url_code": "24B9-AB5C-4C72-9309",
-        "version": 8,
-        "timestamp": "2023-07-14 21:28:50"
+        "version": 9,
+        "timestamp": "2023-11-01 22:03:05"
     },
     "2650174118772637433": {
         "title": "Steam for Linux might not run on older processors",
@@ -978,10 +978,10 @@
         "timestamp": "2021-08-12 19:07:21"
     },
     "4507533753106874573": {
-        "title": "CS:GO - Communication Penalties",
+        "title": "CS2 - Communication Penalties",
         "url_code": "3E8D-FA11-0704-C0CD",
-        "version": 4,
-        "timestamp": "2023-04-25 23:06:47"
+        "version": 5,
+        "timestamp": "2023-11-01 21:47:40"
     },
     "4517485828743518799": {
         "title": "Dota 2 Workshop - Authoring Arcana, Ability, and Ambient Textures",
@@ -1260,10 +1260,10 @@
         "timestamp": "2023-07-10 18:38:33"
     },
     "5584950914979765099": {
-        "title": "CS:GO - Prime Status and Free to Play",
+        "title": "CS2 - Prime Status and Free to Play",
         "url_code": "4D81-BB44-4F5C-9B6B",
-        "version": 4,
-        "timestamp": "2021-08-11 00:14:06"
+        "version": 5,
+        "timestamp": "2023-11-01 21:45:36"
     },
     "5601042700399114322": {
         "title": "Soundtracks and Steam Music Player",
@@ -1284,16 +1284,16 @@
         "timestamp": "2022-03-04 17:39:34"
     },
     "5644148975375488343": {
-        "title": "CS:GO - I've been game banned",
+        "title": "CS2 - I've been game banned",
         "url_code": "4E54-0B96-D0A4-1557",
-        "version": 12,
-        "timestamp": "2022-05-14 20:29:09"
+        "version": 13,
+        "timestamp": "2023-11-01 22:04:53"
     },
     "5706435398068383642": {
-        "title": "CS:GO - In-game Items",
+        "title": "CS2 - In-game Items",
         "url_code": "4F31-54C2-B394-AF9A",
-        "version": 29,
-        "timestamp": "2023-07-17 18:09:06"
+        "version": 30,
+        "timestamp": "2023-11-01 22:07:36"
     },
     "5718041075055894628": {
         "title": "Portal 2 Perpetual Testing Initiative",
@@ -1506,10 +1506,10 @@
         "timestamp": "2021-10-27 21:58:03"
     },
     "6522916455231425610": {
-        "title": "CS:GO - Opting into Beta depots",
+        "title": "CS2 - Opting into Beta depots",
         "url_code": "5A86-0DF4-C59E-8C4A",
-        "version": 5,
-        "timestamp": "2021-08-12 20:26:42"
+        "version": 6,
+        "timestamp": "2023-11-01 22:08:43"
     },
     "6540775144582804479": {
         "title": "Slow Downloads and Connection to Content Servers",
@@ -2034,10 +2034,10 @@
         "timestamp": "2021-08-28 00:53:17"
     },
     "8301944717258780187": {
-        "title": "CS:GO - X-Ray Scanner",
+        "title": "CS2 - X-Ray Scanner",
         "url_code": "7336-6EBC-1923-EE1B",
-        "version": 2,
-        "timestamp": "2021-07-10 19:49:55"
+        "version": 3,
+        "timestamp": "2023-11-01 22:16:04"
     },
     "8353905330122744681": {
         "title": "Legacy CS:GO Version",
@@ -2058,10 +2058,10 @@
         "timestamp": "2021-07-10 19:49:55"
     },
     "8466903480464485479": {
-        "title": "CS:GO - Competitive cooldowns and bans",
+        "title": "CS2 - Competitive cooldowns and bans",
         "url_code": "7580-7BDB-1C9A-AC67",
-        "version": 16,
-        "timestamp": "2021-09-30 22:13:21"
+        "version": 17,
+        "timestamp": "2023-11-01 21:50:42"
     },
     "8508054175547039248": {
         "title": "CS:GO - Steam Group Lobbies",

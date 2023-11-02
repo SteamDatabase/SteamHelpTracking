@@ -1,4 +1,4 @@
-[h1]CS:GO - Viewer Passes[/h1]
+[h1]CS2 - Viewer Passes[/h1]
 
 [h2]Frequently Asked Questions[/h2]
 
@@ -41,7 +41,7 @@
 [section id=viewerpass]
 
 [h2]What is a Viewer Pass?[/h2]
-A CS:GO Viewer Pass is a purchasable in-game item which gives purchasers exclusive access to:
+A Counter-Strike 2 Viewer Pass is a purchasable in-game item which gives purchasers exclusive access to:
 
 [list]
 
@@ -58,7 +58,7 @@ A CS:GO Viewer Pass is a purchasable in-game item which gives purchasers exclusi
 [section id=getviewerpass]
 
 [h2]How do I get a Viewer Pass?[/h2]
-Viewer Passes can be purchased in-game during CS:GO Majors. Viewer Passes can also be sent as gifts one week after purchase.
+Viewer Passes can be purchased in-game during Counter-Strike 2 Majors. Viewer Passes can also be sent as gifts one week after purchase.
 [/section]
 
 [section id=multiplepasses]
@@ -70,13 +70,13 @@ No. You can only activate one Viewer Pass per Steam account.
 [section id=upgradecoin]
 
 [h2]How do I upgrade my Event Coin?[/h2]
-You can upgrade your Event Coin by completing challenges. All challenges are shown in-game by locating your Event Coin in your CS:GO Inventory, clicking on it and selecting 'View Coin Challenges'.
+You can upgrade your Event Coin by completing challenges. All challenges are shown in-game by locating your Event Coin in your Counter-Strike 2 Inventory, clicking on it and selecting 'View Coin Challenges'.
 [/section]
 
 [section id=changegraffiti]
 
 [h2]I purchased a Viewer Pass. How do I equip/change my team graffiti?[/h2]
-As part of your Viewer Pass purchase you receive unlimited team graffiti for the duration of the Major. To select or change your equipped team graffiti, find your Event Coin in your CS:GO Inventory, click on it and select 'Choose Team Graffiti'.
+As part of your Viewer Pass purchase you receive unlimited team graffiti for the duration of the Major. To select or change your equipped team graffiti, find your Event Coin in your Counter-Strike 2 Inventory, click on it and select 'Choose Team Graffiti'.
 [/section]
 
 [section id=upgradepoints]
@@ -114,7 +114,7 @@ You can redeem a Souvenir Package each time you upgrade your Event Coin or purch
 [section id=redeemsouvenir]
 
 [h2]I upgraded my Event Coin! How do I redeem a Souvenir Package?[/h2]
-To redeem a Souvenir Package locate your Event Coin in your CS:GO Inventory, click on it and select 'View Coin Challenges'. Beneath your Event Coin click on 'REDEEM SOUVENIRS' to see a list of matches you can redeem your Souvenir from. Souvenir Packages can only be redeemed from completed matches.
+To redeem a Souvenir Package locate your Event Coin in your Counter-Strike 2 Inventory, click on it and select 'View Coin Challenges'. Beneath your Event Coin click on 'REDEEM SOUVENIRS' to see a list of matches you can redeem your Souvenir from. Souvenir Packages can only be redeemed from completed matches.
 [/section]
 
 [section id=tradesouvenirs]
@@ -132,7 +132,7 @@ Yes. During Majors, Viewer Pass holders can purchase Souvenir Package redemption
 [section id=timelimit]
 
 [h2]How long do I have to redeem my Souvenir Package(s)?[/h2]
-End dates for redemption are set when the Major begins. Please check the CS:GO blog for information during a CS:GO Major.
+End dates for redemption are set when the Major begins. Please check the Counter-Strike blog for information during a Counter-Strike 2 Major.
 [/section]
 
 [section id=pickem]
@@ -150,5 +150,5 @@ No. After purchasing the Viewer Pass you can make and modify picks without buyin
 [section id=howtopickem]
 
 [h2]I purchased a Viewer Pass. How do I play the Pick'Em Challenge?[/h2]
-The Pick'Em Challenge can be played through the 'WATCH' tab in-game. You can also make and modify picks by finding the Event Coin in your CS:GO Inventory, clicking on it and selecting 'Play the Pick'Em Challenge'.
+The Pick'Em Challenge can be played through the 'WATCH' tab in-game. You can also make and modify picks by finding the Event Coin in your Counter-Strike 2 Inventory, clicking on it and selecting 'Play the Pick'Em Challenge'.
 [/section]

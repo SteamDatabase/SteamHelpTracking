@@ -1,4 +1,4 @@
-[h1]CS:GO - Graffiti[/h1]
+[h1]CS2 - Graffiti[/h1]
 
 [list]
 
@@ -23,7 +23,7 @@ There are three ways players can get in-game graffiti:
 
 [list]
 
-[*] Players with Prime Status receive one graffiti per week as a free weekly drop for ranking up.
+[*] Players with Prime Status can choose graffiti from their weekly care package.
 
 [*] Graffiti Boxes featuring art created by Steam Community Artists can be purchased. A portion of the proceeds from sales of Community Graffiti Boxes is shared among the community artists.
 
@@ -98,5 +98,5 @@ Graffiti can be sold on the Steam Community Market and traded as long as it is s
 [section id=graffitidelete]
 
 [h2]Can I delete graffiti from my Inventory?[/h2]
-Yes, but the graffiti must be unsealed. Once you have unsealed the graffiti, locate the item in your CS:GO inventory, right click on it, then select 'Delete Item'.
+Yes, but the graffiti must be unsealed. Once you have unsealed the graffiti, locate the item in your Counter-Strike 2 inventory, right click on it, then select 'Delete Item'.
 [/section]

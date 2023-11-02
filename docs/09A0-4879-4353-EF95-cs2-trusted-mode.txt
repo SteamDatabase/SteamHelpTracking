@@ -1,15 +1,15 @@
-[h1]CS:GO - Trusted Mode[/h1]
+[h1]CS2 - Trusted Mode[/h1]
 
 [list]
 
 [*][url=#trust]What is Trusted mode?[/url] [/*]
 [*][url=#how]How does Trusted mode help fight against cheaters?[/url] [/*]
 [*][url=#prevent]Does Trusted mode prevent cheats from working?[/url] [/*]
-[*][url=#banned]Would I get banned for injecting into CS:GO if I run in normal (not Trusted) mode?[/url] [/*]
-[*][url=#whitelist]Is there a whitelist of software that can be safely injected into CS:GO?[/url] [/*]
+[*][url=#banned]Would I get banned for injecting into Counter-Strike 2 if I run in normal (not Trusted) mode?[/url] [/*]
+[*][url=#whitelist]Is there a whitelist of software that can be safely injected into Counter-Strike 2?[/url] [/*]
 [*][url=#penalty]Does normal (not Trusted) mode guarantee a penalty to the Trust score or segregation from Trust mode players?[/url] [/*]
 [*][url=#perf]Why are some players noticing performance issues in Trusted mode?[/url] [/*]
-[*][url=#crash]Why are some players crashing when launching CS:GO in Trusted mode?[/url] [/*]
+[*][url=#crash]Why are some players crashing when launching Counter-Strike 2 in Trusted mode?[/url] [/*]
 [*][url=#loaded]What happens if I start incompatible software after the game has launched in Trusted mode?[/url] [/*]
 
 [/list]
@@ -17,13 +17,13 @@
 [section id=trust]
 
 [h2]What is Trusted mode?[/h2]
-Trusted mode in CS:GO blocks third-party files from interacting with the game and is enabled by default for all CS:GO players.
+Trusted mode in Counter-Strike 2 blocks third-party files from interacting with the game and is enabled by default for all Counter-Strike 2 players.
 [/section]
 
 [section id=how]
 
 [h2]How does Trusted mode help fight against cheaters? [/h2]
-Some applications interact with CS:GO by injecting directly into the game process. This method is used by common applications as well as cheats.
+Some applications interact with Counter-Strike 2 by injecting directly into the game process. This method is used by common applications as well as cheats.
 
 We can vastly improve cheat prevention by restricting injections altogether — as opposed to determining whether an injection is a cheat or not. The solution is to:
 
@@ -33,7 +33,7 @@ We can vastly improve cheat prevention by restricting injections altogether — 
 [*]Update our policy to include VAC banning for any targeted process tampering. [/*]
 
 [/list]
-Trusted mode gives players a way to launch CS:GO and ensure that they do not accidentally run software that injects into the game. While in Trusted mode, software that normally would inject into the CS:GO process is rejected. Because CS:GO has protected itself, any injections that occur are not accidental and therefore subject to a VAC ban.
+Trusted mode gives players a way to launch Counter-Strike 2 and ensure that they do not accidentally run software that injects into the game. While in Trusted mode, software that normally would inject into the Counter-Strike 2 process is rejected. Because Counter-Strike 2 has protected itself, any injections that occur are not accidental and therefore subject to a VAC ban.
 [/section]
 
 [section id=prevent]
@@ -44,20 +44,20 @@ No. Trusted mode is a minimal barrier to cheat development, however, we expect t
 
 [section id=banned]
 
-[h2]Would I get banned for injecting into CS:GO if I run in normal (not Trusted) mode?[/h2]
-No. However, over time the Trust Factor system will learn whether certain patterns of software injection are more likely to lead to cheating. So, your Trust Factor may be negatively affected by running CS:GO outside of Trusted mode.
+[h2]Would I get banned for injecting into Counter-Strike 2 if I run in normal (not Trusted) mode?[/h2]
+No. However, over time the Trust Factor system will learn whether certain patterns of software injection are more likely to lead to cheating. So, your Trust Factor may be negatively affected by running Counter-Strike 2 outside of Trusted mode.
 
 We expect that some cheaters will simply run in normal mode and avoid a ban for injecting software into the game. But over time, we also expect that they will experience significantly reduced Trust because their pattern of software injection will be associated with cheating.
 [/section]
 
 [section id=whitelist]
 
-[h2]Is there a whitelist of software that can be safely injected into CS:GO?[/h2]
-No. Unfortunately, even benign applications are often a vector for cheats that hijack them in order to cheat in CS:GO. So in Trusted mode, all foreign software is blocked.
+[h2]Is there a whitelist of software that can be safely injected into Counter-Strike 2?[/h2]
+No. Unfortunately, even benign applications are often a vector for cheats that hijack them in order to cheat in Counter-Strike 2. So in Trusted mode, all foreign software is blocked.
 
-Note that in normal mode, some application injections may also be blocked. To inject into CS:GO in normal mode, the software DLLs must be signed. Injections by unsigned DLLs will result in CS:GO launching in insecure mode, which prohibits playing on VAC-secure servers.
+Note that in normal mode, some application injections may also be blocked. To inject into Counter-Strike 2 in normal mode, the software DLLs must be signed. Injections by unsigned DLLs will result in Counter-Strike 2 launching in insecure mode, which prohibits playing on VAC-secure servers.
 
-If you would like to play CS:GO with software that is normally blocked you will need to [url=https://support.steampowered.com/kb_article.php?ref=1040-JWMT-2947]add the launch option[/url] "[i]-allow_third_party_software[/i]".
+If you would like to play Counter-Strike 2 with software that is normally blocked you will need to [url=https://support.steampowered.com/kb_article.php?ref=1040-JWMT-2947]add the launch option[/url] "[i]-allow_third_party_software[/i]".
 [/section]
 
 [section id=penalty]
@@ -69,17 +69,17 @@ No. Playing in normal (not Trusted) mode does not guarantee a Trust score penalt
 [section id=perf]
 
 [h2]Why are some players noticing performance issues in Trusted mode?[/h2]
-CS:GO refuses injections in Trusted mode, but sometimes applications keep trying. When applications try to inject into CS:GO at very high rates (some as frequently as 1kHz), players may notice performance issues.
+Counter-Strike 2 refuses injections in Trusted mode, but sometimes applications keep trying. When applications try to inject into Counter-Strike 2 at very high rates (some as frequently as 1kHz), players may notice performance issues.
 
 Sometimes applications attempt to inject during low level Windows mouse events, which results in noticeable performance degradation when the mouse is moved. We are internally testing a mechanism that has virtually zero overhead, even for the most zealous of injecting software. Once this new approach ships, players should no longer notice a performance impact from running in Trusted mode, even when moving the mouse.
 [/section]
 
 [section id=crash]
 
-[h2]Why are some players crashing when launching CS:GO in Trusted mode?[/h2]
-Earlier versions of CS:GO’s Trusted Mode would refuse foreign software injection in a variety of ways, but all countermeasures take place inside the CS:GO process. As a result, if those countermeasures violated expectations of the software being injected, a crash would occur inside CS:GO.
+[h2]Why are some players crashing when launching Counter-Strike 2 in Trusted mode?[/h2]
+Earlier versions of Counter-Strike 2’s Trusted Mode would refuse foreign software injection in a variety of ways, but all countermeasures take place inside the Counter-Strike 2 process. As a result, if those countermeasures violated expectations of the software being injected, a crash would occur inside Counter-Strike 2.
 
-By capturing the vast variety of software the CS:GO community is injecting (both on purpose and by accident), we’ve identified a technique that defeats injection in a manner that is both safe and high performance. Once this solution ships, users should no longer experience crashes.
+By capturing the vast variety of software the Counter-Strike 2 community is injecting (both on purpose and by accident), we’ve identified a technique that defeats injection in a manner that is both safe and high performance. Once this solution ships, users should no longer experience crashes.
 [/section]
 
 [section id=loaded]

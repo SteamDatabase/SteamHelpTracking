@@ -1,4 +1,4 @@
-[h1]CS:GO - Competitive cooldowns and bans[/h1]
+[h1]CS2 - Competitive cooldowns and bans[/h1]
 
 [section style=warning]Counter-Strike: Global Offensive cooldowns and bans are non-negotiable and cannot be removed or reduced by Steam Support.
 
@@ -14,7 +14,6 @@ If an automated cooldown or ban is determined to have been issued incorrectly, i
 [list]
 
 [*][url=#server]Failing to stay connected to the server[/url] [/*]
-[*][url=#newplayer]New players may win two Competitive matches in 24 hours[/url] [/*]
 [*][url=#kicker]Kicking too many teammates[/url] [/*]
 [*][url=#kickee]Being kicked from too many matches[/url] [/*]
 [*][url=#abandon]Abandoning matches[/url] [/*]
@@ -56,14 +55,6 @@ Competitive cooldowns are issued for the following reasons:
 Any player who cannot remain connected or reconnect to the server in time will receive a Competitive cooldown. This may be caused by network, technical, or local issues with your machine, but any time a player leaves a Competitive server and does not reconnect in time a Competitive cooldown will be issued.
 
 If you are experiencing network or technical issues that are causing Competitive cooldowns we suggest troubleshooting those issues before attempting to play another Competitive match. Please see our [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] help article for more information.
-[/section]
-
-[section id=newplayer]
-
-[h2]New players may win two Competitive matches in 24 hours[/h2]
-New players may win 2 Competitive matches in 24 hours before receiving an intentional Competitive cooldown. This cooldown exists to limit the impact new accounts can have on Ranked and Unranked matchmaking.
-
-After 10 Competitive wins the new player cooldown is removed and there is no limit to the number of Competitive wins you may earn in 24 hours.
 [/section]
 
 [section id=kicker]
@@ -109,7 +100,7 @@ No. Regardless of the reason a Competitive cooldown was issued they cannot be re
 [section id=length]
 
 [h2]How long will my Competitive cooldown last?[/h2]
-Competitive cooldowns in CS:GO have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking:
+Competitive cooldowns in Counter-Strike 2 have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking:
 
 [list]
 

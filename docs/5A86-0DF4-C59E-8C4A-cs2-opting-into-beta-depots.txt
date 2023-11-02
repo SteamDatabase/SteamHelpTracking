@@ -1,6 +1,6 @@
-[h1]CS:GO - Opting into Beta depots[/h1]
+[h1]CS2 - Opting into Beta depots[/h1]
 
-CS:GO Beta depots allow the game's developers (and users) to test changes not yet available in the Public version of the game.
+Counter-Strike 2 Beta depots allow the game's developers (and users) to test changes not yet available in the Public version of the game.
 
 When opting into a beta depot players will be required to download updated files. The download size will vary based on the number of changes. Please note official Valve-matchmaking is not available in beta depots.
 
@@ -9,10 +9,10 @@ To opt into beta depots:
 [olist]
 
 [*]Open the Steam client and navigate to your [b]Library[/b]. [/*]
-[*]From the CS:GO page, open the [b]Properties[/b] window from the [b]Manage menu[/b].
+[*]From the Counter-Strike 2 page, open the [b]Properties[/b] window from the [b]Manage menu[/b].
 [*]Select the [b]Betas[/b] tab.
 [*]Select the beta you would like to opt into.
-[*]Launch CS:GO to play the game with its Beta changes. [/*]
+[*]Launch Counter-Strike 2 to play the game with its Beta changes. [/*]
 
 [/olist]
 To opt out of the beta and resume playing the current version of the game, select 'None' in the drop down on the betas tab. This will require you to re-download the current public files.

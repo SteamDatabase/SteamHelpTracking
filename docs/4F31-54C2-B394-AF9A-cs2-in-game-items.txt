@@ -1,8 +1,8 @@
-[h1]CS:GO - In-game Items[/h1]
+[h1]CS2 - In-game Items[/h1]
 
-[section style=warning]Any CS:GO item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [url=https://steamcommunity.com/market/search?appid=730]Steam Community Market[/url].
+[section style=warning]Any Counter-Strike 2 item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [url=https://steamcommunity.com/market/search?appid=730]Steam Community Market[/url].
 
-Detailed information on this restriction can be found on the [url=https://blog.counter-strike.net/index.php/2018/03/20308/]CS:GO blog[/url].
+Detailed information on this restriction can be found on the [url=https://blog.counter-strike.net/index.php/2018/03/20308/]Counter-Strike blog[/url].
 [/section]
 
 [h2]Service Medals, Coins, and other display items[/h2]
@@ -99,9 +99,9 @@ Different Service Medals are available every year beginning January 1st at 12:00
 [section id=vetcoins]
 
 [h2]What are 5 and 10 Year Veteran Coins and how do I earn them?[/h2]
-5 and 10 Year CS:GO Veteran Coins are granted automatically to accounts which have logged into and played CS:GO in the 5 or 10 years prior to the coin eligibility date and are in good VAC standing, meaning the account has not been VAC, Overwatch, or Game banned. Accounts that have been VAC banned in [i]any[/i] game on Steam or are trade banned are not eligible to receive CS:GO Veteran Coins.
+5 and 10 Year Counter-Strike 2 Veteran Coins are granted automatically to accounts which have logged into and played Counter-Strike 2 in the 5 or 10 years prior to the coin eligibility date and are in good VAC standing, meaning the account has not been VAC, Overwatch, or Game banned. Accounts that have been VAC banned in [i]any[/i] game on Steam or are trade banned are not eligible to receive Counter-Strike 2 Veteran Coins.
 
-Your account's Veteran Coin eligibility can be verified on your CS:GO personal game data page by following the instructions below:
+Your account's Veteran Coin eligibility can be verified on your Counter-Strike 2 personal game data page by following the instructions below:
 
 [list]
 
@@ -111,7 +111,7 @@ Your account's Veteran Coin eligibility can be verified on your CS:GO personal g
 
 [*]On the 'Account Information' tab scroll down and look for 'First Counter-Strike franchise game'. Five and ten years from the date shown here is when your account is eligible to receive the associated Veteran Coin(s).
 [/list]
-When you qualify for the coins you will need to launch CS:GO to receive them. Veteran Coins are not granted until the game has been launched.
+When you qualify for the coins you will need to launch Counter-Strike 2 to receive them. Veteran Coins are not granted until the game has been launched.
 
 [b]Note:[/b] If you have refunded or removed a Counter-Strike license from your account the original registration date will no longer be recognized. The date shown on the Account Information tab is the date Veteran Coins recognize.
 [/section]
@@ -143,9 +143,9 @@ No. Service Medals, Coins of any kind, badges, pins, and other display items can
 [section id=whatarestick]
 
 [h2]What are Stickers?[/h2]
-Stickers in CS:GO are single use in-game items that can be applied to one of four locations on each weapon.
+Stickers in Counter-Strike 2 are single use in-game items that can be applied to one of four locations on each weapon.
 
-Stickers can be scraped once they have been applied to a weapon to change their appearance. To do this, left-click on a weapon in your CS:GO Inventory which has Stickers, select 'Scrape Sticker', and click on the Sticker you'd like to scrape.
+Stickers can be scraped once they have been applied to a weapon to change their appearance. To do this, left-click on a weapon in your Counter-Strike 2 Inventory which has Stickers, select 'Scrape Sticker', and click on the Sticker you'd like to scrape.
 
 Stickers can be purchased through in-game offers or from the [url=https://steamcommunity.com/market/]Community Market[/url].
 
@@ -171,7 +171,7 @@ You are free to completely remove the sticker by scraping it further using the i
 [section id=whatissu]
 
 [h2]What are Storage Units?[/h2]
-Storage Units are in-game items used to expand and better organize your CS:GO Inventory. A Storage Unit adds an additional 1,000 item capacity to your CS:GO Inventory.
+Storage Units are in-game items used to expand and better organize your Counter-Strike 2 Inventory. A Storage Unit adds an additional 1,000 item capacity to your Counter-Strike 2 Inventory.
 [/section]
 
 [section id=howdoisu]
@@ -183,7 +183,7 @@ Storage Units can be purchased in-game for $1.99.
 [section id=whoneedssu]
 
 [h2]Who needs a Storage Unit?[/h2]
-Any user who wants to hold more than 1,000 items in their CS:GO Inventory will need a Storage Unit. Even if you have not reached the 1,000 item Inventory limit, Storage Units can be labeled and used as a way to more effectively organize your CS:GO Inventory.
+Any user who wants to hold more than 1,000 items in their Counter-Strike 2 Inventory will need a Storage Unit. Even if you have not reached the 1,000 item Inventory limit, Storage Units can be labeled and used as a way to more effectively organize your Counter-Strike 2 Inventory.
 [/section]
 
 [section id=depositsu]
@@ -217,7 +217,7 @@ There are two ways to retrieve items from a Storage Unit:
 [section id=whereretrieve]
 
 [h2]I retrieved an item but can not find it in my Inventory. Where did it go?[/h2]
-When items are retrieved from a Storage Unit they are added back to your CS:GO Inventory in the same location they were prior to being deposited. Retrieved items will not appear at the top of your CS:GO Inventory.
+When items are retrieved from a Storage Unit they are added back to your Counter-Strike 2 Inventory in the same location they were prior to being deposited. Retrieved items will not appear at the top of your Counter-Strike 2 Inventory.
 
 If you can not find the retrieved item we suggest scrolling through your Inventory or searching for the item using 'Search Items'. It is not possible to lose items you are depositing or retrieving from Storage Units because they never leave your account.
 [/section]
@@ -253,7 +253,7 @@ To use a Trade Up Contract, left-click on an eligible weapon and select 'Use Wit
 [h2]Which weapons can be used in Trade Up Contracts?[/h2]
 A Trade Up Contract requires all ten weapons to be the same weapon rarity (Mil-Spec, Restricted, Classified, etc.) and [i]either[/i] normal or StatTrak. Normal weapon skins cannot be used in a Trade Up Contract with StatTrak weapon skins and vice versa.
 
-To verify if a weapon can be used in a Trade Up Contract, hover over the weapon in your CS:GO Inventory and look for the Collection it is included in. Covert (red) rarity weapons and weapons which are already the rarest in their collection (like the R8 Revolver | Amber Fade) cannot be used in any Trade Up Contract.
+To verify if a weapon can be used in a Trade Up Contract, hover over the weapon in your Counter-Strike 2 Inventory and look for the Collection it is included in. Covert (red) rarity weapons and weapons which are already the rarest in their collection (like the R8 Revolver | Amber Fade) cannot be used in any Trade Up Contract.
 [/section]
 
 [section id=whatarent]
@@ -291,7 +291,7 @@ No. Name Tags have a pre-determined location on each weapon which cannot be chan
 [section id=whatarepatches]
 
 [h2]What are Patches?[/h2]
-Patches in CS:GO are single use in-game items that can be applied to any Agent you own.
+Patches in Counter-Strike 2 are single use in-game items that can be applied to any Agent you own.
 
 Once applied, a Patch’s location cannot be changed; the Patch can only be removed from the Agent. Like Stickers on a weapon, any Patches applied to an Agent will remain if it is bought or sold on the Steam Community Market.
 [/section]
@@ -323,5 +323,5 @@ StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [url=https
 [section id=graffiti]
 
 [h2]Graffiti information[/h2]
-Detailed information about CS:GO Graffiti can be found in our [url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]Graffiti Help Article[/url].
+Detailed information about Counter-Strike 2 Graffiti can be found in our [url=https://support.steampowered.com/kb_article.php?ref=7737-ukvb-0657]Graffiti Help Article[/url].
 [/section]

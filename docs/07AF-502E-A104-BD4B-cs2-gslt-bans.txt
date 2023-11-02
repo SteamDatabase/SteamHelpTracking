@@ -1,4 +1,4 @@
-[h1]CS:GO - GSLT Bans[/h1]
+[h1]CS2 - GSLT Bans[/h1]
 
 [section style=warning]GSLT bans are non-negotiable and cannot be removed or reduced by Steam Support.
 
@@ -12,7 +12,7 @@ If an automated cooldown or ban is determined to have been issued incorrectly, i
 [*][url=#gsltinfo]What is a GSLT ban?[/url] [/*]
 [*][url=#receiveban]What happens if I receive a GSLT ban?[/url] [/*]
 [*][url=#dontoffer]What should not be offered on community servers?[/url] [/*]
-[*][url=#tradegslt]Am I able to trade CS:GO items if I've received a GSLT ban?[/url] [/*]
+[*][url=#tradegslt]Am I able to trade Counter-Strike 2 items if I've received a GSLT ban?[/url] [/*]
 
 [/list]
 
@@ -44,7 +44,7 @@ Server operators receiving a GSLT ban will receive the following in-game message
 [*][i]A server using your game server login token has been banned. Your account is now permanently banned from operating game servers, and you have a cooldown from connecting to game servers.[/i] [/*]
 
 [/list]
-Players receiving this message are permanently banned from operating community servers in CS:GO and will receive a matchmaking cooldown. The matchmaking cooldown for GSLT bans restricts users from playing CS:GO competitive matches and trading in-game items for the duration of the cooldown. For more information about cooldowns, please see our [url=https://support.steampowered.com/kb_article.php?ref=1203-WJCV-7019]competitive cooldowns and bans help article[/url].
+Players receiving this message are permanently banned from operating community servers in Counter-Strike 2 and will receive a matchmaking cooldown. The matchmaking cooldown for GSLT bans restricts users from playing Counter-Strike 2 competitive matches and trading in-game items for the duration of the cooldown. For more information about cooldowns, please see our [url=https://support.steampowered.com/kb_article.php?ref=1203-WJCV-7019]competitive cooldowns and bans help article[/url].
 
 Players wanting to host servers in the future will need to use a Steam account that has never shared a phone number with a GSLT banned account.
 [/section]
@@ -56,9 +56,9 @@ If a server provides any of the following services we ask that you disable them:
 
 [list]
 
-[*]Services allowing players to claim temporary ownership of CS:GO items that are not in their inventory (weapon skins, knives, etc.). [/*]
+[*]Services allowing players to claim temporary ownership of Counter-Strike 2 items that are not in their inventory (weapon skins, knives, etc.). [/*]
 [*]Services providing a falsified competitive skill group and/or profile rank status or scoreboard coin (Operation Challenge Coins). [/*]
-[*]Services that interfere with a player's ability to correctly access their CS:GO inventories, items, or profile. [/*]
+[*]Services that interfere with a player's ability to correctly access their Counter-Strike 2 inventories, items, or profile. [/*]
 
 [/list]
 
@@ -66,7 +66,7 @@ If a server provides any of the following services we ask that you disable them:
 
 [section id=tradegslt]
 
-[h2]Am I able to trade CS:GO items if I've received a GSLT ban?[/h2]
+[h2]Am I able to trade Counter-Strike 2 items if I've received a GSLT ban?[/h2]
 Players that have been GSLT banned also receive a matchmaking cooldown and are unable to trade for the duration of their cooldown.
 [/section]
 

@@ -1,4 +1,4 @@
-[h1]CS:GO - X-Ray Scanner[/h1]
+[h1]CS2 - X-Ray Scanner[/h1]
 
 [list]
 
@@ -14,7 +14,7 @@
 [section id=wherecontainer]
 
 [h2]I scanned a container and it is no longer in my Inventory. Where did it go?[/h2]
-Scanned containers are consumed, meaning they will no longer appear in your CS:GO or Steam Inventories. Scanned containers cannot be traded or sold on the Steam Community Market.
+Scanned containers are consumed, meaning they will no longer appear in your Counter-Strike 2 or Steam Inventories. Scanned containers cannot be traded or sold on the Steam Community Market.
 [/section]
 
 [section id=seecontents]

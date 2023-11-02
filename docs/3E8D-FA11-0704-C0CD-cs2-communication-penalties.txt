@@ -1,4 +1,4 @@
-[h1]CS:GO - Communication Penalties[/h1]
+[h1]CS2 - Communication Penalties[/h1]
 
 [list]
 
@@ -29,7 +29,7 @@ There are two reasons an account may receive an in-game communication penalty:
 
 [*]You have been Community banned on Steam.
 
-Accounts with communication penalties are muted by default on all CS:GO servers they join and cannot communicate with other users via voice or text chat unless they are manually unmuted from the scoreboard.
+Accounts with communication penalties are muted by default on all Counter-Strike 2 servers they join and cannot communicate with other users via voice or text chat unless they are manually unmuted from the scoreboard.
 [/section]
 
 [section id=removepenalty]

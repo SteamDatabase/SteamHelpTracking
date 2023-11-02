@@ -1,4 +1,4 @@
-[h1]CS:GO - Trust Factor Matchmaking[/h1]
+[h1]CS2 - Trust Factor Matchmaking[/h1]
 
 [list]
 
@@ -16,7 +16,7 @@
 [section id=tfmm]
 
 [h2]What factors are considered in Trust Factor matchmaking?[/h2]
-At this time we are not providing the list of factors used in the Trust Factor matchmaking system. We don’t want players to have to worry about any particular action while they’re playing CS:GO or other games on Steam. Additionally, Trust Factor matchmaking will get continuous updates, and any list of factors would become outdated very quickly. In general, Trust Factor is determined by looking at a user's past experience in CS:GO and on Steam to ensure the system is as accurate as possible.
+At this time we are not providing the list of factors used in the Trust Factor matchmaking system. We don’t want players to have to worry about any particular action while they’re playing Counter-Strike 2 or other games on Steam. Additionally, Trust Factor matchmaking will get continuous updates, and any list of factors would become outdated very quickly. In general, Trust Factor is determined by looking at a user's past experience in Counter-Strike 2 and on Steam to ensure the system is as accurate as possible.
 [/section]
 
 [section id=tfcheck]
@@ -42,21 +42,21 @@ Either of these messages indicate a player in your lobby has lower trust score t
 [section id=tfimprove]
 
 [h2]What can I do to improve my Trust Factor?[/h2]
-The only way to improve your Trust Factor is to be a positive member of the CS:GO and Steam community. Trust Factor matchmaking will continue to be adjusted, but all players have to do to improve their matchmaking experience is continue playing CS:GO and other Steam games legitimately. The more a user plays, the more information the system has and the easier it will be for the system to determine who they should be matched with.
+The only way to improve your Trust Factor is to be a positive member of the Counter-Strike 2 and Steam community. Trust Factor matchmaking will continue to be adjusted, but all players have to do to improve their matchmaking experience is continue playing Counter-Strike 2 and other Steam games legitimately. The more a user plays, the more information the system has and the easier it will be for the system to determine who they should be matched with.
 [/section]
 
 [section id=tfprime]
 
 [h2]Does Prime status improve my Trust Factor?[/h2]
-Yes. Phone numbers and CS:GO Rank are among the factors used in the new Trust Factor matchmaking system. Users who had Prime Status before will benefit from this and their in-game experience. If you have not linked your Steam account with a phone number for Prime we encourage you to do this; doing so will improve your matchmaking experience.
+Yes. Phone numbers and Counter-Strike 2 Rank are among the factors used in the new Trust Factor matchmaking system. Users who had Prime Status before will benefit from this and their in-game experience. If you have not linked your Steam account with a phone number for Prime we encourage you to do this; doing so will improve your matchmaking experience.
 
-For more information, please see our [url=https://support.steampowered.com/kb_article.php?ref=2235-QYCN-3295]CS:GO - Prime Status and Free to Play[/url] help article.
+For more information, please see our [url=https://support.steampowered.com/kb_article.php?ref=2235-QYCN-3295]CS2 - Prime Status and Free to Play[/url] help article.
 [/section]
 
 [section id=tfnewplayer]
 
 [h2]Will new players have a low Trust Factor?[/h2]
-Not necessarily. Trust Factor is impacted by a user's experiences on Steam and in CS:GO. If you have been a positive member of the Steam Community in the past, you will likely enter CS:GO with a high Trust Factor.
+Not necessarily. Trust Factor is impacted by a user's experiences on Steam and in Counter-Strike 2. If you have been a positive member of the Steam Community in the past, you will likely enter Counter-Strike 2 with a high Trust Factor.
 [/section]
 
 [section id=tfpoormatch]
