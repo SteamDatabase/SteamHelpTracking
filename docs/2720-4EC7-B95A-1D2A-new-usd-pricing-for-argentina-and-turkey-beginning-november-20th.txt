@@ -19,6 +19,18 @@ On November 20th, 2023, any balance in your Steam wallet will be converted to US
 [u]What about in-game transactions?[/u]
 Going forward, in game transactions will default to transacting in USD  in these new LATAM - USD and MENA - USD pricing regions.
 
+[u]Will the games cost the same as in the United States or will Steam maintain the current prices in Pesos or lira expressed in USD?[/u]
+
+Developers set the price of their game(s) on Steam in the LATAM - USD and MENA - USD regions, though our recommended pricing is a reduced USD price. If a developer does not set LATAM/MENA pricing before November 20th, we will default to their regular USD pricing.
+
+[u]What exchange rate be used to convert Pesos and lira wallets on November 20th?[/u]
+
+We will use the US Bank exchange rate on November 20th to establish the exchange rate in which Steam users wallets will convert to USD.
+
+[u]How will retail Wallet Codes be affected by this change? For example, will it be possible to redeem USD wallet codes? [/u]
+
+MENA - USD and LATAM - USD countries/regions will be able to redeem USD wallet codes after November 20th. In addition, Turkish lira and Argentine Pesos Steam wallet codes will automatically convert to USD based on the daily exchange rate when redeemed on Steam after November 20th.
+
 [u]What about subscriptions?[/u]
 Any customer who had an active subscription on Steam in Argentine peso or Turkish lira will see their subscription automatically end after the active subscription period. You can re-subscribe to the new USD subscription in Steam in the Subscriptions Management Page. You can get to this page by going to your User name in the upper right of the Steam client then select Account details and click the Manage subscriptions link toward the top of the page.
 
