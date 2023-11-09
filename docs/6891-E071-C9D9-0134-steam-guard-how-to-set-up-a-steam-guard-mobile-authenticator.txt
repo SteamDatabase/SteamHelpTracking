@@ -1,29 +1,11 @@
 [h1]Steam Guard: How to set up a Steam Guard Mobile Authenticator[/h1]
 
-[h2]For Android and iOS devices, and Windows Phone[/h2]
+[h2]For Android and iOS devices[/h2]
 [img]{STEAM_CLAN_IMAGE}/39983882/f003809313f459e15688224942da8a10fb8ac721.png[/img]
 
-Setup is done directly from your mobile device.
+To download and install the app, visit the official [url=https://store.steampowered.com/mobile#mobile_section]Steam Mobile[/url] page.
 
-[url=http://itunes.apple.com/us/app/steam-mobile/id495369748][img]https://steamstore-a.akamaihd.net/public/images/mobile/download_apple_button.png[/img][/url]
-
-Or you could email this link to your mobile device:
-
-[url=http://itunes.apple.com/us/app/steam-mobile/id495369748]http://itunes.apple.com/us/app/steam-mobile/id495369748[/url]
-
-[url=https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community][img]https://steamstore-a.akamaihd.net/public/images/mobile/download_google_button.png[/img][/url]
-
-Or you could email this link to your mobile device:
-
-[url=https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community]https://play.google.com/store/apps/detailsid=com.valvesoftware.android.steam.community[/url]
-
-Android users without access to Google Play can [url=https://media.steampowered.com/apps/steam-android/steam-3.0.0.apk]download version 3.0.0 here[/url].
-
-Windows Phone version available in the Microsoft Store:
-
-[url=https://www.microsoft.com/en-us/store/apps/steam-official/9nblggh4x7gm]https://www.microsoft.com/en-us/store/apps/steam-official/9nblggh4x7gm[/url]
-
-The apps follow the same setup flow. For the purposes of this walkthrough, the images below show the iOS app.
+The apps follow the same setup flow for both Android and iOS. For the purposes of this walkthrough, the images below show the iOS app.
 
 Once you've installed the app and signed in with your Steam account credentials, you'll land on the Steam Guard tab. From here you can select "Add authenticator" to setup your authenticator.
 
