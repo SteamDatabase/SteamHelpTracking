@@ -1,5 +1,7 @@
 [h1]Steam Deck - Software Info & Troubleshooting Guide[/h1]
 
+All information below applies to both Steam Deck LCD and Steam Deck OLED models. We aimed for the same performance spec for Steam Deck OLED, and all titles that have been tested in the Deck Verified program maintain those ratings for both LCD and OLED models.
+
 [h3]First steps[/h3]
 [b]Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:[/b]
 

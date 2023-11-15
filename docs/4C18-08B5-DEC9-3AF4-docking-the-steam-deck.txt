@@ -1,5 +1,7 @@
 [h1]Docking the Steam Deck[/h1]
 
+Unless otherwise indicated, all information below applies to both Steam Deck LCD and Steam Deck OLED models.
+
 While Steam Deck is great in handheld mode, there may be times where you want to use different input devices, share your screen in a multiplayer game, or even get some work done - that's where docking comes in. Steam Deck works great with a variety of USB-C docks or hubs. Most users will be plugging in a USB-C charger for PD passthrough, as well as peripherals, controllers, and external displays. This article will cover basic operation and troubleshooting steps.
 
 [h2]Getting started[/h2]

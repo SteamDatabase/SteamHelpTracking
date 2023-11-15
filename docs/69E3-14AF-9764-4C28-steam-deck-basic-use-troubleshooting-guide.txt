@@ -1,5 +1,7 @@
 [h1]Steam Deck - Basic Use & Troubleshooting Guide[/h1]
 
+Unless otherwise indicated, all information below applies to both Steam Deck LCD and Steam Deck OLED models.
+
 [h3]First steps[/h3]
 [b]Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:[/b]
 
@@ -18,7 +20,7 @@
 [hr][/hr]
 
 [h1]Power and charging[/h1]
-If it's your first time using your Steam Deck, you'll need to plug it in for a short time using the provided power supply in order to wake it from the battery-saving shipment mode. If you've used your Steam Deck before but it's currently not powering on, plug it in and check the LED next to the charging port.
+Steam Deck LCD models arrive in battery-saving shipping mode, and you'll need to plug it in for a short time using the provided power supply in order to power it on. Steam Deck OLED models can be powered on out of the box without first plugging in. If you've used your Steam Deck before but it's currently not powering on, plug it in and check the LED next to the charging port.
 
 [list]
 
@@ -57,7 +59,7 @@ Check out our [url=https://help.steampowered.com/faqs/view/7DD4-C618-182E-0E49]s
 [hr][/hr]
 
 [h1]Display[/h1]
-You can learn more about the Steam Deck's display specifications [url=https://www.steamdeck.com/en/tech]here[/url]. Note that the display is capped at a 60Hz refresh rate. The cap can be lowered to 30Hz in the device settings, but individual application settings with refresh rates above 60Hz won't improve performance and may drain battery charge faster.
+You can learn more about the Steam Deck's display specifications [url=https://www.steamdeck.com/en/tech]here[/url]. Note that the Steam Deck LCD display is capped at a 60Hz refresh rate, and the Steam Deck OLED display is capped at 90Hz refresh rate. The refresh rate can be lowered device settings, but individual application settings with refresh rates above each model's cap won't improve performance and may drain battery charge faster.
 
 [hr][/hr]
 
@@ -76,7 +78,7 @@ Most 3.5mm and Bluetooth audio devices should work naturally with Steam Deck, bu
 
 [h4]Microphone[/h4]
 
-The built-in microphone will be unavailable when using the 3.5mm audio plug. Be sure to use headphones with a built-in mic if you want to use voice while listening on 3.5mm audio.
+On Steam Deck LCD, the built-in microphone will be unavailable when using the 3.5mm audio plug. Be sure to use headphones with a built-in mic if you want to use voice while listening on 3.5mm audio. On Steam Deck OLED, the built-in mic can be used simultaneously along with the 3.5mm audio plug for audio.
 The built-in microphone will still be available while using a Bluetooth audio device.
 
 [hr][/hr]
