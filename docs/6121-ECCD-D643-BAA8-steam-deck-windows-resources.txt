@@ -10,14 +10,35 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 
 [h4]Windows Drivers[/h4]
 
+[b]Steam Deck OLED[/b]
+
 [list]
 
-[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith%20Windows%20Driver_2302270303.zip]download here[/url], run setup.exe to install.
+[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith%20Sephiroth%20Windows%20Driver_2309131113.zip]download here[/url], run setup.exe to install.
 [i]
 
 [list]
 
-[*] This driver is updated as of March 21st, 2023.
+[*] This driver is updated as of November 17th, 2023.
+
+[/list]
+[/i]
+[*][b]SD Card reader driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/BayHub_SD_STOR_installV3.4.01.89_W10W11_logoed_20220228.zip]download here[/url], run setup.exe to install.
+
+[*]Wi-Fi, Bluetooth, and Audio drivers for Windows on Steam Deck OLED are currently being worked on, and will be available soon.
+
+[/list]
+
+[b]Steam Deck LCD[/b]
+
+[list]
+
+[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith%20Sephiroth%20Windows%20Driver_2309131113.zip]download here[/url], run setup.exe to install.
+[i]
+
+[list]
+
+[*] This driver is updated as of November 17th, 2023.
 
 [/list]
 [/i]

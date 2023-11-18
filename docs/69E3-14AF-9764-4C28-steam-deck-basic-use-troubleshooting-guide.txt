@@ -13,20 +13,22 @@ Unless otherwise indicated, all information below applies to both Steam Deck LCD
 
 [*]Make sure that any third party applications that you have installed via Desktop Mode are exited or disabled and retest your issue.
 
-[*]If your Steam Deck is powered on but unresponsive, you can force a restart by holding the power button down for three seconds. If it remains unresponsive, there may be an OS-level issue. In this case, try holding the power button down for a full 10 seconds.
+[*]If your Steam Deck is powered on but unresponsive, you can force a restart by holding the power button down for 4 (7 for OLED) seconds. If it remains unresponsive, there may be an OS-level issue. In this case, try holding the power button down for a full 10 (16 for OLED) seconds.
 
 [/list]
 
 [hr][/hr]
 
 [h1]Power and charging[/h1]
-Steam Deck LCD models arrive in battery-saving shipping mode, and you'll need to plug it in for a short time using the provided power supply in order to power it on. Steam Deck OLED models can be powered on out of the box without first plugging in. If you've used your Steam Deck before but it's currently not powering on, plug it in and check the LED next to the charging port.
+Steam Deck LCD models arrive in battery-saving shipping mode, and you'll need to plug it in for a short time using the provided power supply in order to power it on. Steam Deck OLED models can be powered on (hold power for 7 seconds) out of the box without first plugging in. If you've used your Steam Deck before but it's currently not powering on, plug it in and check the LED next to the charging port.
 
 [list]
 
 [*]If the LED is lit, the unit is receiving charge. The LED will remain lit when the unit reaches full charge.
 
-[*]If the LED flashes after pressing the power button, the battery is currently depleted. Plug it in using the provided PSU, confirm the LED is on, and leave it to charge for at least 15 minutes before powering it on.
+[*]The power LED will dim after after 3 to 5 (15 for OLED) seconds of time as normal behavior.
+
+[*]If the LED flashes after pressing the power button, the battery is currently depleted. Plug the provided PSU directly to the Steam Deck, confirm the LED is on, and leave it to charge for at least 15 minutes before powering it on.
 
 [*]If your Steam Deck appears to be charging normally but the power button is unresponsive, you can try holding the Volume + button while powering it on, then selecting [i]Continue[/i] to boot from the BIOS options.
 
@@ -59,7 +61,7 @@ Check out our [url=https://help.steampowered.com/faqs/view/7DD4-C618-182E-0E49]s
 [hr][/hr]
 
 [h1]Display[/h1]
-You can learn more about the Steam Deck's display specifications [url=https://www.steamdeck.com/en/tech]here[/url]. Note that the Steam Deck LCD display is capped at a 60Hz refresh rate, and the Steam Deck OLED display is capped at 90Hz refresh rate. The refresh rate can be lowered device settings, but individual application settings with refresh rates above each model's cap won't improve performance and may drain battery charge faster.
+You can learn more about the Steam Deck's display specifications [url=https://www.steamdeck.com/en/tech]here[/url]. Note that the Steam Deck LCD display is capped at a 60Hz refresh rate, and the Steam Deck OLED display is capped at 90Hz refresh rate. The refresh rate can be lowered in device settings, but individual application settings with refresh rates above each model's cap won't improve performance and may drain battery charge faster.
 
 [hr][/hr]
 
@@ -68,7 +70,7 @@ Audio settings can be adjusted from Steam > Settings > Audio.
 
 [h4]Speakers[/h4]
 
-If there's no sound coming through the built-in speakers, make sure you don't have another audio-enabled device connected via Bluetooth, USB-C, or the 3.5mm jack, then switch to a different output and back to default speakers. You should also check to make sure UI sounds are enabled (Steam > Settings > Audio > Enable UI Sounds).
+If there's no sound coming through the built-in speakers, make sure you don't have another audio-enabled device connected via Bluetooth, USB-C, or the 3.5mm jack, then switch to a different output and back to default speakers. TVs and some monitors are also external audio devices. You should also check to make sure UI sounds are enabled (Steam > Settings > Audio > Enable UI Sounds).
 
 If there is still no audio then restart your system (Steam > Power > Restart).
 
@@ -84,7 +86,7 @@ The built-in microphone will still be available while using a Bluetooth audio de
 [hr][/hr]
 
 [h1]Bluetooth[/h1]
-To pair a Bluetooth device, make sure that it is in pairing mode. Check your device's information if you're not sure how to do this. Then go to Steam > Settings > Bluetooth, find your device in the list, and either use the touch screen to select it or press the Menu button to see pairing options. If you're having trouble connecting to a previously paired device, you can try forgetting and re-pairing your device instead.
+To pair a Bluetooth device, make sure that it is in pairing mode. Check your device's information by going to Settings > Bluetooth > ensure Bluetooth is enabled.  Then find your device in the list, and either use the touch screen to select it or press the Menu button to see pairing options. If you're having trouble connecting to a previously paired device, you can try forgetting and re-pairing your device instead.
 
 [h4]Bluetooth device not listed[/h4]
 

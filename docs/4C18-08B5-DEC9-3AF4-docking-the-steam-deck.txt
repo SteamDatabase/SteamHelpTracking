@@ -6,9 +6,9 @@ While Steam Deck is great in handheld mode, there may be times where you want to
 
 [h2]Getting started[/h2]
 
-First, just plug all the items into the dock that you would like to connect to your Steam Deck. The most common devices that we've seen users connect are external displays (monitor or TV), a keyboard/mouse or controllers, ethernet cables, and a power source.
+First, plug all the items into the dock that you would like to connect to your Steam Deck. The most common devices that we've seen users connect are external displays (monitor or TV), a keyboard/mouse or controllers, ethernet cables, and a power source.
 
-In general, connections to USB peripherals, displays, and your network should behave as expected -- the Steam Deck is a general-purpose PC and has built-in compatibility for many devices in these categories. However, Steam Deck's underlying operating system (Linux) maybe unfamiliar to some users or have unexpected device compatibility issues.
+In general, connections to USB peripherals, displays, and your network should behave as expected -- the Steam Deck is a general-purpose PC and has built-in compatibility for many devices in these categories. However, Steam Deck's underlying operating system (Linux) maybe be unfamiliar to some users or have unexpected device compatibility issues.
 
 If you're connecting to an external display and it has [b]a 'Gaming Mode' option [/b]available, we recommend turning that on when connected to your Steam Deck. Also, try turning off any "motion smoothing" or other image processing features because they may add latency or cause other issues.
 
@@ -29,7 +29,7 @@ To ensure your dock has the latest firmware update, please try a full reset:
 [*]Wait 10 seconds, then plug the PSU and Deck back into the dock
 [/list]
 
-This should start the firmware update to start.  If this doesn't, then:
+This should cause the firmware update to start.  If this doesn't, then:
 
 [list]
 
@@ -50,12 +50,12 @@ This should start the firmware update to start.  If this doesn't, then:
 
 [h5]Display setup[/h5]
 
-[section style=important]Passive cable adapters (DisplayPort to HDMI) are not supported and may cause issues.  Ensure you're using an active cable or adapter.
+[section style=important]Passive cable adapters (Display Port™ to HDMI) are not supported and may cause issues.  Ensure you're using an active cable or adapter.
 [/section]
 
 [list]
 
-[*]Check that you have the correct display input selected on your TV or monitor. It should correspond to the HDMI or Display Port cable that's plugged in to your docking Station. TVs often have many HDMI inputs and you may need to cycle through them to find the right one.
+[*]Check that you have the correct display input selected on your TV or monitor. It should correspond to the HDMI or Display Port™ cable that's plugged in to your Docking Station. TVs often have many HDMI inputs and you may need to cycle through them to find the right one.
 
 [*]Some displays may have different features or capabilities per input. For example, many TVs have 4K/2K inputs with 60Hz limits on certain ports and 30Hz limits on others. Refer to the User Manual of your display to verify input requirements.
 
@@ -85,7 +85,7 @@ If you're not able to get any external display or USB(2.0) peripherals to work, 
 
 [list]
 
-[*]Power the Steam Deck down normally (choose Shut Down from the Power menu). If you can't access the menu, you can force a shutdown by holding down the Power button for 10 seconds.
+[*]Power the Steam Deck down normally (choose Shut Down from the Power menu). If you can't access the menu, you can force a shutdown by holding down the Power button for 10 (16 for OLED) seconds.
 
 [*]Hold the "Volume +" button down while pressing the Power button once. Continue holding the "Volume +" button until you hear the system chime, then release and wait. The Steam Deck should boot into the BIOS menu within a couple minutes.
 
@@ -119,16 +119,12 @@ The best process to enable this is:
 
 [*]Unplug the Deck from the dock/hub
 
-[*]Set 'External display safe mode' to On in the developer settings
+[*]Set 'External display safe mode' to On in the Display menu
 
 [*]Plug the Deck to the dock
 
 [*]The display should now light up
 [/list]
-
-[section style=important][b]Developer settings:[/b]
-To access this option, you will need to enable the developer menu.  To enables this: [code]click the 'Steam' button > System > turn on 'Enable Developer Mode'.[/code]  Once this is enabled: [code]Click the 'Steam' button > scroll to the bottom and select 'Developer' > scroll down to turn on 'External display safe mode'[/code]
-[/section]
 
 [h5]Graphics or image quality[/h5]
 
@@ -176,6 +172,6 @@ Often wireless controllers or audio devices are used with the Steam Deck.  Below
 
 [list]
 
-[*]To enable 5.1/7.1 audio over HDMI/DP: While plugged into the display, go to Desktop mode, click on the speaker icon on the task bar, find the HDMI/DisplayPort  slider, click on the 3-line menu and select the number of channels that you want. This will then stay selected when switching back to Gaming Mode.
+[*]To enable 5.1/7.1 audio over HDMI/DP: While plugged into the display, go to Desktop mode, click on the speaker icon on the task bar, find the HDMI/Display Port™  slider, click on the 3-line menu and select the number of channels that you want. This will then stay selected when switching back to Gaming Mode.
 
 [/list]
