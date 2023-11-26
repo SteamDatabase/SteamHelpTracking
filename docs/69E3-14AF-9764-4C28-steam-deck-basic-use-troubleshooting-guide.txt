@@ -185,6 +185,22 @@ You should see the Steam Deck power off, and the power LED will blink three time
 
 To wake your Steam Deck from storage mode, plug in the provided power supply and power it on normally.
 
+[h4]Disassembly[/h4]
+
+We don't recommend opening or otherwise modifying your device - any damage that results won't be covered under your product warranty.
+
+If you do decide to open your device despite this risk, the rear cover screws require the following driver sizes:
+
+[list]
+
+[*]LCD products - Size 1 Philips
+
+[*]OLED products - T6 Torx
+
+[/list]
+
+Valve is not responsible for replacing or servicing screws or other components damaged while attempting to open or modify your Steam Deck.
+
 [hr][/hr]
 
 [h1]Contact Steam Support[/h1]
