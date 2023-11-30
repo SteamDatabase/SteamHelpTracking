@@ -152,8 +152,8 @@
     "680734852422460974": {
         "title": "Steam macOS 10.11 and 10.12 Support",
         "url_code": "0972-74BD-D8DE-662E",
-        "version": 1,
-        "timestamp": "2023-04-03 20:08:44"
+        "version": 2,
+        "timestamp": "2023-11-29 19:42:08"
     },
     "692687445472482627": {
         "title": "Half-Life: Alyx FAQ",
@@ -800,8 +800,8 @@
     "3719054496656610265": {
         "title": "Valve Hardware Shipping FAQ",
         "url_code": "339C-BC5C-3D89-53D9",
-        "version": 6,
-        "timestamp": "2022-07-27 17:28:34"
+        "version": 7,
+        "timestamp": "2023-11-29 18:48:04"
     },
     "3728425755129504368": {
         "title": "Dota 2 Workshop - Item UV Mapping",
@@ -1130,8 +1130,8 @@
     "5153330920041840650": {
         "title": "Windows 7 and Windows 8 Support",
         "url_code": "4784-4F2B-1321-800A",
-        "version": 2,
-        "timestamp": "2023-03-28 20:36:16"
+        "version": 3,
+        "timestamp": "2023-11-29 19:26:18"
     },
     "5176960817306965865": {
         "title": "About Steam Deck Virtual Conference",
@@ -2051,6 +2051,12 @@
         "version": 5,
         "timestamp": "2021-08-24 22:43:25"
     },
+    "8376464472979915637": {
+        "title": "Steam macOS 10.13 and 10.14 Support",
+        "url_code": "743F-2E0E-C9A5-C375",
+        "version": 2,
+        "timestamp": "2023-11-30 00:47:00"
+    },
     "8404346551101924452": {
         "title": "Dota 2 - Network/Connectivity Issues",
         "url_code": "74A2-3CA8-FBB5-A464",
@@ -2060,8 +2066,8 @@
     "8466903480464485479": {
         "title": "CS2 - Competitive cooldowns and bans",
         "url_code": "7580-7BDB-1C9A-AC67",
-        "version": 17,
-        "timestamp": "2023-11-01 21:50:42"
+        "version": 18,
+        "timestamp": "2023-11-29 16:57:27"
     },
     "8508054175547039248": {
         "title": "CS:GO - Steam Group Lobbies",

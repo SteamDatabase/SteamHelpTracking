@@ -4,15 +4,25 @@
 If you have a payment or delivery issue please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url].
 
 [h4]Where is my package shipped from?[/h4]
-Steam ships all hardware orders either from a warehouse in the United States located in Carol Stream, Illinois, or from a warehouse in the European Union located in Waalwijk, the Netherlands.
+Depending on your location, your order will ship from a warehouse in one of the following locations.
+
+[list]
+
+[*]Rancho Cucamonga, California.
+
+[*]Carol Steam, Illinois.
+
+[*]Waalwijk, the Netherlands.
+
+[/list]
 
 [h4]Who delivers my shipment?[/h4]
 
-United States and Canada - FedEx.
+United States and Canada - FedEx or UPS.
 
-EU and UK - DHL or GLS, depending on location and availability.
+EU and UK - DHL or GLS. These carriers may use last-leg couriers for deliveries to some areas.
 
-Your order’s carrier and tracking information is included in your shipment confirmation email.
+Your order’s carrier and tracking information will be included in your shipment confirmation email.
 
 [h4]How much does shipping cost?[/h4]
 Shipping is free for all Valve Hardware products.
