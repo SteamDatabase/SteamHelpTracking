@@ -1,0 +1,126 @@
+[h1]Steam Link For Meta Quest[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
+
+[h2]Description[/h2]
+
+The Steam Link app streams the games you love in your Steam library directly from your computer to your Meta Quest headset. Using the power of your computer, it delivers a high-fidelity and intuitive way to wirelessly play your favorite games, discuss them with your friends, and access your desktop apps.
+
+To download it for free, head to the Meta Quest store in your Quest headset or on your phone.
+
+[h2]Minimum Requirements[/h2]
+
+[list]
+
+[*]A computer running Steam and SteamVR
+
+[*]Supported OS: Windows 10 or newer
+
+[*]Computer GPUs: NVIDIA (GTX970 or better)
+
+[*]Wireless Router: 5GHz Channel, Wi-Fi 5 minimum
+
+[*]Headset: Meta Quest 2, 3, or Pro
+
+[/list]
+
+[h2]Recommended[/h2]
+
+[list]
+
+[*]Computer Processor: Intel Core i5-4590/AMD FX 8350 equivalent or better
+
+[*]Computer Memory: 16 GB RAM
+
+[*]Computer GPUs: NVIDIA (RTX2070 or better)
+
+[*]Network: Broadband Internet connection
+
+[*]Wireless Router: Wi-Fi 6 or Wi-Fi 6E
+
+[/list]
+
+[h2]Supported Input/Controllers[/h2]
+
+[list]
+
+[*]Oculus Touch and Pro Controllers
+
+[/list]
+
+[i]Please note: other input devices may work even if they aren’t officially supported.[/i]
+
+[h2]Getting Started[/h2]
+
+[olist]
+
+[*]Turn on your home PC, launch Steam, and log in.
+
+[*]Ensure your Meta Quest headset is connected to the same network as your host PC.
+
+[*]Download and install the Steam Link app from the Meta Quest store in your headset. You can also download from the Meta Quest app on your phone.
+
+[*]After you’ve installed Steam Link, open it and follow the on-screen instructions for connecting your headset to your home PC.
+
+[/olist]
+
+For additional support, click the options below or visit the [url=https://steamcommunity.com/app/353380/discussions/] Steam Link Discussions[/url].
+
+[expand type=title title="Frequently Asked Questions"]
+
+[h4]How can I improve the streaming quality?[/h4]
+
+In our testing, the majority of people have found that switching to a 5GHz network significantly improves the experience.
+
+You can find out more information about improving wireless streaming  [url=https://support.steampowered.com/kb_article.php?ref=4950-EBNM-7843]here[/url].
+
+[h4]Why does my wi-fi indicator display an exclamation mark?[/h4]
+
+Your wireless network is on 2.4Ghz and not 5Ghz.
+
+[/expand]
+
+[expand type=title title="Troubleshooting"]
+
+[h4]If you cannot connect make sure:[/h4]
+
+[*]Your computer is on and running Steam
+
+[*]You’ve created and logged into your Steam account on your computer
+
+[*]Your computer is connected to the same network as your headset
+
+[*]You have checked your computer for any issues being presented in the SteamVR window
+
+[*]Your computer’s network is set to "Private" instead of "Public"
+
+[*]You’ve disabled all VPNs before streaming
+
+[*]Try temporarily disabling your firewall to identify whether that is causing problems
+
+[h4]If you are experiencing performance issues:[/h4]
+
+[*]Use only a wired connection, (gigabit min.), between your computer and your router
+
+[*]Unsupported Network Types:  Mesh networks, Multiple AP networks with the same SSID or channel
+
+[*]Try moving closer to your router
+
+[*]If you are in an area with a lot of Wi-Fi interference, move your router to another location to minimize the interference of other networks.
+
+[*]Try disconnecting from Wi-Fi on your headset and reconnect
+
+[*]Make sure your Wi-Fi network is 5GHz or higher
+
+[*]Try changing the channel on your Wi-Fi router
+
+[*]Set your Wi-Fi channel width to 80MHz or 160MHz. Using 20MHz and 40MHz channels may cause problems.
+
+[*]Try disconnecting all other devices from your router to identify the device that is causing
+
+[h4]Contacting Steam Support[/h4]
+If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] log file to your ticket.
+
+The default location for this file on your PC is [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
+
+[/expand]

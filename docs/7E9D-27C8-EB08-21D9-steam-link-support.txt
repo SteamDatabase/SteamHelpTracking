@@ -20,6 +20,10 @@
 [/*]
 [*]
 
+[h2][url=https://help.steampowered.com/en/faqs/view/0E2C-406B-9135-38A4]Steam Link App for Meta Quest[/url][/h2]
+[/*]
+[*]
+
 [h2][url=https://support.steampowered.com/kb_article.php?ref=6153-IFGH-6589]Steam Link App for Raspberry Pi[/url][/h2]
 [/*]
 [*]
