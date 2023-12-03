@@ -64,6 +64,45 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [/olist]
 
+[h2]Settings & Technical Details[/h2]
+
+For most users, we recommend our automatic settings. By default, Steam Link applies settings for an optimal experience based on your PC, headset and network conditions.
+
+For advanced users who need more control, please be aware of the following.
+
+[b]Foveation Size is affected by the following settings:[/b]
+
+[list]
+
+[*] Render Resolution - available in General and Video settings
+
+[olist]
+
+[*] No higher than 175%
+
+[*] Larger values may result in a smaller than desired foveated region
+
+[/olist]
+
+[*] Encode Video Size – available  in Steam Link settings
+
+[olist]
+
+[*] No higher than 1280 encode size
+
+[*] Larger values will cause latency and frame drops when decoded on your headset
+
+[/olist]
+
+[/list]
+
+[b]Bandwidth[/b]
+Steam Link dynamically selects a bandwidth that favors a smooth, low latency experience based on your current network conditions and frame rate when set to "Auto". If your content has a low frame rate, Steam Link will automatically adjust the bandwidth.
+
+Manually increasing bandwidth beyond the default may cause jitter and frame drops. Decreasing it may yield a smoother experience but at the cost of more video artifacts.
+
+As the Steam Link team obtains additional data and improves the video encode and decode, we will continue to tune and improve the "Automatic" settings.
+
 For additional support, click the options below or visit the [url=https://steamcommunity.com/app/353380/discussions/11/] Steam Link Discussions[/url].
 
 [expand type=title title="Frequently Asked Questions"]
@@ -77,6 +116,10 @@ You can find out more information about improving wireless streaming  [url=https
 [h4]Why does my wi-fi indicator display an exclamation mark?[/h4]
 
 Your wireless network is on 2.4Ghz and not 5Ghz.
+
+[h4]Can I use my Wi-Fi network to connect to my PC and my headset?[/h4]
+
+Using a wireless connection to your PC is not advised and could cause connectivity failures and other latency issues. We recommend a wired connection to your PC, and a 5GHz WiFi network for your headset is highly recommended.
 
 [/expand]
 
@@ -102,6 +145,10 @@ Your wireless network is on 2.4Ghz and not 5Ghz.
 
 [*]Use only a wired connection, (gigabit min.), between your computer and your router
 
+[*]Using a wireless connection to your PC is not advised and could cause connectivity failures and other latency issues
+
+[*]If using screen recording or streaming software like OBS, make sure to use software encoding inside the software application otherwise it will preempt Steam Link
+
 [*]Unsupported Network Types:  Mesh networks, Multiple AP networks with the same SSID or channel
 
 [*]Try moving closer to your router
@@ -117,6 +164,24 @@ Your wireless network is on 2.4Ghz and not 5Ghz.
 [*]Set your Wi-Fi channel width to 80MHz or 160MHz. Using 20MHz and 40MHz channels may cause problems.
 
 [*]Try disconnecting all other devices from your router to identify the device that is causing
+
+[h4]If you are having microphone issues:[/h4]
+
+[*]Check that the microphone is not muted in-headset
+
+[*]Verify the Steam Streaming Microphone is enabled in your audio device settings under "Sound Settings" in Windows
+
+[*]Select Steam Streaming Microphone in Sound Properties in Windows, and enter device properties. Verify that the microphone slider is set to 80% or higher
+
+[*]Try setting "HMD" or "Steam Streaming Microphone" as the audio output device in "Audio Settings" in SteamVR Setting. Note that the default should be "HMD"
+
+[h4]If you are having speaker issues:[/h4]
+
+[*]Check that Steam Streaming Speakers is enabled in your audio device settings under "Sound Settings"
+
+[*]Check that your headset volume is not set low on the headset, itself by either sliding the volume slider in SteamVR or in-headset
+
+[*]Try setting "HMD" or "Steam Streaming Speakers" as the audio output device in "Audio Settings" in SteamVR Setting. Note that the default should be "HMD"
 
 [h4]Contacting Steam Support[/h4]
 If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] log file to your ticket.
