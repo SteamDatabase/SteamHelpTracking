@@ -92,6 +92,8 @@ For advanced users who need more control, please be aware of the following.
 
 [*] Larger values will cause latency and frame drops when decoded on your headset
 
+[*] Some GPUs do not support encode sizes > 1024
+
 [/olist]
 
 [/list]
@@ -132,6 +134,8 @@ Using a wireless connection to your PC is not advised and could cause connectivi
 [*]You’ve created and logged into your Steam account on your computer
 
 [*]Your computer is connected to the same network as your headset
+
+[*]You have enabled Remote Play in your Steam Settings on your desktop
 
 [*]You have checked your computer for any issues being presented in the SteamVR window
 
@@ -177,14 +181,14 @@ Using a wireless connection to your PC is not advised and could cause connectivi
 
 [h4]If you are having speaker issues:[/h4]
 
-[*]Check that Steam Streaming Speakers is enabled in your audio device settings under "Sound Settings"
+[*]Check that Steam Streaming Speakers is enabled (both as an audio input and audio output device) in your audio device settings under "Sound Settings"
 
 [*]Check that your headset volume is not set low on the headset, itself by either sliding the volume slider in SteamVR or in-headset
 
 [*]Try setting "HMD" or "Steam Streaming Speakers" as the audio output device in "Audio Settings" in SteamVR Setting. Note that the default should be "HMD"
 
 [h4]Contacting Steam Support[/h4]
-If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] log file to your ticket.
+If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] and [i][b]driver_vrlink.txt[/b][/i] log files to your ticket.
 
 The default location for this file on your PC is [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
 
