@@ -78,9 +78,9 @@ For advanced users who need more control, please be aware of the following.
 
 [olist]
 
-[*] No higher than 175%
-
 [*] Larger values may result in a smaller than desired foveated region
+
+[*] Recommend no higher than 175%
 
 [/olist]
 
@@ -88,9 +88,9 @@ For advanced users who need more control, please be aware of the following.
 
 [olist]
 
-[*] No higher than 1280 encode size
-
 [*] Larger values will cause latency and frame drops when decoded on your headset
+
+[*] Recommend no higher than 1280 encode size
 
 [*] Some GPUs do not support encode sizes > 1024
 
