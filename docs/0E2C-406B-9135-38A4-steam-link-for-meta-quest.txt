@@ -84,7 +84,7 @@ For advanced users who need more control, please be aware of the following.
 
 [/olist]
 
-[*] Encode Video Size – available  in Steam Link settings
+[*] Encoded Video Size – available  in Steam Link settings
 
 [olist]
 
@@ -165,9 +165,13 @@ Using a wireless connection to your PC is not advised and could cause connectivi
 
 [*]Try changing the channel on your Wi-Fi router
 
-[*]Set your Wi-Fi channel width to 80MHz or 160MHz. Using 20MHz and 40MHz channels may cause problems.
+[*]Set your Wi-Fi channel width to 80MHz or 160MHz. Using 20MHz and 40MHz channels may cause problems
 
-[*]Try disconnecting all other devices from your router to identify the device that is causing
+[*]Try disconnecting all other devices from your router to identify the device that is causing problems
+
+[*]Make sure you are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
+
+[*]Make sure your Encode Width is set to <1280 since many headsets cannot decode higher encode resolutions at >90 Hz
 
 [h4]If you are having microphone issues:[/h4]
 
