@@ -49,22 +49,12 @@ Please visit our [url=https://support.steampowered.com/kb_article.php?ref=1193-W
 [/exclude_realm]
 
 [exclude_realm=china]
-[*][url=#helpPayPal]Who do I contact for help with PayPal Wallet codes?[/url] [/*]
-
 [/exclude_realm]
 
-[exclude_realm=china]
 [*][url=#helpWebMoney]Who do I contact for help with Steam Prepaid Card issued by WebMoney?[/url] [/*]
-
-[/exclude_realm]
 
 [exclude_realm=china]
 [*][url=#invalid]I keep getting an invalid code error, what should I do?[/url] [/*]
-
-[/exclude_realm]
-
-[exclude_realm=china]
-[*][url=#instore]How do in-store promotions regarding Steam Wallet codes work? (Including used game trade-ins)[/url] [/*]
 
 [/exclude_realm]
 
@@ -87,7 +77,7 @@ Please visit our [url=https://support.steampowered.com/kb_article.php?ref=1193-W
 [exclude_realm=china]
 
 [h5]Add funds via Steam Wallet Codes:[/h5]
-Depending on where you live, you can find physical Steam Wallet cards that contain codes which can be redeemed into your Steam account at many electronics retailers, convenience stores, game stores and grocery stores.  You can also purchase Steam Wallet codes printed directly on a receipt or delivered via SMS/text message or email through various kiosks, cyber cafes and eCommerce websites. Codes are also available directly from PayPal.
+Depending on where you live, you can find physical Steam Wallet cards that contain codes which can be redeemed into your Steam account at many electronics retailers, convenience stores, game stores and grocery stores.  You can also purchase Steam Wallet codes printed directly on a receipt or delivered via SMS/text message or email through various kiosks, cyber cafes and eCommerce websites.
 
 Please visit our [url=https://support.steampowered.com/kb_article.php?ref=1193-WLXV-6514]Where to buy Steam Wallet Codes[/url] article to find the best local purchasing option nearest you.
 
@@ -125,7 +115,7 @@ In most cases, the new funds will automatically be displayed in your account. If
 
 [/list]
 
-[exclude_realm=china][url id=codes][/url]
+[url id=codes][/url]
 
 [h4]What are Steam Wallet Codes?[/h4]
 Steam Wallet codes work just like gift cards which can be redeemed on your account for Steam Wallet credit and used for the purchase of games, software and any other item you can purchase on Steam. You can find Steam Wallet Codes at many retail stores across the World in a variety of denominations and different currencies.
@@ -166,11 +156,6 @@ Yes. Each Steam User Account is associated with a specific currency, which you c
 [h4]What if my Steam Wallet code is damaged or unreadable?[/h4]
 If a Steam Wallet code has been damaged or is otherwise unreadable, please contact Steam Support with a [url=https://support.steampowered.com/kb_article.php?ref=4429-QWAG-7775]photo of the code[/url] attached to the ticket.
 
-[url id=helpPayPal][/url]
-
-[h4]Who do I contact for help with PayPal Wallet Codes?[/h4]
-If you need help with a Steam Wallet code purchased directly from PayPal, please contact [url=https://www.paypal.com/smarthelp/home]PayPal Help[/url].
-
 [url id=invalid][/url]
 
 [url id=helpWebMoney][/url]
@@ -199,9 +184,3 @@ Check instances of the following pairs to ensure these characters are not being 
 [*]The letter [b]G[/b] and the number [b]6[/b] [/*]
 
 [/list]
-
-[url id=instore][/url]
-
-[h4]How do in-store promotions regarding Steam Wallet codes work? (Including used game trade-ins)[/h4]
-Any trade-in credit or other promotion offer by a retail store which modifies the value of your Steam Wallet code is handled by the retailer. If you have any questions regarding these offers or an issue with the Steam Wallet credit value received in one of these promotions, you will need to contact them directly.
-[/exclude_realm]

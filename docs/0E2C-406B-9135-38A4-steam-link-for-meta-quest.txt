@@ -141,6 +141,8 @@ Using a wireless connection to your PC is not advised and could cause connectivi
 
 [*]Your computer’s network is set to "Private" instead of "Public"
 
+[*]You are logged on the headset as the owner account
+
 [*]You’ve disabled all VPNs before streaming
 
 [*]Try temporarily disabling your firewall to identify whether that is causing problems
