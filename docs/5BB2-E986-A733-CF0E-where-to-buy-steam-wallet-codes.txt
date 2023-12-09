@@ -246,9 +246,15 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [list]
 
-[*][url=http://www.public.gr/storelocator/]Public Stores[/url]
+[*][url=https://www.ave.gr/]AVE[/url]
 
-[*][url=https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E/]Germanos/Cosmote[/url]
+[*][url=https://interkiosk.gr/]Interkiosk[/url]
+
+[*][url=https://www.netlink.gr//]Netlink[/url]
+
+[*][url=https://www.posit.gr/]Posit[/url]
+
+[*][url=http://www.public.gr/storelocator/]Public Stores[/url]
 
 [/list]
 

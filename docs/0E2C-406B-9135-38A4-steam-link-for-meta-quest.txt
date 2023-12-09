@@ -45,10 +45,9 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 [list]
 
 [*]Oculus Touch and Pro Controllers
+[i]Please note: other input devices may work even if they aren’t officially supported.[/i]
 
 [/list]
-
-[i]Please note: other input devices may work even if they aren’t officially supported.[/i]
 
 [h2]Getting Started[/h2]
 
@@ -123,6 +122,36 @@ Your wireless network is on 2.4Ghz and not 5Ghz.
 
 Using a wireless connection to your PC is not advised and could cause connectivity failures and other latency issues. We recommend a wired connection to your PC, and a 5GHz WiFi network for your headset is highly recommended.
 
+[h4]What operating systems can I use for streaming VR?[/h4]
+
+We currently only support Windows 10 or newer. Other operating systems such as Linux and macOS are not supported.
+
+[h4]Does Steam Link support AMD GPUs for my PC?[/h4]
+
+We are currently working on adding AMD support but cannot recommend them at this time. If you would like to experiment, see the following list.
+
+Experimental AMD GPUs:
+
+[list]
+
+[*]RX570 or newer
+
+[/list]
+
+Not Supported AMD GPUs:
+
+[list]
+
+[*]RX 6400
+
+[*]RX 6500 XT
+
+[*]And most cards older than RX570
+
+[/list]
+
+Some known issues with using AMD GPUs include: narrow foveated regions and a blurrier image.
+
 [/expand]
 
 [expand type=title title="Troubleshooting"]
@@ -140,8 +169,6 @@ Using a wireless connection to your PC is not advised and could cause connectivi
 [*]You have checked your computer for any issues being presented in the SteamVR window
 
 [*]Your computer’s network is set to "Private" instead of "Public"
-
-[*]You are logged on the headset as the owner account
 
 [*]You’ve disabled all VPNs before streaming
 

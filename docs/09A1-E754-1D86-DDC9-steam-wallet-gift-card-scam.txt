@@ -18,19 +18,25 @@ Never give out a Steam Wallet Gift Card to a person you do not know.
 [h2]Steps to take:
 
 [/h2]
-•	If you have been a victim of a scam and purchased Steam Wallet Gift Cards that have not been given to the scammer yet, please take these cards back to the customer service desk of the retailer where you purchased them. They can scan the cards to see if they are eligible for a refund. Steam Wallet Gift Cards that have been activated but not redeemed yet are normally refundable at retail.
 
-•	If you already have given the codes to the scammer, please keep the Steam Wallet Gift Cards and the receipt and report the incident to your local police department.
+[list]
 
-More information on Steam Wallet Codes can be found in our [url=https://support.steampowered.com/kb_article.php?ref=1193-WLXV-6514]Steam Wallet Code-FAQ[/url]
+[*]If you have been a victim of a scam and purchased Steam Wallet Gift Cards that have not been given to the scammer yet, please take these cards back to the customer service desk of the retailer where you purchased them. They can scan the cards to see if they are eligible for a refund. Steam Wallet Gift Cards that have been activated but not redeemed yet are normally refundable at retail.
+
+[*]If you already have given the codes to the scammer, please keep the Steam Wallet Gift Cards and the receipt and report the incident to your local police department.
+
+[/list]
+
+More information on Steam Wallet Codes can be found in our [url=https://support.steampowered.com/kb_article.php?ref=1193-WLXV-6514]Steam Wallet Code FAQ[/url]
 
 [h1]Steam Wallet Gift Card Examples:[/h1]
 
 [h2]Front:[/h2]
-[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Blue.png[/img] [/*]
-[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Green.png[/img] [/*]
-[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Red.png[/img] [/*]
+[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Blue.png[/img]
+
+[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Green.png[/img]
+[img]http://steamcdn-a.akamaihd.net/steam/support/faq/SteamWalletCard_Logo_Front_Red.png[/img]
 
 [h2]Back:[/h2]
-[img]https://support.steampowered.com/images/faq/wallet/epaywalletcard.png[/img] [/*]
-[img]https://support.steampowered.com/images/faq/wallet/fastcardwalletcard.png[/img] [/*]
+[img]https://support.steampowered.com/images/faq/wallet/epaywalletcard.png[/img]
+[img]https://support.steampowered.com/images/faq/wallet/fastcardwalletcard.png[/img]
