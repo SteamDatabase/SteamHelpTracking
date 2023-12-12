@@ -174,6 +174,8 @@ Some known issues with using AMD GPUs include: narrow foveated regions and a blu
 
 [*]Try temporarily disabling your firewall to identify whether that is causing problems
 
+[*]Make sure you are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
+
 [h4]If you are experiencing performance issues:[/h4]
 
 [*]Use only a wired connection, (gigabit min.), between your computer and your router
@@ -188,7 +190,7 @@ Some known issues with using AMD GPUs include: narrow foveated regions and a blu
 
 [*]If you are in an area with a lot of Wi-Fi interference, move your router to another location to minimize the interference of other networks.
 
-[*]Try disconnecting from Wi-Fi on your headset and reconnect
+[*]Try toggling the wifi off and on in headset under with wifi menu with the toggle at the top right
 
 [*]Make sure your Wi-Fi network is 5GHz or higher
 
@@ -201,6 +203,8 @@ Some known issues with using AMD GPUs include: narrow foveated regions and a blu
 [*]Make sure you are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
 
 [*]Make sure your Encode Width is set to <1280 since many headsets cannot decode higher encode resolutions at >90 Hz
+
+[*]Sometimes wireless routers become unstable, try rebooting your wireless router
 
 [h4]If you are having microphone issues:[/h4]
 
@@ -219,6 +223,18 @@ Some known issues with using AMD GPUs include: narrow foveated regions and a blu
 [*]Check that your headset volume is not set low on the headset, itself by either sliding the volume slider in SteamVR or in-headset
 
 [*]Try setting "HMD" or "Steam Streaming Speakers" as the audio output device in "Audio Settings" in SteamVR Setting. Note that the default should be "HMD"
+
+[h4]Steam dashboard not opening:[/h4]
+
+[*]To open the Steam dashboard, click the menu button on the left controller, which is the default binding. Ensure that the Meta Quest bindings are correct.
+
+[*]Ensure that the setting "VR Dashboard on System Button" is ON. This should be on by default. To manage this setting go to: SteamVR Settings > Dashboard then Toggle the Advanced Settings button.
+
+[*]Try disconnecting other VR controllers connected to your PC.
+
+[h4]OpenXR Application Runtime Issues[/h4]
+
+If you are running OpenXR applications, and you previously were using a different runtime, for instance Windows Mixed Reality, Oculus OpenXR Runtime or Virtual desktop OpenXR Runtime, in order to use OpenXR applications with Steam Link, you will need to change your system's OpenXR runtime to SteamVR.  You can do this by starting SteamVR, selecting the settings menu by opening the menu at the top left of the SteamVR window, then selecting the "OpenXR" tab. From there you can configure SteamVR to be your system default OpenXR runtime.
 
 [h4]Contacting Steam Support[/h4]
 If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] and [i][b]driver_vrlink.txt[/b][/i] log files to your ticket.
