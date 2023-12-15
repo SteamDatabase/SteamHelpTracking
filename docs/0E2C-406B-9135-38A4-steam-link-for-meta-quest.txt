@@ -118,6 +118,10 @@ You can find out more information about improving wireless streaming  [url=https
 
 Your wireless network is on 2.4Ghz and not 5Ghz.
 
+[h4]How do I join the Quest Public Beta Client?[/h4]
+
+To join, you must install Steam Link to your Meta headset, then you can opt into the Public Beta channel using this link https://www.meta.com/s/1hti7gedQ from your phone, or by using the Meta application on your phone to select the Public Beta channel in the settings for the Steam Link application.
+
 [h4]Can I use my Wi-Fi network to connect to my PC and my headset?[/h4]
 
 Using a wireless connection to your PC is not advised and could cause connectivity failures and other latency issues. We recommend a wired connection to your PC, and a 5GHz WiFi network for your headset is highly recommended.
