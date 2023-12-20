@@ -1,0 +1,42 @@
+[h1]Steam Private Games[/h1]
+
+[h2]Description[/h2]
+
+Marking a game as private hides your ownership, in-game status, playtime, and activity in that game. This allows you to make specific games private, rather than your entire Library. So your friends can see and join the games you choose to share.
+
+[h2]What does "Mark Private" on a game do?[/h2]
+
+In general, marking a game as private will cause the game to appear to other users on the Steam platform as if you did not own it at all.  If a game is marked as private:
+
+[list]
+
+[*]The game will no longer appear on your Steam Community profile games list, or in the recently played games section. [/*]
+[*]Your status on the Friends List of other users or in chats will not change to "In Game". [/*]
+[*]Your activity in the game (like achievement unlocks or "Played for the first time") will not appear in the Activity feed of people on your Steam Friends List. [/*]
+[*]When a Steam Friend is browsing the Steam Store, your profile will not appear in the "Friends who own this game" section. [/*]
+[*]If a Steam Friend attempts to buy a game as a gift that you have marked private, you will not show as already owning the game. [/*]
+[*]Showcases on your Steam Community Profile will not show the game or achievements for the game (such as the "Rarest Achievements" showcase). [/*]
+[*]You will not receive Steam Trading Cards for the game while it is marked as Private. [/*]
+[*]If you have changed the "Game File Transfer over Local Network" setting to allow other users on the same network to download games, they will not be able to transfer games that have been marked as Private. [/*]
+
+[/list]
+
+[h2]How do I mark a game as private?[/h2]
+
+There are three places where a game can be marked as private:
+
+[list]
+
+[*][b]From the Steam Client[/b] - You can mark a game as private from the "Manage" submenu on the game itself.  This menu is available from right-clicking on a game or clicking the gear icon on the game details page.  Additionally, it can be found under the "Privacy" settings in the game properties dialog.  This option is only available when the Steam Client is online and connected to Steam. [/*]
+[*][b]From your web browser[/b] - You can mark a game as private on your Steam Community Profile games list. [/*]
+[*][b]From your shopping cart[/b] - Before you complete the purchase of a game, you can mark it private on the cart page. [/*]
+
+[/list]
+
+[h2]How does "Mark Private" work with multiplayer games?[/h2]
+
+When you play a game that uses Steam matchmaking, your Steam ID will be visible to other players on the same server with you.  Additionally, if you invite a friend to join a game you have marked private, that friend will be able to see your in-game status until you exit the game or disconnect from Steam - so that they are able to join the game.
+
+[h2]How is this different from hidden games?[/h2]
+
+There’s already an option in your Steam Client Library to hide a game, which prevents it from appearing to you. It’s an organizational tool for those games you still want to own, but want to take up space your client's game list. Private games are essentially the opposite, they are visible to you in your Library and not to anyone else.
