@@ -28,7 +28,7 @@ Steam Wallet Cards are sold all over USA and Canada. We've listed just a few ret
 [*][url=https://www.samsclub.com/locator]Sam's Club[/url] [/*]
 [*][url=https://www.speedway.com/locations]Speedway[/url] [/*]
 [*][url=https://www.target.com/store-locator/find-stores]Target[/url] [/*]
-[*][url=https://www.walgreens.com/storelocator/result.jsp]Walgreens[/url] [/*]
+[*][url=https://www.walgreens.com/storelocator/find.jsp?tab=store+locator&requestType=locator]Walgreens[/url] [/*]
 [*][url=https://www.walmart.com/store/finder]Walmart[/url] [/*]
 
 [/list]
