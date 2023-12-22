@@ -16,7 +16,13 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [*]Supported OS: Windows 10 or newer
 
-[*]Computer GPUs: NVIDIA (GTX970 or better)
+[*]Computer GPUs:
+
+[list]
+
+[*]NVIDIA (GTX970 or better)
+
+[/list]
 
 [*]Wireless Router: 5GHz Channel, Wi-Fi 5 minimum
 
@@ -32,7 +38,13 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [*]Computer Memory: 16 GB RAM
 
-[*]Computer GPUs: NVIDIA (RTX2070 or better)
+[*]Computer GPUs:
+
+[list]
+
+[*]NVIDIA (RTX2070 or better)
+
+[/list]
 
 [*]Network: Broadband Internet connection
 
@@ -63,47 +75,6 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [/olist]
 
-[h2]Settings & Technical Details[/h2]
-
-For most users, we recommend our automatic settings. By default, Steam Link applies settings for an optimal experience based on your PC, headset and network conditions.
-
-For advanced users who need more control, please be aware of the following.
-
-[b]Foveation Size is affected by the following settings:[/b]
-
-[list]
-
-[*] Render Resolution - available in General and Video settings
-
-[olist]
-
-[*] Larger values may result in a smaller than desired foveated region
-
-[*] Recommend no higher than 175%
-
-[/olist]
-
-[*] Encoded Video Size – available  in Steam Link settings
-
-[olist]
-
-[*] Larger values will cause latency and frame drops when decoded on your headset
-
-[*] Recommend no higher than 1280 encode size
-
-[*] Some GPUs do not support encode sizes > 1024
-
-[/olist]
-
-[/list]
-
-[b]Bandwidth[/b]
-Steam Link dynamically selects a bandwidth that favors a smooth, low latency experience based on your current network conditions and frame rate when set to "Auto". If your content has a low frame rate, Steam Link will automatically adjust the bandwidth.
-
-Manually increasing bandwidth beyond the default may cause jitter and frame drops. Decreasing it may yield a smoother experience but at the cost of more video artifacts.
-
-As the Steam Link team obtains additional data and improves the video encode and decode, we will continue to tune and improve the "Automatic" settings.
-
 For additional support, click the options below or visit the [url=https://steamcommunity.com/app/353380/discussions/11/] Steam Link Discussions[/url].
 
 [expand type=title title="Frequently Asked Questions"]
@@ -132,29 +103,31 @@ We currently only support Windows 10 or newer. Other operating systems such as L
 
 [h4]Does Steam Link support AMD GPUs for my PC?[/h4]
 
-We are currently working on adding AMD support but cannot recommend them at this time. If you would like to experiment, see the following list.
-
-Experimental AMD GPUs:
+Some AMD GPUs are experimentally supported.
 
 [list]
 
-[*]RX570 or newer
-
-[/list]
-
-Not Supported AMD GPUs:
+EXPERIMENTALLY SUPPORTED - Recent AMD Cards with HEVC hardware encoders:
 
 [list]
 
-[*]RX 6400
-
-[*]RX 6500 XT
-
-[*]And most cards older than RX570
+[*]RX570 and newer
 
 [/list]
 
-Some known issues with using AMD GPUs include: narrow foveated regions and a blurrier image.
+UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
+
+[list]
+
+[*]RX 6400 – No HEVC
+
+[*]RX 6500 XT – No HEVC
+
+[*]Most cards older than RX570
+
+[/list]
+
+[/list]
 
 [/expand]
 
@@ -246,5 +219,51 @@ If you are running OpenXR applications, and you previously were using a differen
 If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] and [i][b]driver_vrlink.txt[/b][/i] log files to your ticket.
 
 The default location for this file on your PC is [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
+
+[/expand]
+
+[expand type=title title="Settings & Technical Details"]
+
+[h4]Foveation[/h4]
+
+For most users, we recommend our automatic settings. By default, Steam Link applies settings for an optimal experience based on your PC, headset and network conditions.
+
+For advanced users who need more control, please be aware of the following.
+
+[b]Foveation Size is affected by the following settings:[/b]
+
+[list]
+
+[*] Render Resolution - available in General and Video settings
+
+[olist]
+
+[*] Larger values may result in a smaller than desired foveated region
+
+[*] Recommend no higher than 175%
+
+[/olist]
+
+[*] Encoded Video Size – available  in Steam Link settings
+
+[olist]
+
+[*] Larger values will cause latency and frame drops when decoded on your headset
+
+[*] Recommend no higher than 1280 encode size
+
+[*] Some GPUs do not support encode sizes > 1024
+
+[/olist]
+
+[/list]
+
+[h4]Bandwidth[/h4]
+
+Steam Link dynamically selects a bandwidth that favors a smooth, low latency experience based on your current network conditions and frame rate when set to "Auto". If your content has a low frame rate, Steam Link will automatically adjust the bandwidth.
+
+Manually increasing bandwidth beyond the default may cause jitter and frame drops. Decreasing it may yield a smoother experience but at the cost of more video artifacts.
+
+As the Steam Link team obtains additional data and improves the video encode and decode, we will continue to tune and improve the "Automatic" settings.
 
 [/expand]
