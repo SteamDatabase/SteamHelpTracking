@@ -20,7 +20,9 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [list]
 
-[*]NVIDIA (GTX970 or better)
+[*]NVIDIA GTX970 or better
+
+[*]AMD RX570 or better. EXCEPT no support for RX 6400 or 6500 XT (No hardware encode)
 
 [/list]
 
