@@ -157,6 +157,8 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]Make sure you are not connecting to a "guest" wireless network. For instance, the 'xfinitywifi' SSID of your router. Only connecting to the Wi-Fi SSID associated with your LAN will work.
 
+[*]If you are using a Lenovo product, disable "Network Booster"
+
 [h4]If you are experiencing performance issues:[/h4]
 
 [*]Use only a wired connection, (gigabit min.), between your computer and your router
@@ -186,6 +188,10 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 [*]Make sure your Encode Width is set to <1280 since many headsets cannot decode higher encode resolutions at >90 Hz
 
 [*]Sometimes wireless routers become unstable, try rebooting your wireless router
+
+[*]Especially if you see brightness issues, try disabling power saver in your Meta Quest Settings under "Settings" -> "System" -> "Power" -> "Battery Saver"
+
+[*]If you are using a Lenovo product, disable "Network Booster"
 
 [h4]If you are having microphone issues:[/h4]
 
