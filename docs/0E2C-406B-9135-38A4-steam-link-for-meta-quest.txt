@@ -189,6 +189,8 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]Sometimes wireless routers become unstable, try rebooting your wireless router
 
+[*]Be sure that you are using "Auto" bandwidth in Steam VR -> Steam Link settings, instead of manual. "Auto" specifically targets bandwidth to help avoid jitters.
+
 [*]Especially if you see brightness issues, try disabling power saver in your Meta Quest Settings under "Settings" -> "System" -> "Power" -> "Battery Saver"
 
 [*]If you are using a Lenovo product, disable "Network Booster"
