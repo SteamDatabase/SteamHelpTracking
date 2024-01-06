@@ -153,11 +153,17 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]Try temporarily disabling your firewall to identify whether that is causing problems
 
-[*]Make sure you are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
+[*]You do not have another wired HMD connected to your PC (If using radios on Index/Vive, DO NOT plug in HDMI/DisplayPort to GPU)
+
+[*]You are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
 
 [*]Make sure you are not connecting to a "guest" wireless network. For instance, the 'xfinitywifi' SSID of your router. Only connecting to the Wi-Fi SSID associated with your LAN will work.
 
 [*]If you are using a Lenovo product, disable "Network Booster"
+
+[*]Any default on devices, like "AMD ReLive for VR Redirect" are disabled or removed as they will prevent Steam Link from running in SteamVR.
+
+[*]You are on the newest SteamVR version (Pre-2.2 versions may not function)
 
 [h4]If you are experiencing performance issues:[/h4]
 
@@ -198,6 +204,8 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 [h4]If you are having microphone issues:[/h4]
 
 [*]Check that the microphone is not muted in-headset
+
+[*]Use the speaker icon on the SteamVR dashboard to turn the microphone volume to maximum
 
 [*]Verify the Steam Streaming Microphone is enabled in your audio device settings under "Sound Settings" in Windows
 
