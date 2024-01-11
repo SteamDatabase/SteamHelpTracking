@@ -33,7 +33,7 @@ Examples include:
 [list]
 
 [*]Cheating. [/*]
-[*]Manipulation of matchmaking rank by deranking or falsely increasing your Skill Group. [/*]
+[*]Manipulation of matchmaking rank by deranking or falsely increasing your Skill Group or Counter-Strike Rating. [/*]
 [*]Botting and/or automation. [/*]
 [*]Intentionally interfering with the normal operation of game servers or other players. [/*]
 
@@ -46,7 +46,7 @@ Game Bans for all of the above are not removed by Steam Support.
 [h2]Can you tell me why I was game banned?[/h2]
 No. We do not disclose the reason for your game ban.
 
-Whether you were using cheat software or automating matchmaking, the reason a game ban was issued is not shared with users.
+Whether you were using cheat software, automating matchmaking, or abusing matchmaking the reason a game ban was issued is not shared with users.
 [/section]
 
 [section id=appeal]
