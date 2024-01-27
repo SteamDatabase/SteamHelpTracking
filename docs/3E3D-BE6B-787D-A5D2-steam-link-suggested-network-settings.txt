@@ -37,6 +37,8 @@ Remote Play uses the following ports:
 
 [*]TCP ports 27036 and 27037
 
+[*]For VR Streaming, ports 10400 and 10401
+
 [/list]
 
 Please ensure that Steam is allowed to listen to these ports in your host computer firewall software. We suggest contacting your network administrator or firewall software developer for more information.
