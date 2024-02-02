@@ -50,7 +50,7 @@ Any Steam client or Steam Deck can receive game content from another client on t
 
 [*] A Steam Deck, or a PC running in Steam desktop mode can host network transfers. PCs in Big Picture mode, and custom launchers can't transfer their files out over the local network.
 
-[*]  The network transfer happens on TCP port 24070 and it needs to be allowed by local firewall software.
+[*]  The network transfer happens on TCP port 27040 and it needs to be allowed by local firewall software. You also need to open UDP ports 27031-27036 for client discovery.
 
 [/list]
 
