@@ -143,9 +143,9 @@ No. Service Medals, Coins of any kind, badges, pins, and other display items can
 [section id=whatarestick]
 
 [h2]What are Stickers?[/h2]
-Stickers in Counter-Strike 2 are single use in-game items that can be applied to one of four locations on each weapon.
+Stickers in Counter-Strike 2 are single use in-game items that can be placed on players' weapons in almost any location. Stickers can be moved around and rotated prior to being applied and a maximum of five stickers can be applied to any weapon.
 
-Stickers can be scraped once they have been applied to a weapon to change their appearance. To do this, left-click on a weapon in your Counter-Strike 2 Inventory which has Stickers, select 'Scrape Sticker', and click on the Sticker you'd like to scrape.
+Once applied, stickers can be scraped to begin the removal process or to change their appearance. To do this, left-click on a weapon in your Counter-Strike 2 Inventory which has Stickers, select 'Scrape Sticker', and click on the Sticker you'd like to scrape.
 
 Stickers can be purchased through in-game offers or from the [url=https://steamcommunity.com/market/]Community Market[/url].
 
