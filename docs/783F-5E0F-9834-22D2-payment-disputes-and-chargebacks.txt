@@ -3,62 +3,67 @@
 [exclude_realm=china][img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 [/exclude_realm]
 
-[h1]Payment Disputes and Chargebacks[/h1]When a cardholder or financial institution disputes a purchase made through Steam resulting in a payment reversal, this is considered a chargeback.
-
 [list]
 
-[*][url=#7]Why do chargebacks result in account restrictions?[/url] [/*]
-[*][url=#5]How can I remove the restrictions from my account?[/url] [/*]
-[*][url=#6]What if the charges were unauthorized or made without my consent?[/url] [/*]
-[*][url=#2]Why were games/items removed?[/url] [/*]
-[*][url=#4]What if I disputed the purchase because of issues with the product?[/url] [/*]
+[*][url=#7]What is a chargeback?[/url] [/*]
+[*][url=#5]What’s the difference between a chargeback and a refund?[/url] [/*]
+[*][url=#6]What should I do if I don’t recognize a charge from Steam?[/url] [/*]
+[*][url=#2]How can I remove a chargeback restriction from my account?[/url] [/*]
+[*][url=#4]How long does it take to cancel/reverse a chargeback with my bank?[/url] [/*]
 [*][url=#8]What if I am unable to reverse the chargeback?[/url] [/*]
 [*][url=#9]What if hardware is included in the disputed transaction?[/url] [/*]
 
 [/list]
 [url id=7][/url]
 
-[h4]Why do chargebacks result in account restrictions?[/h4]
-Chargebacks typically occur when someone identifies unknown charges on their bank account, or finds purchases that were made without their consent.
-
-In order to protect our users from additional unknown charges, accounts associated with chargebacks are restricted while disputes are reviewed.
+[h4]What is a chargeback?[/h4]
+A chargeback, also known as a payment dispute, is when the bank reverses a payment made on Steam and returns the funds to their customer’s account.
 
 [url id=5][/url]
 
-[h4]How can I remove the restrictions from my account?[/h4]
-The quickest way to remove the restrictions is for the purchaser to contact the financial institution associated with the disputed payments in order to close them; doing so will restore access to the disputed content, as well as remove the restrictions from the account.
+[h4]What’s the difference between a chargeback and a refund?[/h4]
+A chargeback is initiated by the bank on their customer’s behalf and is commonly used to return funds in cases of fraud or unauthorized use of the payment method.
 
-Depending on the institution associated with the payments, it may take several weeks after closing a dispute for the content and account features to be restored.
+A refund requested is submitted by the customer directly to Steam. You can request a refund for nearly any purchase on Steam—for any reason. If your request is made within fourteen days of purchase and the title has been played for less than two hours, you automatically qualify for a refund. For detailed instructions on how to submit a refund request, please click [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966]here[/url].
+
+Note: If you’re having an issue with a product, we recommend submitting a refund request through Steam or contacting the developer/publisher of the product for technical assistance. If you’re unable to resolve your issue, reach out to [url=https://help.steampowered.com]Steam Support[/url] to determine next steps.
 
 [url id=6][/url]
 
-[h4]What if charges were unauthorized or made without my consent?[/h4]
-If the charges were made without your consent, please contact Steam Support in order to resolve the issue and safeguard the account from future unauthorized activity.
+[h4]What should I do if I don’t recognize a charge from Steam?[/h4]
+If you don’t recognize a charge or your payment method was used without your consent, please contact [url= https://help.steampowered.com]Steam Support[/url] for assistance.
+
+Non-Steam users are also encouraged to submit a support ticket. Please go to [url= https://help.steampowered.com]Steam Support[/url] and select the following options:
+
+[list]
+[b]I have charges from Steam that I didn't make[/b]
+[img]{STEAM_CLAN_IMAGE}/39983882/a28fc397efccf2d17414158d54717a3721ed560c.png[/img]
+
+[b]I am not a Steam user[/b]
+[img]{STEAM_CLAN_IMAGE}/39983882/1e321822e641aff3874770d01c0060e3a4245f3e.png[/img]
+
+[/list]
 
 [url id=2][/url]
 
-[h4]Why were games/items removed?[/h4]
-With any chargeback, funds are held from Steam or returned to the cardholder. Since the funds are removed, the product is temporarily locked.
+[h4]How can I remove a chargeback restriction from my account?[/h4]
+To protect our users from additional unknown charges, any accounts and purchases associated with the chargebacks are restricted. The quickest way to remove the restriction on your Steam account is for the owner of the payment method to contact their bank and to reverse the dispute. Once the funds are returned to Steam, the restriction is automatically removed, and the disputed content is restored to your account.
 
-If a dispute is closed and the funds are returned to Steam, the content associated with the dispute will be restored.
+Note: Most banks have a limited timeframe in which chargebacks can be reversed. Please contact your bank for further details.
 
 [url id=4][/url]
 
-[h4]What if I disputed the purchase because of issues with the product?[/h4]
-We encourage users to work Steam Support for technical issues with products. Users may also need to contact the developer/publisher of the product for specific technical support.
-
-If issues are unable to be resolved through support, users are encouraged to submit a [url=https://support.steampowered.com/kb/6695-QIKM-7966]refund request[/url] through Steam.
+[h4]How long does it take to cancel/reverse a chargeback with my bank?[/h4]
+It may take up to 60 days to finalize a dispute reversal. If it’s been more than 60 days and your account is still restricted or your purchases haven’t been restored, please contact [url=https://help.steampowered.com]Steam Support[/url].
 
 [url id=8][/url]
 
 [h4]What if I am unable to reverse the chargeback?[/h4]
-If a chargeback cannot be reversed by working with the financial institution associated with it, please contact Steam support for further assistance.
+If a chargeback cannot be reversed by working with your bank, please contact [url=https://help.steampowered.com]Steam Support[/url] for further assistance.
 
 [url id=9][/url]
 
 [h4]What if hardware is included in the disputed transaction?[/h4]
-Hardware chargebacks are similar to regular chargebacks in that your account will automatically be locked and restricted from future purchases.
+If a hardware purchase is disputed, your account is automatically restricted. You can remove the restriction by reversing the dispute with your bank or returning the associated hardware. Contact [url= https://help.steampowered.com]Steam Support[/url] for additional guidance.
 
-Like regular chargebacks, you can remove the lock on your account by removing the dispute with your financial institution. Unlike other chargebacks, however, accounts locked for Hardware chargebacks will not be unlocked until the associated hardware is returned.
-
-If you have disputed a hardware purchase please contact [url=https://help.steampowered.com/en/]Steam Support[/url] to resolve your issue.
+If you are not satisfied with your Valve Hardware purchase, you can pursue a refund or request product service. You can learn more about this process [url=https://help.steampowered.com/en/faqs/view/04AE-8A9A-F64E-D165] here [/url].
