@@ -405,16 +405,53 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [/list]
 
+[/list]
+
 [/expand]
 
 [expand type=title title="Middle East"]
+
+[h3]Bahrain[/h3]
+
+[list]
+
+[*][url=https://www.extra.com/en-bh]Extra[/url] [/*]
+[*]
+[url=https://www.luluhypermarket.com/en-bh]Lulu[/url] [/*]
+
+[/list]
+
+[h3]Kuwait[/h3]
+
+[list]
+
+[*][url=https://www.xcite.com]X-cite[/url] [/*]
+[*][url=https://www.jokercodes.com]Jokers Codes[/url]
+[*]
+[url=https://www.kuwait-star.com]Kuwait Star[/url]
+[*]
+[url=https://www.eureka.com.kw]Eureka[/url] [/*]
+
+[/list]
+
+[h3]Oman[/h3]
+
+[list]
+
+[*][url=https://www.luluhypermarket.com/en-om]Lulu[/url] [/*]
+
+[/list]
 
 [h3]Saudi Arabia[/h3]
 
 [list]
 
-[*][url=http://www.jarir.com/sa-en/video-games/pc-gaming/pc-gaming-prepaid-cards.html]Jarir Bookstore[/url] [/*]
-
+[*][url=http://www.jarir.com/sa-en/video-games/pc-gaming/pc-gaming-prepaid-cards.html]Jarir Bookstore[/url]
+[*][url=https://www.extra.com/en-sa]Extra[/url]
+[*]
+[url=https:// www.jarir.com/sa-en]Jarir[/url]
+[*]
+[url=https:// www.luluhypermarket.com/en-sa]Lulu[/url]
 [/list]
 
 [h3]Turkey[/h3]
@@ -428,6 +465,21 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [/list]
 
+[h3]UAE[/h3]
+
+[list]
+
+[*][url=https://www.carrefouruae.com]Carrefour[/url]
+[*][url=https://www.ecityuae.ae]E-city[/url]
+[*][url=https://www.emax.ae]Emax[/url]
+[*]
+[url=https://www.eros.ae]Eros[/url]
+[*][url=https://www.harmanhouse.com]Harman[/url]
+[*][url=https://www.luluhypermarket.com/en-ae]Lulu[/url]
+[*][url=https://www.sharafdg.com]Sharaf DG[/url] [/*]
+
+[/list]
+
 [/expand]
 
 [expand type=title title="Africa"]
@@ -438,7 +490,14 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [*][url=https://www.egifts24.co.za/]eGifts24[/url] [/*]
 [*][url=https://www.evopoints.co.za/]EVOGAMES CC[/url] [/*]
-[*][url=http://www.prepaidgamer.com/]PrepaidGamer.com[/url] [/*]
+[*]
+[url=https://game4u.co.za]Games 4 U[/url]
+[*]
+[url=https://www.hificorp.co.za]Hi-Fi Corp[/url]
+[*]
+[url=https://www.incredible.co.za]Incredible Collection[/url]
+[*]
+[url=http://www.prepaidgamer.com/]PrepaidGamer.com[/url] [/*]
 
 [/list]
 
