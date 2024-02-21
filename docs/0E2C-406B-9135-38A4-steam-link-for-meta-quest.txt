@@ -213,6 +213,8 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]Try setting "HMD" or "Steam Streaming Microphone" as the audio output device in "Audio Settings" in SteamVR Setting. Note that the default should be "HMD"
 
+[*]Verify Steam Link has permissions to use the microphone in the Quest Settings Menu, under "Apps" (App Permissions), under "Microphone" and verify the slider is slid to enable
+
 [h4]If you are having speaker issues:[/h4]
 
 [*]Check that Steam Streaming Speakers is enabled (both as an audio input and audio output device) in your audio device settings under "Sound Settings"
