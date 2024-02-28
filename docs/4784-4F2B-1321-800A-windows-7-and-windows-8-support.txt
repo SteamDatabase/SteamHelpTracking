@@ -1,8 +1,8 @@
 [h1]Windows 7 and Windows 8 Support[/h1]
 
-As of January 1 2024, Steam will officially stop supporting the Windows 7, Windows 8 and Windows 8.1 operating systems. After that date, existing Steam Client installations on these operating systems will no longer receive updates of any kind including security updates. Steam Support will be unable to offer users technical support for issues related to the old operating systems, and Steam will be unable to guarantee continued functionality of Steam on the unsupported operating system versions.
+As of January 1 2024, Steam stopped supporting the Windows 7, Windows 8 and Windows 8.1 operating systems. Existing Steam Client installations on these operating systems will no longer receive updates of any kind including security updates. Steam Support will be unable to offer users technical support for issues related to the old operating systems, and Steam will be unable to guarantee continued functionality of Steam on the unsupported operating system versions.
 
-In order to ensure continued operation of Steam and any games or other products purchased through Steam, users should update to a more recent version of Windows. We expect the Steam client and games on these older operating systems to continue running for some time without updates after January 1st, 2024, but we are unable to guarantee continued functionality after that date.
+To continue using of Steam and any games or other products purchased through Steam, users should update to a more recent version of Windows. We expect the Steam client and games on these older operating systems to continue running for some time without updates after January 1st, 2024, but we are unable to guarantee continued functionality after that date.
 
 This change is required as core features in Steam rely on an embedded version of Google Chrome, which no longer functions on older versions of Windows. In addition, future versions of Steam will require Windows feature and security updates only present in Windows 10 and above.
 

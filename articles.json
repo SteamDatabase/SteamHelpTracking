@@ -1142,8 +1142,8 @@
     "5153330920041840650": {
         "title": "Windows 7 and Windows 8 Support",
         "url_code": "4784-4F2B-1321-800A",
-        "version": 3,
-        "timestamp": "2023-11-29 19:26:18"
+        "version": 4,
+        "timestamp": "2024-02-27 20:12:53"
     },
     "5176960817306965865": {
         "title": "About Steam Deck Virtual Conference",
@@ -2066,8 +2066,8 @@
     "8376464472979915637": {
         "title": "Steam macOS 10.13 and 10.14 Support",
         "url_code": "743F-2E0E-C9A5-C375",
-        "version": 2,
-        "timestamp": "2023-11-30 00:47:00"
+        "version": 3,
+        "timestamp": "2024-02-27 20:20:37"
     },
     "8404346551101924452": {
         "title": "Dota 2 - Network/Connectivity Issues",
