@@ -12,8 +12,8 @@ Please follow the instructions below to participate in the Steam client beta:
 
 [*]With Steam running, click on "Steam" in the upper left, then choose the "Settings" menu. (Preferences on Mac) [/*]
 [*]On the "Interface" tab under "Client Beta Participation" select the dropdown menu [/*]
-[*]Select the "Steam Beta Update" from the drop down list and click "OK" [/*]
-[*]You will be prompted to restart Steam, please select the "Restart Steam" button [/*]
+[*]Select the "Steam Beta Update" from the drop down list [/*]
+[*]You will be prompted to restart Steam, please select the "Restart Now" button [/*]
 
 [/olist]
 
@@ -22,7 +22,7 @@ If you are using a Steam Deck:
 [olist]
 
 [*]Press the "Steam" button [/*]
-[*]Browse to the "System" menu [/*]
+[*]Select "Settings" then "System" [/*]
 [*]Navigate to the "Beta Participation" section [/*]
 [*]Expand the System Update Channel pull-down and select "Beta" [/*]
 [*]Follow the prompt to restart your device [/*]
@@ -33,8 +33,9 @@ If you are using Big Picture Mode:
 
 [olist]
 
-[*]Select 'Settings' then 'System' [/*]
-[*]Check the ‘Participate in client beta’ option [/*]
-[*]Follow the prompt to restart Steam [/*]
+[*]Select "Settings" then "System" [/*]
+[*]Navigate to the "Beta Participation" section [/*]
+[*]Expand the Steam Client Update Channel pull-down and select "Steam Beta Update" [/*]
+[*]Follow the prompt to restart your device [/*]
 
 [/olist]
