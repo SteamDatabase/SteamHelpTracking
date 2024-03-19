@@ -1,0 +1,289 @@
+[h1]Steam Families User Guide & FAQ[/h1]
+
+Steam Families is a collection of family-related features. It replaces both Steam Family Sharing and Steam Family View, giving you a single location to manage which games your family can access and when they can play. Read our announcement blog post [url=https://store.steampowered.com/news/app/593110/view/4149575031735702628]here[/url].
+
+[list]
+
+[*][url=#overview]Steam Families Feature Overview[/url]
+
+[*][url=#frequent]Frequently asked questions[/url]
+
+[*][url=#troubleshooting]Troubleshooting Steam Families[/url]
+
+[*][url=#support]Reporting an issue with Steam Families[/url]
+
+[/list]
+
+[section id=overview]
+[/section]
+
+[h1]Steam Families Feature Overview[/h1]
+
+[b]Creating a Steam Family:[/b]
+
+[list]
+
+[*] Steam Families can contain up to 6 family members.
+
+[*] Steam Families can be managed via Steam Client, mobile device, or web browser.
+
+[/list]
+
+[b]Family Sharing:[/b]
+
+[list]
+
+[*] Access to all games owned by family members.
+
+[*] New Steam Family library appears in the games list section.
+
+[*] Ownership of games remains with the purchaser; new purchases appear in your collection.
+
+[*] Personal saved games, achievements, and workshop access for shared games.
+
+[*] Ability to play a family member’s game simultaneously, even if another game is being played.
+
+[/list]
+
+[b]Parental Controls:[/b]
+
+[list]
+
+[*] Manage game access and monitor activity from anywhere.
+
+[*] Two roles: adult (can manage invites and restrictions) and child (subject to parental controls).
+
+[*] Features include game access permissions, Steam Store/community/chat restrictions, playtime limits, playtime reports, requests approval for additional playtime/feature access, and account recovery for children.
+
+[/list]
+
+[b]Child Purchase Requests:[/b]
+
+[list]
+
+[*] Children can request an adult in the family to pay for their shopping cart.
+
+[*] Adults approve and pay for purchases via mobile device or email.
+
+[*] Approved games are added directly to the child's account.
+
+[/list]
+
+[h2]Using Steam Families during the Beta[/h2]
+
+Steam Families is launching in Beta. You, and any family members you invite will also need to join the beta. 
+
+[list]
+
+[*] While Steam is running, click on Steam upper left, then choose the "Settings" menu.
+
+[*] Select Interface, then under "Client Beta Participation" select the dropdown menu
+
+[*] Select Steam Family Beta from the drop down list, and click OK. You'll be prompted to restart Steam at this point.
+[/list]
+[img]{STEAM_CLAN_IMAGE}/27766192/8f34ea5084105a298055ee49098b4659cb54b0f8.png[/img]
+
+[h2]Setting up a Steam Family[/h2]
+
+To set up a Steam Family, go to Account Details on the Store page, then click on the Family Management section.
+[img]{STEAM_CLAN_IMAGE}/27766192/c6bb419cc46066b493f7c45f08c9324d155bbd33.png[/img]
+
+[list]
+
+[*] Click '[b]Create a Family[/b]' and enter a name to create a new Steam Family. This family name can be changed at any time in the future.
+
+[*] To invite other family members, select '[b]Invite a Member[/b]' and select or search for family members to invite.
+
+[*] Choose whether the new member should be added as an [b]adult [/b]or [b]child[/b].
+
+[list]
+
+[*]Any adult family member can manage invites and apply account restrictions. Children are subject to parental controls and do not have permissions to manage the family.
+
+[/list]
+
+[*] The invited family members will receive an alert that they've been invited to the Steam Family.
+
+[/list]
+
+[h2]Setting parental controls for children in a Steam Family:[/h2]
+
+An adult in a Steam Family can set parental controls for children in the same family:
+
+[olist]
+
+[*] In Account Settings > Family Management > Manage, expand the child's entry
+
+[*] Toggle the 'Enable Parental controls' option.
+
+[*] Configure game access, Steam feature access, and playtime limits in the panel that appears.
+
+[/olist]
+
+[h2]Recovering a child account in a Steam Family:[/h2]
+
+In case a child can't login to Steam anymore, an adult in the Steam Family can recover their account credentials if the child has been a member for at least 30 days. To recover a child account:
+
+[olist]
+
+[*] In Account Settings > Family Management > Manage, expand the child's entry
+
+[*] Click the 'Recover Account' button, and go through the recovery wizard
+
+[/olist]
+
+[section id=frequent]
+[/section]
+
+[h1]Frequently asked questions[/h1]
+
+[h3]Who can be in a Steam Family?[/h3]
+
+While we know that families come in many shapes and sizes, Steam Families is intended for a household of up to 6 close family members.
+
+To that end, we expect the requirements for participating in a Steam Family to change over time as we monitor its usage and add requirements to keep usage in line with this intent.
+
+[h3]Can I leave a Steam Family?[/h3]
+
+Steam Families are intended to contain your immediate family. As who you include in your immediate family can change over time due to growing up, marriage or other events, it is understandable that some day you may need to change to a new Steam Family. Adults can leave a family at any time, however, they will need to wait 1 year from when they joined the previous family to create or join a new family.
+
+Children in a Steam Family cannot leave the family themselves and must be removed by an adult in the family or by Steam Support.
+
+As it is rare that a family member leaves the family, each Steam Family slot has a cooldown of one year before a new member can occupy that slot.
+
+[h3]I accidentally left my Steam Family! Do I have to wait a year to rejoin?[/h3]
+
+No. You can always rejoin the last Steam Family that you were a member of without waiting, provided that it has less than 6 members when you try.
+
+[h3]Can I be kicked out of a Steam Family?[/h3]
+
+Yes, adult family members can kick any family member out of the Steam Family.
+
+[h3]Can we go through a real world example of how a Steam Family might share games?[/h3]
+
+Of course! Let's say that you are in a family with 4 members and that you own a copy of Portal 2 and a copy of Half-Life. At any time, any one member can play Portal 2 and another can play Half-Life. If two of you would like to play Portal 2 at the same time, someone else in the family will need to purchase a copy of the game. After that purchase, there are two owned copies of Portal 2 across the family and any two members can play at the same time.
+
+In this example, if your family choose to not buy a second copy, you can play any other game in your library while waiting for your family member to finish playing your copy of Portal 2.
+
+[h3]Which games are currently eligible for Family Sharing?[/h3]
+
+As Steam Families is replacing the Steam Family Sharing feature, all developer set Family Sharing settings from the outgoing feature are being brought forward to Steam Families. So, if a game is currently eligible for Family Sharing, it will remain so in the new system unless the publisher chooses to opt-out later.
+
+As with Steam Family Sharing previously, not all games can be shared due to technical limitations, some Steam games and content may be unavailable for sharing. Games or content that matches the criteria below cannot be shared between accounts.
+
+[list]
+
+[*] Games that require an additional third-party key, account, or a subscription in order to play
+
+[*] Free to play games and any purchased DLC for those games
+
+[*] Games or DLC that is restricted in your or the other family member's region
+
+[*] Games that do not support the other family member's operating system
+
+[*] Games that the publisher has marked explicitly as unavailable for sharing
+
+[*] Games marked as private by the original owner
+
+[*] Games that are currently excluded from Family Sharing will continue to be
+excluded from sharing in Steam Families. This includes games that require an additional third party account or subscription.
+
+[/list]
+
+[h3]In the Steam client, how do I see my family's games?[/h3]
+
+Your family games will appear in your Steam library just like your own games. If you'd like the family games in a separate section in your game list, make sure to check "Group By Library" in the dropdown at the top of the game list.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/6de18017101b0b76e564fe6934ae864650542453.png[/img]
+
+[h3]When I play a game from a Steam Family member, what DLC do I get?[/h3]
+
+When you launch a game belonging to another member of your Steam Family, you get the DLC that they own that has been marked as shareable by its publisher.
+
+[h3]Can I choose which Steam Family member's copy of a game I play?[/h3]
+
+When you launch a game from your Steam Family that is owned by multiple members, you will be asked which member's copy you want to play. Steam will remember that choice and launch the same copy when you play the game in future.
+
+[h3]What happens if the game I want to play from my Steam Family is in use?[/h3]
+
+If another member of your Steam Family also owns the game with identical DLC, Steam will launch that copy instead. If there is no copy with identical DLC, Steam will look for any copies of the same game and ask you if you want to switch to playing one of those copies instead, but your saved games may or may not work with different sets of DLC. If there are no other copies available in your Steam Family, you can either wait for the game to be available or buy another copy.
+
+[h3]Can I change which Steam Family member's copy of a game I play?[/h3]
+
+You can always change which Steam Family member's copy of a game that you play. Note that if you switch to a Steam Family member's copy that has different DLC than the copy you were playing, your save games may or may not work.
+
+[h3]Can I prevent Steam Family members from playing a game I own?[/h3]
+
+For Child members of your Steam Family, you can restrict the games that they can play via parental controls.
+
+[h3]How are save games, achievements, and other progress handled?[/h3]
+
+This works the same way it does today. Achievements are tied to individual Steam accounts. Saved games depend on the game itself.
+
+[h3]Do I need to be online to play a shared game?[/h3]
+
+You can play games from the Family library offline as long as that game supports Family Sharing.
+
+[h3]Should I add an account as an Adult or a Child to my family?[/h3]
+
+If you expect to need parental controls limiting what games an account can play and how long and when it can play them, it should be added as a Child. Otherwise, add them as an Adult.
+
+[h3]I have been invited to a Steam Family as a Child. Should I accept?[/h3]
+
+Child accounts in Steam Families are meant for accounts that parents or guardians create for their children to use. If you have accidentally joined a Steam Family as a Child, you should contact Steam Support and ask them to remove you from the Steam Family.
+
+[h3]Can I transition my save games, achievements, and other progress to a newly created account for my child?[/h3]
+
+No. Save games, achievements, and other progress are tied to a single Steam account.
+
+[h3]I cannot find the option to recover my Child's account in the Steam Family.[/h3]
+
+The option only appears 30 days after the Child joins the Steam Family and is only available to Adults in the Steam Family.
+
+[h3]What if a family member is caught cheating or committing fraud while playing my shared games?[/h3]
+
+Your Steam Family privileges may be revoked and your account may also be VAC banned if a member of your Steam Family playing a game from you cheats or commits fraud. In addition, not all VAC protected games are shareable. We recommend you only invite trusted household members to your Steam Family. And, as always, never give your password to anyone.
+
+[h3]I'm currently using the existing Steam Family Sharing feature. What happens now with Steam Families?[/h3]
+
+You should setup a Steam Family! Once done, Steam will automatically recommend inviting any accounts that you were previously sharing with.
+
+[h3]I'm currently using the Family View feature with my family, what happens now with Steam Families?[/h3]
+
+If you create a Steam Family and add a child account, any existing Family View settings associated with that account will be transferred to Steam Families under Parental Controls. The PIN will be removed, but the settings are otherwise untouched. Once they've joined the family, you can modify their parental controls at any time.
+
+[section id=troubleshooting]
+[/section]
+
+[h1]Troubleshooting Steam Families[/h1]
+
+If you are experiencing an issue with a specific game or DLC in your Steam Family, it's likely that the game is not available for sharing for one of the reasons outlined in the FAQ above.
+
+[h3]I cannot join a Steam Family[/h3]
+
+If you cannot join a Steam Family, it is likely for one of three reasons:
+
+[list]
+
+[*] Your account activity does not show that you are part of the same household as the existing members.
+
+[*] Your account is still on cooldown from being a member of a previous Steam Family.
+
+[*] The Steam Family's member slots are still in cooldown from being occupied by other accounts.
+
+[/list]
+
+When you try to join a Steam Family, you will be told how much time remains in your cooldown period.
+
+[h3]A game I want to play is locked in the Steam Family library[/h3]
+
+You should see in your Steam Client who is playing the game. Until they stop playing, the game will remain locked.
+
+[section id=support]
+[/section]
+
+[h1]Reporting an issue with Steam Families[/h1]
+
+If you have an issue with Steam Families and wish to discuss it with the community, or have a new bug to report, please visit the [url=https://steamcommunity.com/groups/steamfamilies]Steam Families forum[/url].
+
+Should you continue to have issues, please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamIssue/?issueid=816]Steam Support[/url]
