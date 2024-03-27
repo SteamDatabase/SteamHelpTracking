@@ -165,6 +165,8 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]You are on the newest SteamVR version (Pre-2.2 versions may not function)
 
+[*]You have tried disabling mesh features in your router, as sometimes they interfere with Steam Link.
+
 [h4]If you are experiencing performance issues:[/h4]
 
 [*]Use only a wired connection, (gigabit min.), between your computer and your router

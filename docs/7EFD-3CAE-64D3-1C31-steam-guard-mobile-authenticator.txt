@@ -25,7 +25,6 @@
 [list]
 
 [*][url=#restrictions]Why are my items on hold?[/url] [/*]
-[*][url=#restart]Suddenly I'm logged out of the Mobile App and not seeing authenticator codes, what do I do?[/url] [/*]
 [*][url=#sold]Help! I sold or lost my phone and I can't log in anymore! What do I do?[/url] [/*]
 [*][url=#notworking]My authenticator codes aren't working![/url] [/*]
 [*][url=#transfer]Can I transfer my authenticator to a new phone?[/url] [/*]
@@ -44,7 +43,7 @@
 
 [*][url=#VoIPphones]Why is my number being blocked because it's considered VoIP?[/url] [/*]
 [*][url=#morethanone]Can I authenticate my Steam account with more than one device?[/url] [/*]
-[*][url id=morethanoneaccount]Can I authenticate multiple Steam accounts with my device?[/url] [/*]
+[*][url id=#morethanoneaccount]Can I authenticate multiple Steam accounts with my device?[/url] [/*]
 [*][url=#share]Can I share my phone number between multiple accounts?[/url] [/*]
 [*][url=#cost]Do the SMS messages you send cost me anything?[/url] [/*]
 [*][url=#noprompt]Why am I not prompted for confirmation when I save my sign in credentials in Steam?[/url] [/*]
@@ -61,7 +60,7 @@ The Steam Mobile App also includes QR code sign in, a sign in method for Steam t
 
 Valve also strongly recommends that you add a phone number to your account, which makes recovering your account quite a bit easier, should you lose access.
 
-Your phone does not need to be connected to the Internet for the authenticator to work (however, your phone does need to know the correct time).
+Your phone does not need to be connected to the Internet for the authenticator to generate a code (however, your phone does need to know the correct time).
 
 [h4][url id=whyphone][/url]Why should I add a phone number to my Steam account?[/h4]
 
@@ -153,7 +152,7 @@ Removing the protection of your authenticator will slow down your trades and Com
 
 [h4][url id=devices][/url]What devices does the Steam Guard Mobile Authenticator work on?[/h4]
 
-The Steam Guard Mobile Authenticator works on Apple iOS devices running iOS 10.0 or later and Android devices running 5.0 or later.
+The Steam Guard Mobile Authenticator works on Apple iOS devices running iOS 13.0 or later and Android devices running 5.0 or later.
 
 [h1][url id=troubleshooting][/url] [b]Troubleshooting[/b][/h1]
 
@@ -194,7 +193,7 @@ After transferring the authenticator, any new trades or market listings will be 
 
 If you're keeping your phone number, then you don't need to do anything in advance to prepare. Once you get your new phone, you can transfer your authenticator to the new phone using the [url=#transfer]steps in the answer for the previous question above.[/url]
 
-If you have two factor authentication enabled, and you will also lose access to your old phone number, then you should:
+If you have two factor authentication enabled, and will lose access to your old phone number, then you should:
 
 [list]
 
@@ -230,7 +229,7 @@ It's a good idea to print these codes instead of saving them on your computer. D
 
 [h4][url id=recoverycode][/url]I didn't save my recovery code, where can I find it?[/h4]
 
-In Steam Mobile App, go to the Steam Guard page, tap the gear icon, then tap "My Recovery Code."
+In Steam Mobile App, go to the Steam Guard page, tap the gear icon, then tap "Recovery Code."
 
 [h4][url id=nosms][/url]I'm not receiving SMS messages![/h4]
 
@@ -268,9 +267,9 @@ Standard messaging charges may apply; check your wireless phone plan to confirm.
 
 [h4][url id=noprompt][/url]Why am I not prompted for confirmation when I save my sign in credentials in Steam?[/h4]
 
-If you trust that access to your PC is secure, you can select "Remember me" when you sign in to steam. If you do, Steam will only ask you for your password periodically.
+If you trust that access to your PC is secure, you can select "Remember me" when you sign in to Steam. If you do, Steam will only ask you for your password periodically.
 
-You may choose not to let Steam remember your credentials and require your password (and potentially confirmation) on every sign in. You can change this in Steam's client settings under the Security tab anytime by by enabling the setting at the top that says, "Don't save account credentials on this computer."
+You may choose not to let Steam remember your credentials and require your password (and potentially confirmation) on every sign in. You can change this in Steam's client settings under the Security tab anytime by enabling the setting at the top that says, "Don't save account credentials on this computer."
 
 [h4][url id=banbyphone][/url]Do VAC and Game bans apply to all accounts on a phone number?[/h4]
 
