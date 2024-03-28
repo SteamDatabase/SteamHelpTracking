@@ -120,7 +120,7 @@ Bluetooth connectivity is supported in:
 
 [list]
 
-[*]Windows 10 [/*]
+[*]Windows 10/11 [/*]
 [*]macOS [/*]
 [*]Ubuntu [/*]
 [*]SteamOS [/*]

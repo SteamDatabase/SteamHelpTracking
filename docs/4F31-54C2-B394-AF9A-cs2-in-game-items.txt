@@ -231,7 +231,7 @@ Any item in a Storage Unit cannot be equipped, consumed, traded, marketed, renam
 [section id=tradesu]
 
 [h2]Can I trade or market items in a Storage Unit?[/h2]
-No, you would need to take the items out of the Storage Unit first. Storage Units are singular in purpose and only meant for holding items. Storage units with or without items cannot be traded, marketed, or deleted from an account.
+No, you would need to take the items out of the Storage Unit first. Storage Units are singular in purpose and only meant for holding items. If your Storage Unit is empty it can be deleted in-game.
 [/section]
 
 [section id=renamesu]
