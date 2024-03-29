@@ -43,7 +43,7 @@
 
 [*][url=#VoIPphones]Why is my number being blocked because it's considered VoIP?[/url] [/*]
 [*][url=#morethanone]Can I authenticate my Steam account with more than one device?[/url] [/*]
-[*][url id=#morethanoneaccount]Can I authenticate multiple Steam accounts with my device?[/url] [/*]
+[*][url=#morethanoneaccount]Can I authenticate multiple Steam accounts with my device?[/url] [/*]
 [*][url=#share]Can I share my phone number between multiple accounts?[/url] [/*]
 [*][url=#cost]Do the SMS messages you send cost me anything?[/url] [/*]
 [*][url=#noprompt]Why am I not prompted for confirmation when I save my sign in credentials in Steam?[/url] [/*]

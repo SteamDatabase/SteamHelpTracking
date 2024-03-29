@@ -108,8 +108,6 @@ You can purchase a physical Steam Wallet code at a local retailer, printed direc
 [url id=redeem][/url]
 
 [h4]How do I add Wallet Codes to my Steam account? [/h4]
-
-[olist]
 To redeem a Steam Wallet Code on your account, please login to your account and visit [url= https://store.steampowered.com/account/redeemwalletcode]Redeem a Steam Gift Card or Wallet Code [/url]. Enter your unique wallet code into the “Steam Wallet Code” field and click “Continue” to add the value to your account’s Steam Wallet balance.
 
 If you have never had a Steam Wallet balance on your Steam account, you may be prompted to enter your current address to determine the correct currency for your Steam Wallet. If you have an existing Steam Wallet (regardless of the current balance), the funds will be added in your Steam Wallet’s current currency.

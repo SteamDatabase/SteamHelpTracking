@@ -112,7 +112,3 @@ Please see our [url=https://support.steampowered.com/kb_article.php?ref=3658-TPX
 
 [url id=notenabled][/url]
 [h1]Why does Steam report 'Steam Guard not enabled' while the Steam Guard button is missing?[/h1]This can happen after Steam Support has restored your account. If the button to enable or change Steam Guard's settings is missing, you must restart Steam.
-
-The Steam client's settings dialog will appear like this:
-
-[img]https://support.steampowered.com/images/faq/steamguard/sgnotenabled.png[/img]
