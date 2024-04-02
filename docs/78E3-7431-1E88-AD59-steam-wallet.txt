@@ -105,6 +105,12 @@ No, your Steam wallet funds cannot be moved or gifted to another Steam account. 
 Steam Wallet codes work just like gift cards which can be redeemed on your account for Steam Wallet credit and used for the purchase of games, software and any other item you can purchase on Steam.
 You can purchase a physical Steam Wallet code at a local retailer, printed directly on a receipt or delivered via SMS/text message or email through various kiosks, cyber cafes, and eCommerce websites. Please visit our [url= https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E]Where to buy Steam Wallet Codes[/url] article to find Valve-authorized retailers near you.
 
+[section style=note]
+
+[h3]Scam Warning:[/h3]
+Card can only be used for paying for PC games on Steam. Never share a pin via email, social media or over the phone.
+[/section]
+
 [url id=redeem][/url]
 
 [h4]How do I add Wallet Codes to my Steam account? [/h4]
