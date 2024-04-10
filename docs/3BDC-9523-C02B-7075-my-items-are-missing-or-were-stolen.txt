@@ -3,10 +3,6 @@
 View related issues below for more information on how to resolve them
 
 [exclude_realm=china]
-[url=
-https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003][h1]Items Traded Without Your Knowledge[/h1][/url]
-Items were removed from your account while it was not under your control. Someone else had access to your account or computer.
-
 [url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454][h1]Unfair Trades and Item Scams[/h1][/url]
 You participated in a trade where you felt tricked or deceived. Your trade partner was posing as a reputable middleman or friend. There was money offered in exchange for your items.
 
