@@ -1,0 +1,35 @@
+[h1]Early Access[/h1]
+
+Early Access is a unique development model that allows games to be played as they progress towards a full release. Early Access encourages ongoing updates from developers, while letting players participate in direct feedback through gameplay and community involvement.
+
+[h2]Best Practices[/h2]
+
+These are some of the best practices that can help players when participating Early Access. In general, these are the types of things players should do before making any purchase on Steam.
+
+[list]
+
+[*][b]Know what you are buying[/b] - With Early Access games, you are going to be playing a work-in-progress. You should consider what the game is like to play right now. Look at the screenshots and trailers to see what the game looks like in its current state. There are a lot of ways a game can change as it develops over time, so if you aren't excited to play the game in its current state, then hold off and wait until a future update or full release.
+
+[*][b]Read Early Access information[/b] - Prior to releasing a game into Early Access, developers are required to fill out a questionnaire specific to their plan for Early Access. You can visit the storepage of any Early Access game to learn more about this plan (the blue 'Early Access' section below the game's screenshots).
+
+[*][b]Understand Steam's refund policy[/b] - Regardless of a game's Early Access status, the [url=https://store.steampowered.com/steam_refunds/]Steam Refund Policy[/url] will still apply should you choose to request one.
+
+[*][b]Get involved and have fun![/b] - Part of what makes Early Access so engaging is the collaboration between players and the development team. Give feedback, participate in discussions, post screenshots, write guides and share your experience with the community.
+
+[/list]
+
+[h3]Are Early Access games eligible for refunds?[/h3]
+
+Early Access games qualify for refunds the same as other purchases - playtime and date of purchase are both considered.
+
+[h3]Can I review an early access game?[/h3]
+
+Players are encouraged to share reviews about Early Access games. Once the game releases, these reviews will be tagged with 'Early Access', but will still be visible to other players.
+
+[h3]How will I know when an Early Access game will be finished?[/h3]
+
+Its up to the developer to determine when they are ready to leave Early Access. Some developers have a concrete deadline in mind, while others will get a better sense as the development of the game progresses. You should be aware that some developers will be unable to 'finish' their game. So you should only buy an Early Access game if you are excited about playing it in its current state.
+
+[h3]Do I have to buy the game again when it releases?[/h3]
+
+By purchasing, you will gain immediate access to download and play the game in its current form and as it evolves. You will keep access to the game when it moves from Early Access into fully released.

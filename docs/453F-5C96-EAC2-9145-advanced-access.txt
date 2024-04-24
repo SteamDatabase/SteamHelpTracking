@@ -1,0 +1,24 @@
+[h1]Advanced Access[/h1]
+
+Advanced Access is a feature that allows users that have pre-purchased a game to play prior to the game's official release. For example, a "deluxe" pre-purchase version may include Advanced Access.
+
+Unlike [url=https://help.steampowered.com/en/faqs/view/6554-ED29-FBDB-1612]Early Access[/url], Advanced Access is not a unique model of development for a game, it's simply an opportunity to play a game before it fully releases on Steam.
+
+[h3]How does Advanced Access work?[/h3]
+
+Participating games will indicate if one or more of their pre-purchase versions of their game will include access to the game prior to its official release date.
+Players who purchase these versions will be able to play prior to release.
+
+[h3]What games will offer Advanced Access?[/h3]
+
+Games by default will not include an Advanced Access pre-purchase option. This will be setup at the discretion of the developer/publisher creating and selling their products.
+
+[h3]Can I still get a refund if I play a game purchased with Advanced Access?[/h3]
+
+Purchases that included Advanced Access qualify for refunds per Steam's [url=https://store.steampowered.com/steam_refunds/]standard refund policy[/url].
+
+When you pre-purchase an Advanced Access version on Steam, you can request a refund at any time prior to the start of Advanced Access. The standard 14-day refund period also applies and will not start until the release date.
+
+[h3]Can I review a game after playing Advanced Access?[/h3]
+
+Yes, Advanced Access purchases allow players to immediately write reviews for the product the same way a standard purchase would.

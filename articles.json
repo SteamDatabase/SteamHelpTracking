@@ -1091,6 +1091,12 @@
         "version": 6,
         "timestamp": "2022-05-06 09:16:04"
     },
+    "4989808715403268421": {
+        "title": "Advanced Access",
+        "url_code": "453F-5C96-EAC2-9145",
+        "version": 1,
+        "timestamp": "2024-04-23 22:45:59"
+    },
     "5000804919641806138": {
         "title": "Installing a game from a disc",
         "url_code": "4566-6D94-3A46-953A",
@@ -1744,6 +1750,12 @@
         "url_code": "6554-453C-2304-5709",
         "version": 3,
         "timestamp": "2021-07-10 19:49:55"
+    },
+    "7301721660449297938": {
+        "title": "Early Access",
+        "url_code": "6554-ED29-FBDB-1612",
+        "version": 1,
+        "timestamp": "2024-04-23 22:47:00"
     },
     "7324553054381872868": {
         "title": "Hosting a Local (Listen) Server for Valve Games",
