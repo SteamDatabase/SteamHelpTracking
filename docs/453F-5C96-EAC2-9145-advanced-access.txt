@@ -2,7 +2,7 @@
 
 Advanced Access is a feature that allows users that have pre-purchased a game to play prior to the game's official release. For example, a "deluxe" pre-purchase version may include Advanced Access.
 
-Unlike [url=https://help.steampowered.com/en/faqs/view/6554-ED29-FBDB-1612]Early Access[/url], Advanced Access is not a unique model of development for a game, it's simply an opportunity to play a game before it fully releases on Steam.
+Unlike [url=https://help.steampowered.com/faqs/view/6554-ED29-FBDB-1612]Early Access[/url], Advanced Access is not a unique model of development for a game, it's simply an opportunity to play a game before it fully releases on Steam.
 
 [h3]How does Advanced Access work?[/h3]
 
