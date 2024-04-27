@@ -147,7 +147,7 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]You have checked your computer for any issues being presented in the SteamVR window
 
-[*]Your computer’s network is set to "Private" instead of "Public"
+[*]Your computer’s network is set to "Private" instead of "Public" NOTE: Sometimes anti-virus software or other applications will change this without notice.
 
 [*]You’ve disabled all VPNs before streaming
 
@@ -166,6 +166,8 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 [*]You are on the newest SteamVR version (Pre-2.2 versions may not function)
 
 [*]You have tried disabling mesh features in your router, as sometimes they interfere with Steam Link.
+
+[*]If using AMD, disable the "Instant Reply" feature if it is in use.  Some users report that this prevents Steam Link from launching.
 
 [h4]If you are experiencing performance issues:[/h4]
 
