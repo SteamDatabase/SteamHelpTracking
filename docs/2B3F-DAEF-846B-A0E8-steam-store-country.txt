@@ -28,9 +28,9 @@ Let’s say you’ve recently moved from Germany to the United States. When chec
 [h4]What if I want to purchase in a currency or region other than what is shown?[/h4]
 Your store country must be set to the country where you currently reside and you must have a local payment method you can use to make purchases.
 
-All available payment methods in your current region are listed during the checkout process.
+All available payment methods in your current region are listed during the checkout process. If you are unable to make purchases in your current region, look for Steam-compatible CD Keys and/or Steam Wallet Codes available for purchase at your local gaming retail stores.
 
-If you are unable to make purchases in your current region, look for Steam-compatible CD Keys and/or Steam Wallet Codes available for purchase at your local gaming retail stores.
+Note: CD Keys and Steam Wallet Codes cannot be used to update your store country setting. 
 [/section]
 
 [section id=newuser]
@@ -47,7 +47,7 @@ If your permanent residence is in the United States and you created a Steam acco
 [section id=multiple]
 
 [h4]What if I spend time in more than one country?[/h4]
-You can update the store country each time you change locations as long as you use a payment method that matches your Steam country setting. Keep in mind that changing the store/Wallet country will be permanent and cannot be changed again until you move back to the other country.
+You can update the Store Country once every 3 months. To continue purchasing while travelling, use a using a local payment method that matches the current store country settings on your Steam account.
 
 If you frequently move between countries, we suggest choosing the country that is your primary residence.
 [/section]
