@@ -1,20 +1,58 @@
 [h1]Pre-Order Refunds[/h1]
 
+[list]
+
+[*][url=#refund]Can I refund my pre-order?[/url] [/*]
+[*][url=#release]Can I still refund my pre-order after the game is released?[/url] [/*]
+[*][url=#gift]I gifted a pre-order to my friend. Is this gift eligible for a refund?[/url] [/*]
+[*][url=#advanced]Can I still get a refund if I play a game purchased with Advanced Access?[/url] [/*]
+
+[/list]
+
+[section id=refund]
+
 [h4]Can I refund my pre-order?[/h4]
-You may refund your pre-order any time prior to the release of the game.
+Per Steam’s [url=https://store.steampowered.com/steam_refunds/]standard refund policy[/url], you may refund your pre-order any time prior to the release of the game.
 
-If the pre-order title was purchased more than 3 months ago, you may not be able to refund back to your original payment method. However, you may still request a credit to your Steam Wallet.
+If the pre-order was purchased more than 6 months ago, you may not be able to refund back to your original payment method. However, you may still request a credit to your Steam Wallet.
 
-For more information on how to submit a refund request, click [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966] here[/url].
+For more information, please visit [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966] How To Request A Refund[/url] and [url=https://help.steampowered.com/en/faqs/view/5FDE-BA65-ACCE-A411] Common Refund Questions[/url].
 
-[h4]Can I still refund my pre-order after the game comes out?[/h4]
+[/section]
+
+[section id=release]
+
+[h4]Can I still refund my pre-order after the game is released?[/h4]
+
 Preordered games that have been released are still eligible for a refund, as long as the refund request is submitted within two weeks of the game’s release, and the game has been played for less than two hours.
+[/section]
+
+[section id=gift]
 
 [h4]I gifted a pre-order to my friend. Is this gift eligible for a refund?[/h4]
-Even if the gift has been redeemed, you may still request a refund for this pre-order. To request a refund on a Steam gift, we will need the gift recipient to first initiate the refund and approve the removal of this purchase from their account.
 
-The same guidelines apply: a refund may be issued for any pre-ordered gift prior to the game’s release or within fourteen days of the game’s release and with under two hours of playtime by the gift recipient.
+Even if the gift has been redeemed, you may still request a refund. To request a refund on a Steam gift, we will need the gift recipient to first initiate the refund and approve the removal of this purchase from their account.
 
-If your preorder came with an extra giftable copy of the game, you will need to have the account that redeemed the extra copy approve the refund as well. Please refer to the section "Can I refund my gift?" in our [url=https://support.steampowered.com/kb_article.php?ref=6262-QXCN-0755#giftrefund]Steam Gifts[/url] article for further information.
+[list]
 
-If the gift or the extra copy has not been redeemed, you may request a refund for your preordered title at any time.
+[*]The gift recipient must first allow the refund by logging into their Steam account from the [url=https://help.steampowered.com]Support page[/url] and selecting the gift.
+
+[*]After the recipient has approved the refund, you can then submit a refund request for that gift.
+
+[/list]
+
+For detailed instructions, please visit [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966] How To Request A Refund[/url].
+
+[/section]
+
+[section id=advanced]
+
+[h4]Can I still get a refund if I play a game purchased with Advanced Access?[/h4]
+
+Purchases that included Advanced Access qualify for refunds per Steam’s [url=https://store.steampowered.com/steam_refunds/]standard refund policy[/url].
+
+When you pre-purchase an Advanced Access version on Steam, you can request a refund at any time prior to the start of Advanced Access. The standard 14-day refund period also applies and will not start until the release date.
+
+Please visit our [url=https://help.steampowered.com/en/faqs/view/453F-5C96-EAC2-9145]Advanced Access[/url] article for additional information.
+
+[/section]

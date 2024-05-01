@@ -31,9 +31,9 @@ Note: If you’re having an issue with a product, we recommend submitting a refu
 [url id=6][/url]
 
 [h4]What should I do if I don’t recognize a charge from Steam?[/h4]
-If you don’t recognize a charge or your payment method was used without your consent, please contact [url= https://help.steampowered.com]Steam Support[/url] for assistance.
+If you don’t recognize a charge or your payment method was used without your consent, please contact[url=https://help.steampowered.com]Steam Support[/url] for assistance.
 
-Non-Steam users are also encouraged to submit a support ticket. Please go to [url= https://help.steampowered.com]Steam Support[/url] and select the following options:
+Non-Steam users are also encouraged to submit a support ticket. Please go to [url=https://help.steampowered.com]Steam Support[/url] and select the following options:
 
 [list]
 [b]I have charges from Steam that I didn't make[/b]
@@ -64,6 +64,6 @@ If a chargeback cannot be reversed by working with your bank, please contact [ur
 [url id=9][/url]
 
 [h4]What if hardware is included in the disputed transaction?[/h4]
-If a hardware purchase is disputed, your account is automatically restricted. You can remove the restriction by reversing the dispute with your bank or returning the associated hardware. Contact [url= https://help.steampowered.com]Steam Support[/url] for additional guidance.
+If a hardware purchase is disputed, your account is automatically restricted. You can remove the restriction by reversing the dispute with your bank or returning the associated hardware. Contact [url=https://help.steampowered.com]Steam Support[/url] for additional guidance.
 
 If you are not satisfied with your Valve Hardware purchase, you can pursue a refund or request product service. You can learn more about this process [url=https://help.steampowered.com/en/faqs/view/04AE-8A9A-F64E-D165] here [/url].

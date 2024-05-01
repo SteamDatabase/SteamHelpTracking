@@ -123,7 +123,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [list]
 
-[*][url=https://www.payandgo.al/en/terminals/#terminalmap]Pay&Go terminals[/url] [/*]
+[*]Pay&Go terminals [/*]
 
 [/list]
 
@@ -150,7 +150,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*][url=https://www.fr.fnac.be/localiser-magasin-fnac]FNAC[/url] [/*]
 [*][url=https://www.gamemania.be/Winkels]Game Mania[/url] [/*]
 [*][url=https://www.mediamarkt.be/nl/marketselection.html]Media Markt[/url] [/*]
-[*][url= https://www.okay.be/okay/static/nl.shtml]Okay[/url] [/*]
+[*]Okay [/*]
 [*][url=https://www.smartoys.be/catalog/store_map.php]Smartoys[/url] [/*]
 
 [/list]
@@ -218,8 +218,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [list]
 
-[*]
-[url=Home (kesko.fi)/]Kesko[/url] [/*]
+[*]Kesko [/*]
 
 [/list]
 
@@ -281,7 +280,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [list]
 
 [*][url=https://www.argos.ie/webapp/wcs/stores/servlet/ArgosStoreLocatorDB?includeName=StoreLocator&langId=111&storeId=10152]Argos[/url] [/*]
-[*][url=https://www.gamestop.ie/StoreLocator]GameStop[/url] [/*]
+[*]GameStop [/*]
 [*][url=https://www.harveynorman.ie/store-finder.html]Harvey Norman[/url] [/*]
 [*][url=https://www.smythstoys.com/ie/en-ie/store-finder]Smyths Toys[/url] [/*]
 
@@ -372,8 +371,8 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*][url=https://www.carrefour.es/tiendas-carrefour/buscador-de-tiendas]Carrefour[/url] [/*]
 [*][url=https://www.elcorteingles.es/centroscomerciales/es/eci]El Corte Inglés[/url] [/*]
 [*][url=https://www.fnac.es/localiza-tiendas-fnac/w-4]FNAC[/url] [/*]
-[*][url=https://www.game.es/tiendas]GAME[/url] [/*]
-[*][url=https://www.mediamarkt.es/es/marketselection.html]Media Markt[/url] [/*]
+[*]GAME [/*]
+[*]Media Markt [/*]
 
 [/list]
 
@@ -404,8 +403,6 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*][url=https://www.tesco.com/store-locator/uk/]Tesco[/url] [/*]
 [*][url=https://www.whsmith.co.uk/store-locator]WHSmith[/url] [/*]
 [*][url=https://stores.wilko.com/search]Wilkinson[/url] [/*]
-
-[/list]
 
 [/list]
 
@@ -536,12 +533,12 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [list]
 
 [*][url=http://www.sej.co.jp/shop/]7-Eleven[/url] [/*]
-[*][url=http://shoplist.aeonsquare.net/shop/aeonlist.html]Aeon[/url] [/*]
+[*]Aeon [/*]
 [*][url=https://www.dospara.co.jp/5info/cts_shop]Dospara[/url] [/*]
 [*][url=http://www.family.co.jp/store.html]FamilyMart[/url] [/*]
 [*][url=https://geo-online.co.jp/store/]Geo[/url] [/*]
 [*][url=http://www.matsukiyo.co.jp/map]Matsumoto Kiyoshi[/url] [/*]
-[*][url=https://shop.ministop.co.jp/ms/]Ministop[/url] [/*]
+[*]Ministop [/*]
 [*][url=http://www.poplar-cvs.co.jp/shop_search/city.php?id=13]Poplar[/url] [/*]
 
 [/list]
@@ -573,7 +570,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*][url=https://www.24hbuycard.com/card]24Hour Buy Card[/url] [/*]
 [*][url=https://www.7-11.com.tw]7-Eleven[/url] [/*]
 [*][url=http://www.free-card.com.tw]E-play[/url] [/*]
-[*][url=https://www.wallet-codes.com/tw/steam-wallet-codes]Forest[/url] [/*]
+[*]Forest [/*]
 [*][url=https://www.mycard520.com.tw/mycardemap/Default.aspx]MyCard[/url] [/*]
 [*][url=https://s.i7391.com/gl-c-S-537-s0-04-.shtml]i7391[/url] [/*]
 [*][url=https://iacgg.com]IACG[/url] [/*]
