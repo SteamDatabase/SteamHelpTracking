@@ -56,14 +56,18 @@ Log in to your Steam account. The current available balance will be listed in th
 
 [h4]How do I add funds to my Steam Wallet?[/h4]
 [b]Add funds via Steam[/b]
-Log in to your Steam account. Click your profile name in the upper right-hand corner and select Account Details. Click on “+Add funds to your Steam Wallet” to select an amount and proceed to checkout. Funds added to the Steam wallet will be used towards your next purchase(s). If you do not have sufficient Steam wallet funds to complete the purchase, you will need to enter another form of payment to pay the remaining balance.
+Log in to your Steam account. Click your profile name in the upper right-hand corner and select [i]Account Details[/i]. Click on  [i]+Add funds to your Steam Wallet[/i] to select an amount and proceed to checkout. Funds added to the Steam wallet will be used towards your next purchase(s).
+[img]{STEAM_CLAN_IMAGE}/39983882/8e9d7356ab53193639e6a01a6ebd09fafd8e5c8d.png[/img]
 
-[b]Add funds via Steam Wallet Codes[/b]
+If you do not have sufficient Steam wallet funds to complete the purchase, you will need to enter another form of payment to pay the remaining balance. All available payment methods in your current region are listed during the checkout process.
+
+[exclude_realm=china][b]Add funds via Steam Wallet Codes[/b]
 Log into your Steam account and then go to the [url=https://store.steampowered.com/account/redeemwalletcode]Redeem a Steam Gift Card or Wallet Code[/url] page. Type in the code and select [i]Continue[/i].
 
 [h4]Where can I purchase Steam Wallet Codes?[/h4]
 Steam Wallet codes work just like gift cards which can be redeemed on your account for Steam Wallet credit and used for the purchase of games, software and any other item you can purchase on Steam.
 You can purchase a physical Steam Wallet code at a local retailer, printed directly on a receipt or delivered via SMS/text message or email through various kiosks, cyber cafes, and eCommerce websites. Please visit our [url=https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E]Where to buy Steam Wallet Codes[/url] article to find the best local purchasing option nearest you, or [url=https://store.steampowered.com/digitalgiftcards/selectgiftcard]Steam Gifts Cards[/url] to purchase digital gift cards.
+[/exclude_realm]
 
 [url id=notappeared][/url]
 
@@ -85,7 +89,7 @@ If the issue persists for more than two hours after completing your purchase, pl
 [h4]Can Steam Wallet funds be gifted, withdrawn or transferred to another Steam account?[/h4]
 No, your Steam wallet funds cannot be moved or gifted to another Steam account. You may request a refund for Steam Wallet funds within fourteen days of purchase if they were purchased on Steam and if you have not used any of those funds. Please review our [url=http://store.steampowered.com/steam_refunds]Refund Policy[/url] and [url=https://support.steampowered.com/kb_article.php?ref=4873-QOSK-5126]Common Refund Questions[/url] for more information.
 
-[url id=where][/url]
+[exclude_realm=china][url id=where][/url]
 
 [h4]Where can I purchase Steam Wallet Codes?[/h4]
 Steam Wallet codes work just like gift cards which can be redeemed on your account for Steam Wallet credit and used for the purchase of games, software and any other item you can purchase on Steam.
@@ -101,6 +105,7 @@ Card can only be used for paying for PC games on Steam. Never share a pin via em
 
 [h4]How do I add Wallet Codes to my Steam account? [/h4]
 To redeem a Steam Wallet Code on your account, please login to your account and visit [url=https://store.steampowered.com/account/redeemwalletcode]Redeem a Steam Gift Card or Wallet Code[/url] page. Enter your unique wallet code into the “Steam Wallet Code” field and click “Continue” to add the value to your account’s Steam Wallet balance.
+[/exclude_realm]
 
 If you have never had a Steam Wallet balance on your Steam account, you may be prompted to enter your current address to determine the correct currency for your Steam Wallet. If you have an existing Steam Wallet (regardless of the current balance), the funds will be added in your Steam Wallet’s current currency.
 
@@ -119,10 +124,6 @@ Yes. We have made some changes to how Steam Wallet Codes are redeemed on Steam, 
 Each Steam User Account is associated with a specific currency, which you can see in the top right corner of your Steam Client.  Going forward, you may encounter an error if you try to activate a Steam Wallet Code issued in a different currency than the one of your Steam User Account.
 
 If you have questions about your ability to redeem Steam Wallet Codes, please contact [url=https://help.steampowered.com]Steam Support[/url].  If you are concerned about the legitimacy of a Steam code you have purchased, you should ask your retailer.
-
-[h4]Where can I purchase Steam Wallet Codes?[/h4]
-Steam Wallet codes work just like gift cards which can be redeemed on your account for Steam Wallet credit and used for the purchase of games, software and any other item you can purchase on Steam.
-You can purchase a physical Steam Wallet code at a local retailer, printed directly on a receipt or delivered via SMS/text message or email through various kiosks, cyber cafes, and eCommerce websites. Please visit our [url=https://help.steampowered.com/en/faqs/view/5BB2-E986-A733-CF0E]Where to buy Steam Wallet Codes[/url] article to find Valve-authorized retailers for genuine Steam Wallet Codes.
 
 [url id=badredeem][/url]
 
