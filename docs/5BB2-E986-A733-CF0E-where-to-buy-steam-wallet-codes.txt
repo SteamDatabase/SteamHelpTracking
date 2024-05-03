@@ -131,11 +131,11 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [list]
 
-[*][url=https://www.billa.at/filialfinder]Billa[/url] [/*]
+[*][url=https://www.billa.at/maerkte]Billa[/url] [/*]
 [*][url=https://www.gamestop.at/]GameStop[/url] [/*]
 [*][url=https://www.interspar.at/standorte]Interspar[/url] [/*]
 [*][url=https://www.libro.at/fillialfinder/]Libro[/url] [/*]
-[*][url=https://www.mediamarkt.at/de/marketselection.html]Media Markt[/url] [/*]
+[*][url=https://www.mediamarkt.at/de/store/store-finder]Media Markt[/url] [/*]
 [*][url=https://www.mueller.at/meine-filiale/]Müller[/url] [/*]
 [*][url=https://www.spar.at/standorte]Spar[/url] [/*]
 
@@ -145,11 +145,11 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [list]
 
-[*][url=https://www.colruyt.be/nl/winkelzoekerh]Colruyt[/url] [/*]
+[*][url=https://www.colruyt.be/nl/winkelzoeker]Colruyt[/url] [/*]
 [*][url=https://www.dreamland.be/e/nl/dl/winkels]DreamLand[/url] [/*]
 [*][url=https://www.fr.fnac.be/localiser-magasin-fnac]FNAC[/url] [/*]
 [*][url=https://www.gamemania.be/Winkels]Game Mania[/url] [/*]
-[*][url=https://www.mediamarkt.be/nl/marketselection.html]Media Markt[/url] [/*]
+[*][url=https://www.mediamarkt.be/nl/store/store-finder]Media Markt[/url] [/*]
 [*]Okay [/*]
 [*][url=https://www.smartoys.be/catalog/store_map.php]Smartoys[/url] [/*]
 
@@ -190,7 +190,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*][url=https://www.DM.cz/home]DM[/url] [/*]
 [*][url=https://www.geco.cz/home]Geco[/url] [/*]
 [*][url=https://www.jrc.cz]JRC[/url] [/*]
-[*][url=https://www.traficon.cz]Valmont[/url] [/*]
+[*][url=https://www.traficon.cz]TRAFICON[/url] [/*]
 
 [/list]
 
@@ -198,11 +198,11 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [list]
 
-[*][url=https://www.auchan.fr/magasins/votremagasin]Auchan[/url] [/*]
-[*][url=https://www.cultura.com/les-magasins.html/]Cultura[/url] [/*]
+[*][url=https://www.auchan.fr]Auchan[/url] [/*]
+[*][url=https://www.cultura.com/les-magasins.html]Cultura[/url] [/*]
 [*][url=https://www.fnac.com/localiser-magasin-fnac/w-4]FNAC[/url] [/*]
 [*][url=https://www.e-leclerc.com/]Leclerc[/url] [/*]
-[*][url=https://www.micromania.fr/magasins?mode=viewAll]Micromania[/url] [/*]
+[*][url=https://www.micromania.fr/liste-des-magasins.html]Micromania[/url] [/*]
 
 [/list]
 
@@ -235,7 +235,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*]
 [url=https://www.edeka.de/marktsuche.jsp]EDEKA[/url] [/*]
 [*][url=https://www.gamestop.de/StoreLocator/Search]GameStop[/url] [/*]
-[*][url=https://www.mediamarkt.de/de/marketselection.html]Media Markt[/url] [/*]
+[*][url=https://www.mediamarkt.de/de/store/store-finder]Media Markt[/url] [/*]
 [*][url=https://www.rewe.de/angebote/nationale-angebote/]REWE[/url] [/*]
 [*][url=https://www.v-markt.de/standorte_vmarkt]V-Markt[/url] [/*]
 
@@ -279,7 +279,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [list]
 
-[*][url=https://www.argos.ie/webapp/wcs/stores/servlet/ArgosStoreLocatorDB?includeName=StoreLocator&langId=111&storeId=10152]Argos[/url] [/*]
+[*][url=https://www.argos.co.uk/stores]Argos[/url] [/*]
 [*]GameStop [/*]
 [*][url=https://www.harveynorman.ie/store-finder.html]Harvey Norman[/url] [/*]
 [*][url=https://www.smythstoys.com/ie/en-ie/store-finder]Smyths Toys[/url] [/*]
@@ -294,7 +294,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*][url=https://www.esselunga.it/cms/negozi/ricerca-negozi.html]Esselunga[/url] [/*]
 [*][url=https://www.gamestop.it/StoreLocator/Index]GameStop[/url] [/*]
 [*][url=https://locator.ubiest.com/storeLocator/customers/lottomatica/punti-vendita/lis/?defaultActiveFilter=111]PuntoLis[/url] [/*]
-[*][url=https://www.mediaworld.it/negozi]MediaWorld[/url] [/*]
+[*][url=https://www.mediaworld.it/it/store/store-finder]MediaWorld[/url] [/*]
 
 [/list]
 
@@ -304,7 +304,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [*][url=https://www.aldi.nl/service/winkels-en-openingstijden.html]Aldi[/url] [/*]
 [*][url=https://www.gamemania.nl/Winkels]Game Mania[/url] [/*]
-[*][url=https://www.mediamarkt.nl/nl/marketselection.html]Media Markt[/url] [/*]
+[*][url=https://www.mediamarkt.nl/nl/store/store-finder]Media Markt[/url] [/*]
 [*][url=https://www.primera.nl/winkels/]Primera[/url] [/*]
 
 [/list]
@@ -425,7 +425,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [list]
 
 [*][url=https://www.xcite.com]X-cite[/url] [/*]
-[*][url=https://www.jokercodes.com]Jokers Codes[/url]
+[*][url=https://www.jokercodes.com]Joker Codes[/url]
 [*]
 [url=https://www.kuwait-star.com]Kuwait Star[/url]
 [*]
@@ -490,11 +490,11 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [*][url=https://www.egifts24.co.za/]eGifts24[/url] [/*]
 [*][url=https://www.evopoints.co.za/]EVOGAMES CC[/url] [/*]
 [*]
-[url=https://game4u.co.za]Games 4 U[/url]
+[url=https://game4u.co.za]Game4U[/url]
 [*]
-[url=https://www.hificorp.co.za]Hi-Fi Corp[/url]
+[url=https://www.hificorp.co.za]HiFiCorp[/url]
 [*]
-[url=https://www.incredible.co.za]Incredible Collection[/url]
+[url=https://www.incredible.co.za]Incredible Connection[/url]
 [*]
 [url=http://www.prepaidgamer.com/]PrepaidGamer.com[/url] [/*]
 
@@ -523,7 +523,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [*]
 [url=https://www.amazon.in/s?k=steam+wallet+card&i=videogames&rh=n%3A976460031%2Cn%3A14152570031%2Cp_6%3AA1DX194DQYRXVY&dc&qid=1597303250&rnid=1318474031&ref=sr_nr_p_6_1]Steam Wallet by NODWIN on Amazon[/url] [/*]
-[*][url=https://www.digistore.co.in/]Digistore[/url] [/*]
+[*][url=https://digistore.co.in/steam-wallet-cards]Digistore[/url] [/*]
 [*][url=https://www.gamersgift.com/category/steam-wallet-cards-india/]Gamers Gift[/url] [/*]
 
 [/list]
@@ -534,12 +534,12 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [*][url=http://www.sej.co.jp/shop/]7-Eleven[/url] [/*]
 [*]Aeon [/*]
-[*][url=https://www.dospara.co.jp/5info/cts_shop]Dospara[/url] [/*]
+[*][url=https://www.dospara.co.jp/shop/shop-list.html]Dospara[/url] [/*]
 [*][url=http://www.family.co.jp/store.html]FamilyMart[/url] [/*]
 [*][url=https://geo-online.co.jp/store/]Geo[/url] [/*]
-[*][url=http://www.matsukiyo.co.jp/map]Matsumoto Kiyoshi[/url] [/*]
+[*][url=https://www.matsukiyococokara-online.com/map/]Matsumoto Kiyoshi[/url] [/*]
 [*]Ministop [/*]
-[*][url=http://www.poplar-cvs.co.jp/shop_search/city.php?id=13]Poplar[/url] [/*]
+[*][url=https://www.poplar-cvs.co.jp/]Poplar[/url] [/*]
 
 [/list]
 
@@ -569,7 +569,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [*][url=https://www.24hbuycard.com/card]24Hour Buy Card[/url] [/*]
 [*][url=https://www.7-11.com.tw]7-Eleven[/url] [/*]
-[*][url=http://www.free-card.com.tw]E-play[/url] [/*]
+[*][url=https://www.e-play.com.tw/]E-play[/url] [/*]
 [*]Forest [/*]
 [*][url=https://www.mycard520.com.tw/mycardemap/Default.aspx]MyCard[/url] [/*]
 [*][url=https://s.i7391.com/gl-c-S-537-s0-04-.shtml]i7391[/url] [/*]
@@ -638,7 +638,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 [list]
 
 [*][url=https://www.offgamers.com/game-card/game-point/steam-wallet-codes-vn]Offgamers[/url] [/*]
-[*][url=https://www.seagm.com/vietnam-mobile-prepaid-card]SEAGM[/url] [/*]
+[*][url=https://www.seagm.com/vi-vn/steam-wallet-card-vietnam]SEAGM[/url] [/*]
 
 [/list]
 
@@ -652,7 +652,7 @@ Hundreds of retailers and retail chains in Europe distribute Steam Wallet Codes 
 
 [*][url=https://www.7eleven.com.au/store-locator.html]7-Eleven[/url] [/*]
 [*][url=https://www.bigw.com.au/store-finder]BIG W[/url] [/*]
-[*][url=https://www.coles.com.au/stores#/]Coles[/url] [/*]
+[*][url=https://www.coles.com.au/find-stores]Coles[/url] [/*]
 [*][url=https://www.ebgames.com.au/stores]EB Games[/url] [/*]
 [*][url=https://www.jbhifi.com.au/pages/store-finder]JB Hi-Fi[/url] [/*]
 [*][url=https://www.woolworths.com.au/Shop/StoreLocator]Woolworths Supermarkets[/url] [/*]
