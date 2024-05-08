@@ -19,6 +19,8 @@ If an automated cooldown or ban is determined to have been issued incorrectly, i
 [*][url=#abandon]Abandoning matches[/url] [/*]
 [*][url=#afk]Being AFK or not participating in matches[/url] [/*]
 [*][url=#grief]Receiving too many in-game reports for griefing[/url] [/*]
+[*][url=#vacnet]VAC has flagged your gameplay as irregular[/url]
+[*][url=#partyvacnet]VAC flagged a member of your party's gameplay as irregular[/url] [/*]
 
 [/list]
 
@@ -42,7 +44,7 @@ If an automated cooldown or ban is determined to have been issued incorrectly, i
 [section id=whycool]
 
 [h2]Why are Competitive cooldowns issued?[/h2]
-Competitive cooldowns exist to ensure that Counter-Strike matches are enjoyable for all players on the server. When a player commits actions which negatively impact the match and players in the match, they may receive a Competitive cooldown which keeps them from playing Ranked and Unranked matchmaking for a set period of time.
+Competitive cooldowns exist to ensure that Counter-Strike matches are enjoyable for all players on the server. When a player commits actions which negatively impact the match and players in the match, they may receive a Competitive cooldown which keeps them from playing on Valve servers for a set period of time.
 
 Competitive cooldowns will be issued regardless of whether or not an infraction was intentional and explicit warnings are given to players before committing an action that will result in a cooldown.
 
@@ -91,26 +93,44 @@ A player in a Competitive match who is AFK or not participating may be removed b
 Players receiving an excessive number of in-game reports for griefing may receive a Competitive cooldown. A number of safeguards are in place to ensure these kinds of cooldowns cannot be abused.
 [/section]
 
+[section id=vacnet]
+
+[h2]VAC has flagged your gameplay as irregular[/h2]
+Players who VAC determines as having irregular gameplay will be disconnected from the match and receive a minimum one day competitive cooldown regardless of their current cooldown level.
+
+Cooldowns issued for irregular gameplay prevent access to all game modes for the duration of the cooldown.
+[/section]
+
+[section id=partyvacnet]
+
+[h2]VAC flagged a member of your party's gameplay as irregular[/h2]
+Players who party with someone who is disconnected for irregular gameplay will receive the same minimum one day competitive cooldown as the disconnected player regardless of their current cooldown level.
+
+Cooldowns issued for partying with a player who VAC disconnects for irregular gameplay prevents access to all game modes for the duration of the cooldown.
+[/section]
+
 [section id=removecool]
 
 [h2]Can my Competitive cooldown be removed?[/h2]
-No. Regardless of the reason a Competitive cooldown was issued they cannot be removed from an account. You will need to wait for the cooldown to expire before you can again queue for Competitive matches.
+No. Regardless of the reason a Competitive cooldown was issued they cannot be removed from an account.
 [/section]
 
 [section id=length]
 
 [h2]How long will my Competitive cooldown last?[/h2]
-Competitive cooldowns in Counter-Strike 2 have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking:
+Competitive cooldowns in Counter-Strike 2 have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking.
 
 [list]
 
-[*]First cooldown (level 1) - lasts 30 minutes. [/*]
-[*]Second cooldown (level 2) - lasts 2 hours. [/*]
-[*]Third cooldown (level 3) - lasts 24 hours. [/*]
-[*]Fourth cooldown (level 4) - lasts 1 week. [/*]
+[*]First cooldown (level 1) - lasts 30 minutes [/*]
+[*]Second cooldown (level 2) - lasts 2 hours [/*]
+[*]Third cooldown (level 3) - lasts 24 hours [/*]
+[*]Fourth cooldown (level 4) - lasts 1 week [/*]
 
 [/list]
 A week of clean play will reduce an account's cooldown level by one. An account whose cooldown level has been reduced to level 2 through clean play would receive a level 3 (24 hour) cooldown on their next infraction.
+
+Cooldowns issued by VAC for irregular gameplay are always for a minimum of one day and increment your cooldown level by 1.
 
 Please note that cooldown levels can exceed level 4. Players whose cooldown level exceeds level 4 will need an extended period of clean play to have their cooldown level reduce beneath level 3.
 [/section]
@@ -118,14 +138,14 @@ Please note that cooldown levels can exceed level 4. Players whose cooldown leve
 [section id=level]
 
 [h2]How do I determine my current cooldown level?[/h2]
-Your current cooldown level can be determined by the length of the last cooldown you have received:
+Your current cooldown level can be determined by the length of the last non-VAC issued cooldown you have received:
 
 [list]
 
-[*]My last cooldown lasted 30 minutes - you are currently at level 1. [/*]
-[*]My last cooldown lasted 2 hours - you are currently at level 2. [/*]
-[*]My last cooldown lasted 24 hours - you are currently at level 3. [/*]
-[*]My last cooldown lasted one week - you are currently at level 4 (or above). [/*]
+[*]My last cooldown lasted 30 minutes - you are currently at level 1 [/*]
+[*]My last cooldown lasted 2 hours - you are currently at level 2 [/*]
+[*]My last cooldown lasted 24 hours - you are currently at level 3 [/*]
+[*]My last cooldown lasted one week - you are currently at level 4 (or above) [/*]
 
 [/list]
 
