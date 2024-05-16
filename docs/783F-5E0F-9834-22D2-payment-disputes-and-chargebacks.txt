@@ -1,7 +1,6 @@
 [h1]Payment Disputes and Chargebacks[/h1]
 
-[exclude_realm=china][img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
-[/exclude_realm]
+[h1]Common Questions[/h1]
 
 [list]
 
@@ -31,7 +30,7 @@ Note: If you’re having an issue with a product, we recommend submitting a refu
 [url id=6][/url]
 
 [h4]What should I do if I don’t recognize a charge from Steam?[/h4]
-If you don’t recognize a charge or your payment method was used without your consent, please contact[url=https://help.steampowered.com]Steam Support[/url] for assistance.
+If you don’t recognize a charge or your payment method was used without your consent, please contact [url=https://help.steampowered.com]Steam Support[/url] for assistance.
 
 Non-Steam users are also encouraged to submit a support ticket. Please go to [url=https://help.steampowered.com]Steam Support[/url] and select the following options:
 
@@ -54,7 +53,18 @@ Note: Most banks have a limited timeframe in which chargebacks can be reversed. 
 [url id=4][/url]
 
 [h4]How long does it take to cancel/reverse a chargeback with my bank?[/h4]
-It may take up to 60 days to finalize a dispute reversal. If it’s been more than 60 days and your account is still restricted or your purchases haven’t been restored, please contact [url=https://help.steampowered.com]Steam Support[/url].
+It may take up to 60 days to finalize a dispute reversal. If it’s been more than 60 days and your account is still restricted or your purchases haven’t been restored, please contact [url=https://help.steampowered.com]Steam Support[/url] with an official letter from your bank. The letter will need to include the following information:
+
+[list]
+
+[*]Date of the reversal
+
+[*]Reversal amount(s)
+
+[*]ARN for reversed funds
+
+[*]Trace ID for the reversed funds (optional but helpful for older chargebacks)
+[/list]
 
 [url id=8][/url]
 

@@ -4,6 +4,8 @@
 
 [list]
 
+[*][url=#failing]My purchase attempts are failing. What can I do?[/url]
+
 [*][url=#misswal]Where did my Steam Wallet funds go?[/url]
 
 [*][url=#xtrac]Do I get an extra copy to gift if I own a game twice?[/url]
@@ -18,51 +20,53 @@
 
 [*][url=#wishlist]How can I avoid missing sales for the games that I want?[/url]
 
+[*][url=#discount]The sale ended. Can I still get a discount?[/url]
+
 [*][url=#other]What other resources are there for billing issues?[/url]
 
 [/list]
 
-[url id=misswal][/url][h1]Common Questions[/h1]
+[h4]My purchase attempts are failing. What can I do?[/h4]
 
-[h4]Where did my Steam Wallet funds go?[/h4]
+If you are attempting your purchase through the Steam website, please try purchasing through the Steam Client, or vice versa. We also recommend disabling or completely removing any IP proxy or VPN software that you may be using, restart your computer, and test your purchase again.
 
-By default, Steam will always try to use your Steam Wallet funds first when a purchase is made. On the purchase confirmation screen, if you do not switch your intended payment method away from the Wallet, your Wallet funds will be spent. Check your purchase confirmation emails for all of your recent purchases for more information.
+Visit the [url=https://help.steampowered.com/en/faqs/view/731C-13C7-7D04-A11E]Purchase Issues[/url] article for additional guidance. If your issue persists, please contact [url=https://help.steampowered.com/]Steam Support[/url] for assistance.
+
+[url id=misswal][/url]
+
+[h4]]Where did my Steam Wallet funds go?[/h4]
+
+By default, Steam will always try to use your Steam Wallet funds first when a purchase is made. On the purchase confirmation screen, if you do not switch your intended payment method, your Wallet funds will be spent.
+
+To see your current wallet balance, log into your account and select your Steam Wallet balance located in the top-right corner of your window. To see your complete purchase history, select [i]View purchase history[/i].
 
 [url id=xtrac][/url]
 
-[h4]Do I get an extra copy to gift if I own a game twice?[/h4]
+[h4]Do I get an extra copy to gift if I already own the game?[/h4]
 
 Unless otherwise stated, you will not receive extra giftable copies for duplicate purchases on a single Steam account.
 
 [url id=giftpur][/url]
 
-[h4]The "Purchase as a gift" option is not available on checkout. Why?[/h4]
+[h4]I can't purchase the game as a gift. Why?[/h4]
 
 For various reasons, such as common issues, incompatibility with non-Steam versions, or regional restrictions that are required by the game's developer or publisher, some games and addons cannot be gifted.
 
-All multi-pack offers, such as 2, 3, and 4-packs, contain between one and three giftable subscriptions and one subscription towards your own account. If you already have the subscription on your account, you will not be able to purchase the multi-pack, even if your intention is to send all copies as gifts.
+You can purchase a digital Steam Gift Card for a friend or family member’s account. Once the gift has been redeemed, they can use the wallet funds to purchase the game or addon for their own account. Visit [url=https://store.steampowered.com/digitalgiftcards/selectgiftcard]Steam Gift Cards[/url] for more information.
 
 [url id=missedsale][/url]
 
 [h4]I recently purchased a game that is now on sale. Can I refund the difference?[/h4]
 
-We are unable to refund the difference in price; however, you [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966]may request a refund[/url] for the initial purchase and repurchase the game at the current sale price.
+We are unable to refund the difference in price; however, you may request a refund for the initial purchase and repurchase the game at the current sale price. For refund eligibility, please review our [url=http://store.steampowered.com/steam_refunds]Refund Policy[/url]. For detailed instructions on how to submit a refund request, please click [url=https://support.steampowered.com/kb_article.php?ref=6695-QIKM-7966]here[/url].
 
 [url id=ownershipcheck][/url]
 
 [h4]I cannot find the content that the Steam Store says that I own. Why?[/h4]
 
-Due to current technical limitations, The Steam Store may show that you own a special edition of a game when you actually only own the base version. You can check your purchase/activation history to determine which version of this game you own using the following method:
+Due to current technical limitations, The Steam Store may show that you own a special edition of a game when you actually only own the base version. Please check your purchase/activation history to determine which version of this game you own.
 
-[olist]
-
-[*]Log in to your Steam account through the Steam application.
-
-[*]In the upper right hand corner, click your profile name and select "Account Details" from the drop down list.
-
-[*]Click on "View purchase history" to list your Steam Store transactions, Market purchases, and in-game items or currency purchases. The details include the date of purchase, name of the game or item(s) purchased, and the transaction amount.
-
-[/olist]
+You can see your Steam Store purchase history by logging in to the Steam website, or the Steam Client, then clicking on your account name at the top right of the screen and selecting [i]Account Details[/i] > [i]View purchase history[/i].
 
 [url id=coupons][/url]
 
@@ -84,8 +88,24 @@ Steam's Wishlist feature can be used to receive a notification when a game that 
 
 [/list]
 
+[url id=discount][/url]
+
+[h4]The sale ended. Can I still get a discount?[/h4]
+
+Steam is unable to offer discounts to purchases made before or after sale periods. For a list of our current offers, check out the [url=http://store.steampowered.com/search/?specials=1]Specials Page[/url].
+
 [url id=other][/url]
 
 [h4]What other resources are there for billing issues?[/h4]
 
-Refer to our [url=https://support.steampowered.com/kb_cat.php?id=92]General Billing[/url] or [url=https://support.steampowered.com/kb_cat.php?id=60]Refunds and Returns[/url] support articles for more information. If you can't solve your issue with the help of these articles, please go to the [url=https://help.steampowered.com]Steam Support Help Site[/url] and submit a support ticket detailing your purchasing problem.
+To submit a refund request visit [url=https://help.steampowered.com/en/faqs/view/784C-923B-A4A1-C825]How To Request A Refund[/url] and [url=https://help.steampowered.com/en/faqs/view/5FDE-BA65-ACCE-A411]Common Refund Questions[/url].
+
+If you need help with a purchase issue, contact [url=https://help.steampowered.com]Steam Support[/url] and select the following options:
+
+[list]
+[b]Purchases[/b]
+[img]{STEAM_CLAN_IMAGE}/39983882/d30439f035c3a754c119bfb48adbf24f2ce71123.png[/img]
+[b]I can't complete my purchase on the Steam Store[/b]
+[img]{STEAM_CLAN_IMAGE}/39983882/dcbd123cf524d6f6d13d884b5b090a5fdf739a03.png[/img]
+
+[/list]
