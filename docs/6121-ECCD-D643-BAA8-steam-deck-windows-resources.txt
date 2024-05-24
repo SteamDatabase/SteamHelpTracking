@@ -33,7 +33,7 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 
 [list]
 
-[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith%20Sephiroth%20Windows%20Driver_2309131113.zip]download here[/url], run setup.exe to install.
+[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith_Sephiroth_Windows_Driver_2309131113.zip]download here[/url], run setup.exe to install.
 [i]
 
 [list]
