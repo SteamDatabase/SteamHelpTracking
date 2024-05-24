@@ -1,0 +1,80 @@
+[h1]CS2 - Weapon rentals[/h1]
+
+[list]
+
+[*][url=#whatare]What are weapon rentals?[/url] [/*]
+[*][url=#howlong]How long do weapon rentals last?[/url] [/*]
+[*][url=#howtorent]How do I rent weapons?[/url] [/*]
+[*][url=#whichitems]Which weapons can be rented?[/url] [/*]
+[*][url=#modifyrentals]Can I modify rented weapons?[/url] [/*]
+[*][url=#rentstattrak]Can rented weapons have StatTrak?[/url] [/*]
+[*][url=#rentalwear]What wear rating do rented weapons have?[/url] [/*]
+[*][url=#refunds]Are weapon rentals refundable?[/url] [/*]
+[*][url=#timeleft]How do I check the time remaining on my weapon rentals?[/url] [/*]
+[*][url=#steaminv]Rented weapons are not visible in my Counter-Strike 2 inventory on Steam. Is this intentional?[/url] [/*]
+
+[/list]
+
+[section id=whatare]
+
+[h2]What are weapon rentals?[/h2]
+Introduced with the [url=https://store.steampowered.com/news/app/730/view/4177730135016140040]May 23rd, 2024 update[/url], all 17 weapons from the Kilowatt Case (minus the exceedingly rare item) can be rented in-game.
+
+Rented weapons can be equipped and played with in all game modes.
+[/section]
+
+[section id=howlong]
+
+[h2]How long do weapon rentals last?[/h2]
+Weapon rentals last one week (7 days). At the end of the week, equipped rented weapons will be replaced with the stock version of the weapon(s) in players' Loadouts.
+[/section]
+
+[section id=howtorent]
+
+[h2]How do I rent weapons?[/h2]
+To rent all 17 weapons from the Kilowatt Case players must have a Kilowatt Case and key in their Inventory. When opening the case, players will have the option to either rent all weapons from the Kilowatt Case (minus the exceedingly rare special item) or receive one weapon from the case to keep.
+
+Renting weapons consumes both the Kilowatt Case and the Kilowatt Case key.
+[/section]
+
+[section id=whichitems]
+
+[h2]Which weapons can be rented?[/h2]
+At this time only weapons from the Kilowatt Case (minus the exceedingly rare item) can be rented.
+[/section]
+
+[section id=modifyrentals]
+
+[h2]Can I modify rented weapons?[/h2]
+No. Rented weapons cannot be modified in any way. This means stickers and Name Tags cannot be applied.
+[/section]
+
+[section id=rentstattrak]
+
+[h2]Can rented weapons have StatTrak?[/h2]
+No. Rented weapons cannot have StatTrak.
+[/section]
+
+[section id=rentalwear]
+
+[h2]What wear rating do rented weapons have?[/h2]
+The wear rating on all rented weapons is randomized and may vary from Factory New to Battle Scarred.
+[/section]
+
+[section id=refunds]
+
+[h2]Are weapon rentals refundable?[/h2]
+No. Because the weapon case and key are consumed when renting the weapons, rented weapons are non-refundable.
+[/section]
+
+[section id=timeleft]
+
+[h2]How do I check the time remaining on my weapon rentals?[/h2]
+Time remaining on rented weapons is shown in your in-game inventory.
+[/section]
+
+[section id=steaminv]
+
+[h2]Rented weapons are not visible in my Counter-Strike 2 inventory on Steam. Is this intentional?[/h2]
+Yes. Rented weapons are not (and will not be) visible in your Counter-Strike 2 inventory on Steam.
+[/section]
