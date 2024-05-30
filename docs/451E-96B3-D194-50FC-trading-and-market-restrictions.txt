@@ -97,7 +97,9 @@ You can change your password from the settings panel in the Steam Client. This r
 
 A Steam Guard Mobile Authenticator provides additional security for your account. Adding an authenticator does not immediately remove existing restrictions. Trades created within the first 7 days of adding the authenticator will still have up to a 15 day trade hold. This allows your items to still be protected and gives you time to recover your account if a malicious actor were to ever add an authenticator to your account.
 
-If your account was already protected by Steam Guard via email, you will have no new restrictions from using trading or the Community Market. If your account was not protected by Steam Guard via email or mobile app, you will be restricted from using trading and the Community Market for 15 days because Steam Guard has been recently enabled.
+If your account was already protected by Steam Guard via email, you will have no [i]new[/i] restrictions that prevent you from using trading or the Community Market. Note: the 7 days of trade holds for adding a new authenticator still applies.
+
+If your account was not protected by Steam Guard via email or mobile app, you will be restricted from using trading and the Community Market for 15 days because Steam Guard has been recently enabled.
 
 [url id=appremoved][/url]
 
