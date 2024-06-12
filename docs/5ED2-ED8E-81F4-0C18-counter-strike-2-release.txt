@@ -75,7 +75,7 @@ CS:GO achievements have been wiped and are no longer available.
 [section id=macos]
 
 [h3]Is Counter-Strike 2 available on Mac?[/h3]
-Information on Counter-Strike 2 on Mac can be found [url=https://steamcommunity.com/faqs/steam-help/view/73EF-08A3-0935-6369]here[/url].
+No. Counter-Strike 2 cannot be played natively on MacOS.
 [/section]
 
 [section id=stats]
