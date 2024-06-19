@@ -1,195 +1,163 @@
 [h1]Steam Gifts[/h1]
 
-[h1]Gifting Questions[/h1]
+[*][url=#gifts]What is a Steam Gift?[/url] [/*]
+[*][url=#gifts-purchase]How can I purchase games for friends and family?[/url] [/*]
+[*][url=#gift-delivery]How do I change the delivery date? [/url] [/*]
+[*][url=#giftrefund]How do I refund a gift purchase?[/url] [/*]
+[*][url=#accept]How do I accept a Steam gift that I received?[/url] [/*]
+[*][url=#gifts-error] I can’t send a gift to my friend. What do I do?[/url] [/*]
+[*][url=#giftcard]How do I purchase Steam Gift Cards?[/url] [/*]
+[*][url=#track]How can I track my gift purchases? [/url] [/*]
+[*][url=#expire]Do gifts expire?[/url] [/*]
+[*][url=#giftrevoked]Why was my gift revoked?[/url] [/*]
+
+[url id= gifts][/url]
+
+[h2]What is a Steam gift?[/h2]
+
+When you add a game to your cart, you will see the option to "gift" the game to anyone on your[url=https://help.steampowered.com/en/faqs/view/1902-2D54-E445-59DD] Steam Friends List[/url]. The gift recipient will receive an e-mail with a personal message from you and instructions to redeem the game on their account.
+
+A Steam gift purchase is a one-time transfer—after the recipient has redeemed and installed the gift, it is now a part of his or her Steam games collection. Also note that you may only gift new purchases—you may not transfer games you already own.
+
+[section style=note]If you don't have a Steam account you can purchase a Steam Gift Card and checkout as a guest. Visit [url=https://store.steampowered.com/digitalgiftcards/selectgiftcard]Steam Gift Cards[/url] to get started. Once you've completed the gift purchase, the recipient will receive an email with a link to redeem the gift on their Steam account.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/8ca2160cb98a40c6257cb15e5fffb5cef77b6de2.png[/img]
+
+[/section]
+
+[url id= gifts-purchase][/url]
+
+[h2]How can I purchase games for friends and family?[/h2]
+
+To purchase a gift for a friend or family member, follow the steps below:
 
 [list]
 
-[*][url=#gifts-whatare]What is a Steam Gift?[/url] [/*]
-[*][url=#gifts-purchase]How can I purchase Steam Gifts for a different Steam user?[/url] [/*]
-[*][url=#gifts-recipient]Selecting your gift recipient[/url] [/*]
-[*][url=#gifts-delayed]How can I deliver the gift at a later date?[/url] [/*]
-[*][url=#gifts-message]Including a Special message with your gift [/url] [/*]
-[*][url=#gifts-sent]What happens after I purchase a gift?[/url] [/*]
-[*][url=#gifts-received]How will I know whether my friend has received their gift?[/url] [/*]
-[*][url=#gifts-use]How do I activate a Steam gift that I received?[/url] [/*]
-[*][url=#expire]Do gifts expire if they are not redeemed in a certain amount of time?[/url] [/*]
-[*][url=#howgift]How can I tell someone else how to give me a gift on Steam?[/url] [/*]
-[*][url=#friendssee]What will my friends see if I send them a Steam gift?[/url] [/*]
-[*][url=#country]Can I send gifts to Steam users in other regions?[/url] [/*]
-[*][url=#giftpacks]Can I gift game packs?[/url] [/*]
-[*][url=#own]How can I tell if my friend already owns the game(s) I would like to gift?[/url] [/*]
-[*][url=#multiplegifts]Can I give multiple gifts at the same time?[/url] [/*]
-[*][url=#giftownedgames]Can I gift games I no longer play to my friends?[/url] [/*]
-[*][url=#revoked]Why was my gift revoked?[/url] [/*]
-[*][url=#sellgifts]May I sell gift subscriptions?[/url] [/*]
-[*][url=#sharefourpack]How do I share the Four Pack for [L4D, L4D2, Borderlands] with three friends?[/url] [/*]
-[*][url=#gifthistory]How do I view my gift history?[/url] [/*]
-[*][url=#giftrefund]Can I refund my gift?[/url] [/*]
+[*]Locate the game on the Steam Store and select [i]Add to cart[/i] button.  [/*]
+[*]Select [i]This is a gift[/i] from the drop-down menu. [/*]
+[img]{STEAM_CLAN_IMAGE}/39983882/f849b59511464d59c2804b7c65439cd2ea6f5bea.png[/img]
+[*]Select [i]Continue to gift options[/i] and [i]Select gift recipient[/i]. [/*]
+[*]Select the gift recipient from your Friends List.  [/*]
+[*]Select the delivery option: [i]As soon as possible[/i] or [i]Scheduled delivery[/i]. You can schedule your delivery up to 12 months from the purchase date. [/*]
+[img]{STEAM_CLAN_IMAGE}/39983882/368872640a12f577478b156ff93d83a1e4408393.png[/img]
+[*]Select [i]Continue to payment[/i] and enter your preferred payment method. Then, select [i]Continue[/i]. Note: In the event your Steam Wallet balance doesn’t cover the full cost of this transaction, you’ll be asked to cover the remaining balance with a secondary payment method.  [/*]
+[*]Check the [i]I agree[/i] button and select [i]Purchase[/i] to finalize the payment.  [/*]
 
 [/list]
+When your gift is sent to the recipient, they'll have 30 days to accept or decline the gift.  Once they do, we'll send you an email letting you know.  If they don’t take any action, Steam will automatically cancel the purchase and issue you a refund after 30 days.
 
-[url id=gifts-whatare][/url]
+[url id= gift-delivery][/url]
 
-[h2]What is a Steam Gift?[/h2]
-When you purchase a game on Steam, we offer the option to "gift" the item to anyone on your Steam friends list. The recipient will receive the gift as an attractive e-mail card with a personal message from you and instructions to redeem the game.
+[h2] Can do I change the delivery date? [/h2]
 
-A Steam gift purchase is a one-time transfer—after the recipient has redeemed and installed the gift, it is now a part of his or her Steam games collection. Also note that you may only gift new purchases—you may not transfer games you already own. That’d be like wrapping up and presenting the toaster you’ve used every morning for the past year.
+If you selected a future date to send the gift, you can change the delivery date. Follow the steps below:
 
-[url id=gifts-purchase][/url]
+[list]
 
-[h2]How can I purchase Steam Gifts for a different Steam user?[/h2]
-To give a gift to a friend or family member, locate the game you would like to gift on the Steam Storefront and then click the [b]"Add to cart"[/b] button. Upon checking out, select the [b]"Purchase as a gift" [/b]option to purchase the items in your cart for a friend.
-
-[url id=gifts-recipient][/url]
-
-[h2]Selecting your gift recipient[/h2]
-When you select the "Purchase as a gift", you'll be presented with a list of your Steam friends, from there you can select who you'd like to receive your gift.  If you'd like to send it to someone who's not listed, you'll have to add them to your Steam friends list.  This helps ensure your gift is going to make it to the right person.
-
-[url id=gifts-delayed][/url]
-
-[h2]How can I deliver the gift at a later date?[/h2]
-After you've chosen a friend to receive the gift, you can click the [b]"Schedule delivery..."[/b] button to schedule the gift to be sent automatically on a future date.  When that time comes, we'll automatically send the gift to your friend and also send you an email letting you know your gift has been delivered.
-
-[table]
-
-[tr]
-[td][url id=gifts-message][/url]
-
-[h2]Including a Special Message with your gift[/h2]
-You may take a few moments to add a special message to the gift recipient. When they receive your gift, your special message will be displayed for them in Steam and they will also receive your gift message via e-mail.
-
-[/td]          [td][img]https://support.steampowered.com/images/faq/6262-QXCN-0755/gift_message_EN2.jpg[/img][/td]
-[/tr]
-[/table]
-
-[url id=gifts-sent][/url]
-
-[h2]What happens after I purchase a gift?[/h2]
-Your friend will receive an e-mail message, including your personalized gift message, notifying them that they have received a gift. Your friend will also receive a gift notification in the Steam client.
-
-[url id=gifts-received][/url]
-
-[h2]How will I know whether my friend has received their gift?[/h2]
-You can check the status of all your gifts on your [url=http://steamcommunity.com/my/inventory/#753_1]Steam Inventory[/url] page.  You can also access this from the Steam client - Within Steam, click on [b]"Games"[/b] in the main menu, then select [b]"Manage gifts and guest passes..."[/b].
-
-When your gift is sent to your friend, they'll have the option to accept or decline the gift.  Once they do, we'll send you an email letting you know.  If your friend takes no action on the gift, we'll automatically cancel the gift and issue you a refund after 30 days.
-
-[url id=gifts-use][/url]
-
-[h2]How do activate a Steam gift that I received?[/h2]
-If you do not already have Steam, download and install Steam [url=http://store.steampowered.com/about/]here[/url]. Once you have Steam installed, you will be prompted to create an account or login to an existing Steam account. If you do not have an account, please create one.
-
-1. You will receive an e-mail containing a link that will open Steam to redeem your gift or in the Steam client you will receive a notification at the top right corner that says you have a new gift as seen below:
-
-[img]https://support.steampowered.com/images/faq/gifting/newgiftnotification.png[/img]
-
-2. Clicking on "1 new gift" will take you to the following screen where you must click either Accept Gift or Decline Gift. Once you click Accept Gift, the game will be added directly to your Library.
-
-[img]https://support.steampowered.com/images/faq/gifting/giftreceived.png[/img]
-
-If you click on Decline Gift, we'll issue a refund to the original sender.  You can optionally include a note when you choose to decline the gift; whether you do or not, we'll email the sender to let them know the gift was declined.
-
-3. When you add the game to your Library it will be listed in your [b]Library > Games[/b] list in Steam, highlighting the game and clicking the "Install" will download the game to your computer.
-
-If the game is already in your Library you will receive a notification that it is and you will not be able to add it.
-
-If the game is not in your Library you will receive a pop-up notification confirming your actions, and if you have any duplicate games in a package you will be notified that you will not receive extra copies as seen below:
-
-[img]https://support.steampowered.com/images/faq/gifting/extracopies.png[/img]
-
-If you attempt to add a game to your Library that requires additional games that you don't own you will receive an error message as well:
-
-[img]https://support.steampowered.com/images/faq/gifting/nobasegame.png[/img]
-
-[h4]Gifting Questions[/h4]
-[url id=expire][/url]
-
-[h2]Do gifts expire if they are not redeemed in a certain amount of time?[/h2]
-After a gift has been delivered to a friend, they have thirty days to accept the gift. Once the gift has been accepted, the game is permanently subscribed to the Steam account that it was redeemed on.
-
-[url id=howgift][/url]
-
-[h2]How can I tell someone else how to give me a gift on Steam?[/h2]
-To give a gift on Steam, your friend may simply [url=https://store.steampowered.com/join/]create a Steam account[/url] online and then purchase a gift from the [url=http://store.steampowered.com/]Steam store[/url] as a gift. See the [url=#gifts-purchase]How can I purchase Steam Gifts for a different Steam user?[/url] section above for detailed instructions.
-
-Do not allow someone else to use your Steam account to make a gift purchase as it can compromise your account security.
-
-[url id=friendssee][/url]
-
-[h2]What will my friends see if I send them a Steam gift?[/h2]
-When you send a gift to your friend, they will receive an email and a notification at the top of their Steam client that they have received a new gift.
-
-[url id=country][/url]
-
-[h2]Can I send gifts to Steam users in other regions?[/h2]
-Territory restrictions are noted on the Steam Store page.
-
-Steam Support cannot make changes to territory or language restrictions.
-
-[url id=giftpacks][/url]
-
-[h2]Can I gift game packs?[/h2]
-Yes, you can gift game packs the same way you would gift an individual game. Four packs of games cannot be gifted.
-
-[url id=own][/url]
-
-[h2]How can I tell if my friend already owns the game(s) I would like to gift?[/h2]
-If your friends are members of your Steam Friends list, you can learn whether they already own the game you'd like to give. Your Steam Friends who already own this game will automatically be filtered out of the potential list of recipients. You can also visit your friend's Steam Community profile and click the link to "View all games" to view your Friend's list of owned games on Steam before purchasing them a gift.
-
-[url id=multiplegifts][/url]
-
-[h2]Can I give multiple gifts at the same time?[/h2]
-You can give as many gifts as you'd like at one time, but only to one friend per transaction.
-
-[url id=giftownedgames][/url]
-
-[h2]Can I gift games I no longer play to my friends?[/h2]
-You cannot gift games that were previously purchased on your Steam account to friends.
-
-[url id=revoked][/url]
-
-[h2]Why was my gift revoked?[/h2]
-Please see [url=https://support.steampowered.com/kb_article.php?ref=5854-QWLN-2621]this guide[/url].
-
-[url id=sellgifts][/url]
-
-[h2]May I sell gift subscriptions?[/h2]
-Steam Gift Purchases cannot be sold. Attempting to sell a gift subscription is a violation of the [url=http://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] and may result in your account being permanently disabled.
-
-[url id=sharefourpack][/url]
-
-[h2]How do I share the Four Pack for [L4D, L4D2, Borderlands] with three friends?[/h2]
-To do this, simply purchase the Four Pack on Steam, and then refer to [url=https://support.steampowered.com/kb_article.php?ref=4502-TPJL-2656]this guide[/url] to share your Extra Copies using the Steam client.
-
-[url id=gifthistory][/url]
-
-[h2]How do I view my gift history?[/h2]
-You can view your gift history by going to your Steam Inventory > "..." > View Gift History:
-
-[img]{STEAM_CLAN_IMAGE}/1976/fe37232f0c127594858cd861afb266650bf1e4b6.png[/img]
+[*]Log into your Steam account. Alternatively, you can also click on your account name at the top of the screen and select [i]Account Details[/i] and [i]View purchase history[/i].  [/*]
+[*]Select [i]Purchases[/i] to open your Purchase History.
+[*]Locate and select the gift you want to reschedule. Be sure to look for the gift icon. [/*]
+[*]Gifts are stored in your Steam Inventory until they are delivered to the recipient. Click on the [i]Steam Inventory[/i] link shown below.  [/*]
+[img]{STEAM_CLAN_IMAGE}/39983882/c8ac65c07d0fa90c62c0ce8571dbeb701e364244.png[/img]
+[*]Then, select [i]Manage gifts[/i] to select a different delivery date. When that time comes, we'll automatically send the gift to the recipient. You’ll also receive an email letting you know that your gift has been delivered.
+[/list]
 
 [url id=giftrefund][/url]
 
-[h2]Can I refund my gift?[/h2]
-A refund may be issued for any gift that was purchased within fourteen days and has been played less than two hours by the gift recipient.
+[h2]How do I refund a gift purchase?[/h2]
 
-If the gift recipient has already redeemed the gift, you'll see the following message when you try to refund the gift: [i]This product was gifted to user (Account name). They'll have to use the Support site to request a refund for this product first.[/i]
-The gift recipient should follow these steps to approve the gift refund and removal:
+A refund may be issued for any gift that was purchased within fourteen days and has been played less than two hours by the gift recipient. If the refund request is approved, your purchase will be refunded to the original payment method. If your payment method does not support this, your Steam Wallet will be credited the full amount.  For more information, review our [url=https://help.steampowered.com/en/]Refund Policy[/url].
 
-[olist]
+[b]Gift Not Redeemed[/b]
+If the recipient has not redeemed the gift, you can follow these steps to request a refund for your purchase:
 
-[*]Navigate to the [url=http://help.steampowered.com]Support Site[/url] and log in to Steam.
+[list]
 
-[*]Click [i]Games, Software, etc.[/i]
+[*]Navigate to the [url=https://help.steampowered.com/en/]Help Site[/url] and log into your Steam account. [/*]
+[*]Select [i]Purchases[/i]. [/*]
+[*]Find the gifted game in the list and click on it. Be sure to look for the gift icon shown below. [/*]
+[img]{STEAM_CLAN_IMAGE}/39983882/90b052274a606f9b6c29199d15ad31e9fd26f765.png[/img]
+[*]Select [i]I would like a refund[/i]. [/*]
+[*]Select the problem that best represents the reason why you're requesting a refund. [/*]
+[*]Select [i]Submit Request[/i]. You will receive an email once the refund request has been processed [/*]
+[img]{STEAM_CLAN_IMAGE}/39983882/0e76f9131a1f19ce8397f5d371d3dd48c7291cb8.png[/img]
 
-[*]Find the gifted game in the list and click on it.
+[/list]
 
-[*]Select the problem that best represents the reason why you're not keeping the gift.
+[b]Gift Redeemed [/b]
+If the gift has already been redeemed, the recipient needs to approve the refund first. If you submit a refund request before the recipient has approved the gift refund, your request will be declined. You'll see the following message when you try to refund a redeemed gift: [i]This product was gifted to user (Account name). They'll have to use the Support site to request a refund for this product first.[/i]
 
-[*]Click [i]I'd like to request a refund[/i].
+Please ask the gift recipient to follow these steps to approve the gift refund and removal:
 
-[*]Finish the request by selecting the box for [i]Allow the original purchases of this gift to request a refund[/i].
+[list]
 
-[/olist]
+[*]Navigate to the [url=https://help.steampowered.com/en/]Help Site[/url] and log into your Steam account. [/*]
+[*]Select [i]Games, Software, etc.[/i] [/*]
+[*]Find the gifted game in the list and click on it. [/*]
+[*]Select the problem that best represents the reason why you're not keeping the gift. [/*]
+[*]Select [i]I'd like to request a refund.[/i] [/*]
+[*]Finish the request by selecting the box for [i]Allow the original purchases of this gift to request a refund.[/i] [/*]
 
-You can proceed with the refund request once the recipient has initiated the refund and approved the removal of the gift from their account.
+[/list]
+Once the recipient has given their approval, you will also need to submit a refund request for the gift purchase.  Visit [url=https://help.steampowered.com/en/faqs/view/784C-923B-A4A1-C825]How To Request A Refund [/url] for additional guidance.
+
+[url id= accept][/url]
+
+[h2]How do I accept a Steam gift that I received?[/h2]
+On the scheduled delivery date you will receive an email with a link to redeem the gift on your Steam account. You will also see a gift notification in the Steam Client.
+
+[list]
+
+[*]Select [i]1 New Gift[/i] to open the gift in your Steam Inventory. [/*]
+[img]{STEAM_CLAN_IMAGE}/39983882/abd7b7a08090db05e610beb7c24aecaa69a750fa.png[/img]
+
+[*]Select [i]Accept Gift[/i] to add the game to your Steam library. Note: If you select [i]Decline Gift[/i] an automatic refund will be processed to the purchaser's payment method. The purchaser will also receive an email to let them know that their gift was declined.[img]{STEAM_CLAN_IMAGE}/39983882/c48bf187860caf1d3ca9fe43e23b69f8fc64bc7c.png[/img] [/*]
+
+[/list]
+
+[h1]Other Common Questions[/h1]
+[url id=gifts-error][/url]
+
+[h2]I can’t send a gift to my friend. What do I do?[/h2]
+
+If you’re unable to select a recipient on your Friends List, check the following:
+
+[list]
+
+[*][b]Friend Owns Item[/b]. If anyone on your Friends List owns the game, their names will be grayed out and cannot be selected. Check your friend's Steam Community profile and click the link [i]View all games[/i] to view their list of owned games.
+
+[*][b]Region Restrictions[/b]. Due to regional price differences, some gifts cannot be sent to recipients located in other purchase regions. Territory restrictions are noted on the Steam Store page. Steam Support cannot make changes to territory or language restrictions.
+
+[*][b]Gifting DLC[/b].  Check your friend's Steam Community profile and click the link to "View all games" to view their list of owned games. You won’t be able to purchase DLC (downloadable content) unless they already own the base game.
+
+[*][b]Gifting Bundles[/b]. Some bundles are customized for your account and cannot be gifted. To identify these bundles, look for [i]Complete Your Collection[/i] on the product’s store page.
+
+[*][b]Gifting Multipacks[/b]. All multipacks (2-, 3-, and 4-packs) include multiple copies of the same game. Multipacks cannot be gifted but you can purchase them for your own account; the extra copies can be gifted to your friends and family. For more information, visit [url=https://help.steampowered.com/en/faqs/view/7FA6-7318-AC7F-AF99]Extra Copies[/url].  Note: You can’t purchase a multipack if you already own the game on Steam.  [/*]
+[*][b]Game Cannot Be Gifted[/b]. Select titles may not be gifted and the option to send as a gift will not be available during checkout.
+[/list]
+If you continue to experience an issue with the gifting process, consider sending your friend a [url=https://store.steampowered.com/digitalgiftcards/selectgiftcard]Steam Gift Cards[/url] instead. For additional assistance, contact [url=https://help.steampowered.com]Steam Support[/url].
+
+[url id=giftcard][/url]
+
+[h2]How do I purchase Steam Gift Cards?[/h2]
+To purchase a digital Steam Gift Card for a friend or family member’s account, visit [url=https://store.steampowered.com/digitalgiftcards/selectgiftcard]Steam Gift Cards[/url]. Once the purchase has been completed, the gift recipient will receive both an email and a gift notification on their Steam account.
+
+[url id=track][/url]
+
+[h2]How can I track my gift purchases?[/h2]
+
+You can view your gift history by going to your Steam Inventory, selecting [i]...[/i] and [i]View Gift History[/i]. [img]{STEAM_CLAN_IMAGE}/39983882/09eb12cb46107b7b86320781530432b2f3e205b7.png[/img]
+
+[url id=expire][/url]
+
+[h2]Do gifts expire?[/h2]
+
+After a gift has been delivered to the recipient, they have 30 days to accept the gift. Once the gift has been accepted, the game is permanently added to the Steam account that it was redeemed on. If the recipient doesn't take any action after 30 days, Steam will automatically cancel the gift purchase and issue you a refund to the original payment method.
+
+[url id=giftrevoked][/url]
+
+[h2]Why was my gift revoked?[/h2]
+
+When a gift is refunded due to fraud or a payment dispute, the gift is removed from your Steam library. You will also receive notification that the game is no longer available to play.
+
+If you would like to play the game again in the future, you will need to purchase it from the Steam Store or redeem another gift copy of the title.  Visit [url=https://help.steampowered.com/en/]Revoked Gifts [/url] for additional information.
