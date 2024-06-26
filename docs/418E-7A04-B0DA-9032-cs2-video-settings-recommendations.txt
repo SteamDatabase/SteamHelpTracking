@@ -1,0 +1,84 @@
+[h1]CS2 - Video Settings Recommendations[/h1]
+
+[list]
+
+[*][url=#refreshrate]Use your monitor's highest refresh rate[/url] [/*]
+[*][url=#doublecheck]Double check your monitor's refresh rate in settings[/url] [/*]
+[*][url=#gorfree]Use NVIDIA G-Sync or AMD FreeSync if you can[/url] [/*]
+[*][url=#enablegsync]How to enable NVIDIA G-Sync[/url] [/*]
+[*][url=#enablefreesync]How to enable AMD FreeSync[/url] [/*]
+[*][url=#reflex]If You are using NVIDIA G-Sync, you should also use V-Sync and NVIDIA Reflex[/url] [/*]
+
+[/list]
+
+[section id=refreshrate]
+
+[h2]Use your monitor's highest refresh rate[/h2]
+
+Computer displays often have different "modes". Each mode represents a different combination of settings such as the "resolution" (the number of pixels on the screen) and the "refresh rate" (the number of different images the display can show per second). Higher refresh rates result in smoother-looking motion. Playing CS2 in a mode with the highest refresh rate your display supports is generally recommended for this reason.
+[/section]
+
+[section id=doublecheck]
+
+[h2]Double check your monitor's refresh rate in settings[/h2]
+
+If you own a high refresh rate display, you might not actually be running it in the highest refresh rate mode. When playing CS2 windowed or fullscreen windowed, the refresh rate is determined by your system's display settings. For example, on Windows 10 this setting can be found in the "Advanced display settings".
+
+[img]{STEAM_CLAN_IMAGE}/39983882/8793da6092f381f9e0eb6e70053179089eccebb7.png[/img]
+[/section]
+
+[section id=gorfree]
+
+[h2]Use NVIDIA G-Sync or AMD FreeSync if you can[/h2]
+
+Traditionally, displays come with a fixed number of modes they support and changing modes is a slow process. If a display is in a 60 Hz mode, for example, the game you're playing needs to consistently render a new frame every 1/60th of a second. If it can't render a new frame in time, the display will be forced to show the previous frame again, resulting in an experience that looks like a 30 Hz mode. It can be very jarring when a game looks like it's alternating between 60 Hz and 30 Hz.
+
+Many modern gaming displays have features called "NVIDIA G-Sync" and/or "AMD FreeSync" which address this problem. When these features are enabled, your display can automatically change its refresh rate on the fly to match the signal its receiving. If your display is running in a 60 Hz mode, for example, but you have NVIDIA G-Sync or AMD FreeSync enabled, then the game you're playing can render at 59 FPS or 58 FPS or 57 FPS, etc. and the display will change its refresh rate to match the game automatically. This can make games look smooth even when they can't consistently meet the display mode's specified refresh rate.
+
+If a game's frame rate is above a display modes's specified refresh rate then these features have no effect, but they shouldn't hurt anything either. For these reasons, we recommend enabling them where possible.
+[/section]
+
+[section id=enablegsync]
+
+[h2]How to enable NVIDIA G-Sync[/h2]
+
+If you're using an NVIDIA graphics card and a display that supports NVIDIA G-Sync, it can be enabled outside the game using the NVIDIA Control Panel. Note that, depending on your display, [b]you might need to select multiple checkboxes[/b].
+
+Also note that on some systems, [b]G-Sync can introduce visual glitches when playing non-fullscreen windowed[/b].
+
+You need to restart CS2 after making these changes.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/1924bb244ae0b0509f6c2ce1bf3f22d412e71155.png[/img]
+[/section]
+
+[section id=enablefreesync]
+
+[h2]How to enable AMD FreeSync[/h2]
+
+If you are using an AMD graphics card and a display that supports AMD FreeSync, it can be enabled outside the game using the AMD Software app.
+
+You need to restart CS2 after making this change.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/24f38089f366c3a0675e2f17c22beaf3c28e48f6.png[/img]
+[/section]
+
+[section id=reflex]
+
+[h2]If You are using NVIDIA G-Sync, you should also use V-Sync and NVIDIA Reflex[/h2]
+
+Running a game at a frame rate higher than your display's refresh rate has several downsides. The most obvious is "screen tearing," which occurs when a display receives a new frame from a game in the middle of refreshing. The top half of your screen will show one frame while the bottom half shows another.
+
+A less-obvious problem is "microstuttering." When a display's refresh rate is lower than the game's frame rate (e.g., a display that renders at 60 Hz while the game renders at 70 FPS), the game will render a frame before the display is able to show it. Over time, the display and the game begin to drift away from each other, until eventually the game renders two frames in a row before the display is able to show you one. This results in a "microstutter" where the game looks like it's jumping forward a frame.
+
+Many games have a setting called V-Sync to solve these problems. V-Sync forces a game to "sleep" after it's finished a frame until the next display refresh, which helps synchronize the game's frame rate with the display's refresh rate. This usually eliminates both screen tearing and microstuttering.
+
+V-Sync has one major downside; when the game is sleeping, it is not processing input from keyboards and mice, and those input events are queued up for processing on the next frame instead. This results in higher input latency (the amount of time between an input event and the time you see its effects on-screen).
+
+[b]This input latency added by V-Sync can be eliminated if you also enable both NVIDIA G-Sync and NVIDIA Reflex[/b]. NVIDIA Reflex is an option on many NVIDIA graphics cards that reduces input latency by inserting a sleep interval before input processing, meaning the game has more time to collect the latest input before rendering the next frame. Because the sleep interval that Reflex inserts is an estimate, it is possible that the game will miss a display refresh deadline (which would result in a stutter). But if you also have G-Sync enabled (see above), your display will automatically adjust to match the effective frame rate, and you will not experience a stutter problem.
+
+For all these reasons, we recommend enabling V-Sync, NVIDIA G-Sync, and NVIDIA Reflex all together when all three features are available. [b]Please note that enabling all three settings will limit your frame rate to slightly below your monitor's refresh rate[/b]. This is by design, and is usually the smoothest-looking [i]and[/i] lowest input latency settings combination.
+
+CS2 can detect when this configuration is available at startup but you're not using it. You will receive a popup with several options. Pressing the "Apply Changes" button will apply the recommendation automatically:
+
+[img]{STEAM_CLAN_IMAGE}/39983882/172a0a1001e053aff9608472a9c78d4fefc30f39.png[/img]
+[/section]
