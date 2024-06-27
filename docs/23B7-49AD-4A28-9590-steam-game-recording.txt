@@ -1,0 +1,138 @@
+[h1]Steam Game Recording[/h1]
+
+[url=#1]Overview[/url]
+[url=#2]Frequently Asked Questions[/url]
+[url=#3]Troubleshooting[/url]
+[url=#4]Reporting Issues[/url]
+
+[h1 id=1]Overview[/h1]
+[hr][/hr]
+
+The easy way to record, rewind, bookmark, clip, save & share your gameplay.
+
+Steam's game recorder is designed to capture your gameplay in the background while you play. There are two modes of recording: "Record in background" captures all gameplay and allows you to save unexpected moments which you may not have thought to record, and "Record on demand" which only captures gameplay when you turn it on.
+
+When you enable background recording you can choose the maximum amount of space on your hard drive you want to devote. These background recordings are temporary - once that space on your hard drive is full, the recordings will be overwritten as you play. When you make clips from your recordings you can choose to permanently save them.
+
+[b]How to get started[/b]: In the Steam Client go to Steam > Settings > Game Recording (or while playing a game, open the Overlay and then the Game Recording tab at the bottom of the screen.) From Game Recording Settings you can select when you want your games recorded and customize things like the max disk space reserved, where they are saved, what audio is captured, your shortcut keys, and more.
+
+When you play, you'll now see a timeline in the overlay, showing recording progress, timeline events, timeline markers, and playback and clipping tools. Move the playhead or hover on the timeline to review your footage and replay how your character just died or rewind back to your last play session to remember what your current objective is. If you find a moment you want to save or share, the Clip button will drop a clip suggestion on the timeline that you can adjust by dragging the end points, or using the Start and End Clip buttons. When you save a clip you'll see it represented with a yellow bar on the timeline, that footage has now been saved to your PC.
+
+Once you've created a clip you can export it as a video file to share, edit, or post to other platforms as you like. When recording and sharing, be respectful of others and abide by the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] and the [url=https://store.steampowered.com/online_conduct/]Steam Online Conduct Rules[/url].
+
+[b]Timelines[/b]: Game recording works for all Steam games, but some games may choose to enable support for the Steam Timeline, in which case you'll see game-specific markers on the timeline. Hover a game marker for details, and click it to drop a clip suggestion.
+
+[b]Where are my recordings[/b]: Game recordings (and their timeline) are shown in the in-game Overlay and in your Recordings & Screenshots viewer. From the Steam Desktop Client select View > Recordings & Screenshots. From your Steam Deck, select the Media tab from the Steam menu. You'll find the same content and features there.
+
+[h1 id=2]Frequently Asked Questions[/h1]
+[hr][/hr]
+
+[list]
+
+[*][url=#5]What will Steam record?[/url]
+
+[*][url=#6]How do I turn it on?[/url]
+
+[*][url=#7]Where are my recordings?[/url]
+
+[*][url=#9]How do I customize my settings?[/url]
+
+[*][url=#10]How do I drop a marker?[/url]
+
+[*][url=#11]How do I make a clip?[/url]
+
+[*][url=#12]How do I share/save a clip?[/url]
+
+[*][url=#13]How do I transfer a clip from my Deck to a PC?[/url]
+
+[*][url=#14]How do I know if a game supports Steam Timeline?[/url]
+
+[/list]
+
+[url id=5][/url]
+
+[h3]What will Steam record?[/h3]
+
+When enabled by the user, Steam Game Recording will capture your gameplay footage of games played through the Steam Client. It will not capture video of your desktop or other programs. You can choose to include the audio from other programs, such as voice chat programs. When recording and sharing, be respectful of others and abide by the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] and the [url=https://store.steampowered.com/online_conduct/]Steam Online Conduct Rules[/url].
+
+[url id=6][/url]
+
+[h3]How do I turn it on?[/h3]
+
+In the Steam Client go to Steam > Settings > Game Recording (or while playing a game, open the Overlay and then the Game Recording tab at the bottom of the screen.)
+
+You can select from Off/Don't record, Record in Background (which will record anytime you play games), and Record on Demand (which will record only when you turn it on.) There are settings available to make sure your recordings don't fill up your hard drive, plus audio settings, shortcut keys, and more.
+
+[url id=7][/url]
+
+[h3]Where are my recordings?[/h3]
+
+Game recordings (and their timeline) are shown in the in-game Overlay and in your Recordings & Screenshots viewer. From the Steam Desktop Client select View > Recordings & Screenshots. From your Steam Deck, select the Media tab from the main menu. You'll find the same content and capabilities in both places.
+
+You can choose where your recordings are stored on your hard drive from Steam > Settings > Game Recording. Steam is capturing both the video and the timeline in a raw format, if you'd like a video format (mp4) of your gameplay then you'll need to create a clip and export it.
+
+[url id=9][/url]
+
+[h3]How do I customize my settings?[/h3]
+
+In the Steam Client go to Steam > Settings > Game Recording (or while playing a game, open the Overlay and then the Game Recording tab at the bottom of the screen.) From Game Recording Settings you can select when you want your games recorded and customize things like the max disk space reserved, where they are reserved, what audio is captured, your shortcut keys, and more.
+
+[url id=10][/url]
+
+[h3]How do I drop a marker?[/h3]
+
+While in-game if you have a moment you want to come back to, you can drop a marker with Ctrl+F12. A blue marker icon will display at spot on the timeline so you can clip it later. You can also drop a marker when looking at your timeline, by right clicking on the timeline or by clicking the marker icon.
+
+Tip: shortcut keys are customizable on both desktop and Steam Deck.
+
+[url id=11][/url]
+
+[h3]How do I make a clip?[/h3]
+
+If you find a moment you want to save or share, click the Clip button to drop a clip suggestion on the timeline that you can adjust by dragging the end points, or using the Start and End Clip buttons. When you save a clip you'll see it represented with a yellow bar on the timeline, that footage has now been saved to your PC.
+
+[url id=12][/url]
+
+[h3]How do I share/save a clip?[/h3]
+
+After clicking the "Clip" button and setting your beginning and end points, you'll see a "Save/Share" or "Share" button with a few options:
+
+Save in Steam - Saves the clip as you've edited it, to your Steam Recordings & Screenshots where you can come back to it later to edit or share. (Clips are the best way to ensure your best moments are saved, and not overwritten.)
+Copy to clipboard - Just like you'd copy anything else on your PC. Paste it anywhere.
+Send to Other Device... - Transfer the clip to a PC or Steam Deck you've recently signed in to. The next time you sign in to Steam on that device (within the next week), your clip will automatically download there.
+Create link - Steam will host your clip and give you a link you can share
+Save video file - Export your clip to an mp4 format
+
+[url id=13][/url]
+
+[h3]How do I transfer a clip from my Deck to a PC?[/h3]
+
+To get your clips off your Deck to a device where it's easier to edit and share them, go to your clip and select "Share" > "Send clip to your PC" for a list of eligible devices. Eligible devices include those where you've been signed in to Steam within the last two weeks.
+
+[url id=14][/url]
+
+[h3]How do I know if a game supports Steam Timeline?[/h3]
+
+Game Recording works for any game that supports the Steam Overlay - it may not work for some older games. Games may choose to support event markers on the Steam Timeline. As we start the beta, the following games have implemented timeline markers: Dota 2 and Counter Strike 2.
+
+[h1 id=3]Troubleshooting[/h1]
+[hr][/hr]
+
+[h3]Will Game Recording affect my perf or gameplay?[/h3]
+
+Steam Game Recording has been designed with the goal of taking as little computer resources away from the game you are playing as possible. It takes advantage of NVIDIA and AMD graphics cards to remove most of the performance cost of creating video recordings. When run on systems without those graphics cards, the systems CPU is used to create video recordings which may cause a noticeable performance impact on those systems.
+
+[h3]I see a "Low disk space" warning and game recording has stopped[/h3]
+
+This means Steam doesn't have enough hard drive space to record or create clips. To enable recording again you'll need to free space on your hard drive by deleting files. You can also change your game recording folder in Settings > Game Recording to a different drive with more free space. Lastly, you can reduce the length/minutes or quality of background recordings you temporarily keep in Settings > Game Recording.
+
+[h3]Why do I see "No Recording Available" on my timeline?[/h3]
+
+There are a couple reasons why you may see a "No Recording Available" message while looking at your timeline. Gameplay footage isn't captured until the game tells us it's ready, so you may miss some frames on game launch or shut down, or while the game's resolution was changing.
+
+You may also see this message if you're seeking through a background recording that is old enough to have been overwritten by new gameplay footage. You can customize the length and quality of the background recording on disk from Settings.
+
+[h1 id=4]Report Issues[/h1]
+[hr][/hr]
+
+We want to hear from you! Does Game Recording include everything you want? Is it not working well on your PC? Visit the forums to provide feedback (make sure to tell us which graphics card you have and any other recording programs you may be running.) You can leave feedback on the [url=https://steamcommunity.com/groups/SteamClientBeta/discussions/5/]Game Recording sub-forum of Steam Community Discussions[/url].
