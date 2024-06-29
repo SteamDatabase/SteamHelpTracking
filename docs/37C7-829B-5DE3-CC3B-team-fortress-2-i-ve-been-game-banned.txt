@@ -1,0 +1,58 @@
+[h1]Team Fortress 2- I've been game banned[/h1]
+
+[section style=warning]Team Fortress 2 game bans are permanent, non-negotiable, and are not removed by Steam Support.
+[/section]
+
+[list]
+
+[*][url=#whyban]Why are game bans issued?[/url] [/*]
+[*][url=#reason]Can you tell me why I was game banned?[/url] [/*]
+[*][url=#appeal]Can I appeal my game ban?[/url] [/*]
+[*][url=#compromised]I was not using my account when it was game banned. Can the ban be removed?[/url] [/*]
+[*][url=#items]Can I move my Team Fortress 2 items to a different account?[/url] [/*]
+
+[/list]
+
+[section id=whyban]
+
+[h2]Why are game bans issued?[/h2]
+Game bans in Team Fortress 2 are issued when a player attempts to circumvent or interfere with game systems to the detriment of others.
+
+Examples include:
+
+[list]
+
+[*]Cheating. [/*]
+[*]Manipulation of Competitive Mode rank. [/*]
+[*]Botting and/or automation. [/*]
+[*]Intentionally interfering with the normal operation of game servers or other players. [/*]
+
+[/list]
+Game Bans for all of the above are not removed by Steam Support.
+[/section]
+
+[section id=reason]
+
+[h2]Can you tell me why I was game banned?[/h2]
+No. We do not disclose the reason for your game ban.
+
+Whether your account was used with cheat software, automating matchmaking, or abusing matchmaking the reason a game ban was issued is not shared with users.
+[/section]
+
+[section id=appeal]
+
+[h2]Can I appeal my game ban?[/h2]
+No. Game bans cannot be appealed and are not removed from accounts.
+[/section]
+
+[section id=compromised]
+
+[h2]I was not using my account when it was game banned. Can the ban be removed?[/h2]
+No. Regardless of who was using the account at the time the ban was issued, game bans are permanent and are not removed.
+[/section]
+
+[section id=items]
+
+[h2]Can I move my Team Fortress 2 items to a different account?[/h2]
+No. Team Fortress 2 items cannot be moved from a game banned account to a different account.
+[/section]
