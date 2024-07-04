@@ -113,14 +113,16 @@ To get your clips off your Deck to a device where it's easier to edit and share 
 
 [h3]How do I know if a game supports Steam Timeline?[/h3]
 
-Game Recording works for any game that supports the Steam Overlay - it may not work for some older games. Games may choose to support event markers on the Steam Timeline. As we start the beta, the following games have implemented timeline markers: Dota 2 and Counter Strike 2.
+Game Recording works for any game that supports the Steam Overlay - it may not work for some older games. Games may choose to support event markers on the Steam Timeline. As we start the beta, the following games have implemented timeline markers: Dota 2, Counter Strike 2, and Left 4 Dead 2. [url=https://store.steampowered.com/search/?category2=63]Here[/url] are all the titles that have indicated support for Steam Timeline.
+
+Once they have added support for the timeline API, developers can indicate that for their game by selecting the Steam Timeline feature flag under Basic Info on their store page. That will cause their game to be added to the list above automatically.
 
 [h1 id=3]Troubleshooting[/h1]
 [hr][/hr]
 
 [h3]Will Game Recording affect my perf or gameplay?[/h3]
 
-Steam Game Recording has been designed with the goal of taking as little computer resources away from the game you are playing as possible. It takes advantage of NVIDIA and AMD graphics cards to remove most of the performance cost of creating video recordings. When run on systems without those graphics cards, the systems CPU is used to create video recordings which may cause a noticeable performance impact on those systems.
+Steam Game Recording has been designed with the goal of taking as little computer resources away from the game you are playing as possible. It takes advantage of NVIDIA and AMD graphics cards to remove most of the performance cost of creating video recordings. When run on systems without those graphics cards, the system's CPU is used to create video recordings which may cause a noticeable performance impact on those systems.
 
 [h3]I see a "Low disk space" warning and game recording has stopped[/h3]
 
