@@ -97,11 +97,11 @@ If you find a moment you want to save or share, click the Clip button to drop a 
 
 After clicking the "Clip" button and setting your beginning and end points, you'll see a "Save/Share" or "Share" button with a few options:
 
-Save in Steam - Saves the clip as you've edited it, to your Steam Recordings & Screenshots where you can come back to it later to edit or share. (Clips are the best way to ensure your best moments are saved, and not overwritten.)
-Copy to clipboard - Just like you'd copy anything else on your PC. Paste it anywhere.
-Send to Other Device... - Transfer the clip to a PC or Steam Deck you've recently signed in to. The next time you sign in to Steam on that device (within the next week), your clip will automatically download there.
-Create link - Steam will host your clip and give you a link you can share
-Save video file - Export your clip to an mp4 format
+[b]Save in Steam[/b] - Saves the clip as you've edited it, to your Steam Recordings & Screenshots where you can come back to it later to edit or share. (Clips are the best way to ensure your best moments are saved, and not overwritten.)
+[b]Export Video File[/b] - Export your clip to an mp4 format
+[b]Copy to Clipboard[/b] - Just like you'd copy anything else on your PC. Paste it anywhere.
+[b]Send to Other Device[/b] - Transfer the clip to a PC or Steam Deck you've recently signed in to. The next time you sign in to Steam on that device (within the next 2 days), your clip will automatically download there.
+[b]Create a Share Link[/b] - Steam will host your clip and give you a shareable link that expires after 2 days.
 
 [url id=13][/url]
 
