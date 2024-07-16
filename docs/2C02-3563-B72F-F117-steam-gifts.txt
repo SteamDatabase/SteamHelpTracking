@@ -1,13 +1,13 @@
 [h1]Steam Gifts[/h1]
 
 [*][url=#gifts]What is a Steam Gift?[/url] [/*]
-[*][url=#gifts-purchase]How can I purchase games for friends and family?[/url] [/*]
+[*][url=#gifts-purchase]How do I purchase games for friends and family?[/url] [/*]
 [*][url=#gift-delivery]How do I change the delivery date? [/url] [/*]
 [*][url=#gift-refund]How do I refund a gift purchase?[/url] [/*]
 [*][url=#accept]How do I accept a Steam gift that I received?[/url] [/*]
 [*][url=#gifts-error] I can’t send a gift to my friend. What do I do?[/url] [/*]
 [*][url=#giftcard]How do I purchase Steam Gift Cards?[/url] [/*]
-[*][url=#track]How can I track my gift purchases? [/url] [/*]
+[*][url=#track]How do I track my gift purchases? [/url] [/*]
 [*][url=#expire]Do gifts expire?[/url] [/*]
 [*][url=#gift-revoked]Why was my gift revoked?[/url] [/*]
 
@@ -27,7 +27,7 @@ A Steam gift purchase is a one-time transfer—after the recipient has redeemed 
 
 [url id=#gifts-purchase][/url]
 
-[h2]How can I purchase games for friends and family?[/h2]
+[h2]How do I purchase games for friends and family?[/h2]
 
 To purchase a gift for a friend or family member, follow the steps below:
 
@@ -48,9 +48,9 @@ When your gift is sent to the recipient, they'll have 30 days to accept or decli
 
 [url id=#gift-delivery][/url]
 
-[h2] Can I change the delivery date? [/h2]
+[h2]How do I change the delivery date? [/h2]
 
-If you selected a future date to send the gift, you can change the delivery date. Follow the steps below:
+If you initially selected a future date to send the gift, you can change the delivery date. Follow the steps below:
 
 [list]
 
@@ -146,7 +146,7 @@ To purchase a digital Steam Gift Card for a friend or family member’s account,
 
 [url id=track][/url]
 
-[h2]How can I track my gift purchases?[/h2]
+[h2]How do I track my gift purchases?[/h2]
 
 You can view your gift history by going to your Steam Inventory, selecting [i]...[/i] and [i]View Gift History[/i]. [img]{STEAM_CLAN_IMAGE}/39983882/09eb12cb46107b7b86320781530432b2f3e205b7.png[/img]
 

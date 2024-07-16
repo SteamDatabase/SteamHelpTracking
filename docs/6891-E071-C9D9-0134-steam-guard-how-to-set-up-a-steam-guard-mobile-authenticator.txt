@@ -15,7 +15,9 @@ Next you'll enter a phone number, one that we can confirm with a text message. I
 
 Enter your phone number. Add the international prefix from the drop down.
 
-[img]{STEAM_CLAN_IMAGE}/39983882/6b4f8493ea9fc250363d377e187c6b0f80dfc30c.png[/img]
+Note: [i]if you do not have a phone number, you can still add the authenticator. To do this, select the link "I don't have access to a phone number" below the "Next" button.[/i]
+
+[img]{STEAM_CLAN_IMAGE}/39983882/1da70c95fef1a2299f2939fb319e154ae6eba407.png[/img]
 
 Steam will send a confirmation code to your phone.
 
