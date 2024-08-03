@@ -167,6 +167,9 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]You have tried disabling mesh features in your router, as sometimes they interfere with Steam Link.
 
+[*]If you must use mesh networks (please be aware we do not officially support mesh networks), connect your PC to the mesh node you intend to use with your headset.
+Also, "bind" your headset to the AP you intend to use in the mesh network's admin panel or companion application.  This process will vary depending on your specific network.
+
 [*]If using AMD, disable the "Instant Reply" feature if it is in use.  Some users report that this prevents Steam Link from launching.
 
 [h4]If you are experiencing performance issues:[/h4]
