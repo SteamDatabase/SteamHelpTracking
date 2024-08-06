@@ -1,5 +1,7 @@
 [h1]Steam Gifts[/h1]
 
+[list]
+
 [*][url=#gifts]What is a Steam Gift?[/url] [/*]
 [*][url=#gifts-purchase]How do I purchase games for friends and family?[/url] [/*]
 [*][url=#gift-delivery]How do I change the delivery date? [/url] [/*]
@@ -10,6 +12,8 @@
 [*][url=#track]How do I track my gift purchases? [/url] [/*]
 [*][url=#expire]Do gifts expire?[/url] [/*]
 [*][url=#gift-revoked]Why was my gift revoked?[/url] [/*]
+
+[/list]
 
 [url id=#gifts][/url]
 
