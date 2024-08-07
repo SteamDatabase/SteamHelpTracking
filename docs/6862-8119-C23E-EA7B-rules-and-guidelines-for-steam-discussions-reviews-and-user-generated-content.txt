@@ -104,7 +104,7 @@ Examples of prohibited conduct include:
 
 [/list]
 
-[h1]User Reviews[/h1]
+[h1 id=reviews]User Reviews[/h1]
 
 [hr][/hr]
 

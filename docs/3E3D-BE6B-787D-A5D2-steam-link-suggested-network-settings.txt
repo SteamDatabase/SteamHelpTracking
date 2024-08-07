@@ -37,7 +37,7 @@ Remote Play uses the following ports:
 
 [*]TCP ports 27036 and 27037
 
-[*]For VR Streaming, ports 10400 and 10401
+[*]For VR Streaming, UDP ports 10400 and 10401
 
 [/list]
 
