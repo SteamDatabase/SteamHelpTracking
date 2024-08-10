@@ -64,7 +64,7 @@ You can use any USB input device, including keyboard and mouse, various gamepads
 
 [expand type=title title="What if my Steam Machine breaks or needs replacement parts?"]
 
-Hardware support for Steam Machines is provided by the manufacturer. If you own an Alienware Steam Machine, you can contact [url=https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/dell-gaming/alienware-hive?~ck=mn]their support team here.[/url] If you have another brand of Steam Machine, search online for their support resources. If you’re lost, contact the seller for more information.
+Hardware support for Steam Machines is provided by the manufacturer. If you own an Alienware Steam Machine, you can contact [url=https://www.dell.com/support/contents/en-us/category/product-support/self-support-knowledgebase/dell-gaming]their support team here.[/url] If you have another brand of Steam Machine, search online for their support resources. If you’re lost, contact the seller for more information.
 
 [/expand]
 

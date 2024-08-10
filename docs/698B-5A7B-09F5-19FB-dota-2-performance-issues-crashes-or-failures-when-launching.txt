@@ -10,8 +10,6 @@ If there is no article related to the message that you are seeing, continue thro
 
 [h3]Troubleshooting performance issues and crashes[/h3]
 
-Please read and complete all applicable troubleshooting steps in the [url=http://dev.dota2.com/showthread.php?t=15261]Common Dota 2 Technical Issues and Solutions[/url] guide provided by the Dota 2 developers.
-
 Refer to our articles regarding Hardware and Software based performance issues. Complete all steps exactly as they are presented.
 
 [list]
@@ -171,6 +169,14 @@ You should see the Library folder available through the Go menu on the menu bar 
 
 [h3]Reporting a bug, crash, or other issue[/h3]
 
-If you are still encountering this issue within Dota 2, please create or join an existing thread regarding that issue on the [url=http://dev.dota2.com/]Dota 2 Development Forums[/url].
+If you are still encountering this issue within Dota 2, please create or join an existing thread regarding that issue on the appropriate Github forum for your platform:
+
+[list]
+
+[*] [url=https://github.com/ValveSoftware/Dota2-Gameplay]Dota 2 Gameplay Github[/url]
+
+[*] [url=https://github.com/ValveSoftware/Dota-2]Dota 2 Github for macOS and Linux[/url]
+
+[/list]
 
 Widespread crashes or other issues will often be fixed by the Dota 2 development team within days of the issue appearing.

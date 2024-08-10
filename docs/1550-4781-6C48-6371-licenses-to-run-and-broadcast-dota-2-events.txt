@@ -2,9 +2,9 @@
 
 [h1]The International DOTA 2 Tournament[/h1]
 
-[h2]Community Casts for The International DOTA 2 Tournament 2021[/h2]
+[h2]Community Casts for The International DOTA 2 Tournament[/h2]
 
-Valve encourages members of the community to create community broadcasts for The International DOTA 2 Tournament 2021 under the terms of the [url=http://www.dota2.com/dotatv]DOTA 2 Community Stream Policy[/url].
+Valve encourages members of the community to create community broadcasts for The International DOTA 2 Tournament under the terms of the [url=http://www.dota2.com/dotatv]DOTA 2 Community Stream Policy[/url].
 
 Valve has decided not to publish any Event-Specific Requirements for The International, so only the default rules of the Community Stream Policy apply:
 
@@ -18,7 +18,7 @@ Valve has decided not to publish any Event-Specific Requirements for The Interna
 
 Make sure you read the [url=http://www.dota2.com/dotatv]DOTA 2 Community Stream Policy[/url] as this goes into more detail.
 
-[h2]Public Viewing Events for The International DOTA 2 Tournament 2021[/h2]
+[h2]Public Viewing Events for The International DOTA 2 Tournament[/h2]
 
 You are welcome to use the official video feeds of The International produced by Valve in public viewing events or pub stomps, provided that all of the following conditions are met:
 
