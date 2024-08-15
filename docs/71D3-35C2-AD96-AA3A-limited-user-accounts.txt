@@ -114,7 +114,7 @@ If the Steam store isn't in USD, we will track the purchase amount in USD by con
 
 [h5]How can I add a friend with a limited account?[/h5]
 
-Limited accounts are restricted from adding friends. However, you can still accept friend invites from other non-limited users. For example, if a friend is already on Steam and has spent $5 USD or more from the Steam store, they will be able to add you as a friend from your Steam Community profile. You may then accept their friend invite from your Steam account.
+Limited accounts may not send friend invites. However, they can still accept friend invites sent from other non-limited users and can use Quick Invite links.  For example, if a friend is already on Steam and has spent $5 USD or more from the Steam store, they will be able to add you as a friend from your Steam Community profile. You may then accept their friend invite from your Steam account. Alternately, another limited account can send you a Quick Invite link from their [url=https://steamcommunity.com/my/friends/add]Add a Friend[/url] page. Clicking on that link will immediately add their account as a friend.
 
 [h5]Can I post in the discussions with a limited account?[/h5]
 
