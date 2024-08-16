@@ -14,19 +14,58 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 
 [list]
 
-[*][b]APU driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Aerith_Sephiroth_Windows_Driver_2309131113.zip]download here[/url], run setup.exe to install.
-[i]
+[*][b]IMPORTANT:[/b] for Bluetooth to work properly, you’ll need get latest BIOS through the SteamOS Beta update 3.6.9 or later ([b]do this before installing Windows[/b])
+
+[*][b]APU driver[/b]
 
 [list]
 
-[*] This driver is updated as of November 17th, 2023.
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/GFX_Driver_48.0.8.40630.zip]Download here[/url], run setup.exe to install.
+
+[*] [i]This driver is updated as of August 15, 2024. [/i]
 
 [/list]
-[/i]
-[*][b]SD Card reader driver[/b] - [url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/BayHub_SD_STOR_installV3.4.01.89_W10W11_logoed_20220228.zip]download here[/url], run setup.exe to install.
 
-[*]Wi-Fi, Bluetooth, and Audio drivers for Windows on Steam Deck OLED are currently being worked on, and will be available soon.
+[*][b]SD Card reader driver[/b]
 
+[list]
+
+[url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/BayHub_SD_STOR_installV3.4.01.89_W10W11_logoed_20220228.zip]Download here[/url], run setup.exe to install.
+[/list]
+
+[*][b]Wi-Fi driver[/b]
+
+[list]
+
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/FC66E-WIN_WiFi_driver.zip]Download here[/url], right click [b]qcwlan64.inf[/b] and select Install
+
+[/list]
+
+[*][b]Bluetooth driver[/b]
+
+[list]
+
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/FC66E-B_WIN_Bluetooth_driver.zip]Download here[/url], right click [b] qcbtuart.inf[/b] and select Install
+
+[*][b]Important:[/b] Requires users to get latest BIOS through the SteamOS Beta update 3.6.9 or later (do this before installing Windows)
+
+[*][b]Note:[/b] Bluetooth audio is currently output only, microphone functionality still being worked on
+
+[/list]
+
+[*][b]Audio drivers[/b]
+
+[list]
+
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Audio1_cs35l41-V1.2.1.0.zip]Download driver 1/2 here[/url], right click [b]cs35l41.inf[/b] and select Install
+
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Audio2_NAU88L21_x64_1.0.9.1_WHQL.zip]Download driver 2/2 here[/url], right click [b]NAU88L21.inf[/b] and select Install
+
+[*][b]Note:[/b] Audio currently only works via headphones or Bluetooth audio. Speaker drivers are still being worked on.
+
+[/list]
+
+[*][i]In Windows 11, *.inf files will show up as ‘Setup Information’ type files.[/i]
 [/list]
 
 [b]Steam Deck LCD[/b]
