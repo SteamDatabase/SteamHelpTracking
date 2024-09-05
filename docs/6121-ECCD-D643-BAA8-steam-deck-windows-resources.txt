@@ -57,11 +57,11 @@ We are providing these resources as is and are unfortunately unable to offer 'Wi
 
 [list]
 
-[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Audio1_cs35l41-V1.2.1.0.zip]Download driver 1/2 here[/url], right click [b]cs35l41.inf[/b] and select Install
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Audio1_cs35l41-V1.2.1.0.zip]Download driver 1/3 here[/url], right click [b]cs35l41.inf[/b] and select Install
 
-[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Audio2_NAU88L21_x64_1.0.9.1_WHQL.zip]Download driver 2/2 here[/url], right click [b]NAU88L21.inf[/b] and select Install
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/Audio2_NAU88L21_x64_1.0.9.1_WHQL.zip]Download driver 2/3 here[/url], right click [b]NAU88L21.inf[/b] and select Install
 
-[*][b]Note:[/b] Audio currently only works via headphones or Bluetooth audio. Speaker drivers are still being worked on.
+[*][url=https://steamdeck-packages.steamos.cloud/misc/windows/drivers/amdampdriver.zip]Download driver 3/3 here[/url], right click [b]amdi2scodec.inf[/b] and select Install
 
 [/list]
 
