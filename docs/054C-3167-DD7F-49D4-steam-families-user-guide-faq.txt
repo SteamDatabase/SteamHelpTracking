@@ -69,20 +69,6 @@ Steam Families is a collection of family-related features. It replaces both Stea
 
 [/list]
 
-[h2]Using Steam Families during the Beta[/h2]
-
-Steam Families is launching in Beta. You, and any family members you invite will also need to join the beta. 
-
-[list]
-
-[*] While Steam is running, click on Steam upper left, then choose the "Settings" menu.
-
-[*] Select Interface, then under "Client Beta Participation" select the dropdown menu
-
-[*] Select Steam Family Beta from the drop down list, and click OK. You'll be prompted to restart Steam at this point.
-[/list]
-[img]{STEAM_CLAN_IMAGE}/27766192/8f34ea5084105a298055ee49098b4659cb54b0f8.png[/img]
-
 [h2]Setting up a Steam Family[/h2]
 
 To set up a Steam Family, go to Account Details on the Store page, then click on the Family Management section.
