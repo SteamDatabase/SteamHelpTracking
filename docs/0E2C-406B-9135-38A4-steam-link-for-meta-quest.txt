@@ -153,7 +153,7 @@ UNSUPPORTED - Older cards and cards without HEVC hardware encoders:
 
 [*]Try temporarily disabling your firewall to identify whether that is causing problems
 
-[*]You do not have another wired HMD connected to your PC (If using radios on Index/Vive, DO NOT plug in HDMI/DisplayPort to GPU)
+[*]You do not have another wired HMD connected to your PC (If using Controller Wireless Receiver on Index/Vive, DO NOT plug in HDMI/DisplayPort to GPU)
 
 [*]You are on the newest GPU drivers, for NVIDIA there are known issues with driver versions older than 546.29
 
