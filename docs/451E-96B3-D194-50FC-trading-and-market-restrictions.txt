@@ -133,7 +133,7 @@ You also may be unable to trade or use the market if your account has been banne
 
 [h3]VAC Ban[/h3]
 
-If a VAC Ban, cooldown or overwatch ban has been registered on your account, you will no longer have access to the CS:GO store, or be able to make trades for CS:GO items, and you will no longer receive item drops.
+If a VAC Ban, cooldown or overwatch ban has been registered on your account, you will no longer have access to the CS2 store, or be able to make trades for CS2 items, and you will no longer receive item drops.
 
 Steam Support cannot remove a VAC ban.
 
