@@ -1,6 +1,6 @@
 [h1]Steam Families User Guide & FAQ[/h1]
 
-Steam Families is a collection of family-related features. It replaces both Steam Family Sharing and Steam Family View, giving you a single location to manage which games your family can access and when they can play. Read our announcement blog post [url=https://store.steampowered.com/news/app/593110/view/4149575031735702628]here[/url].
+Steam Families is a collection of family-related features. It replaces both Steam Family Sharing and Steam Family View, giving you a single location to manage which games your family can access and when they can play. Read our announcement blog post [url=https://store.steampowered.com/news/app/593110/view/4605582245626919823]here[/url].
 
 [list]
 
