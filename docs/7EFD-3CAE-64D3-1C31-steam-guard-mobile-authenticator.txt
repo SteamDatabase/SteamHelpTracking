@@ -187,7 +187,7 @@ To transfer your authenticator to a new phone, you'll need access to the phone n
 
 On your new phone, install the Steam Mobile App and try to sign in to your account. When the app asks you to confirm your sign in via the app, select "I no longer have access to my authenticator." Follow the steps the app provides to transfer your authenticator to the new device.
 
-After transferring the authenticator, any new trades or market listings will be held for a couple of days to protect your items in case your authenticator is ever transferred by a malicious person. See our [url=https://support.steampowered.com/kb_article.php?ref=8078-TPHC-6195]Trade Holds FAQ[/url] for more information about trade holds.
+After transferring the authenticator, a 2-day trade and market restriction will be placed on your account to protect your items.
 
 [h4][url id=newphone][/url]I'm getting a new phone soon. What do I need to do?[/h4]
 

@@ -89,7 +89,7 @@ If you have recently enabled Steam Guard via email on your account, you will be 
 
 If you forget your password and need to reset it (note: this is different than changing your password), you will be restricted from trading and the Community Market for 5 days. If your account has not had any activity for more than two months, these restrictions will apply for 30 days. We do this to help protect users who lose access to their email account.
 
-You can change your password from the settings panel in the Steam Client. This restriction only applies to password resets, ex: done via https://help.steampowered.com or by Steam Support.
+You can change your password from the settings panel in the Steam Client. This restriction only applies to password resets, ex: done via [url=https://help.steampowered.com/]https://help.steampowered.com/[/url] or by Steam Support.
 
 [url id=appadded][/url]
 
