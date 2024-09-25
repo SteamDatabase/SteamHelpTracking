@@ -20,6 +20,7 @@
 [h3]Will I need a credit card to play?[/h3]
 
 [section id=payment]No, free to play games are free to download and play.
+[/section]
 
 [h3]Will I need to fund my Steam Wallet?[/h3]
 

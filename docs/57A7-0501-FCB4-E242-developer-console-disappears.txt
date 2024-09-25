@@ -4,7 +4,7 @@ Every time I bring down the developer console and start typing, the console disa
 
 In many cases this problem is caused by the language setting of your operating system (OS). Users with non-English keyboard layouts are affected by this for the most part.
 
-For general information on the developer console see the page [url=https://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]developer console[/url].
+For general information on the developer console see the page [url=https://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]developer console in Valve games[/url].
 
 [h4]Fix 1:[/h4]
 Set your keyboard to 'English'. For detailed instructions, you will need to research your OS manufacturer's instructions specific to your OS version. These can often be found on by searching their support website.

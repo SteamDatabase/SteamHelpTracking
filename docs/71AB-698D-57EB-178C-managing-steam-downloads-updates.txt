@@ -91,7 +91,7 @@ Once you've setup alternate Library folders, you can move existing games there w
 [list]
 
 [*]Right-click a game in your Library and select [i]Properties...[/i]
-[*]Select the [i]Local Files[/i] tab
+[*]Select the [i]Installed Files[/i] tab
 [*]Click [i]Move Install Folder...[/i] and select the new location for the game installation
 [/list]
 

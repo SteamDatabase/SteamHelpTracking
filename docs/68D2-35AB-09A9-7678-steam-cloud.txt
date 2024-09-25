@@ -117,7 +117,7 @@ These are logged in the [i]cloud_log.txt[/i] file, which is stored in the follow
 
 [h1]How do I resolve a Steam Cloud conflict?[/h1]
 
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/cloud_conflict.JPG[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/697138d8ffe44bc2c6793abf3239e76c4a027dbd.png[/img]
 
 The Steam Cloud conflict window will be shown when a game is launched, if Steam detects that the local files associated with that game differ from the ones stored on the cloud.
 
@@ -132,7 +132,7 @@ Note that playing games in Offline Mode will keep games from syncing until you'v
 
 [h1]What if Steam is unable to sync files to the cloud?[/h1]
 
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/cloud_sync.JPG[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/d748d6d0e9a247933e898ca694a491eaf0248090.png[/img]
 
 This error indicates that Steam could not sync your local files to the Steam Cloud. It could be a temporary issue, or something could be wrong with your network that would need to be addressed.
 

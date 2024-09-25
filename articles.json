@@ -260,8 +260,8 @@
     "1166099635598618949": {
         "title": "Failed to create D3D Device",
         "url_code": "102E-D170-B891-7145",
-        "version": 5,
-        "timestamp": "2021-08-09 23:02:40"
+        "version": 6,
+        "timestamp": "2024-09-24 21:16:50"
     },
     "1179493280080598391": {
         "title": "VALVE Index System Requirements",
@@ -300,10 +300,10 @@
         "timestamp": "2021-08-02 18:37:34"
     },
     "1441334659516646678": {
-        "title": "Right-handed and Left-handed Models",
+        "title": "Right-handed and Left-handed Models in Valve games",
         "url_code": "1400-A63C-7EF2-C516",
-        "version": 4,
-        "timestamp": "2021-08-12 20:57:25"
+        "version": 5,
+        "timestamp": "2024-09-24 20:19:15"
     },
     "1446728062608946696": {
         "title": "Screen goes black in the Direct Intervention chapter of Half-Life 2: Episode One",
@@ -354,10 +354,10 @@
         "timestamp": "2021-08-12 21:02:53"
     },
     "1602292496370380643": {
-        "title": "Setting Client Rates",
+        "title": "Setting Client Rates (Limit Download Speed) in Steam",
         "url_code": "163C-7C89-406E-2F63",
-        "version": 7,
-        "timestamp": "2021-10-26 20:18:55"
+        "version": 8,
+        "timestamp": "2024-09-24 21:41:56"
     },
     "1612367487684520621": {
         "title": "SteamVR",
@@ -812,8 +812,8 @@
     "3669649665256659864": {
         "title": "Steam Remote Play Audio Setup",
         "url_code": "32ED-36ED-8BC1-1B98",
-        "version": 6,
-        "timestamp": "2021-10-27 23:50:40"
+        "version": 7,
+        "timestamp": "2024-09-24 20:39:43"
     },
     "3694187790818368155": {
         "title": "Steam is already running",
@@ -1076,8 +1076,8 @@
     "4882140089320502590": {
         "title": "How Can I Get My Film/Video/Tutorial on Steam?",
         "url_code": "43C0-D88B-67A4-753E",
-        "version": 3,
-        "timestamp": "2021-07-10 19:49:55"
+        "version": 4,
+        "timestamp": "2024-09-24 19:52:07"
     },
     "4895292587004348258": {
         "title": "Unpredictable Server Browser behavior",
@@ -1164,10 +1164,10 @@
         "timestamp": "2022-01-18 21:41:56"
     },
     "5116319035402673629": {
-        "title": "Console",
+        "title": "Developer Console in Valve games",
         "url_code": "4700-D10E-26BE-DDDD",
-        "version": 10,
-        "timestamp": "2021-08-12 21:14:25"
+        "version": 12,
+        "timestamp": "2024-09-24 19:44:04"
     },
     "5153330920041840650": {
         "title": "Windows 7 and Windows 8 Support",
@@ -1388,8 +1388,8 @@
     "5896152081974831238": {
         "title": "Embedding Sketchfab Models",
         "url_code": "51D3-5714-53CA-2886",
-        "version": 4,
-        "timestamp": "2021-08-11 21:55:53"
+        "version": 5,
+        "timestamp": "2024-09-24 18:52:46"
     },
     "5973512499471541601": {
         "title": "Items Not Properly Awarded",
@@ -1418,14 +1418,14 @@
     "6057563872459458384": {
         "title": "DirectX and Pixel Shader Requirements for Games on Steam",
         "url_code": "5410-CA3F-662F-8750",
-        "version": 8,
-        "timestamp": "2021-08-13 00:43:07"
+        "version": 9,
+        "timestamp": "2024-09-24 20:12:59"
     },
     "6093295896427699144": {
         "title": "Steam Broadcasting",
         "url_code": "548F-BC55-89EB-1BC8",
-        "version": 6,
-        "timestamp": "2023-06-15 20:21:39"
+        "version": 7,
+        "timestamp": "2024-09-24 22:35:59"
     },
     "6112410335400106472": {
         "title": "TF2 and L4D Network Performance (Xbox 360)",
@@ -1484,8 +1484,8 @@
     "6316022508503228994": {
         "title": "Developer Console disappears",
         "url_code": "57A7-0501-FCB4-E242",
-        "version": 6,
-        "timestamp": "2021-10-27 21:35:30"
+        "version": 7,
+        "timestamp": "2024-09-24 19:43:11"
     },
     "6316105223607675304": {
         "title": "Family Library Sharing",
@@ -1514,8 +1514,8 @@
     "6380693012289274486": {
         "title": "Steam Profile Privacy",
         "url_code": "588C-C67D-0251-C276",
-        "version": 4,
-        "timestamp": "2021-08-12 21:41:37"
+        "version": 5,
+        "timestamp": "2024-09-24 22:37:56"
     },
     "6386610800410042470": {
         "title": "Pre-Order Refunds",
@@ -1718,8 +1718,8 @@
     "7099260082728795856": {
         "title": "Free to play games on Steam",
         "url_code": "6285-A36E-8728-FED0",
-        "version": 5,
-        "timestamp": "2021-08-28 01:23:31"
+        "version": 6,
+        "timestamp": "2024-09-24 21:15:34"
     },
     "7101300519524388150": {
         "title": "Hidden or Removed Links",
@@ -1734,10 +1734,10 @@
         "timestamp": "2021-10-27 20:57:27"
     },
     "7176140764688977492": {
-        "title": "Regaining Access to Areas After Losing Saved Games",
+        "title": "Regaining Access to Areas After Losing Saved Games in Half-Life 2",
         "url_code": "6396-C601-317C-8E54",
-        "version": 2,
-        "timestamp": "2021-07-10 19:49:55"
+        "version": 3,
+        "timestamp": "2024-09-24 20:20:58"
     },
     "7177453344181410307": {
         "title": "This game is currently unavailable",
@@ -1850,8 +1850,8 @@
     "7553158533771523704": {
         "title": "Steam Cloud",
         "url_code": "68D2-35AB-09A9-7678",
-        "version": 6,
-        "timestamp": "2021-12-02 23:46:19"
+        "version": 7,
+        "timestamp": "2024-09-24 23:25:34"
     },
     "7582432249025910773": {
         "title": "Intel Video Cards with Source games",
@@ -1910,8 +1910,8 @@
     "7698765082706437407": {
         "title": "Clear download cache",
         "url_code": "6AD7-820D-8BE5-E51F",
-        "version": 4,
-        "timestamp": "2021-07-10 19:49:55"
+        "version": 5,
+        "timestamp": "2024-09-24 22:44:28"
     },
     "7717593881592806808": {
         "title": "Family View",
@@ -1928,8 +1928,8 @@
     "7799835452489379657": {
         "title": "Steamwebhelper is not responding",
         "url_code": "6C3E-9504-CC20-AF49",
-        "version": 1,
-        "timestamp": "2023-06-06 20:19:29"
+        "version": 2,
+        "timestamp": "2024-09-24 21:51:59"
     },
     "7851066054108918429": {
         "title": "Enabling the Half-Life Hi-Def Model Pack",
@@ -2036,8 +2036,8 @@
     "8190756403089708940": {
         "title": "Managing Steam Downloads & Updates",
         "url_code": "71AB-698D-57EB-178C",
-        "version": 3,
-        "timestamp": "2021-07-10 19:49:55"
+        "version": 4,
+        "timestamp": "2024-09-24 22:15:03"
     },
     "8201958456624065082": {
         "title": "Limited User Accounts",

@@ -14,15 +14,15 @@ This process will not affect your currently installed games, but you will need t
 
 [*]In the Settings panel, select the Downloads tab and you'll find the "Clear Download Cache" button at the bottom.
 
-[exclude_realm=china][img]http://steamcdn-a.akamaihd.net/steam/support/faq/clear_download_cache.jpg[/img]
+[exclude_realm=china][img]{STEAM_CLAN_IMAGE}/39983882/8ca2b502a0c0c42f498be1395129ab6d84f54fcf.png[/img]
 [/exclude_realm]
 
 [exclude_realm=global][img]http://steamcdn-a.akamaihd.net/steam/support/faq/chts/clear_download_cache.jpg[/img]
 [/exclude_realm]
 
-[*]Then select "OK" to confirm and acknowledge that you'll need to login to Steam again.
+[*]Then select "Confirm" to acknowledge this will clear your download cache and that you'll need to login to Steam again.
 
-[exclude_realm=china][img]http://steamcdn-a.akamaihd.net/steam/support/faq/confirm_clear_cache.jpg[/img]
+[exclude_realm=china][img]{STEAM_CLAN_IMAGE}/39983882/97c1713ec0e2d395f56f344094f85ba6341cb714.png[/img]
 [/exclude_realm]
 
 [exclude_realm=global][img]http://steamcdn-a.akamaihd.net/steam/support/faq/chts/confirm_clear_cache.jpg[/img]

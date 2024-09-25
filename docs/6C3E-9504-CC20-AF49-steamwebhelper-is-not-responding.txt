@@ -8,11 +8,11 @@ Frequently this issue can be resolved by simply restarting Steam.
 
 [h2]Restart Steam with GPU Acceleration disabled[/h2]
 
-Some video drivers can have trouble rendering Steam content if GPU acceleration is turned on. Select this option to restart Steam with GPU acceleration disabled.  If this seems to solve the problem consider updating your GPU drivers.  If the issue is persistent even with updated drivers you can permanently disable GPU acceleration in the Steam Interface settings, but this will affect UI performance.
+Some video drivers can have trouble rendering Steam content if GPU acceleration is turned on. Disable this option in settings (Steam > Settings > Interface) to restart Steam with GPU acceleration disabled.  If this seems to solve the problem consider updating your GPU drivers.  If the issue is persistent even with updated drivers you can permanently disable GPU acceleration in the Steam Interface settings, but this will affect UI performance.
 
-[h2]Restart Steam with Browser Sandboxing disabled[/h2]
+[h2]Check whether third party software is interferring with Steam[/h2]
 
-Browser Sandboxing is a security feature that isolates individual browsers from each other and from local resources on your computer. Select this option to restart Steam with the feature disabled. It isn't recommend to run in this mode for long periods of time. Browser Sandboxing will be reenabled the next time you start Steam.
+Some third party applications, like anti-virus/security software have been known to potentially cause issues with the webhelper's security sandboxing resulting in hangs or crashes. Please see our article on [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere with Steam[/url] for more information.
 
 [h2]Restart steamwebhelper.exe[/h2]
 

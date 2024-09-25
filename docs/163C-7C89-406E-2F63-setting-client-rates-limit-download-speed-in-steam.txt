@@ -1,4 +1,4 @@
-[h1]Setting Client Rates[/h1]
+[h1]Setting Client Rates (Limit Download Speed) in Steam[/h1]
 
 What are the best client rates for my internet connection?
 
@@ -13,12 +13,12 @@ If you notice connection problems during Steam downloads, or want to limit how m
 
 [olist]
 
-[*]Go to the upper left in the Steam client and select [b]Steam[/b] > [b]Settings[/b] from the drop down menu [img]{STEAM_CLAN_IMAGE}/1976/79b88e3bd0e6fa48b2ee3aa32ab78ea8bbc1d513.png[/img]
+[*]Go to the upper left in the Steam client and select [b]Steam[/b] > [b]Settings[/b] from the drop down menu
 
 [*]Select the Downloads tab from the window that appears
-[img]{STEAM_CLAN_IMAGE}/1976/8abb717af0f43cf5165f06aa428d0d4b7c3b9a31.png[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/1e76c99f1a9949d0604d4fd2af9529b65caea6b4.png[/img]
 
-[*]Here you can find different download settings for Steam including the [b]Limit bandwidth to:[/b] setting. If you enable it you can set the limit you would want.
+[*]Here you will find different download settings for Steam including the [b]Limit Download Speed[/b] setting. If you enable it you can set the limit you want.
 
 [b]Note:[/b] The rates listed here are in kilo[b]bytes[/b] and mega[b]bytes[/b] a second, while most Internet connections are rated in [b]bits[/b] per second.
 

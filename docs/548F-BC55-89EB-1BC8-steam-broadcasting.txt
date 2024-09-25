@@ -82,7 +82,7 @@ Steam Broadcasting is currently supported by the following browsers:
 [*]Steam Client [/*]
 [*]Google Chrome (version 39+) [/*]
 [*]Apple Safari (version 8+ on macOS) [/*]
-[*]Internet Explorer (version 11 on Windows 8; not supported on other versions of Windows) [/*]
+[*]Microsoft Edge [/*]
 [*]Mozilla Firefox (version 42+) [/*]
 
 [/list]
@@ -142,7 +142,7 @@ For advanced Broadcast settings:
 [url id=19][/url]
 
 [h5]What operating systems can I broadcast from?[/h5]
-Steam Broadcasting is currently supported through the Steam Client on Windows 7, 8, and 10. Linux and macOS will be supported in the future.
+Steam Broadcasting is currently supported through the Steam Client on Windows 10 and newer. Linux and macOS will be supported in the future.
 
 [url id=issues][/url]
 

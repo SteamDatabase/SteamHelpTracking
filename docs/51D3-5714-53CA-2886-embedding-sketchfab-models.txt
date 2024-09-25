@@ -14,4 +14,4 @@ Sketchfab item previews may be utilized in a few places by simply pasting the Sk
 
 [/olist]
 
-You can find details on how to link and embed previews on the Sketchfab Tutorial page here: [url=https://help.sketchfab.com/hc/en-us/articles/209738893-Steam#workshop]https://help.sketchfab.com/hc/en-us/articles/209738893-Steam#workshop[/url]
+You can find details on how to link and embed previews on the Sketchfab Tutorial page here: [url=https://support.fab.com/s/article/Steam]https://support.fab.com/s/article/Steam[/url]

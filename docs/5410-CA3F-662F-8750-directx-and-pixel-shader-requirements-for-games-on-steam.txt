@@ -43,12 +43,4 @@ You can use the following pages to locate the video card you are using and then 
 
 Certain Intel video cards such as the Intel 945GM have a limitation in design that may result in issues when trying to run Source Engine games. The 3D graphics core does not support hardware transform and lighting and the similar vertex shader technologies, which is an important part of the 3D acceleration pipeline. Instead, this functionality is emulated in software which may reduce compatibility and performance with 3D games.
 
-If you are experiencing crashing or slow performance with your Intel card and The Orange Box games (Half-Life 2, Half-Life 2: Episode One, Half-Life 2: Episode Two, Portal and Team Fortress 2), then please try running the game and then typing this command in the console:
-
-[code]mat_max_worldmesh_vertices 1024[/code]
-
-If that improves stability then please add it to your config file. Your config file can be located by right-clicking Team Fortress 2 in your Steam Library and selecting Properties, then click the Local Files tab, and click the "Browse..." button. Once in this directory, open the "tf" folder and then the "cfg" folder.
-
-Intel is working on improving driver support for their video cards. Please always make sure you are running the latest drivers for the best experience.
-
-For more information, check the [url=https://support.steampowered.com/kb_article.php?ref=6956-UGCB-7160]Intel Video Cards with Source games[/url] topic.
+If you are experiencing crashing or slow performance with your Intel card and The Orange Box games (Half-Life 2, Half-Life 2: Episode One, Half-Life 2: Episode Two, Portal and Team Fortress 2), then please see the following article [url=https://support.steampowered.com/kb_article.php?ref=6956-UGCB-7160]Intel Video Cards with Source games[/url] for recommendations.

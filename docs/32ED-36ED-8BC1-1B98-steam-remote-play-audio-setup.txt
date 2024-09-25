@@ -17,12 +17,12 @@ Steam supports streaming stereo (2 channel) audio from all streaming host operat
 [url id=channelconfig][/url]
 
 [h3]Speaker Configuration[/h3]
-Steam will try to automatically detect how many speakers are connected to the streaming client's computer or TV. You can view how many speakers Steam detected and choose a different configuration by:
+Steam will try to automatically detect how many speakers are connected to the streaming client's computer or TV. You can adjust this configuration by:
 
 [list]
 
 [*][b]Steam Link[/b]: Before connecting to your host machine, select Settings -> Streaming -> Audio -> Speaker Configuration
-[*][b]Steam Client[/b]: Select Steam menu -> Remote Play -> Advanced Client Options -> Speaker Configuration
+[*][b]Steam Client[/b]: Select Steam menu -> Remote Play -> Enable Advanced Client Options -> Audio
 [/list]
 
 [url id=what51audio][/url]

@@ -1,4 +1,4 @@
-[h1]Console[/h1]
+[h1]Developer Console in Valve games[/h1]
 
 What is the Developer Console and how can I use it to change game settings?
 
@@ -35,11 +35,11 @@ The [b]~[/b] key will bring up the console for English/US keyboard configuration
 
 [/olist]
 
-[h4]Counter-Strike: Global Offensive[/h4]
+[h4]Counter-Strike 2[/h4]
 
 [olist]
 
-[*]Launch Steam and start Counter-Strike: Global Offensive
+[*]Launch Steam and start Counter-Strike 2
 [*]From the main menu select the gear icon ([b]Settings menu[/b])
 [*]Under the [b]Game[/b] tab in the [b]Game[/b] section find and click the arrow next to [b]Enable Developer Console (~)[/b] so that it says [b]Yes[/b]
 

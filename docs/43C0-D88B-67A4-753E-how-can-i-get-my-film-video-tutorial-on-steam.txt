@@ -13,16 +13,3 @@ Video content should be:
 
 [/list]
 If your video content falls into one of these categories and you're an existing Steamworks Partner, please [url=https://help.steampowered.com/en/wizard/HelpWithPublishing?issueid=924]submit a ticket[/url] and provide a description of the video content you'd like to distribute.
-
-[h2]How do I get started adding video content to Steam if I'm not a Steamworks partner?[/h2]
-The first step is to email us at [b][url=mailto:video@valvesoftware.com]video@valvesoftware.com[/url] [/b]and provide the following information:
-
-[olist]
-
-[*]A short description of your video content and/or a link to a trailer or preview video. [/*]
-[*]Please supply a Steam Account name that belongs to someone at your company with the authority to sign contracts and enter banking and tax information. [/*]
-
-[/olist]
-
-[h2]Where do I learn more about the Steam Video Platform?[/h2]
-For more information about the Steam video platform please read the [url=https://partner.steamgames.com/doc/features/streaming_video]Steam Video partner documentation[/url]

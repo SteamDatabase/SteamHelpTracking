@@ -16,7 +16,6 @@ To update your video drivers, please follow the instructions below for your curr
 [list]
 
 [*][url=https://support.microsoft.com/en-us/help/4028443/windows-10-update-drivers]Windows 10[/url] [/*]
-[*][url=https://support.microsoft.com/en-us/help/15046/windows-8-download-install-drivers]Windows 8[/url] [/*]
 [*][url=https://support.steampowered.com/kb_article.php?ref=1244-WEJN-0804]macOS[/url] [/*]
 
 [/list]
