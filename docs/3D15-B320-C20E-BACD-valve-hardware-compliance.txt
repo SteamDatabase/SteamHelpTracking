@@ -8,6 +8,78 @@
 
 [tr]
 
+[td][img]{STEAM_CLAN_IMAGE}/39983882/459a0b62f25885fbbef367a75dd421be1e7b0e65.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 2001 - Steam Deck Docking Station[/h4]
+
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2001_EU_DoC.pdf]English[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2001_EU_Declaration_of_Conformity_CE_french.pdf]French[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2001_EU_Declaration_of_Conformity_CE_german.pdf]German[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2001_EU_Declaration_of_Conformity_CE_italian.pdf]Italian[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2001_EU_Declaration_of_Conformity_CE_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2001_UK_DoC.pdf]English[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
+
+[tr]
+
+[td][img]{STEAM_CLAN_IMAGE}/39983882/b2e2055676b65d5975fab50e710164472779771d.png[/img][/td]
+[td]   [/td]
+[td]
+
+[h4]Model 1030 - Steam Deck OLED[/h4]
+
+CE Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1030_EU_DoC.pdf]English[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1030_Declaration_of_Conformity_CE_french.pdf]French[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1030_Declaration_of_Conformity_CE_german.pdf]German[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1030_Declaration_of_Conformity_CE_italian.pdf]Italian[/url]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1030_Declaration_of_Conformity_CE_spanish.pdf]Spanish[/url]
+
+[/list]
+
+UK Declaration of Conformity
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/1030_UK_DoC.pdf]English[/url]
+
+[/list]
+
+[/td]
+
+[/tr]
+
+[tr]
+
 [td][img]{STEAM_CLAN_IMAGE}/39983882/eeb12e0f36d5d24f433e64520b6c8c7302ac8fb8.png[/img][/td]
 [td]   [/td]
 [td]
