@@ -1,11 +1,6 @@
 [h1]Steam Controller Setup[/h1]
 
-[img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]     [h1]Steam Controller Setup[/h1]Just got your Steam Controller? Check out our Controller setup tips below and get right to playing all your Steam Games.
-
-[h4]Opt into the Steam Client Beta:[/h4]
-Our engineers are constantly updating the Steam Controller by releasing new features and bug fixes. Opting into the [url=https://steamcommunity.com/groups/SteamClientBeta/discussions/1/864957817328247556/]Steam Client Beta[/url] will give you access to these features before they are released to Steam’s main branch.
-
-After opting in, click on your [i][b]Operating System[/b][/i] for tailored instructions on how to get started.
+[img]https://support.steampowered.com/images/faq/steam_controller/SteamController_Support_Header01.png[/img]     [h1]Steam Controller Setup[/h1]Please follow the below information for setup tips for the operating system you're using.
 
 [expand type=title title="Windows"]
 
