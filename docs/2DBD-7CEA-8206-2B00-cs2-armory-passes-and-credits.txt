@@ -1,0 +1,104 @@
+[h1]CS2 - Armory Passes and Credits[/h1]
+
+[list]
+
+[*][url=#whatis]What are Armory Passes and Armory Credits?[/url] [/*]
+[*][url=#getpass]How do I get an Armory Pass?[/url] [/*]
+[*][url=#credsnopass]Can I earn Armory Credits without an activated Armory Pass?[/url] [/*]
+[*][url=#tradeable]Can Armory Passes be traded or sold on the Steam Community Market?[/url] [/*]
+[*][url=#refund]Can I refund a purchased Armory Pass?[/url] [/*]
+[*][url=#earncredits]How do I earn Armory Credits?[/url] [/*]
+[*][url=#noprogress]Why did I not earn Armory Credit progress from my last match?[/url] [/*]
+[*][url=#numcreds]How many Armory Credits can I earn with one pass?[/url] [/*]
+[*][url=#passes]Can I activate more than one Armory Pass at a time?[/url] [/*]
+[*][url=#completepass]What happens when I complete an Armory Pass?[/url] [/*]
+[*][url=#purchasecredits]Can I purchase Armory Credits?[/url] [/*]
+[*][url=#ltditem]How long is the Limited Edition Item available?[/url] [/*]
+
+[/list]
+
+[section id=whatis]
+
+[h3]What are Armory Passes and Armory Credits?[/h3]
+Armory Passes are purchaseable items which, once activated, reward players with Armory Credits through earning XP on official Valve servers.
+
+Armory Credits can be spent on items in the Armory.
+[/section]
+
+[section id=getpass]
+
+[h3]How do I get an Armory Pass?[/h3]
+Armory Passes are available for purchase by accounts with Prime Status in-game and on the web
+[/section]
+
+[section id=credsnopass]
+
+[h3]Can I earn Armory Credits without an activated Armory Pass?[/h3]
+No. In order to earn Armory Credits you must have an activated Armory Pass.
+[/section]
+
+[section id=tradeable]
+
+[h3]Can Armory Passes be traded or sold on the Steam Community Market?[/h3]
+No. Armory Passes cannot be traded or sold on the Steam Community Market.
+[/section]
+
+[section id=refund]
+
+[h3]Can I refund a purchased Armory Pass?[/h3]
+Yes, so long as the Armory Pass has not been activated. Once the Pass has been activated it cannot be refunded.
+[/section]
+
+[section id=earncredits]
+
+[h3]How do I earn Armory Credits?[/h3]
+Whenever you earn XP on official Valve servers you also make progress towards earning Armory Credits.
+
+Progress towards earning Armory Credits is consistent and separate from your weekly profile XP.
+[/section]
+
+[section id=noprogress]
+
+[h3]Why did I not earn Armory Credit progress from my last match?[/h3]
+There are three reasons Armory Credit progress is not issued:
+
+[list]
+
+[*]The match was non-Prime.
+
+[*]You left the match early (before XP was issued for completing the match).
+
+[*]You or a member of your party caused the match to be canceled for irregular gameplay.
+[/list]
+
+[/section]
+
+[section id=numcreds]
+
+[h3]How many Armory Credits can I earn with one pass?[/h3]
+40. Upon purchasing the Armory Pass players immediately receive one Armory Credit and can earn 39 more through XP.
+[/section]
+
+[section id=passes]
+
+[h3]Can I activate more than one Armory Pass at a time?[/h3]
+Yes. Players can activate and earn progress on up to five Armory Passes at one time.
+[/section]
+
+[section id=completepass]
+
+[h3]What happens when I complete an Armory Pass?[/h3]
+Once you have earned all 40 Credits from an Armory Pass you can clear the completed pass(es) in-game. Clearing Armory Passes will let you activate and earn progress on new ones.
+[/section]
+
+[section id=purchasecredits]
+
+[h3]Can I purchase Armory Credits?[/h3]
+No. Armory Credits are only earned via XP on official Valve servers and cannot be purchased.
+[/section]
+
+[section id=ltditem]
+
+[h3]How long is the Limited Edition Item available?[/h3]
+The Limited Edition Item is available for the duration shown on the tile in the Armory.
+[/section]
