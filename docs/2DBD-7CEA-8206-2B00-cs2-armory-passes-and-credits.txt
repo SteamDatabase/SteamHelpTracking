@@ -14,13 +14,14 @@
 [*][url=#completepass]What happens when I complete an Armory Pass?[/url] [/*]
 [*][url=#purchasecredits]Can I purchase Armory Credits?[/url] [/*]
 [*][url=#ltditem]How long is the Limited Edition Item available?[/url] [/*]
+[*][url=#expire]Do Armory Passes expire?[/url] [/*]
 
 [/list]
 
 [section id=whatis]
 
 [h3]What are Armory Passes and Armory Credits?[/h3]
-Armory Passes are purchaseable items which, once activated, reward players with Armory Credits through earning XP on official Valve servers.
+Armory Passes are purchasable items which, once activated, reward players with Armory Credits through earning XP on official Valve servers.
 
 Armory Credits can be spent on items in the Armory.
 [/section]
@@ -101,4 +102,10 @@ No. Armory Credits are only earned via XP on official Valve servers and cannot b
 
 [h3]How long is the Limited Edition Item available?[/h3]
 The Limited Edition Item is available for the duration shown on the tile in the Armory.
+[/section]
+
+[section id=expire]
+
+[h3]Do Armory Passes expire?[/h3]
+No. Armory Passes do not have an expiration date.
 [/section]
