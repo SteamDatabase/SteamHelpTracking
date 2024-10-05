@@ -5,7 +5,7 @@
 [*][url=#whatis]What are Armory Passes and Armory Credits?[/url] [/*]
 [*][url=#getpass]How do I get an Armory Pass?[/url] [/*]
 [*][url=#credsnopass]Can I earn Armory Credits without an activated Armory Pass?[/url] [/*]
-[*][url=#tradeable]Can Armory Passes be traded or sold on the Steam Community Market?[/url] [/*]
+[*][url=#tradeable]Can Armory Passes be gifted, traded, or sold on the Steam Community Market?[/url] [/*]
 [*][url=#refund]Can I refund a purchased Armory Pass?[/url] [/*]
 [*][url=#earncredits]How do I earn Armory Credits?[/url] [/*]
 [*][url=#noprogress]Why did I not earn Armory Credit progress from my last match?[/url] [/*]
@@ -40,8 +40,8 @@ No. In order to earn Armory Credits you must have an activated Armory Pass.
 
 [section id=tradeable]
 
-[h3]Can Armory Passes be traded or sold on the Steam Community Market?[/h3]
-No. Armory Passes cannot be traded or sold on the Steam Community Market.
+[h3]Can Armory Passes be gifted, traded, or sold on the Steam Community Market?[/h3]
+No. Armory Passes cannot be gifted, traded, or sold on the Steam Community Market.
 [/section]
 
 [section id=refund]
