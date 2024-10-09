@@ -29,7 +29,7 @@ Armory Credits can be spent on items in the Armory.
 [section id=getpass]
 
 [h3]How do I get an Armory Pass?[/h3]
-Armory Passes are available for purchase by accounts with Prime Status in-game and on the web
+Armory Passes are available for purchase by accounts with Prime Status in-game.
 [/section]
 
 [section id=credsnopass]
