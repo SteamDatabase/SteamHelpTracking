@@ -4,12 +4,18 @@ How do I use the Steam Wishlist feature?
 
 [list]
 
+[*][url=#wl-view]How do I view my Wishlist?[/url] [/*]
 [*][url=#wl-add]How do I add a game to my Wishlist?[/url] [/*]
 [*][url=#wl-edit]How do I edit my Wishlist?[/url] [/*]
 [*][url=#wl-remove]How do I remove an item from my Wishlist?[/url] [/*]
 [*][url=#wl-whosee]Who can see my Wishlist?[/url] [/*]
 
 [/list]
+
+[url id=wl-view][/url]
+
+[h5][b]How do I view my Wishlist?[/b][/h5]
+View your Wishlist [url=https://store.steampowered.com/wishlist/]here[/url].
 
 [url id=wl-add][/url]
 
