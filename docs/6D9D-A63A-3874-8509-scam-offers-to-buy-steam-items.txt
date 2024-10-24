@@ -27,7 +27,7 @@ While some scammers may target Steam users or reference Steam, Steam games, or V
 
 [h1]Preventing the Scam[/h1]
 
-[h5]Don't trade your items for nothing in return[/h5]
+[h5]Avoid trading your items for nothing in return[/h5]
 
 You can't be scammed in this way if you don't engage in risky trades. In order for a trade to be supported by Steam, 100% of the value being exchanged must be present in a single Steam Trading exchange.
 
