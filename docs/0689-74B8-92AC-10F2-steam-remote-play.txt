@@ -145,7 +145,6 @@ General:
 [*]If a game takes a long time to launch, it will time out on the client but will start anyway. Retrying the launch will connect to the running game. If this happens consistently for any particular game, please report it on the [url=http://steamcommunity.com/groups/homestream/discussions/1]bug discussion group[/url]. [/*]
 [*]If your game loses focus, Steam will start streaming the desktop so that you can get back to it. This is a feature of Steam Remote Play. [/*]
 [*]Streaming non-Steam games in the Steam library may work but is not officially supported. [/*]
-[*]Surround sound is not currently supported and is converted to stereo. [/*]
 [*]Voice recording over streaming is not currently supported. [/*]
 [*]Streaming may not perform well when streaming to older systems with a single or dual core CPU and no hardware accelerated H264 decoding. [/*]
 [*]DirectInput controllers other than gamepad style controllers (wheels, flight controllers, etc.) are not currently supported. Other controllers using XInput are fully supported. [/*]
