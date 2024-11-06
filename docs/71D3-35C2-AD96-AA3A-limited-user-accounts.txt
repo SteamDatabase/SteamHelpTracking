@@ -37,6 +37,8 @@ The following actions [b]will not[/b] remove limited user restrictions:
 [*]Spending funds from items you have sold on the market
 [*]Adding/playing promotional trials like Free Weekends
 
+[*]Gifted game purchases that have not yet been redeemed by their recipient
+
 [*]Free to Play games (Examples: Alien Swarm, free versions of Portal and Team Fortress 2)
 
 [*]Activating promotional CD Keys from hardware or graphic card manufacturers
