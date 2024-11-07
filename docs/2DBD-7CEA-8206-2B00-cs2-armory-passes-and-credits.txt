@@ -77,7 +77,7 @@ There are three reasons Armory Credit progress is not issued:
 [section id=numcreds]
 
 [h3]How many Armory Credits can I earn with one pass?[/h3]
-40. Upon purchasing the Armory Pass players immediately receive one Armory Credit and can earn 39 more through XP.
+Each activated Armory Pass allows players to earn 40 Armory Credits.
 [/section]
 
 [section id=passes]

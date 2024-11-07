@@ -3,7 +3,6 @@
 [list]
 
 [*][url=#steamguard]Enable Steam Guard two-factor authentication[/url] [/*]
-[*][url=#verify]Verify your contact email address with Steam[/url] [/*]
 [*][url=#friends]Steam Friends[/url] [/*]
 [*][url=#beware]Things to watch out for[/url] [/*]
 [*][url=#general]General security recommendations[/url] [/*]
@@ -51,15 +50,6 @@
 
 [exclude_realm=china][url=https://support.steampowered.com/kb_article.php?ref=4440-RTUI-9218]Steam Guard: How to set up a Steam Guard Mobile Authenticator[/url]
 [/exclude_realm]
-
-[url id=verify][/url]
-
-[img]https://support.steampowered.com/images/faq/account_security/envelope.png[/img]  [h1]Verify your contact email address with Steam[/h1]Verifying your email address with Steam improves the security of your Steam account. Once you've verified your email address with Steam, both your Steam Account password and access to your email account are required in order to make any changes to your Steam Account credentials, such as your password and contact email address. This helps further protect your Steam Account from being stolen.
-
-[url=https://support.steampowered.com/kb_article.php?ref=5151-RUAS-1543#verify]How to verify your contact email address with Steam[/url].
-[/section]
-
-[section id=friends_div][url id=friends][/url]
 
 [img]https://support.steampowered.com/images/faq/account_security/friends.png[/img]  [h1]Steam Friends[/h1]
 
@@ -109,8 +99,6 @@ A list of common scams can be found [url=http://www.reddit.com/r/Steam/wiki/scam
 
 [img]https://support.steampowered.com/images/faq/account_security/lock.png[/img]  [h1]General Security Recommendations[/h1]It is a good idea to maintain the security of your system in the following ways:
 
-[url=https://support.steampowered.com/kb_article.php?ref=5151-RUAS-1543#verify]Verify your contact email address with Steam[/url]
-
 [h2]Select a Strong Password[/h2]
 A strong password is a necessary first step toward ensuring the security of your account. Your password should meet all of the minimum requirements listed below:
 
@@ -125,6 +113,11 @@ A strong password is a necessary first step toward ensuring the security of your
 
 [h2]Use unique passwords[/h2]
 Make sure you are using a different password for your Steam account and your contact e-mail address.
+
+[h2]Keep the email address tied to your Steam account secure[/h2]
+Hijackers often target email accounts to access your other online accounts, including Steam. It's a good idea to select a strong password, enable two-factor, and follow the security recommendation of your email provider. If you suspect that your email account is hijacked, update the password immediately.
+
+Steam will inform you of security changes made to your account via email. Make sure you monitor your email account linked with Steam and follow up if you receive any notifications related to unexpected security changes.
 
 [h2]Scan your computer[/h2]
 Regularly scan your computer for viruses, key loggers, spyware, and other malicious code with a virus scan utility that has the most recent virus definitions.

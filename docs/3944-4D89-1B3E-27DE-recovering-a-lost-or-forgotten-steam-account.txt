@@ -14,6 +14,12 @@ You can [b]always[/b] contact Steam Support for account recovery even if you've 
 
 If you're getting stuck in the recovery process, make sure you're entering the information Steam requests at each step. For example, when searching for an account, Steam's account recovery system asks for [b]your[/b] email address, not the account's current email address. If you're sure you can't remember the email address, entering [b]your current email address[/b] as instructed for the search will help Steam identify your account, or present other options for locating an account if the email address is incorrect.
 
+[url id=lostemail][/url]
+
+[h2]What do I do if I no longer have access to the email address on my Steam account?[/h2]
+
+If you no longer have access to the contact email address associated with your Steam Account, please [url=https://support.steampowered.com/kb_article.php?ref=1223-QROC-4460]contact Steam Support[/url].
+
 [h2]How can I safeguard my account?[/h2]
 For information on how to safeguard an account, please read the [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] article.
 
