@@ -11,7 +11,7 @@ To avoid scams in the future, ensure that you know the methods that a malicious 
 Some scammers may attempt to threaten your account with mass or automated reporting. Steam disregards all automated or malicious reports and will lock any accounts involved. You can be sure your account is safe from any attempt to weaponize reports unless you're using your account in a way that violates [url=https://store.steampowered.com/subscriber_agreement/]Steam's rules[/url].
 
 Some scammers may claim they've mistakenly or falsely reported you and you need to take action to save your account. This is a scam and can be ignored:
-[url=https://steamcommunity.com/faqs/steam-help/edit/3195-9FFB-BA06-F25B]Scam: I Have Been Reported and Will Be Banned[/url]
+[url=https://help.steampowered.com/en/faqs/view/3195-9FFB-BA06-F25B]Scam: I Have Been Reported and Will Be Banned[/url]
 [/section]
 
 If you are scammed, phished, hijacked, or wish to report another account as hijacked, please use the Report feature built into Steam:
@@ -22,19 +22,19 @@ If you are scammed, phished, hijacked, or wish to report another account as hija
 [*]Click the '...' drop-down button located at the top right of the page [/*]
 [*]Choose "Report Player" [/*]
 
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_4.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/ac3f7ca722687d06226bacc4b983c58027509ba1.png[/img]
 
 [*]Select the category of offense which best describes the behavior you are reporting. [/*]
 
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_1.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/6eb95aaa681f95c464ce4ba3adacb803076e8f6c.png[/img]
 
 [*]Select the violation. [/*]
 
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_2.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/c023dde1d7c85de80f997f33833bb62ff59411dc.png[/img]
 
 [*]Write a short statement about your interaction with this user, and hit "Submit Report". [b]Note:[/b] You can also choose to block this user. [/*]
 
-[img]https://steamcdn-a.akamaihd.net/steam/support/faq/report_malicious_3.jpg[/img]
+[img]{STEAM_CLAN_IMAGE}/39983882/8747882eca66b6863fa6be288db6bb87f4add56c.png[/img]
 [/olist]
 
 If you have been scammed, we recommend that you review Steam's [url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433]Scam FAQ[/url], the [url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454]Recommended Trading Practices[/url] article and the [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Steam Item Restoration Policy[/url] for more information.
