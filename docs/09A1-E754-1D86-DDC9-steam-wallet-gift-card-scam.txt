@@ -25,6 +25,8 @@ Never give out a Steam Wallet Gift Card to a person you do not know.
 
 [*]If you already have given the codes to the scammer, please keep the Steam Wallet Gift Cards and the receipt and report the incident to your local police department.
 
+[*]You may report any scams to the [url=https://reportfraud.ftc.gov/#/?orgcode=VALV]U.S. Federal Trade Commission[/url], which will share the data with domestic and international law enforcement.  The FTC welcomes your report even if you did not pay any money.  The FTC welcomes reports in non-English languages, which it will translate for law enforcement.
+
 [/list]
 
 More information on Steam Wallet Codes can be found in our [url=https://support.steampowered.com/kb_article.php?ref=1193-WLXV-6514]Steam Wallet Code FAQ[/url]

@@ -54,7 +54,7 @@
 
 [*][url=#dota2fee]What is the "Dota 2 Fee"?[/url]
 
-[*][url=#csgofee]What is the "Counter-Strike: Global Offensive Fee"?[/url]
+[*][url=#csgofee]What is the "Counter-Strike 2 Fee"?[/url]
 
 [*][url=#artifactfee]What is the "Artifact Fee"?[/url]
 [/list]
@@ -234,7 +234,7 @@ The Dota 2 Fee is a game specific fee that is determined and collected by the ga
 
 [url id=csgofee][/url]
 
-[h3]What is the "Counter-Strike: Global Offensive Fee"?[/h3]
+[h3]What is the "Counter-Strike 2 Fee"?[/h3]
 The CS:GO Fee is a game specific fee that is determined and collected by the game publisher. The Fee is currently set at 10%.
 
 [url id=artifactfee][/url]
