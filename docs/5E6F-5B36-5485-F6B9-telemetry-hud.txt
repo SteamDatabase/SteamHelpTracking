@@ -1,0 +1,210 @@
+[h1]Telemetry HUD[/h1]
+
+[list]
+
+[*][url=#understand]Understanding the telemetry HUD[/url]
+
+[list]
+
+[*][url=#ftandfps]Frame time and FPS[/url]
+
+[*][url=#ping]Ping[/url]
+
+[*][url=#netprobs]Network problems[/url]
+
+[/list]
+
+[*][url=#powerusers]Technical details for nerds[/url]
+
+[list]
+
+[*][url=#ftvsfps]How is frame time related to FPS?[/url]
+
+[*][url=#jitter]What is jitter?[/url]
+
+[*][url=#missrate]What is the tick miss rate, exactly?[/url]
+
+[*][url=#smooth]How does additional buffering "smooth" over problems?[/url]
+
+[*][url=#morenetinfo]How can I get more detailed info on my network connection?[/url]
+
+[/list]
+
+[/list]
+
+Counter-Strike 2 has an in-game HUD which can be used to monitor the frame rate and network conditions. The Telemetry HUD can be enabled under [i]Settings > Game > Telemetry.[/i]
+
+Each part of the HUD described below can be configured to never be displayed, always be displayed, or be displayed when conditions are "poor."
+
+Because conditions will vary from user to user, we leave it up to you to determine what is considered "poor". You can adjust the warning thresholds for each performance metric, and when the value exceeds that threshold its value will turn red, which means conditions are considered "poor".  Furthermore, all options you have opted to display only in poor conditions will become visible.
+
+[section id=understand][h1]Understanding the telemetry HUD[/h1]
+[/section]
+
+[section id=ftandfps]
+
+[h2]Frame time and FPS[/h2]
+
+The number on the left followed by "ms", is the [i]frame time[/i], which is the time elapsed between successive frames being presented on your screen, in milliseconds.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/a55f25a8329c4e206473d2e4cdbe41f66ed60832.png[/img]
+
+The number on the right is your average frame rate, in frames per second (FPS).
+
+[img]{STEAM_CLAN_IMAGE}/39983882/2758d2e7cb4ae0851f1e04459eee84e9058d2d53.png[/img]
+
+Both numbers tell you how fast the screen is updating.  The FPS display is the [i]average[/i] frames per second and is good for measuring overall performance.  Typically, your average frame rate correlates to the strength of your machine and configuration.
+
+The number on the left displays the [i]maximum[/i] (slowest) frame time, and is useful for identifying brief "spikes" or "hitches".
+
+[b]Recommendations:[/b]
+
+[list]
+
+[*] Set your frame time warning threshold to slightly above the maximum frame time you typically experience.  Then, when you experience a "hitch", you can tell if the problem is a performance issue with your computer.  (As opposed to a network problem.)
+
+[*] Visit our [url=https://support.steampowered.com/kb_article.php?ref=9257-TUJL-7421]Troubleshooting Game Performance Issues[/url] help article for tips on increasing your game's performance.
+
+[/list]
+
+[/section]
+
+[section id=ping]
+
+[h2]Ping[/h2]
+
+Ping measures round trip network latency, in milliseconds.   The lower your ping the quicker your information is sent to and received from the server you are playing on.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/0acd436b8343b17855ec1ecead3c6362a4e57a04.png[/img]
+
+Note that this only measures the time it takes for packets to traverse the network.
+
+[b]Recommendations:[/b]
+
+[list]
+
+[*]If you are experiencing very high ping times, you can try reducing [i]Settings > Game > Max Acceptable Matchmaking Ping[/i].  This will restrict the set of data centers that the matchmaker is allowed to place you into.
+
+[/list]
+
+[/section]
+
+[section id=netprobs]
+
+[h2]Network problems[/h2]
+
+Sometimes you might experience a 'hitch' or 'rubber-banding' while you're in a match. The Network Problems display can help you to determine whether your network connection or the performance of your machine is the source of the issue.
+
+The two numbers with up and down arrows show how often network conditions are degrading the quality of your experience. That is, how many "ticks" are missing (for a more in-depth description, see below).
+
+[img]{STEAM_CLAN_IMAGE}/39983882/d0b753dbcbdc7b185f550b6e49838dde58c28765.png[/img]
+
+The up arrow is for packets sent upstream by your computer to the gameserver. The down arrow is for packets sent downstream by the gameserver to your computer.  In this example, network conditions are causing an impairment to gameplay quality in both directions, and the downstream direction being more impacted than upstream.
+
+[b]Recommendations:[/b]
+
+[list]
+
+[*] Set the tick miss rate warning threshold to a relatively low number, such as .1% or .5%.  Then, when you experience a "hitch", you can tell if the problem is a network problem.  (As opposed to a performance problem on your computer.)
+
+[*] You can smooth over many problems by increasing [i]Settings > Game > Buffering to smooth over packet loss / jitter[/i].  Note that this adds additional latency.
+
+[/list]
+
+[/section]
+
+[section id=powerusers][h1]Technical details for nerds[/h1]
+[/section]
+
+[section id=ftvsfps]
+
+[h2]How is frame time related to FPS?[/h2]
+
+The frame time and frame rate are two ways of describing how fast the screen is being updated.  Mathematically, they are reciprocals of one another.  For example, if the frame time is 20ms, then the frame rate would be 1 second / ( 20 ms/frame ) = 50 frames/second.
+
+However, you will notice that the numerical values displayed are often [i]not[/i] reciprocals of one another. That's because every frame does not take the same time, and the frame time readout displays the [i]maximum[/i] frame time (the worst or slowest frame from a recent time window).  The FPS readout displays the [i]average[/i] frame rate, which is the traditional way that FPS is displayed in video games.
+
+[/section]
+
+[section id=jitter]
+
+[h2]What is jitter?[/h2]
+
+Network [i]jitter[/i] is a disruption in the even flow of packets. A traffic jam occurs, causing one or more packets to experience an unusual delay and arrive later than expected, perhaps in a clump.
+
+Jitter is also sometimes called [i]latency variance[/i], because it refers to the fact that packets do not take the same amount of time to traverse the network. The time between two packets being sent is not the same as the time between those same packets being received.
+
+Jitter matters because realtime communications such as games don't just need messages to be delivered successfully, they need to arrive [i]on time[/i]. If a message is delivered late, it is usually just as bad as being dropped. A network test that only measures packet loss is incomplete. Jitter is a very important metric for describing the quality of a realtime network connection.
+
+[/section]
+
+[section id=missrate]
+
+[h2]What is the tick miss rate, exactly?[/h2]
+
+The two network quality measurements in the telemetry HUD measure the [i]tick miss rate[/i].  This number is how often the server or client is ready for the next tick, but the data needed to process the tick does not arrive on time.
+
+The server sends messages containing game state updates ("[i]snapshots[/i]") at a regular interval, once per tick (Counter-Strike 2 uses 64 ticks per second). The downstream tick miss rate measures how often the client reaches the point in time where they need the next snapshot but it has not arrived.
+
+Likewise, the client sends a message once every 1/64th of a second containing a [i]user command[/i] to the server, and the upstream tick miss rate is the percentage of ticks that occur on the server where the next user command has not arrived from the client.
+
+Remember, the tick miss rate only counts network problems that cause a tick to be missed.  [b]It's not just a measure of packet loss.[/b]  If the number is 0%, it doesn't mean network conditions are perfect.
+
+[/section]
+
+[section id=smooth]
+
+[h2]How does additional buffering "smooth" over problems?[/h2]
+
+Under absolutely perfect conditions, we would try to adjust our timing such that messages arrived [i]just[/i] before they are needed.  If they arrive too early, this adds latency and has the exact same affect as an increased ping time.  The amount of time that that a message arrives early is called the [i]receive margin[/i] in the Source 2 Engine.  It's the margin of error we have to absorb random delays, whether those delays are caused inside the computer or gameservrer, or somewhere on the network.
+
+The Source2 engine continually adjusts the clock to obtain the desired receive margin.  If jitter is present on the network, usually the engine can automatically increase the buffering so that the most delayed packets still arrive on time.  Sometimes, however the automatic adjustments are not enough.
+
+When you increase the "Buffering to smooth over packet loss/jitter" value in the game's settings (Game > Buffering to smooth over packet loss), the client adjusts the clock synchronization to increase the receive margin by one or more ticks' worth of time.  This reduces the number of ticks that are missed.  It hides problems caused by both jitter and packet loss, but in slightly different ways.
+
+[list]
+
+[*] If jitter on the connection is very uneven or "spiky", with delays being very large but occurring only rarely, the game's automatic adjustments may not be be enough. Adding one or more ticks of buffering is a hint to the clock synchronizer that it needs to prepare for larger delay spikes.
+
+[*] If a packet is dropped, adding an additional tick makes it possible to fill in the gap.  That's because the tick message [i]after[/i] the dropped message will usually have arrived, and we have enough information to "smooth over" the missed tick.
+
+[/list]
+The downside to adding this additional buffering is that it adds additional latency.
+
+[/section]
+
+[section id=netinfo]
+
+[h2]How can I get more detailed info on my network connection?[/h2]
+
+The basic "network problems" number measures the degree to which your network connection is negatively impacting your gameplay experience, not a direct measure of connection quality.   There are two options you can use to display the raw amount of packet loss and jitter in the telemetry HUD: a realtime graph, and a numeric display.
+
+[h3]Network jitter / misdelivery graph[/h3]
+
+The Network jitter / misdelivery graph is a realtime visual indication of your network connection quality.  Each bar in the graph represents one network message.  The height of the bar indicates the amount of jitter of the packet(s) in that message.  If the message is dropped, a solid vertical red line is drawn.  If messages are reordered, a solid vertical purple line is drawn.  If the jitter exceeds a threshold where there is significant risk of the tick being missed, the bar will be shown in red.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/923ea86e5e706b1ba603816f3abdfcfeaeb7b476.png[/img]
+
+The example above shows a connection with a small amount of jitter (peaking at about 8ms) and some packet loss.  The scale of each graph, 20ms in this example, is the value corresponding to the very top of the graph.  The bright red lines indicate messages that were lost.
+
+Below is an example of a connection with high jitter.  Note that there is no packet loss on this connection.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/e5723107e6f6d33775e606cf8a0b5e0b63babb2d.png[/img]
+
+The red line across the middle of each graph is a warning threshold, above which jitter is more likely to cause missed ticks.  The threshold depends on the current amount of manual buffering (set via [i]Settings > Game > Buffering to smooth over packet loss / jitter[/i]).  If a packet is jittered above this line and turns red, it means that the jitter amount was high relative to the current manually configured buffering amount.  It doesn't necessarily mean a tick was lost and gameplay was impacted.
+
+The engine can automatically add a sufficient amount of extra buffering to absorb random delays, as long as connection jitter occurs relatively frequently (i.e., when connection jitter acts like "white noise" with peaks a second or so apart). In this case you don't have to take any action. However, if the jitter occurs in more sporadic "spikes", with long periods of calm in between, you might need to increase [i]Buffering to smooth over packet loss / jitter[/i].
+
+Remember, these graphs are depicting the underlying network conditions. If misdelivery or excessive jitter occurs, the graph will show a red or purple bar, but that does [i]not[/i] necessarily mean a tick was missed and gameplay was impacted.
+
+[h3]Detailed Network Quality Display[/h3]
+
+The Detailed Network Quality Display shows the current packet loss and jitter in a compact numeric form.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/8c67ead7442bc65b05b27db90e85444bc67eda23.png[/img]
+
+The "ping" and "miss" columns show the same information from the basic view.  "Loss" shows the packet loss, and "jitter" shows the peak jitter.  In this example, although packet loss and significant jitter are present, the tick miss rate remains 0% and so gameplay should not be affected.
+
+You can configure the network display to use the basic view, and expand to the detailed view if network conditions are poor.
+
+[/section]
