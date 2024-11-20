@@ -18,10 +18,6 @@
 
 [h3][url=#switch]How do I switch modes?[/url][/h3]
 [/*]
-[*]
-
-[h3][url=#recover]Troubleshooting[/url][/h3]
-[/*]
 
 [/list]
 
@@ -48,16 +44,9 @@ Be aware that the original wireless mode will still be available after adding Bl
 
 [olist]
 
-[*][url=https://support.steampowered.com/kb_article.php?ref=7021-EIAH-8669]Opt into the latest Steam Client Beta[/url] [/*]
+[*]Download the [url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/Steam_Controller_FW_Update_Tool_5b0f21bd.zip]firmware update tool[/url] on Windows and unzip it [/*]
 [*]Plug in your Steam Controller.  [/*]
-[*][url=steam://UpdateFirmware]Click here to start the firmware update flow[/url], or follow the directions below [/*]
-[*]Navigate to the Controller Settings page, find the Steam Controller you would like to update in the Detect Controllers list, and select the [b]Bluetooth FW[/b] button.  [/*]
-[img]https://support.steampowered.com/images/faq/steam_link/_0000_1---landing.png[/img]
-[*]Click [b]Start[/b] and be patient. The update may take several minutes. Interrupting the process is a bad idea. [/*]
-[img]https://support.steampowered.com/images/faq/steam_link/_0001_2---start.png[/img]
-[*]Once the firmware is installed, select [b]Learn More[/b] on the dialog - you will be taken to this knowledgebase article to learn more about the new firmware. [/*]
-[img]https://support.steampowered.com/images/faq/steam_link/_0003_4---success.png[/img]
-[*]When you’re ready to move on, exit the page and return to Controller settings. [/*]
+[*]Run ble.bat to update the firmware [/*]
 [*]Unplug your controller.  [/*]
 [*]Select the [b]Add a Steam Controller[/b] button on the Controller Settings page. This option only appears if a Wireless Receiver is currently plugged in. [/*]
 [*]Press [b]X + Steam Button[/b] on your controller and [b]enter the 4 character Validation Code[/b] that appears on the screen. [/*]
@@ -126,29 +115,5 @@ Bluetooth connectivity is supported in:
 [*]SteamOS [/*]
 
 [/list]
-
-[/section]
-
-[section id=recover]
-
-[h4]Troubleshooting[/h4]
-If something isn't working quite right, you can revert back to the previous firmware. Navigate to the same spot in the Controller Settings page where you found the [b]Bluetooth FW[/b] button. Now you will see a [b]Rollback FW[/b] button in its place. Click that, wait a few minutes, and you should be running the previous version.
-
-A more detailed version of this process is as follows:
-
-[olist]
-
-[*]Plug in your Steam Controller. [/*]
-[*]Navigate to the Controller Settings page. The [b]Bluetooth FW[/b] button now appears as a [b]Rollback FW[/b] button. Click it. [/*]
-[img]https://support.steampowered.com/images/faq/steam_link/_0004_5---rollback-landing.png[/img]
-[*]Click [b]Start[/b] to initiate the process. [/*]
-[img]https://support.steampowered.com/images/faq/steam_link/_0005_6---rollback-dialog.png[/img]
-[*]Again, be patient. [/*]
-[img]https://support.steampowered.com/images/faq/steam_link/_0006_7---rollback-in-progress.png[/img]
-[*]Click [b]Done[/b] [/*]
-[img]https://support.steampowered.com/images/faq/steam_link/_0007_8---rollback-success.png[/img]
-[*]Reconnect your Wireless Receiver by following steps 8-10 in the section above. You have successfully restored the firmware. [/*]
-
-[/olist]
 
 [/section]
