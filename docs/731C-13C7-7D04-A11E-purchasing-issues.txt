@@ -23,27 +23,31 @@
 [/list]
 
 [h3]My purchase attempts are failing. What can I do?[/h3]
-If you are attempting your purchase through the Steam website, please try purchasing through the Steam application, or vice versa.
+If you are attempting your purchase through the Steam website, please try purchasing through the Steam client, or vice versa.
 
 Disable or completely remove any IP proxy or VPN software that you may be using, restart your computer, and test your purchase again. All transactions that are initiated through anonymous proxies will be declined by Steam.
 
-If you are unable to complete a purchase, [url=https://help.steampowered.com/]contact Steam Support[/url] with detailed information, including your Steam account name and the exact error message that you are seeing.
+If you are still unable to complete a purchase, [url=https://help.steampowered.com/]contact Steam Support[/url] with detailed information, including your Steam account name and the exact error message that you are seeing.
 
 [url id=purtravel][/url]
 
 [h3]I am currently travelling to another country, and my purchases are failing. How can I resolve this issue?[/h3]
-Ensure that any IP proxy or VPN software that you may have is disabled and attempt your purchase using the billing address as it appears on your bank statement. If the issue persists, [url=https://help.steampowered.com/]contact Steam Support[/url] and be sure to include your Steam account, the country that you are from, and the country that you are currently visiting.
+Your store country is set based on the location of your first Steam purchase. While traveling, the Steam store will show your region's prices and you'll be able to make purchases as you would from home. If you continue to encounter an error, ensure that any IP proxy or VPN software that you may have is disabled and attempt your purchase again using a payment method that matches your current store country.
+
+Please Note: If you are a new Steam user, you've recently moved to a new region, or you're living abroad for an extended period of time, please review our [url=https://help.steampowered.com/en/faqs/view/2B3F-DAEF-846B-A0E8]Steam Store Country[/url] FAQ for more information.
 
 [url id=pendcharge][/url]
 
 [h3]Steam informed me that my purchase failed, but there is a pending charge on my credit/debit card. Why?[/h3]
 If the error message that you see for a failing purchase refers to a "hold," you may have failed an [url=https://support.steampowered.com/kb_article.php?ref=7061-JKZC-5657]AVS (address verification)[/url] or [url=https://support.steampowered.com/kb_article.php?ref=4004-OFKB-3935]CVV2 (3-digit code on the back of the card)[/url] check with your bank.
 
-In these cases, most banks will still allow the purchase to go through by setting the funds for the purchase amount aside, despite this information being incorrect. Steam will [b]always[/b] decline a transaction that fails an address or CVV check. Steam will not collect the funds that your bank has put on hold. Your bank will release the funds to you at a later date per their policy. This can often take up to 10 business days.
+In cases like these banks often place a temporary hold on the funds until they update the account information and verify that the purchase failed. Releasing those funds back to you may take up to 30 days, depending on the bank and their processes.
+
+Steam will [b]always[/b] decline a transaction that fails an address or CVV check. Steam will not collect the funds that your bank has put on hold.
 
 [url id=giftcard][/url]
 
 [h3]My prepaid gift card is not working with Steam. Why?[/h3]
 Most gift cards require that you register them on the gift card issuer's website before they can be used for online purchases. Information regarding this process can usually be found through a web address that is printed on the back of the card itself.
 
-If you have not registered your gift card before attempting a purchase, it's likely that the issuer has put a hold on the card for the failed purchase amount. This hold will be removed per the card issuer's policy, which may take up to 10 business days.
+If you have not registered your gift card before attempting a purchase, it's likely that the issuer has put a hold on the card for the failed purchase amount. The bank will release the funds to you at a later date per the card issuer's policy. This can often take up to 30 days.
