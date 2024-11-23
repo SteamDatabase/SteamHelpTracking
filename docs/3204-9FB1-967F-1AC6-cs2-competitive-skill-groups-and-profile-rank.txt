@@ -5,7 +5,6 @@
 [*][url=#skillgroup]What are per-map competitive skill groups?[/url] [/*]
 [*][url=#ranklist]What are all of the per-map competitive skill groups?[/url] [/*]
 [*][url=#displayrank]Where is my skill group displayed in-game?[/url] [/*]
-[*][url=#whywin]Why is my win count resetting after winning a competitive match?[/url] [/*]
 [*][url=#norank]Why don't I have a skill group?[/url] [/*]
 [*][url=#lostrank]Why have I suddenly lost my skill group?[/url] [/*]
 [*][url=#withfriends]Should I avoid partying up with lower skilled friends? Will this affect my skill group?[/url] [/*]
@@ -34,20 +33,12 @@ In the image below, Counter-Strike 2 skill groups are arranged from lowest skill
 Once a player has been assigned a skill group, it will be displayed in the main menu, in party lobbies, and in the match scoreboard next to their name. Players sharing a lobby will have their skill group displayed at all times.
 [/section]
 
-[section id=whywin]
-
-[h2]Why is my win count resetting after winning a competitive match?[/h2]
-Because each map has its own skill group in Counter-Strike 2, you must win 10 matches on any map before receiving your skill group [i]for that map[/i].
-
-It is possible to have a different number of wins on each map. Because of this, the number of wins required on each map to receive a skill group may be different at the end of match summary screen.
-[/section]
-
 [section id=norank]
 
 [h2]Why don't I have a skill group?[/h2]
 In Counter-Strike 2, skill groups are assigned to players on a per-map basis.
 
-In order to receive a skill group on any map you will need to win 10 competitive matches on the map.
+In order to receive a skill group on any map you will need to win number of competitive matches shown on the map to earn one.
 [/section]
 
 [section id=lostrank]
