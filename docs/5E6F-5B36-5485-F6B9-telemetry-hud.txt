@@ -26,7 +26,7 @@
 
 [*][url=#smooth]How does additional buffering "smooth" over problems?[/url]
 
-[*][url=#morenetinfo]How can I get more detailed info on my network connection?[/url]
+[*][url=#netinfo]How can I get more detailed info on my network connection?[/url]
 
 [/list]
 
