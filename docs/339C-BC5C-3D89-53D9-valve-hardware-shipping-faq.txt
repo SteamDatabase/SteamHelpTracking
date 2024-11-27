@@ -3,33 +3,24 @@
 [h4]Issue with payment or delivery?[/h4]
 If you have a payment or delivery issue please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url].
 
-[h4]Where is my package shipped from?[/h4]
-Depending on your location, your order will ship from a warehouse in one of the following locations.
-
-[list]
-
-[*]Rancho Cucamonga, California.
-
-[*]Carol Steam, Illinois.
-
-[*]Waalwijk, the Netherlands.
-
-[/list]
-
 [h4]Who delivers my shipment?[/h4]
 
 United States and Canada - FedEx or UPS.
 
 EU and UK - DHL or GLS. These carriers may use last-leg couriers for deliveries to some areas.
 
+Australia - StarTrack.
+
 Your order’s carrier and tracking information will be included in your shipment confirmation email.
 
 [h4]How much does shipping cost?[/h4]
+
 Shipping is free for all Valve Hardware products.
 
 Depending on your location, local taxes and customs or import fees may apply.
 
 [h4]How do I modify or cancel my shipment?[/h4]
+
 You can modify or cancel shipment within 24 hours of placing your order. After 24 hours has passed, your order is allocated for shipment and can no longer be changed, cancelled, or recalled either by you or by our Hardware Support team.
 
 [list]
@@ -40,14 +31,17 @@ You can modify or cancel shipment within 24 hours of placing your order. After 2
 
 [/list]
 
-[h4]Where can I ship my hardware?[/h4]
+[h4]Where is hardware available for purchase?[/h4]
+
 Valve hardware products are available for purchase in the countries listed below. Note: Some postal codes might not be available if they are located within an offshore territory. For example, we are unable to ship to Isle of Man, Réunion, or the Canary Islands.
 
 [h3]Supported Countries:[/h3]
 
+[expand type=details]
+
 [list]
 
-[*]Australia (through EB Games)*
+[*]Australia
 
 [*]Austria
 
@@ -75,13 +69,15 @@ Valve hardware products are available for purchase in the countries listed below
 
 [*]Greece
 
+[*]Hong Kong (through Komodo)
+
 [*]Hungary
 
 [*]Ireland
 
 [*]Italy
 
-[*]Japan (through Degica)*
+[*]Japan (through Komodo)
 
 [*]Latvia
 
@@ -93,8 +89,6 @@ Valve hardware products are available for purchase in the countries listed below
 
 [*]Netherlands
 
-[*]New Zealand (through EB Games)*
-
 [*]Poland
 
 [*]Portugal
@@ -105,9 +99,13 @@ Valve hardware products are available for purchase in the countries listed below
 
 [*]Slovenia
 
+[*]South Korea (through Komodo)
+
 [*]Spain
 
 [*]Sweden
+
+[*]Taiwan (through Komodo)
 
 [*]United Kingdom
 
@@ -115,37 +113,18 @@ Valve hardware products are available for purchase in the countries listed below
 
 [/list]
 
-*Valve Index only. Steam Deck is not available in these locations.
+[/expand]
 
-[h4]Are there any restrictions to how many pieces of hardware I can purchase at once?[/h4]
-You will be able to purchase multiples of some items, but not others. This will be indicated to you during the purchase process. As an example, you will be able to purchase multiple Index Base Stations within one cart purchase, but only one Index Headset.
+[h4]How do I return or replace my hardware?[/h4]
 
-[h4]Will my hardware be shipped together?[/h4]
-Due to the size differences between products, it is possible that your shipment will be in multiple packages. If it is, don’t worry - they will be shipped at the same time and all be tied to the same master tracking number.
-
-[h4]How do I refund or replace my hardware?[/h4]
 Look for detailed instructions on returning Hardware in our [url=https://support.steampowered.com/kb_article.php?ref=7013-OXBM-2746]RMA Guide[/url].
 
-If you’ve already returned your hardware and you want to know the return’s status, or the refund has not been processed within three weeks of the return date, please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url].
-
-[h4]What happens if my order can’t be delivered?[/h4]
-When the carrier is unable to deliver an order, it is returned to our shipping warehouse. All charges, including shipping, are automatically refunded back to the original payment method.
-
-Undeliverable orders cannot be shipped again; instead, you will need to re-order the products.
-
-Note: You will be charged the price displayed during checkout at the time of your purchase. If you previously purchased hardware during a sale and the product is returned as undeliverable, that same discount cannot be applied if it has since expired. Likewise, Steam Support is unable to apply discounts from previous sales.
+If you’ve already returned your hardware and you want to know the return’s status, or the return has not been processed within a week of the return date, please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url].
 
 [h4]What if my order is lost in-transit or stolen?[/h4]
+
 Please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url] to report any lost or stolen device orders.
 
-[h4]My package is held at a ParcelShop (EU and UK only)[/h4]
-For hardware orders made through the Steam Store in the European Union or United Kingdom:
-
-If you have not received your shipment it may be stored at a GLS or DHL depot (ParcelShop). This happens if the carrier cannot locate your address or no one was present to sign and accept the delivery. When a shipment is held at a ParcelShop, it will not be re-delivered. If the shipment is not picked up by the customer during their limited hold period, the shipment will be returned to our warehouse.
-
-Use the [url=https://gls-group.eu/EU/en/depot-parcelshop-search]GLS ParcelShop finder[/url] or [url=https://parcelshopfinder.dhlparcel.com/]DHL ParcelShop finder[/url] to find the ParcelShop closest to you and check whether they are holding your shipment so that you can arrange to go pick it up. If they are holding your shipment but you are unable to collect it during their holding period, contact the carrier’s service team to refuse the shipment and expedite the return process.
-
-NOTE: Depending on your region, the carrier may have tried to deliver your order to a neighbor and may have left a notification card.
-
 [h4]Is your hardware shipment issue not listed here?[/h4]
+
 If your issue isn't covered here, please contact [url=https://help.steampowered.com/en/wizard/HelpWithSteamHardware]Steam Support[/url].
