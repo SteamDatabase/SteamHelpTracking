@@ -1,4 +1,4 @@
-[h1]Telemetry HUD[/h1]
+[h1]Source2 Telemetry HUD[/h1]
 
 [list]
 
@@ -32,7 +32,7 @@
 
 [/list]
 
-Counter-Strike 2 has an in-game HUD which can be used to monitor the frame rate and network conditions. The Telemetry HUD can be enabled under [i]Settings > Game > Telemetry.[/i]
+Counter-Strike 2 and Deadlock have an in-game HUD which can be used to monitor the frame rate and network conditions. The Telemetry HUD can be enabled under [i]Settings > Game > Telemetry.[/i]
 
 Each part of the HUD described below can be configured to never be displayed, always be displayed, or be displayed when conditions are "poor."
 
@@ -83,7 +83,7 @@ Note that this only measures the time it takes for packets to traverse the netwo
 
 [list]
 
-[*]If you are experiencing very high ping times, you can try reducing [i]Settings > Game > Max Acceptable Matchmaking Ping[/i].  This will restrict the set of data centers that the matchmaker is allowed to place you into.
+[*] (Counter-Strike 2 only) If you are experiencing very high ping times, you can try reducing [i]Settings > Game > Max Acceptable Matchmaking Ping[/i].  This will restrict the set of data centers that the matchmaker is allowed to place you into.
 
 [/list]
 
@@ -144,9 +144,9 @@ Jitter matters because realtime communications such as games don't just need mes
 
 The two network quality measurements in the telemetry HUD measure the [i]tick miss rate[/i].  This number is how often the server or client is ready for the next tick, but the data needed to process the tick does not arrive on time.
 
-The server sends messages containing game state updates ("[i]snapshots[/i]") at a regular interval, once per tick (Counter-Strike 2 uses 64 ticks per second). The downstream tick miss rate measures how often the client reaches the point in time where they need the next snapshot but it has not arrived.
+The server sends messages containing game state updates ("[i]snapshots[/i]") at a regular interval, once per tick (Counter-Strike 2 uses 64 ticks per second.  Deadlock uses 60 ticks per second). The downstream tick miss rate measures how often the client reaches the point in time where they need the next snapshot but it has not arrived.
 
-Likewise, the client sends a message once every 1/64th of a second containing a [i]user command[/i] to the server, and the upstream tick miss rate is the percentage of ticks that occur on the server where the next user command has not arrived from the client.
+Likewise, the client sends a message once per tick containing a [i]user command[/i] to the server, and the upstream tick miss rate is the percentage of ticks that occur on the server where the next user command has not arrived from the client.
 
 Remember, the tick miss rate only counts network problems that cause a tick to be missed.  [b]It's not just a measure of packet loss.[/b]  If the number is 0%, it doesn't mean network conditions are perfect.
 
