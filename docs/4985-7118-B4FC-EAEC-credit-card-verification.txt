@@ -29,12 +29,12 @@ If you fail to verify the card after three attempts, you will have to wait the n
 [url id=drop][/url]
 
 [h3]When will the authorizations be removed from my credit card statement?[/h3]
-The authorizations will be removed from your credit card statement in 5-10 business days, whether you verified them or not.
+Depending on your bank and their processes, it may take up to 30 days for the authorizations to be removed from your credit card statement. This can occur whether you verify the card or not.
 
 [url id=conversion][/url]
 
 [h3]In what currency do the amounts need to be entered in and how do I get the original pre-converted amounts?[/h3]
-The verification authorizations are sent to your bank in the currency that is used in the Steam Store. If the bank converts these to your local currency, you must contact them to request the original amount before any fees or conversions. The phone number will be on the back of the card.
+The verification authorizations are sent to your bank in the same currency as your Steam Wallet. If the bank converts these to your local currency, you must contact them to request the original amount before any fees or conversions. The phone number will be on the back of the card.
 
 [url id=virtual][/url]
 

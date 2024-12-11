@@ -59,10 +59,12 @@ When you add a valid item to your cart, Steam will apply any of your applicable 
 [h3]How do I know when my coupons will expire?[/h3]
 The expiration date is displayed in the detailed information for each coupon in your Steam Inventory.
 
+To access your Steam inventory: log in to your account, hover over your profile name in the top-middle of the Steam screen and select [i]Inventory[/i] from the drop-down menu. You can also find a link in the right-hand menu of your profile page.
+
 [url id=trade][/url]
 
 [h3]Can I trade Steam Coupons?[/h3]
-Yes! You can trade your Steam Coupons using our Steam Trading system. For more information on how Steam Trading works please visit the following [url=https://support.steampowered.com/kb_article.php?ref=6748-ETSG-5417]FAQ[/url].
+Unless clearly stated otherwise, you can trade your Steam Coupons using our Steam Trading system. For more information on how Steam Trading works please visit the following [url=https://support.steampowered.com/kb_article.php?ref=6748-ETSG-5417]FAQ[/url].
 
 [url id=give][/url]
 
