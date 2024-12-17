@@ -1,7 +1,5 @@
 [h1]Valve Hardware Warranty[/h1]
 
-[img]https://support.steampowered.com/images/faq/steam_universe/SteamHardware_Warranty_Header.png[/img]
-
 [hr][/hr]
 
 [h1]
