@@ -20,8 +20,6 @@ Only titles purchased in special promotions as outlined below are eligible for g
 
 [olist]
 
-[*]Users who own "Half-Life 2" and go on to purchase "The Orange Box" will receive an extra copy of "Half-Life 2". [/*]
-[*]Users who own "Half-Life 2: Episode One" and then go on to purchase the "The Orange Box" will receive an extra copy of "Half-Life 2: Episode One". [/*]
 [*]Users who purchase the available four packs for specific Steam titles will receive three extra copies of that title to gift to friends. [/*]
 [*]Extra copies may apply as a part of some limited time promotions. In that case, information on what will be included with your purchase will be listed on the storefront's transaction page. [/*]
 
