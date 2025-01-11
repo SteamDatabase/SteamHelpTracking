@@ -26,6 +26,7 @@ Examples include:
 [*]Manipulation of Competitive Mode rank. [/*]
 [*]Botting and/or automation. [/*]
 [*]Intentionally interfering with the normal operation of game servers or other players. [/*]
+[*]Activity or in-game behavior that is intended primarily to be extremely disruptive to the experience of other players. [/*]
 
 [/list]
 Game Bans for all of the above are not removed by Steam Support.

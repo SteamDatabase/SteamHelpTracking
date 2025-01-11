@@ -1,5 +1,7 @@
 [h1]Family View[/h1]
 
+[b]Update:[/b] Family View has been replaced by Steam Families' parental controls. For more information on creating and managing a Steam Family, click [url=https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4]here[/url].
+
 Family View is a feature for parents and families to establish their own rules for what components of Steam are accessible.
 
 You can use Family View to limit an account's access to a subset of its content and features. With Family View, access to the Steam Store, Library, Community, Friends content and other features may be gated by the entry of a secret PIN.
