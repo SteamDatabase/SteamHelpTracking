@@ -37,7 +37,7 @@ Game Bans for all of the above are not removed by Steam Support.
 [h2]Can you tell me why I was game banned?[/h2]
 No. We do not disclose the reason for your game ban.
 
-Whether your account was used with cheat software, automating matchmaking, or abusing matchmaking the reason a game ban was issued is not shared with users.
+Whether your account was used with cheat software, automating or abusing matchmaking, exploiting, or any other type of deliberately disruptive activity, the reason a game ban was issued is not shared with users.
 [/section]
 
 [section id=appeal]
