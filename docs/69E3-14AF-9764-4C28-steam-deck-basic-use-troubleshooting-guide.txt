@@ -177,11 +177,13 @@ If you won't be using your Steam Deck for a while and would like to place it bac
 
 [*]Navigate to the Power Menu
 
-[*]Choose Battery storage mode, and confirm.
+[*]Choose Battery storage mode, confirm, and the Steam Deck will power off.
 
 [/list]
 
-You should see the Steam Deck power off, and the power LED will blink three times to confirm battery storage mode has been activated.
+[b]LCD Steam Decks[/b]: The power LED will blink three times to confirm battery storage mode has been activated.
+
+[b]OLED Steam Decks[/b]: After ~8 seconds, you should see the power LED blink blue, twice, indicating the device has entered battery storage mode.
 
 To wake your Steam Deck from storage mode, plug in the provided power supply and power it on normally.
 
