@@ -1,0 +1,15 @@
+[h1]Unexpected Transport Error[/h1]
+
+If you're seeing this dialog, it means that a key component of Steam failed to initialize. Following is more information on the options offered to you when this problem occurs.
+
+[h2]Restart Steam[/h2]
+
+Frequently this issue can be resolved by simply restarting Steam.
+
+[h2]Restart steamwebhelper[/h2]
+
+Attempt to restart only the rendering components of Steam.
+
+[h2]Check whether third party software is interfering with Steam[/h2]
+
+Some third party applications, like anti-virus/security software have been known to potentially cause issues with Steam, resulting in hangs or crashes. Please see our article on [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere with Steam[/url] for more information.
