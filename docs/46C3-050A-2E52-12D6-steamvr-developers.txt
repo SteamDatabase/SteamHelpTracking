@@ -18,7 +18,7 @@
 [h4]Distribute your product on Steam[/h4]
 To share your VR experience on Steam, you’ll need to first enroll as a Steamworks developer. To kick off that process, please [url=https://partner.steamgames.com]create your partner profile[/url] and gain access to our SDK.
 
-You can then use [url="http://steamcommunity.com/games/593110/announcements/detail/1265922321514182595"]Steam Direct[/url] to purchase an appID* and prepare your title for launch on the Steam Store.
+You can then use [url=http://steamcommunity.com/games/593110/announcements/detail/1265922321514182595]Steam Direct[/url] to purchase an appID* and prepare your title for launch on the Steam Store.
 
 [b]*The $100 appID purchase fee is recoupable[/b]
 [/section]

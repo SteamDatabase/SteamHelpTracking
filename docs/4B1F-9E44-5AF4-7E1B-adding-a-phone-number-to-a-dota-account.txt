@@ -91,7 +91,7 @@ No, the Steam Guard Mobile Authenticator is not required to register a phone num
 
 We still recommend that you use the Steam Guard Mobile Authenticator. In addition to providing an extra layer of security for your account, adding the Steam Guard Mobile Authenticator gives you full access to trading and the Steam Community Market.
 
-More information can be found here: [url=https://help.steampowered.com/en/faqs/view/7EFD-3CAE-64D3-1C31]Steam Guard Mobile Authenticator[/url]
+More information can be found here: [url=https://help.steampowered.com/faqs/view/7EFD-3CAE-64D3-1C31]Steam Guard Mobile Authenticator[/url]
 
 [/section]
 

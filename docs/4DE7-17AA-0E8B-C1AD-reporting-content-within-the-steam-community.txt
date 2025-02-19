@@ -65,4 +65,4 @@ Click the "flag" button below the content. Which option you see will depend on h
 [/olist]
 
 [h3]How to report cheating[/h3]
-Follow the instructions on our [url=https://help.steampowered.com/en/faqs/view/2F3F-25EE-2AC6-30E7#:~:text=Click%20on%20the%20%22...,select%20the%20%22Submit%20Report%22%20button]Reporting Suspected Cheaters[/url] FAQ.
+Follow the instructions on our [url=https://help.steampowered.com/faqs/view/2F3F-25EE-2AC6-30E7#:~:text=Click%20on%20the%20%22...,select%20the%20%22Submit%20Report%22%20button]Reporting Suspected Cheaters[/url] FAQ.

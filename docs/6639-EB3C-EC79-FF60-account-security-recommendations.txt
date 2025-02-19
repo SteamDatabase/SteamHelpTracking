@@ -134,7 +134,7 @@ If the machine you use to access Steam has multiple users, be sure to fully Exit
 [h3]Important:[/h3]
 
 [h2]Report Hijackings and Suspicious Activities[/h2]
-If your account has been compromised, please see the [url=https://support.steampowered.com/kb_article.php?ref=2347-QDFN-4366]Retrieving a Lost or Stolen Steam Account[/url] topic for instructions to retrieve your account.
+If your account has been compromised, please see the [url=https://help.steampowered.com/faqs/view/0A94-F308-34A5-1988]Retrieving a Lost or Stolen Steam Account[/url] topic for instructions to retrieve your account.
 
 If another user requests your account information or attempts to steal your account, please see the [url=https://support.steampowered.com/kb_article.php?ref=1476-HJCM-5616]Reporting content within the Steam Community[/url] topic for instructions to submit a report.
 [/section]
