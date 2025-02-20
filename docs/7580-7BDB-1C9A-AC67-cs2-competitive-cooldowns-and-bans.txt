@@ -162,7 +162,7 @@ Players who have been VAC banned can find information in the [url=https://suppor
 [h2]Game bans[/h2]
 Game bans are issued when a player attempts to circumvent or interfere with game systems to the detriment of others.
 
-Detailed information about Game bans can be found in our [url=https://help.steampowered.com/en/faqs/view/4E54-0B96-D0A4-1557]I've been game banned[/url] help article.
+Detailed information about Game bans can be found in our [url=https://help.steampowered.com/faqs/view/4E54-0B96-D0A4-1557]I've been game banned[/url] help article.
 [/section]
 
 [section id=gslt]

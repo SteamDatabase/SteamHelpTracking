@@ -19,7 +19,7 @@
 
 [h2]What is a Steam gift?[/h2]
 
-When you add a game to your cart, you will see the option to "gift" the game to anyone on your[url=https://help.steampowered.com/en/faqs/view/1902-2D54-E445-59DD] Steam Friends List[/url]. The gift recipient will receive an e-mail with a personal message from you and instructions to redeem the game on their account.
+When you add a game to your cart, you will see the option to "gift" the game to anyone on your[url=https://help.steampowered.com/faqs/view/1902-2D54-E445-59DD] Steam Friends List[/url]. The gift recipient will receive an e-mail with a personal message from you and instructions to redeem the game on their account.
 
 A Steam gift purchase is a one-time transfer—after the recipient has redeemed the gift, it is now a part of his or her Steam games collection. Also note that you may only gift new purchases—you may not transfer games you already own.
 

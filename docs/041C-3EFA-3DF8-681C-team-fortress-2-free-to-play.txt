@@ -24,7 +24,7 @@ Premium accounts have a few extra features including access to rare and cosmetic
 [/tr]
 
 [tr]
-[td]Backpack:[/td]              [td]50 slots (expandable up to 2750)[/td]              [td]300 slots (expandable up to 3000)[/td]
+[td]Backpack:[/td]              [td]50 slots (expandable up to 2750)[/td]              [td]300 slots (expandable up to 4000)[/td]
 [/tr]
 
 [tr]
@@ -70,7 +70,7 @@ The finest virtual item store in the world, easily accessible from within the Te
 
 [b]Q. What are the system requirements for Team Fortress 2?[/b]
 
-Check the [url=http://store.steampowered.com/app/440/]Team Fortress 2 game page[/url] for Mac and PC requirements.
+Check the [url=http://store.steampowered.com/app/440/]Team Fortress 2 game page[/url] for system requirements.
 
 [b]Q. What happens if I buy a retail copy of Team Fortress 2?[/b]
 

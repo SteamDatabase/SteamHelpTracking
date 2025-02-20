@@ -20,7 +20,7 @@ Please follow the instructions below to enable cookies and turn off other browse
 
 [list]
 
-[*][u][url=https://support.microsoft.com/en-us/search?query=enable%20cookies%20in%20edge]Enable Cookies[/url][/u] [/*]
+[*][u][url=https://support.microsoft.com/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d#bkmk_allowallcookies]Enable Cookies[/url][/u] [/*]
 [*][u][b]Avoid using InPrivate browsing mode[/b][/u]
 Make sure you are not using InPrivate browsing when using Steam in your web browser. If you are using it, your web browser will show a button in the upper right that says "InPrivate". To stop doing InPrivate browsing just click that button and close the window and open a new normal browser window. [/*]
 
@@ -33,7 +33,7 @@ Make sure you are not using InPrivate browsing when using Steam in your web brow
 [*][u][url=https://support.google.com/accounts/answer/61416]Enable Cookies[/url][/u] [/*]
 [*][u][b]Avoid using Incognito browsing mode[/b][/u]
 Make sure you are not using Incognito browsing when using Steam in your web browser. If you are using it, your web browser will show a button in the upper right that says "Incognito". To stop doing Incognito browsing just click that button and select "Close Incognito" and then open a new normal browser window. [/*]
-[*][u][url=https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en-GB#zippy=%2Cdelete-cookies-after-you-close-chrome/]Disable Automatic Clearing of History[/url][/u] [/*]
+[*][u][url=https://support.google.com/chrome/answer/95647]Disable Automatic Clearing of History[/url][/u] [/*]
 
 [/list]
 
@@ -41,7 +41,7 @@ Make sure you are not using Incognito browsing when using Steam in your web brow
 
 [list]
 
-[*][u][url=https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac]Enable Cookies[/url][/u] [/*]
+[*][u][url=https://support.apple.com/guide/safari/enable-cookies-ibrw850f6c51/mac]Enable Cookies[/url][/u] [/*]
 
 [/list]
 
@@ -49,7 +49,7 @@ Make sure you are not using Incognito browsing when using Steam in your web brow
 
 [list]
 
-[*][u][url=https://support.mozilla.org/en-US/kb/websites-say-cookies-are-blocked-unblock-them]Enable Cookies[/url][/u] [/*]
+[*][u][url=https://support.mozilla.org/kb/websites-say-cookies-are-blocked-unblock-them]Enable Cookies[/url][/u] [/*]
 [*][u][b]Avoid using Private browsing mode[/b][/u]
 Make sure you are not using Private browsing when using Steam in your web browser. If you are using it, your web browser will show an icon with a purple circle with a white mask inside it in the upper right of your browser window next to the minimize and maximum buttons. To stop doing Private browsing close the browser window and open new normal browser window.
 [/*]
