@@ -51,6 +51,10 @@
 [exclude_realm=china][url=https://support.steampowered.com/kb_article.php?ref=4440-RTUI-9218]Steam Guard: How to set up a Steam Guard Mobile Authenticator[/url]
 [/exclude_realm]
 
+[/section]
+
+[url id=friends][/url]
+
 [img]https://support.steampowered.com/images/faq/account_security/friends.png[/img]  [h1]Steam Friends[/h1]
 
 [h2]Anyone can attempt to add you[/h2]
