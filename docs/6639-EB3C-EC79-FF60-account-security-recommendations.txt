@@ -11,9 +11,6 @@
 
 [section style=important]
 
-[section id=phishing_warning]
-[/section]
-
 [section id=phishing_content]
 
 [h2]If you think your account security is compromised:[/h2]
@@ -43,7 +40,6 @@
 [/section]
 
 [section id=steamguard_div][url id=steamguard][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/shield.png[/img]  [h1]Enable Steam Guard two-factor authentication[/h1]Steam Guard is an additional level of security that can be applied to your Steam account. When Steam Guard is enabled on your account, anyone attempting to login to your Steam account from an unrecognized computer must provide additional authorization. A special access code will be sent to your contact email address, and this code must be entered into Steam before your login is complete.
 [exclude_realm=china][b]Steam Guard security is also available through the Steam app on your smartphone, by using the Steam Guard Mobile Authenticator.[/b]
 [/exclude_realm]
@@ -53,8 +49,7 @@
 
 [/section]
 
-[url id=friends][/url]
-
+[section id=friends][url id=friends][/url]
 [img]https://support.steampowered.com/images/faq/account_security/friends.png[/img]  [h1]Steam Friends[/h1]
 
 [h2]Anyone can attempt to add you[/h2]
@@ -76,7 +71,6 @@ If you receive a link from another user, especially one claiming free access to 
 [/section]
 
 [section id=beware_div][url id=beware][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/caution.png[/img]  [h1]Things to Watch Out For[/h1]Account hijackers have several common methods of attack, most of which rely upon misinformation or deception. Your account cannot be stolen if you follow these recommendations and refrain from sharing your account.
 
 Watch out for these activities:
@@ -100,7 +94,6 @@ A list of common scams can be found [url=http://www.reddit.com/r/Steam/wiki/scam
 [/section]
 
 [section id=general_div][url id=general][/url]
-
 [img]https://support.steampowered.com/images/faq/account_security/lock.png[/img]  [h1]General Security Recommendations[/h1]It is a good idea to maintain the security of your system in the following ways:
 
 [h2]Select a Strong Password[/h2]
