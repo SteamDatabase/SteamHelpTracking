@@ -30,4 +30,4 @@ To access this content please do the following...
 Please note, the folder containing the bonus material may have a different title, but should be identifiable as the location for this content. All Soundtracks should be in MP3 format, while Art Books should be a PDF or ePub.
 
 [h1]Where can I find Soundtracks within Steam?[/h1]
-Some soundtracks are automatically integrated into the Steam Music Player after the associated product has been completely installed. Please visit our [url=https://support.steampowered.com/kb_article.php?ref=5460-QTPM-9243]Steam Music Library and Player[/url] FAQ for more info. Soundtracks that are not automatically added can be found using the instructions above.
+Some soundtracks are automatically integrated into your Steam Library. Please visit our [url=https://support.steampowered.com/kb_article.php?ref=5460-QTPM-9243]Soundtracks in Steam[/url] FAQ for more info. Soundtracks that are not automatically added can be found using the instructions above.

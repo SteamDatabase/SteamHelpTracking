@@ -1,0 +1,35 @@
+[h1]Soundtracks in Steam[/h1]
+
+Soundtracks are purchasable on Steam as standalone music products or as DLC specific to a parent game (deprecated method). Some soundtracks were also included as bonus content for much older games on Steam.
+
+[h1]How do I access my soundtracks?[/h1]Soundtracks are automatically added to your Library when purchased, but you'll still need to install them.
+
+The method for installing a soundtrack depends on what type of app it is. All new soundtracks are delivered as [i]music apps[/i]. For some older soundtracks, you'll need to install the game they are associated with in order to access them as DLC. We're in the process of converting all pre-exisiting DLC sountracks to music apps
+
+[list]
+
+[*]
+
+[h3]From the Steam Store tab:[/h3]
+
+On the soundtrack storepage, select the [i]Play Now[/i] button. This will bring up an installation dialog where you can specify installation options. Once finished, your soundtrack will be included in your Steam Library.
+
+[*]
+
+[h3]From the Steam Library tab:[/h3]
+
+Select the dropdown below the [i]Home[/i] button in the upper left corner and check the [i]Soundtracks[/i] box and then select the soundtrack in the Library and use the [i]Download Album[/i] button. If a soundtrack is not shown here, you'll likely need to install the base game first.
+
+[*]
+
+[h3]From the game installation folder:[/h3]
+
+In very rare cases, the soundtrack is included with the game as bonus content. In these cases, the music files are included when the game is installed. You'll need to browse to the installation folder to look for them. You can right-click the game in your Library and select [i]Manage > Browse local files[/i].
+
+[/list]
+
+[h2]How to I access music settings?[/h2]
+To open the advanced music settings, in the Steam client go to [i]Steam > Settings > Music[/i]
+
+[h2]How do I change the music quality?[/h2]
+If a soundtrack includes multiple quality versions of the soundtrack. You can select the high quality version to download by going to your music settings: [i]Steam > Settings > Music[/i]. There you can specify that you would like to download the high quality version of soundtracks if they are available.
