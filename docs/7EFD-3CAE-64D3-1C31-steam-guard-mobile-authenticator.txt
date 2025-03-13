@@ -1,6 +1,9 @@
 [h1]Steam Guard Mobile Authenticator[/h1]
 
+[b][url=https://store.steampowered.com/mobile]Download the Steam Mobile app for Android or iOS here[/url][/b]
+
 [section style=important]If you're having trouble logging in with the Steam Guard Mobile Authenticator, please use our help site ([url=https://help.steampowered.com]help.steampowered.com[/url]) to recover your account.
+
 [/section]
 
 [h3]What is the Steam Guard Mobile Authenticator?[/h3]
@@ -9,7 +12,7 @@
 
 [*][url=#whyphone]Why should I add a phone number to my Steam account?[/url] [/*]
 [*][url=#addphone]How do I add a phone number to my Steam account? [/url] [/*]
-[*][url=#enable]How do I setup a Steam Guard Mobile Authenticator?[/url] [/*]
+[*][url=#enable]How do I set up a Steam Guard Mobile Authenticator?[/url] [/*]
 [*][url=#login]How do I sign in using the authenticator?[/url] [/*]
 [*][url=#qrlogin]How do I sign in using a QR code?[/url] [/*]
 [*][url=#where]Where is my mobile authenticator code?[/url] [/*]
@@ -84,9 +87,11 @@ You will now be able to reset your password or transfer your Steam Guard Mobile 
 
 Please note that only one phone number can be associated with a Steam account at a time.
 
-[h4][url id=enable][/url]How do I setup a Steam Guard Mobile Authenticator?[/h4]
+[h4][url id=enable][/url]How do I set up a Steam Guard Mobile Authenticator?[/h4]
 
-[url=https://support.steampowered.com/kb_article.php?ref=4440-RTUI-9218]View the setup walkthrough here[/url]
+More information about downloading the app through the Apple App Store, the Google Play Store, and a link to download the Android .apk file can be found [url=https://store.steampowered.com/mobile]here[/url].
+
+For detailed set up in instructions,view the authenticator set up walkthrough  [url=https://support.steampowered.com/kb_article.php?ref=4440-RTUI-9218]here[/url].
 
 [h4][url id=login][/url] How do I sign in using the authenticator?[/h4]
 

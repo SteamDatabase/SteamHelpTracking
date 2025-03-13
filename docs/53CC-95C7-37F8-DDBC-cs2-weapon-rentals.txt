@@ -4,8 +4,7 @@
 
 [*][url=#whatare]What are weapon rentals?[/url] [/*]
 [*][url=#howlong]How long do weapon rentals last?[/url] [/*]
-[*][url=#howtorent]How do I rent weapons?[/url] [/*]
-[*][url=#whichitems]Which weapons can be rented?[/url] [/*]
+[*][url=#whichitems]Which weapons cases can I rent items from?[/url] [/*]
 [*][url=#modifyrentals]Can I modify rented weapons?[/url] [/*]
 [*][url=#rentstattrak]Can rented weapons have StatTrak?[/url] [/*]
 [*][url=#rentalwear]What wear rating do rented weapons have?[/url] [/*]
@@ -18,7 +17,17 @@
 [section id=whatare]
 
 [h2]What are weapon rentals?[/h2]
-Introduced with the [url=https://store.steampowered.com/news/app/730/view/4177730135016140040]May 23rd, 2024 update[/url], all 17 weapons from the Kilowatt Case (minus the exceedingly rare item) can be rented in-game.
+Weapon rentals in Counter-Strike 2 allow players to temporarily own all weapons from a weapon case in their Counter-Strike 2 Inventory.
+
+When opening a weapon case players are given two options:
+
+[list]
+
+[*]Open to Keep
+
+[*]Open to Rent
+[/list]
+If players choose "Open to Rent", the key and case will be consumed and all weapons in the case (minus the exceedingly rare item) are added to their in-game Inventory.
 
 Rented weapons can be equipped and played with in all game modes.
 [/section]
@@ -29,18 +38,10 @@ Rented weapons can be equipped and played with in all game modes.
 Weapon rentals last one week (7 days). At the end of the week, equipped rented weapons will be replaced with the stock version of the weapon(s) in players' Loadouts.
 [/section]
 
-[section id=howtorent]
-
-[h2]How do I rent weapons?[/h2]
-To rent all 17 weapons from the Kilowatt Case players must have a Kilowatt Case and key in their Inventory. When opening the case, players will have the option to either rent all weapons from the Kilowatt Case (minus the exceedingly rare special item) or receive one weapon from the case to keep.
-
-Renting weapons consumes both the Kilowatt Case and the Kilowatt Case key.
-[/section]
-
 [section id=whichitems]
 
-[h2]Which weapons can be rented?[/h2]
-At this time only weapons from the Kilowatt Case (minus the exceedingly rare item) can be rented.
+[h2]Which weapons cases can I rent items from?[/h2]
+Every weapon case in Counter-Strike 2 supports weapon rentals.
 [/section]
 
 [section id=modifyrentals]
