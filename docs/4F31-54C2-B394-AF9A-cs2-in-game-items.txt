@@ -1,6 +1,6 @@
 [h1]CS2 - In-game Items[/h1]
 
-[section style=warning]Any Counter-Strike 2 item received in trade or purchased from the Community Market cannot be traded for seven days, but can be immediately listed on the [url=https://steamcommunity.com/market/search?appid=730]Steam Community Market[/url].
+[section style=warning]Any Counter-Strike 2 item received in trade or purchased from the Community Market cannot be transacted again for seven days.
 
 Detailed information on this restriction can be found on the [url=https://blog.counter-strike.net/index.php/2018/03/20308/]Counter-Strike blog[/url].
 [/section]
