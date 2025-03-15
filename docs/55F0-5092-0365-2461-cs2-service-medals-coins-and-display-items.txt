@@ -1,0 +1,54 @@
+[h1]CS2 - Service Medals, Coins, and Display items[/h1]
+
+[list]
+
+[*][url=#vetcoins]What are 5 and 10 Year Veteran Coins and how do I earn them?[/url] [/*]
+[*][url=#whatarelb]What are Loyalty Badges and how do I earn one?[/url]
+[*][url=#whatareoc]What are Operation and Major Tournament Coins?[/url]
+[*][url=#removemedal]Can I modify or remove Service Medals, Coins, or other display items on my account?[/url]	 [/*]
+
+[/list]
+
+[section id=vetcoins]
+
+[h2]What are 5 and 10 Year Veteran Coins and how do I earn them?[/h2]
+5 and 10 Year Counter-Strike 2 Veteran Coins are granted automatically to accounts which have logged into and played Counter-Strike 2 in the 5 or 10 years prior to the coin eligibility date and are in good VAC standing, meaning the account has not been VAC, Overwatch, or Game banned. Accounts that have been VAC banned in [i]any[/i] game on Steam or are trade banned are not eligible to receive Counter-Strike 2 Veteran Coins.
+
+Your account's Veteran Coin eligibility can be verified on your Counter-Strike 2 personal game data page by following the instructions below:
+
+[list]
+
+[*]Log into Steam on the web and browse to your Profile page.
+
+[*]On the right select 'Games', then find 'Counter-Strike: Global Offensive' > 'My Game Stats' > 'Personal Game Data'.
+
+[*]On the 'Account Information' tab scroll down and look for 'First Counter-Strike franchise game'. Five and ten years from the date shown here is when your account is eligible to receive the associated Veteran Coin(s).
+[/list]
+When you qualify for the coins you will need to launch Counter-Strike 2 to receive them. Veteran Coins are not granted until the game has been launched.
+
+[b]Note:[/b] If you have refunded or removed a Counter-Strike license from your account the original registration date will no longer be recognized. The date shown on the Account Information tab is the date Veteran Coins recognize.
+[/section]
+
+[section id=whatarelb]
+
+[h2]What are Loyalty Badges and how do I earn one?[/h2]
+Loyalty Badges were issued to Steam accounts when CS:GO went free to play on December 6th, 2018.
+
+To be eligible for the Loyalty Badge, your Steam account had to be in good VAC standing (meaning no bans in CS2) and must have owned and launched CS:GO in the five years prior to December 6th, 2018. If you did not receive the Loyalty Badge it is because you did not meet one of the requirements.
+
+Loyalty Badges cannot be manually granted and it is no longer possible to receive one.
+[/section]
+
+[section id=whatareoc]
+
+[h2]What are Operation and Major Tournament Coins?[/h2]
+Operation and Major Tournament Coins are upgradeable display items given to players who complete missions during their respective events. The more missions a player completes during the event the more their display item may be upgraded.
+
+Once the event has concluded the display item can no longer be upgraded.
+[/section]
+
+[section id=removemedal]
+
+[h2]Can I modify or remove Service Medals, Coins, or other display items on my account?[/h2]
+No. Service Medals, Coins of any kind, badges, pins, and other display items cannot be modified or removed from an account once they have been added.
+[/section]

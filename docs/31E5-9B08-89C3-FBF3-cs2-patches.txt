@@ -1,0 +1,29 @@
+[h1]CS2 - Patches[/h1]
+
+[*][url=#whatarepatches]What are Patches?[/url] [/*]
+[*][url=#movepatch]I have applied a Patch and would like to move it. Can I do this?[/url] [/*]
+[*][url=#whichagents]Which Agents can I apply Patches to?[/url] [/*]
+
+[section id=whatarepatches]
+
+[h2]What are Patches?[/h2]
+Patches in Counter-Strike 2 are single use in-game items that can be applied to any non-default Agent you own in different locations.
+
+Once applied, a Patch’s location cannot be changed; the Patch can only be removed from the Agent. Like Stickers on a weapon, any Patches applied to an Agent will remain if it is bought or sold on the Steam Community Market.
+[/section]
+
+[section id=movepatch]
+
+[h2]I have applied a Patch and would like to move it. Can I do this?[/h2]
+No. Once a Patch has been applied it cannot be moved. If you would like to remove a Patch you will need to click ‘REMOVE PATCH’ in-game.
+
+[b]Note:[/b] Removing a Patch from an Agent is permanent and the Patch will not be returned to your Inventory.
+[/section]
+
+[section id=whichagents]
+
+[h2]Which Agents can I apply Patches to?[/h2]
+Patches can be applied to any Agent you own but cannot be applied to default (local) agents.
+
+A link to Community Market listings for Agents that Patches can be applied to can be found [url=https://steamcommunity.com/market/search?appid=730&q=Agent]here[/url].
+[/section]

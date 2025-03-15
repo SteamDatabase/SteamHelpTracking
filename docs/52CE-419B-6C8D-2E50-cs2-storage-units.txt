@@ -1,0 +1,87 @@
+[h1]CS2 - Storage Units[/h1]
+
+[list]
+
+[*][url=#whatissu]What are Storage Units?[/url] [/*]
+[*][url=#howdoisu]How do I get a Storage Unit?[/url] [/*]
+[*][url=#whoneedssu]Who needs a Storage Unit?[/url] [/*]
+[*][url=#depositsu]How do I deposit items to a Storage Unit?[/url] [/*]
+[*][url=#retrievesu]How do I retrieve items from a Storage Unit?[/url] [/*]
+[*][url=#whereretrieve]I retrieved an item but can not find it in my Inventory. Where did it go?[/url] [/*]
+[*][url=#interactsu]How can I interact with items placed in a Storage Unit?[/url] [/*]
+[*][url=#tradesu]Can I trade or market items in a Storage Unit?[/url] [/*]
+[*][url=#renamesu]How often can I rename a Storage Unit?[/url] [/*]
+
+[/list]
+
+[section id=whatissu]
+
+[h2]What are Storage Units?[/h2]
+Storage Units are in-game items used to expand and better organize your Counter-Strike 2 Inventory. A Storage Unit adds an additional 1,000 item capacity to your Counter-Strike 2 Inventory.
+[/section]
+
+[section id=howdoisu]
+
+[h2]How do I get a Storage Unit?[/h2]
+Storage Units can be purchased in-game for $1.99.
+[/section]
+
+[section id=whoneedssu]
+
+[h2]Who needs a Storage Unit?[/h2]
+Any user who wants to hold more than 1,000 items in their Counter-Strike 2 Inventory will need a Storage Unit. Even if you have not reached the 1,000 item Inventory limit, Storage Units can be labeled and used as a way to more effectively organize your Counter-Strike 2 Inventory.
+[/section]
+
+[section id=depositsu]
+
+[h2]How do I deposit items to a Storage Unit?[/h2]
+There are two ways to deposit items into a Storage Unit:
+
+[list]
+
+[*]Click on an item in your Inventory, select 'Move to Storage Unit', and select the Storage Unit you would like to move the item to. [/*]
+[*]Click on the Storage Unit in your Inventory and select 'Deposit Items', then select which items you would like to add to the Storage Unit. [/*]
+
+[/list]
+[b]Note:[/b] default weapons, agents, gloves, and Music Kits cannot be added to Storage Units, and any item in a Storage Unit will not appear in your Steam Community Inventory until it is retrieved.
+[/section]
+
+[section id=retrievesu]
+
+[h2]How do I retrieve items from a Storage Unit?[/h2]
+There are two ways to retrieve items from a Storage Unit:
+
+[list]
+
+[*]Click on a Storage Unit in your Inventory and select 'Retrieve Items', then click on the item(s) you would like to retrieve. [/*]
+[*]Click on a Storage Unit in your Inventory and select 'Inspect', then select the item(s) you would like to retrieve and click RETRIEVE at the bottom of the screen. [/*]
+
+[/list]
+
+[/section]
+
+[section id=whereretrieve]
+
+[h2]I retrieved an item but can not find it in my Inventory. Where did it go?[/h2]
+When items are retrieved from a Storage Unit they are added back to your Counter-Strike 2 Inventory in the same location they were prior to being deposited. Retrieved items will not appear at the top of your Counter-Strike 2 Inventory.
+
+If you can not find the retrieved item we suggest scrolling through your Inventory or searching for the item using 'Search Items'. It is not possible to lose items you are depositing or retrieving from Storage Units because they never leave your account.
+[/section]
+
+[section id=interactsu]
+
+[h2]How can I interact with items placed in a Storage Unit?[/h2]
+Any item in a Storage Unit cannot be equipped, consumed, traded, marketed, renamed, or altered until it is retrieved to your Inventory.
+[/section]
+
+[section id=tradesu]
+
+[h2]Can I trade or market items in a Storage Unit?[/h2]
+No, you would need to take the items out of the Storage Unit first. Storage Units are singular in purpose and only meant for holding items. If your Storage Unit is empty it can be deleted in-game.
+[/section]
+
+[section id=renamesu]
+
+[h2]How often can I rename a Storage Unit?[/h2]
+Storage Units can be renamed as often as you would like. To rename a Storage Unit click on it in your Inventory and select 'Change Label'.
+[/section]

@@ -809,6 +809,12 @@
         "version": 10,
         "timestamp": "2023-07-27 20:17:18"
     },
+    "3595450338498575347": {
+        "title": "CS2 - Patches",
+        "url_code": "31E5-9B08-89C3-FBF3",
+        "version": 1,
+        "timestamp": "2025-03-14 23:31:18"
+    },
     "3604181186886179526": {
         "title": "CS2 - Competitive Skill Groups and Profile Rank",
         "url_code": "3204-9FB1-967F-1AC6",
@@ -928,6 +934,18 @@
         "url_code": "3978-072C-18DF-FBF9",
         "version": 5,
         "timestamp": "2023-06-15 20:21:17"
+    },
+    "4172539984165318190": {
+        "title": "CS2 - StatTrak Swap Tool",
+        "url_code": "39E7-D702-2F49-AE2E",
+        "version": 1,
+        "timestamp": "2025-03-14 23:48:37"
+    },
+    "4189639217468477497": {
+        "title": "CS2 - Stickers",
+        "url_code": "3A24-96AB-AE41-1039",
+        "version": 3,
+        "timestamp": "2025-03-15 04:03:51"
     },
     "4191372603585165667": {
         "title": "Failed to Start Game (Missing Executable)",
@@ -1340,8 +1358,8 @@
     "5706435398068383642": {
         "title": "CS2 - In-game Items",
         "url_code": "4F31-54C2-B394-AF9A",
-        "version": 34,
-        "timestamp": "2025-03-13 17:18:19"
+        "version": 37,
+        "timestamp": "2025-03-15 03:52:10"
     },
     "5718041075055894628": {
         "title": "Portal 2 Perpetual Testing Initiative",
@@ -1396,6 +1414,12 @@
         "url_code": "51D3-5714-53CA-2886",
         "version": 5,
         "timestamp": "2024-09-24 18:52:46"
+    },
+    "5966778692109413968": {
+        "title": "CS2 - Storage Units",
+        "url_code": "52CE-419B-6C8D-2E50",
+        "version": 2,
+        "timestamp": "2025-03-14 23:22:09"
     },
     "5973512499471541601": {
         "title": "Items Not Properly Awarded",
@@ -1462,6 +1486,12 @@
         "url_code": "5597-9C67-1017-4C48",
         "version": 2,
         "timestamp": "2021-07-10 19:49:55"
+    },
+    "6192538075686839393": {
+        "title": "CS2 - Service Medals, Coins, and Display items",
+        "url_code": "55F0-5092-0365-2461",
+        "version": 1,
+        "timestamp": "2025-03-14 22:22:57"
     },
     "6252919898993872562": {
         "title": "Community Avatars & Profile Names",
@@ -1589,6 +1619,12 @@
         "version": 55,
         "timestamp": "2025-01-09 17:55:39"
     },
+    "6672533846652219828": {
+        "title": "CS2 - Charms",
+        "url_code": "5C99-9A2E-5179-F1B4",
+        "version": 1,
+        "timestamp": "2025-03-15 03:35:47"
+    },
     "6710907134894229325": {
         "title": "Missing or scrambled text in-game",
         "url_code": "5D21-EE7B-B801-474D",
@@ -1654,6 +1690,12 @@
         "url_code": "5F3D-1477-AFF9-C4F3",
         "version": 8,
         "timestamp": "2023-07-26 22:34:34"
+    },
+    "6889443061022927977": {
+        "title": "CS2 - Name Tags",
+        "url_code": "5F9C-37F6-508D-2C69",
+        "version": 1,
+        "timestamp": "2025-03-14 23:28:04"
     },
     "6893118316788988094": {
         "title": "Enabling Low Violence in Team Fortress 2",
@@ -2144,8 +2186,8 @@
     "8466903480464485479": {
         "title": "CS2 - Competitive cooldowns and bans",
         "url_code": "7580-7BDB-1C9A-AC67",
-        "version": 20,
-        "timestamp": "2025-02-19 18:44:53"
+        "version": 21,
+        "timestamp": "2025-03-14 23:43:59"
     },
     "8508054175547039248": {
         "title": "CS:GO - Steam Group Lobbies",

@@ -1,0 +1,17 @@
+[h1]CS2 - StatTrak Swap Tool[/h1]
+
+[list]
+
+[*][url=#swaptool]What is a StatTrak Swap Tool?[/url] [/*]
+
+[/list]
+
+[section id=swaptool]
+
+[h2]What is a StatTrak Swap Tool?[/h2]
+StatTrak Swap Tools are single use items which allow players to transfer kill counts from one StatTrak weapon to another so long as the weapon is the same.
+
+Kills from a StatTrak M4A1-S can only be transferred to another StatTrak M4A1-S using a Swap Tool, [i]not[/i] to another weapon.
+
+StatTrak Swap Tools can be purchased for $.99 USD in-game or from the [url=https://steamcommunity.com/market/]Community Market[/url].
+[/section]

@@ -1,0 +1,52 @@
+[h1]CS2 - Charms[/h1]
+
+[list]
+
+[*][url=#whatare]What are Charms?[/url] [/*]
+[*][url=#receive]Where do I get Charms from?[/url] [/*]
+[*][url=#detach]How do I detach a Charm?[/url] [/*]
+[*][url=#detachpack]Where do I get Charm Detachments?[/url] [/*]
+[*][url=#detachcount]Where can I see how many Charm Detachments I have?[/url] [/*]
+
+[/list]
+
+[section id=whatare]
+
+[h2]What are Charms?[/h2]
+Charms are keychain-like items that can be attached to any weapon in Counter-Strike 2 (except knives). Charms can be detached and re-attached almost anywhere on a weapon.
+[/section]
+
+[section id=receive]
+
+[h2]Where do I get Charms from?[/h2]
+Charms can be redeemed in-game by spending Armory Credits or purchased through the [url=https://steamcommunity.com/market/search?appid=730&q=charm]Steam Community Market[/url].
+[/section]
+
+[section id=detach]
+
+[h2]How do I detach a Charm?[/h2]
+To detach a Charm you must first have a Charm Detachment in your Inventory.
+
+Select the weapon with a Charm in your in-game Inventory, then click "Detach Charm" and confirm at the next screen. The Charm will be removed from your weapon and returned to your in-game Inventory.
+[/section]
+
+[section id=detachpack]
+
+[h2]Where do I get Charm Detachments?[/h2]
+There are three ways to get Charm Detachments:
+
+[list]
+
+[*]Redeem a Charm from the Armory. Each redeemed charm from the Armory comes with 3 Charm Detachments. [/*]
+[*]Redeem Charm Detachments from Weekly Care Packages. [/*]
+[*]Purchase Charm Detachments in-game. [/*]
+
+[/list]
+
+[/section]
+
+[section id=detachcount]
+
+[h2]Where can I see how many Charm Detachments I have?[/h2]
+To see how many Charm Detachments you have, search for "Charm Detachment" in your in-game Inventory.
+[/section]

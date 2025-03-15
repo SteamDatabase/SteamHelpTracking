@@ -1,0 +1,37 @@
+[h1]CS2 - Name Tags[/h1]
+
+[*][url=#whatarent]What are Name Tags?[/url] [/*]
+[*][url=#characters]What characters can I use on a Name Tag?[/url] [/*]
+[*][url=#tagposition]Can I change the position of the Name Tag on a weapon?[/url] [/*]
+
+[section id=whatarent]
+
+[h2]What are Name Tags?[/h2]
+Name Tags are single use items which allow players to nickname their weapons. Name Tags cannot be modified once they have been applied and are not returned to the user's Inventory when removed.
+
+To remove a Name Tag on an existing weapon, left-click on the weapon, select 'Rename', then 'Remove Name'.
+
+Name Tags can be purchased for $1.99 USD in-game or from the [url=https://steamcommunity.com/market/]Steam Community Market[/url].
+[/section]
+
+[section id=characters]
+
+[h2]What characters can I use on a Name Tag?[/h2]
+The following characters can be used on Name Tags:
+
+[list]
+
+[*]a b c d e f g h i j k l m n o p q r s t u v w x y z [/*]
+[*]A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [/*]
+[*]0 1 2 3 4 5 6 7 8 9 [/*]
+[*]`!@#$%^&*-+=(){}[]/|\,.?:;'_ (and "space", but Name Tags can not start with spaces) [/*]
+
+[/list]
+[b]Note:[/b] Any characters not listed here are not officialy supported and may not display properly. Name Tags are shown to players prior to finalizing the name, and characters not shown in the Name Tag preview will not display once applied.
+[/section]
+
+[section id=tagposition]
+
+[h2]Can I change the position of the Name Tag on a weapon?[/h2]
+No. Name Tags have a pre-determined location on each weapon which cannot be changed.
+[/section]

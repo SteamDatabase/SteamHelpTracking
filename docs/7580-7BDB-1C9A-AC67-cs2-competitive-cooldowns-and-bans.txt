@@ -99,6 +99,8 @@ Players receiving an excessive number of in-game reports for griefing may receiv
 Players who VAC determines as having irregular gameplay will be disconnected from the match and receive a minimum one day competitive cooldown regardless of their current cooldown level.
 
 Cooldowns issued for irregular gameplay prevent access to all game modes for the duration of the cooldown.
+
+[b]Note:[/b] players who receive a VACnet cooldown will have their CSR adjusted regardless of if they, or a player they partied with, caused the match to be canceled.
 [/section]
 
 [section id=partyvacnet]
@@ -107,6 +109,8 @@ Cooldowns issued for irregular gameplay prevent access to all game modes for the
 Players who party with someone who is disconnected for irregular gameplay will receive the same minimum one day competitive cooldown as the disconnected player regardless of their current cooldown level.
 
 Cooldowns issued for partying with a player who VAC disconnects for irregular gameplay prevents access to all game modes for the duration of the cooldown.
+
+[b]Note:[/b] players who receive a VACnet cooldown will have their CSR adjusted regardless of if they, or a player they partied with, caused the match to be canceled.
 [/section]
 
 [section id=removecool]
@@ -118,7 +122,7 @@ No. Regardless of the reason a Competitive cooldown was issued they cannot be re
 [section id=length]
 
 [h2]How long will my Competitive cooldown last?[/h2]
-Competitive cooldowns in Counter-Strike 2 have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking.
+Non-VACNet Competitive cooldowns in Counter-Strike 2 have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking.
 
 [list]
 

@@ -1,0 +1,42 @@
+[h1]CS2 - Stickers[/h1]
+
+[list]
+
+[*][url=#whatarestick]What are Stickers?[/url] [/*]
+[*][url=#where]Where do I get stickers from?[/url] [/*]
+[*][url=#movesticker]I have applied a Sticker and would like to move it. Can I do this?[/url] [/*]
+[*][url=#stickergone]Stickers on my weapon are not visible when I inspect in-game. Why is this?[/url] [/*]
+
+[/list]
+
+[section id=whatarestick]
+
+[h2]What are Stickers?[/h2]
+Stickers in Counter-Strike 2 are single use in-game items that can be placed on players' weapons in almost any location. Stickers can be moved around and rotated prior to being applied and a maximum of five stickers can be applied to any weapon.
+
+Once applied, stickers can be scraped to begin the removal process or to change their appearance. To do this, left-click on a weapon in your Counter-Strike 2 Inventory which has Stickers, select 'Scrape Sticker', and drag the scrape slider to achieve your desired look.
+
+[b]Note:[/b] Scraping a Sticker cannot be undone. Once you have scraped a Sticker the results are permanent.
+[/section]
+
+[section id=where]
+
+[h2]Where do I get stickers from?[/h2]
+Stickers can be purchased through in-game offers, from the [url=https://steamcommunity.com/market/]Steam Community Market[/url], or redeemed from the Armory using Armory Credits.
+[/section]
+
+[section id=movesticker]
+
+[h2]I have applied a Sticker and would like to move it. Can I do this?[/h2]
+No. Once a Sticker has been placed on a weapon it cannot be moved. If you would like to remove the Sticker you will need to select the 'Remove Sticker' option.
+
+[b]Note:[/b] Removing a Sticker from a weapon is permanent and the Sticker will not be returned to your Inventory.
+[/section]
+
+[section id=stickergone]
+
+[h2]Stickers on my weapon are not visible when I inspect in-game. Why is this?[/h2]
+Stickers on your weapon may not be visible because they have been heavily scraped. The more a sticker is scraped the less vibrant it is, and stickers that have been heavily scraped may only leave a faint outline of the original sticker. This is by design and cannot be modified.
+
+You are free to completely remove the sticker by selecting the 'Remove Sticker' option.
+[/section]
