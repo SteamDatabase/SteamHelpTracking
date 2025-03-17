@@ -8,6 +8,8 @@ This article includes different options to reset, recover, repair, or re-image y
 
 [*][url=#factory] Factory Reset[/url] (clear all local data, and reinstall Steam)
 
+[*][url=#erase] Erase user data from Deck[/url] (clear all local data)
+
 [*][url=#menu] Rollback to previous OS[/url] (recover to previous known good OS while retaining user data)
 
 [*][url=#reimage] Recovery via Re-image[/url] (wipes all data on the device and installs the OS)
@@ -18,23 +20,25 @@ This article includes different options to reset, recover, repair, or re-image y
 
 [h2]Factory Reset[/h2]
 
-For situations where you want to clear all local data (including games, etc.) and reinstall Steam/SteamOS, you can make use of this feature. There are two ways to access it.
+For situations where you want to clear all local data (including games, etc.) and reinstall Steam/SteamOS, you can make use of this feature.
 
-[url id=settingmenu][/url][b]Reset through the settings menu[/b]
 This option can be used if your Deck can boot successfully into Steam.
 
 [olist]
 
 [*]While in Steam, press the "Steam" button, go to "Settings" and then "System".
 
-[*]From there scroll down to the Factory Reset option and select the "Reset" button.
+[*]From there scroll down to the Factory Reset option and select the "Factory Reset" button.
 
-Note: The 'Re-install SteamOS' option requires an active internet connection. If a system file has been modified, this operation will download the original version to restore them to an unmodified state. If you cannot or do not want to connect the device to the internet, you can disable the 'Re-install SteamOS' option or use the [url=#resetmenu]"recovery menu"[/url] method to revert to the previous version of SteamOS.
+Note: The 'Re-install SteamOS' option may require an active internet connection. If a system file has been modified, this operation will download the original version to restore them to an unmodified state. If you cannot or do not want to connect the device to the internet, you can disable the 'Re-install SteamOS' option or use the [url=#menu]"Rollback to previous OS"[/url] option to revert to the previous version of SteamOS.
 
 [/olist]
 
-[url id=resetmenu][/url][b]Reset through the recovery menu[/b]
-This option is useful if your Deck is having problems booting or has no internet connection. Accessing this menu requires specific button presses and for the device to be completely shut down.
+[url id=erase][/url]
+
+[h2]Erase user data from Deck[/h2]
+
+This option is useful if you want to erase all local user data on the Deck but do not want to, or cannot load into game mode to use the Factory Reset option to erase it. Accessing this menu requires specific button presses and for the device to be completely shut down.
 
 [olist]
 
@@ -47,7 +51,7 @@ This option is useful if your Deck is having problems booting or has no internet
 The recovery menu will look something like below:
 [img]{STEAM_CLAN_IMAGE}/39983882/45e0cb7f5ea0edb39f47afadf69187506fe79ea3.png[/img]
 
-[*]From this menu you can choose "ERASE USER DATA FROM DECK". This will reinstall Steam and erase any local user data.
+[*]From this menu you can choose "ERASE USER DATA FROM DECK". This will erase any local user data.
 
 [/olist]
 
