@@ -3,6 +3,7 @@
 [list]
 
 [*][url=#vetcoins]What are 5 and 10 Year Veteran Coins and how do I earn them?[/url] [/*]
+[*][url=#veteligible]How do I know when I am eligible for 5 and 10 Year Veterain Coins?[/url] [/*]
 [*][url=#whatarelb]What are Loyalty Badges and how do I earn one?[/url]
 [*][url=#whatareoc]What are Operation and Major Tournament Coins?[/url]
 [*][url=#removemedal]Can I modify or remove Service Medals, Coins, or other display items on my account?[/url]	 [/*]
@@ -12,8 +13,14 @@
 [section id=vetcoins]
 
 [h2]What are 5 and 10 Year Veteran Coins and how do I earn them?[/h2]
-5 and 10 Year Counter-Strike 2 Veteran Coins are granted automatically to accounts which have logged into and played Counter-Strike 2 in the 5 or 10 years prior to the coin eligibility date and are in good VAC standing, meaning the account has not been VAC, Overwatch, or Game banned. Accounts that have been VAC banned in [i]any[/i] game on Steam or are trade banned are not eligible to receive Counter-Strike 2 Veteran Coins.
+5 and 10 Year Counter-Strike 2 Veteran Coins are granted automatically to accounts which have logged into and played Counter-Strike 2 in the 5 or 10 years prior to the coin eligibility date and are in good VAC standing, meaning the account has not been VAC, Overwatch, or Game banned.
 
+Accounts that have been VAC banned in [i]any[/i] game on Steam or are trade banned are not eligible to receive Counter-Strike 2 Veteran Coins.
+[/section]
+
+[section id=veteligible]
+
+[h2]How do I know when I am eligible for 5 and 10 Year Veterain Coins?[/h2]
 Your account's Veteran Coin eligibility can be verified on your Counter-Strike 2 personal game data page by following the instructions below:
 
 [list]
