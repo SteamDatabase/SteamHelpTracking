@@ -80,6 +80,8 @@ Limited user accounts are prevented from accessing several features on Steam, in
 
 [*]Creating Steam groups
 
+[*]Creating a Steam Family
+
 [*]Counting towards Steam group membership
 
 [*]Following/adding curators

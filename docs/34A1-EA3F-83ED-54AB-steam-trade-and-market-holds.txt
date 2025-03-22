@@ -39,6 +39,6 @@ When you cancel a trade that is being held by Steam, we'll presume that you inte
 [url id=5][/url]
 
 [h3]How can I remove the need for a trade or market hold?[/h3]
-Trade and market holds are no longer necessary when you protect your account with a Steam Guard Mobile Authenticator. Using a physical device (your smartphone) to confirm item transactions ensures that you and only you can quickly and securely trade or sell your items. Items on the Community Market that typically sell for under $1.00 USD do not require confirmation when the list price is reasonably within the median price ([url= https://steamcommunity.com/groups/community_market/announcements/detail/1705067494681435160]reference[/url]).
+Trade and market holds are no longer necessary when you protect your account with a Steam Guard Mobile Authenticator. Using a physical device (your smartphone) to confirm item transactions ensures that you and only you can quickly and securely trade or sell your items. Items on the Community Market that typically sell for under $1.00 USD do not require confirmation when the list price is reasonably within the median price.
 
 You can get the [url=http://store.steampowered.com/mobile/]Steam Guard Mobile Authenticator[/url] for iOS, Android, and Windows Phone devices. Items will no longer be held after you have had the authenticator enabled for 7 days.
