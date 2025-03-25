@@ -32,4 +32,4 @@ In very rare cases, the soundtrack is included with the game as bonus content. I
 To open the advanced music settings, in the Steam client go to [i]Steam > Settings > Music[/i]
 
 [h2]How do I change the music quality?[/h2]
-If a soundtrack includes multiple quality versions of the soundtrack. You can select the high quality version to download by going to your music settings: [i]Steam > Settings > Music[/i]. There you can specify that you would like to download the high quality version of soundtracks if they are available.
+If a soundtrack includes multiple quality versions, you can select the high quality version to download by going to your music settings: [i]Steam > Settings > Music[/i]. There you can specify that you would like to download the high quality version of soundtracks if they are available.
