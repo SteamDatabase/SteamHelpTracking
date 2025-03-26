@@ -92,6 +92,10 @@ To pair a Bluetooth device, make sure that it is in pairing mode. Check your dev
 
 If you're not able to find your Bluetooth device, you can go to Settings > Bluetooth, and toggle the "Show all devices" toggle to ON.
 
+[h4]Other pairing issues[/h4]
+
+If your device isn't pairing properly, we recommend making sure you've applied any firmware updates that may be available for the device. We have found that many Xbox controllers require a firmware update before they will function as expected with the Steam Deck, for example. You can update your Xbox controller's firmware by following the 'Update on PC' instructions available at [url=https://support.xbox.com/en-GB/help/hardware-network/controller/update-xbox-wireless-controller]this link[/url].
+
 [h4]Latency issues[/h4]
 
 If you're experiencing latency or other performance issues with your Bluetooth device, start by disconnecting and reconnecting the device to refresh your connection. If the problem persists, you may want to forget and re-pair the device. If you're still having problems, you may want to change to a different A2DP codec such as SBC or AptXLL. You can do this from the Sound Settings in Desktop Mode (see below).

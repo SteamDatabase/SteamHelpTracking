@@ -164,7 +164,7 @@ Often wireless controllers or audio devices are used with the Steam Deck.  Below
 
 [*]Make sure that Steam is set to not download game updates during gameplay
 
-[*]If you are having issues connecting or maintaining pairing with your controller, check for software/firmware updates. We have found that many Xbox controllers require a firmware update before they will function as expected with the Steam Deck, for example.
+[*]If you are having issues connecting or maintaining pairing with your controller, check for software/firmware updates. We have found that many Xbox controllers require a firmware update before they will function as expected with the Steam Deck, for example. You can update your Xbox controller's firmware by following the 'Update on PC' instructions available at [url=https://support.xbox.com/en-GB/help/hardware-network/controller/update-xbox-wireless-controller]this link[/url].
 
 [/list]
 
