@@ -166,7 +166,7 @@ The Steam Guard Mobile Authenticator works on Apple iOS devices running iOS 13.0
 
 [h4][url id=restrictions][/url]Why are my items on hold?[/h4]
 
-Any trades or Market listings created before a Mobile Authenticator is added, or during the first 7 days after it is added, will be held for 15 days. Trades or Market listings created more than 7 days after a Mobile Authenticator is added will not be held by Steam. Adding a Mobile Authenticator will not reduce the length of existing item holds. Items that typically sell for under $1.00 USD do not require confirmation when the list price is reasonably within the median price.
+Any trades or Market listings created before a Mobile Authenticator is added, or during the first 7 days after it is added, will be held for 15 days. Trades or Market listings created more than 7 days after a Mobile Authenticator is added will not be held by Steam. Adding a Mobile Authenticator will not reduce the length of existing item holds.
 
 [url=https://support.steampowered.com/kb_article.php?ref=8078-TPHC-6195]Read more about Trade and Market Holds[/url], or why items are held by Steam.
 
