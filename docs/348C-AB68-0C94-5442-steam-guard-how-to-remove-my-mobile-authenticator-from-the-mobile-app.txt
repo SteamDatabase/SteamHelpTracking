@@ -1,0 +1,30 @@
+[h1]Steam Guard: How to remove my mobile authenticator from the mobile app[/h1]
+
+[h2]For Android and iOS devices[/h2]
+
+[img]{STEAM_CLAN_IMAGE}/39983882/f003809313f459e15688224942da8a10fb8ac721.png[/img]
+
+In order to remove your Steam Guard Mobile Authenticator from the Steam Mobile App. You'll need the device or phone that has your authenticator installed.
+
+Don't have your device? [url=https://store.steampowered.com/twofactor/remove?step=promptdevice]You can also remove your authenticator from Account Details > Security & Devices[/url].
+
+[section style=important]NOTE: Removing a Steam Guard Mobile Authenticator reduces your account security.
+
+Without a mobile authenticator, you'll have limited and slower access to trading and selling on the market. [url=https://help.steampowered.com/en/faqs/view/34A1-EA3F-83ED-54AB]Learn more[/url].
+
+Post-removal you will not be able to trade or sell items on the market for 15 days.
+[/section]
+
+Step 1 - Open the Steam Mobile App and go to the Steam Guard page.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/55195e235b60d5e44249fa5b681dd9fa9d21c250.png[/img]
+
+Step 2 - Select "Remove Authenticator".
+
+[img]{STEAM_CLAN_IMAGE}/39983882/6840b28f90e71f37701a458407f24d25265eba37.png[/img]
+
+Step 3 - Confirm that you want to remove the authenticator.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/b5868d3f2d33d68e124ae719cbec4f33cc7c8545.png[/img]
+
+Without a mobile authenticator you'll go back to receiving [url=https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C]Steam Guard email codes[/url] to sign in to Steam.

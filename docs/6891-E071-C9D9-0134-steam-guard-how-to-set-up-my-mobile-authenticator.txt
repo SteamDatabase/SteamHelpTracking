@@ -1,0 +1,57 @@
+[h1]Steam Guard: How to set up my mobile authenticator[/h1]
+
+[h2]For Android and iOS devices[/h2]
+[img]{STEAM_CLAN_IMAGE}/39983882/f003809313f459e15688224942da8a10fb8ac721.png[/img]
+
+[url=https://store.steampowered.com/mobile#mobile_section]Download and install the app[/url]
+
+The Android and iOS apps are the same. For the purposes of this walkthrough, the images below show the iOS app.
+
+Step 1 - Sign in to the [url=https://store.steampowered.com/mobile#mobile_section]Steam Mobile App[/url] with your Steam account credentials and you'll land on the Steam Guard tab. From here you can select "Add authenticator" to setup your authenticator.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/c80555d76bb109e1aa5ebdd0e65d84d312263eea.png[/img]
+
+Step 2 - Enter a phone number, one that we can confirm with a text message. If you ever lose access to your Steam account, you can quickly recover it by asking Steam to send a text to this phone number.
+
+Select your international prefix from the drop down.
+
+[i]Note: if you do not have a phone number, you can still add the authenticator. To do this, select the link "I don't have access to a phone number" below the "Next" button.[/i]
+
+[img]{STEAM_CLAN_IMAGE}/39983882/6b4f8493ea9fc250363d377e187c6b0f80dfc30c.png[/img]
+
+Steam will send a confirmation code to your phone.
+
+Step 3 - Enter the code we've sent to that phone number. If you don't receive the text, tap the link to send it again.
+
+[i]Note: Depending on your carrier, messages can be temporarily delayed. If you don't receive the text after a few hours, please contact Steam Support for additional assistance.[/i]
+
+[img]{STEAM_CLAN_IMAGE}/39983882/65f58f5cf33a5fe23bd247b2326ced526e324d64.png[/img]
+
+Step 4 - When the code is successfully entered, we'll present you with a Recovery code you might need in the future.
+
+Write down the code and store it in a safe place. This code allows you to recover your account yourself, should you lose your phone or authenticator. Do not skip this step.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
+
+When the mobile authenticator is successfully enabled, you'll have these options when signing in to Steam:
+
+[list]
+
+[*] Scan the Steam QR code with the Steam Mobile App
+[b]Or[/b]
+
+[*] Enter your name and password, then Steam will send you an app notification to confirm
+[b]Or[/b]
+
+[*] Enter your name and password, then enter the Steam Guard code from the mobile app
+
+[/list]
+
+[h2]Protecting multiple accounts[/h2]
+
+Your Steam Mobile app can be used to authenticate multiple Steam accounts. From the blue drop down on the Steam Guard tab, select an account or add a new one. Follow the steps above to add the mobile authenticator to this account. When that's successfully completed, you'll be able to confirm sign ins for all of your accounts, regardless of which account is signed into the app.
+
+Questions about Steam Guard Mobile Authenticators? [url=https://support.steampowered.com/kb_article.php?ref=8625-WRAH-9030&l]Learn more here[/url]
+
+[section style=important]If you're having trouble logging in with the Steam mobile authenticator, please use our help site ([url=https://help.steampowered.com]help.steampowered.com[/url]) to recover your account.
+[/section]

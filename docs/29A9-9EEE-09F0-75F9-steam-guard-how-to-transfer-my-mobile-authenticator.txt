@@ -1,0 +1,32 @@
+[h1]Steam Guard: How to transfer my mobile authenticator[/h1]
+
+[h2]For Android and iOS devices[/h2]
+[img]{STEAM_CLAN_IMAGE}/39983882/f003809313f459e15688224942da8a10fb8ac721.png[/img]
+
+[section style=important]To transfer your mobile authenticator with limited feature disruption, you'll need to have both the new and old device.
+[/section]
+
+[url=https://store.steampowered.com/mobile#mobile_section]Download and install the app[/url]
+
+The Android and iOS apps are the same. For the purposes of this walkthrough, the images below show the iOS app.
+
+Install the [url=https://store.steampowered.com/mobile#mobile_section]Steam Mobile app[/url] on your new device and sign in with your Steam account, you'll need to confirm this sign in using the mobile authenticator.
+
+Once you've installed the app and signed in with your Steam account credentials, you'll land on the Steam Guard tab. Select the option to  "Move Authenticator."
+
+Steam will send a confirmation code to your phone.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/65f58f5cf33a5fe23bd247b2326ced526e324d64.png[/img]
+
+Enter the code we've sent to that phone number. If you didn't receive the text, you resend it. Note: Depending on your carrier, messages can be temporarily delayed. If you don't receive the text after a few hours, please contact Steam Support for additional assistance.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
+
+When the code is successfully entered, we'll present you with a Recovery code. Write down the code and store it in a safe place. This code allows you to recover your account yourself, should you lose your phone or authenticator. Do not skip this step.
+
+[img]{STEAM_CLAN_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
+
+Questions about Steam Guard Mobile Authenticators? [url=https://support.steampowered.com/kb_article.php?ref=8625-WRAH-9030&l]Learn more here[/url]
+
+[section style=important]If you're having trouble logging in with the Steam mobile authenticator, please use our help site ([url=https://help.steampowered.com]help.steampowered.com[/url]) to recover your account.
+[/section]
