@@ -9,7 +9,7 @@ The Android and iOS apps are the same. For the purposes of this walkthrough, the
 
 Step 1 - Sign in to the [url=https://store.steampowered.com/mobile#mobile_section]Steam Mobile App[/url] with your Steam account credentials and you'll land on the Steam Guard tab. From here you can select "Add authenticator" to setup your authenticator.
 
-[img]{STEAM_CLAN_IMAGE}/39983882/c80555d76bb109e1aa5ebdd0e65d84d312263eea.png[/img]
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/c80555d76bb109e1aa5ebdd0e65d84d312263eea.png[/img]
 
 Step 2 - Enter a phone number, one that we can confirm with a text message. If you ever lose access to your Steam account, you can quickly recover it by asking Steam to send a text to this phone number.
 
@@ -17,7 +17,7 @@ Select your international prefix from the drop down.
 
 [i]Note: if you do not have a phone number, you can still add the authenticator. To do this, select the link "I don't have access to a phone number" below the "Next" button.[/i]
 
-[img]{STEAM_CLAN_IMAGE}/39983882/6b4f8493ea9fc250363d377e187c6b0f80dfc30c.png[/img]
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/6b4f8493ea9fc250363d377e187c6b0f80dfc30c.png[/img]
 
 Steam will send a confirmation code to your phone.
 
@@ -25,13 +25,13 @@ Step 3 - Enter the code we've sent to that phone number. If you don't receive th
 
 [i]Note: Depending on your carrier, messages can be temporarily delayed. If you don't receive the text after a few hours, please contact Steam Support for additional assistance.[/i]
 
-[img]{STEAM_CLAN_IMAGE}/39983882/65f58f5cf33a5fe23bd247b2326ced526e324d64.png[/img]
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/65f58f5cf33a5fe23bd247b2326ced526e324d64.png[/img]
 
 Step 4 - When the code is successfully entered, we'll present you with a Recovery code you might need in the future.
 
 Write down the code and store it in a safe place. This code allows you to recover your account yourself, should you lose your phone or authenticator. Do not skip this step.
 
-[img]{STEAM_CLAN_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
 
 When the mobile authenticator is successfully enabled, you'll have these options when signing in to Steam:
 

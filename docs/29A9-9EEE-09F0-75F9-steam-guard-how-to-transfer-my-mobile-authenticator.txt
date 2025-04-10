@@ -12,19 +12,21 @@ The Android and iOS apps are the same. For the purposes of this walkthrough, the
 
 Install the [url=https://store.steampowered.com/mobile#mobile_section]Steam Mobile app[/url] on your new device and sign in with your Steam account, you'll need to confirm this sign in using the mobile authenticator.
 
-Once you've installed the app and signed in with your Steam account credentials, you'll land on the Steam Guard tab. Select the option to  "Move Authenticator."
+Step 1 - Once you've installed the app on the new device and signed in with your Steam account credentials, you'll land on the Steam Guard tab. Select the option to "Move Authenticator."
+
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/971f2e412279a0da281e535558b800251b923cb9.png[/img]
 
 Steam will send a confirmation code to your phone.
 
-[img]{STEAM_CLAN_IMAGE}/39983882/65f58f5cf33a5fe23bd247b2326ced526e324d64.png[/img]
+Step 2 - Enter the code we've sent to that phone number. If you didn't receive the text, you can resend it.
 
-Enter the code we've sent to that phone number. If you didn't receive the text, you resend it. Note: Depending on your carrier, messages can be temporarily delayed. If you don't receive the text after a few hours, please contact Steam Support for additional assistance.
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/65f58f5cf33a5fe23bd247b2326ced526e324d64.png[/img]
 
-[img]{STEAM_CLAN_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
+[i]Note: Depending on your carrier, messages can be temporarily delayed. If you don't receive the text after a few hours, please contact Steam Support for additional assistance.[/i]
 
-When the code is successfully entered, we'll present you with a Recovery code. Write down the code and store it in a safe place. This code allows you to recover your account yourself, should you lose your phone or authenticator. Do not skip this step.
+Step 3 - When the code is successfully entered, we'll present you with a Recovery code. Write down the code and store it in a safe place. This code allows you to recover your account yourself, should you lose your phone or authenticator. Do not skip this step.
 
-[img]{STEAM_CLAN_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
 
 Questions about Steam Guard Mobile Authenticators? [url=https://support.steampowered.com/kb_article.php?ref=8625-WRAH-9030&l]Learn more here[/url]
 
