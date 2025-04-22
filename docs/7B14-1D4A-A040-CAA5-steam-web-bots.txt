@@ -1,0 +1,27 @@
+[h1]Steam Web Bots[/h1]
+
+The Steam service occasionally accesses third party websites in an automated fashion, known as bots.  This describes some bots used by the Steam platform.
+
+[h2]Steam Chat URL Previews[/h2]
+
+When a user enters a link into Steam chat, the Steam server will access that URL and attempt to generate a rich preview of the content at the link.  This request is made with the following user agent:
+[code]Valve/Steam HTTP Client 1.0 (SteamChatURLLookup)[/code]
+This request is only made on behalf of a user when a link is posted into a chat.  Depending on the message and the URL, we will not always perform the lookup.
+
+The URL Preview bot will make an initial HEAD request to determine the content type of the URL.  If the content type is "text/html", the bot will make a second GET request to the URL to read the content of the page to look for opengraph and other meta tags.  This GET request is made with a "Range" header to retrieve a limited amount of data.
+
+[h2]Steam Chat Image Proxy[/h2]
+
+When a chat message contains an image hosted on a third-party website, we will proxy the request to protect the privacy of the user viewing the chat.  There are two ways for a third-party image to get embedded in a Steam Chat:
+
+[olist]
+
+[*] A user posts the URL of an image file on the internet.
+
+[*] A user posts the URL of a website that has meta tags indicating an image should be used in the preview.
+
+[/olist]
+
+In both cases, the "SteamChatURLLookup" bot performs the initial lookup when the URL is sent and embeds the image URL in the chat.  When the client would display the image, it requests through the steam chat image proxy, which will download the contents of the image from the originating website using the user agent:
+[code]SteamChatImageProxy[/code]
+The contents of this image will be cached on the Steam CDN for a short period of time.

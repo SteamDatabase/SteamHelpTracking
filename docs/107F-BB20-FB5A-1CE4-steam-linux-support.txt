@@ -1,0 +1,7 @@
+[h1]Steam Linux Support[/h1]
+
+On August 15th, 2025, Steam will officially stop supporting Linux distributions with a version of glibc older than 2.31. After that date, the Steam Client will no longer run on this version of glibc. In order to continue running Steam and any games or other products purchased through Steam, users will need to update their operating system to a version that contains a compatible version of glibc.
+
+We strongly encourage all users to keep their operating systems up to date, and to ensure the current version of your Linux distribution is actively supported. An unsupported distribution release, when connected to the internet, is susceptible to new malware and other exploits which will not be patched. That malware can cause your computer, Steam and games to perform poorly or crash. That malware can also be used to steal the credentials for your Steam account or other services.
+
+Consult your Linux distribution's documentation for instructions on how to update to a supported OS version.

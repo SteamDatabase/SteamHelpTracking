@@ -269,6 +269,12 @@
         "version": 4,
         "timestamp": "2021-07-26 20:57:48"
     },
+    "1188874576979434724": {
+        "title": "Steam Linux Support",
+        "url_code": "107F-BB20-FB5A-1CE4",
+        "version": 1,
+        "timestamp": "2025-04-21 18:37:49"
+    },
     "1230678365821384580": {
         "title": "Steam Client Troubleshooting on Linux",
         "url_code": "1114-3F74-0B8A-B784",
@@ -1628,8 +1634,8 @@
     "6607600367846018830": {
         "title": "Where to buy Steam Wallet Codes",
         "url_code": "5BB2-E986-A733-CF0E",
-        "version": 55,
-        "timestamp": "2025-01-09 17:55:39"
+        "version": 56,
+        "timestamp": "2025-04-21 23:29:26"
     },
     "6672533846652219828": {
         "title": "CS2 - Charms",
@@ -2284,6 +2290,12 @@
         "url_code": "7AB7-504F-809F-FEC5",
         "version": 3,
         "timestamp": "2021-07-10 19:49:55"
+    },
+    "8868745772552735397": {
+        "title": "Steam Web Bots",
+        "url_code": "7B14-1D4A-A040-CAA5",
+        "version": 2,
+        "timestamp": "2025-04-21 19:44:25"
     },
     "8928310935471522734": {
         "title": "Steam Link Hardware",
