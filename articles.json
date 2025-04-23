@@ -41,6 +41,12 @@
         "version": 2,
         "timestamp": "2021-07-10 19:49:55"
     },
+    "213266439488409398": {
+        "title": "Accessibility Features",
+        "url_code": "02F5-ACB2-6038-0F36",
+        "version": 1,
+        "timestamp": "2025-04-22 22:36:11"
+    },
     "258297692838653570": {
         "title": "Case Sensitive Filesystems not supported on Mac",
         "url_code": "0395-A862-13F3-6E82",
@@ -668,8 +674,8 @@
     "3002105371825305081": {
         "title": "Steam Guard: How to transfer my mobile authenticator",
         "url_code": "29A9-9EEE-09F0-75F9",
-        "version": 6,
-        "timestamp": "2025-04-09 20:00:48"
+        "version": 7,
+        "timestamp": "2025-04-22 22:39:25"
     },
     "3021186137557380008": {
         "title": "Game is not available on your current platform",
@@ -860,8 +866,8 @@
     "3786589850087740482": {
         "title": "Steam Guard: How to remove my mobile authenticator from the mobile app",
         "url_code": "348C-AB68-0C94-5442",
-        "version": 1,
-        "timestamp": "2025-04-08 22:05:23"
+        "version": 2,
+        "timestamp": "2025-04-22 22:39:48"
     },
     "3790675602077215673": {
         "title": "You've been posting too frequently",

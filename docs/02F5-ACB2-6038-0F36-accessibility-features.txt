@@ -1,0 +1,99 @@
+[h1]Accessibility Features[/h1]
+
+Steam now allows developers to display some of the accessibility features their games support to help players search for and find games based on selected criteria that may meet their needs. These tags are not intended to be an exhaustive list of every accessibility feature a game might support.
+
+To find games with these features, visit the search page and select the accessibility features you're looking for:
+
+[img]{STEAM_CLAN_IMAGE}/39983882/ca5486129738fe44e30ea2c9693d5308746ed93f.png[/img]
+
+You can determine which of these features a game supports by looking at the Accessibility Features section on the store page:
+
+[img]{STEAM_CLAN_IMAGE}/39983882/d0adfa4f00eff82145bfd0f352050fd05ee0c6c4.png[/img]
+
+[h2]Gameplay features[/h2]
+
+[section=#adjustable_difficulty]
+[/section]
+
+[b]Adjustable Difficulty[/b]: The game provides multiple ways to adjust the level difficulty, allowing players to customize the level of challenge to their preferences.
+
+[section=#saving_options]
+[/section]
+
+[b]Save Anytime[/b]: Players can manually save at almost any time, so players can play without worrying about losing progress.
+
+[h2]Audio features[/h2]
+
+[section=#volume_controls]
+[/section]
+
+[b]Custom Volume Controls[/b]: The volume for different types of in-game audio can be adjusted independently from each other, enabling players to reduce the volume of distracting sound effects or increase the volume of character speech.
+
+[section=#narrated_menus]
+[/section]
+
+[b]Narrated Game Menus[/b]: The game supports screen readers or offers menu narration, so menus can be used and understood without seeing the text.
+
+[section=#stereo_sound]
+[/section]
+
+[b]Stereo Sound[/b]: Players can use stereo audio to tell how far to the left or right sounds are coming from.
+
+[section=#surround_sound]
+[/section]
+
+[b]Surround Sound[/b]: Players can use surround sound to identify how far in any direction sounds are coming from.
+
+[h2]Visual features[/h2]
+
+[section=#adjustable_text_size]
+[/section]
+
+[b]Adjustable Text Size[/b]: You can adjust text size and UI scaling to make it appear larger or smaller.
+
+[section=#subtitles]
+[/section]
+
+[b]Subtitle Options[/b]: The way subtitles are displayed can be adjusted, such as font size, color and background opacity.
+
+[section=#color_alternatives]
+[/section]
+
+[b]Color Alternatives[/b]: Gameplay doesn't rely on colors to communicate important information, or you can change the colors used.
+
+[section=#camera_comfort]
+[/section]
+
+[b]Camera Comfort[/b]: The game either permits players to adjust or disable uncomfortable camera movement such as screen shaking, camera bob, or motion blur, or the game doesn't feature these effects.
+
+[h2]Input features[/h2]
+
+[section=#keyboard_only]
+[/section]
+
+[b]Keyboard Only Option[/b]: Players can play with just a keyboard, or an accessibility tool that maps to keyboard inputs.
+
+[section=#mouse_only]
+[/section]
+
+[b]Mouse Only Option[/b]: Players can play with just a mouse or an accessibility tool that maps to mouse inputs.
+
+[section=#touch_only]
+[/section]
+
+[b]Touch Only Option[/b]: Players can play the game with just touch controls or an accessibility tool that maps to touch inputs.
+
+[section=#without_qte]
+[/section]
+
+[b]Playable without Timed Input[/b]: Players can avoid sequences of precisely timed inputs ("quick time events") or button mashing.
+
+[section=#tts]
+[/section]
+
+[b]Chat Text-to-speech[/b]: Text chat can be narrated out loud in real time.
+
+[section=#stt]
+[/section]
+
+[b]Chat Speech-to-text[/b]: Voice chat can be read as a text transcript in real time.
