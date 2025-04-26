@@ -26,7 +26,7 @@ Step 2 - Enter the code we've sent to that phone number. If you didn't receive t
 
 Step 3 - When the code is successfully entered, we'll present you with a Recovery code. Write down the code and store it in a safe place. This code allows you to recover your account yourself, should you lose your phone or authenticator. Do not skip this step.
 
-[img]{STEAM_CLAN_LOC_IMAGE}/39983882/09d67250a5c82019d94905d81b92de5fed70df52.png[/img]
+[img]{STEAM_CLAN_LOC_IMAGE}/39983882/30941ec7a00b6e81963f2457d709127638f42f1c.png[/img]
 
 Questions about Steam Guard Mobile Authenticators? [url=https://support.steampowered.com/kb_article.php?ref=8625-WRAH-9030&l]Learn more here[/url]
 

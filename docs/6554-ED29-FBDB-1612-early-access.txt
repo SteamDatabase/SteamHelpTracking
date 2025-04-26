@@ -18,6 +18,10 @@ These are some of the best practices that can help players when participating Ea
 
 [/list]
 
+[h3=update_notice]Store page notice about last update[/h3]
+
+If it has been more than 12 months (one year) since the developers of an Early Access game have updated the game and posted an 'update' type event to tell players about it, Steam will add a note to the store page, just above the Developer Questionnaire letting players know that the game has not updated in a while.
+
 [h3]Are Early Access games eligible for refunds?[/h3]
 
 Early Access games qualify for refunds the same as other purchases - playtime and date of purchase are both considered.
