@@ -1,18 +1,17 @@
-[h1]My Items Are Missing or Were Stolen[/h1]
+[h1]My items are missing or were stolen[/h1]
 
-View related issues below for more information on how to resolve them
+View related issues below for more information
 
 [exclude_realm=china]
-[url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454][h1]Unfair Trades and Item Scams[/h1][/url]
+[url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454]Unfair Trades and Item Scams[/url]
 You participated in a trade where you felt tricked or deceived. Your trade partner was posing as a reputable middleman or friend. There was money offered in exchange for your items.
 
-[url=https://support.steampowered.com/kb_article.php?ref=5854-QWLN-2621][h1]A Gift Was Removed[/h1][/url]
+[url=https://support.steampowered.com/kb_article.php?ref=5854-QWLN-2621]A Gift Was Removed[/url]
 After successfully trading for a gift through Steam, the game was removed from your account.
-
 [/exclude_realm]
 
-[url=https://support.steampowered.com/kb_article.php?ref=5766-ETUA-8707][h1]Items Not Properly Awarded[/h1][/url]
+[url=https://support.steampowered.com/kb_article.php?ref=5766-ETUA-8707]Items Not Properly Awarded[/url]
 You qualified for an item that was not delivered to your account. You are not receiving item drops associated with normal gameplay.
 
-[url=https://support.steampowered.com/kb_article.php?ref=8279-TFJK-0965][h1]Items Were Deleted[/h1][/url]
+[url=https://support.steampowered.com/kb_article.php?ref=8279-TFJK-0965]Items Were Deleted[/url]
 If items were deleted or removed from your account, it may be due to something unrelated, such as a VAC ban or trade ban.
