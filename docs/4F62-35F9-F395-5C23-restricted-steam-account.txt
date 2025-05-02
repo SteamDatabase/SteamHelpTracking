@@ -51,6 +51,11 @@ Accounts which have been bought, sold or traded will be restricted. [/*]
 This includes any type of scam targeting a Steam user over Steam Chat or other systems outside of Steam, or deliberately submitting false information to Steam Support. [/*]
 [*]
 
+[h3]Prohibited Commercial Use[/h3]
+[/*]
+This includes accounts that have been sold to someone else, or accounts using Steam systems or features as part of a commercial operation.
+[*]
+
 [h3]Abuse and Harassment[/h3]
 An account used to abuse or harass others will be blocked from using Steam Community features. [/*]
 

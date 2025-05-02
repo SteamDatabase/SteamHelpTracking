@@ -15,7 +15,7 @@ If you are not able to protect your account with a [url=https://support.steampow
 [url id=1][/url]
 
 [h3]What is a trade hold?[/h3]
-A trade hold is a period of time after a trade is accepted by both parties where the items traded are held by Steam before they are delivered. Trade holds last up to 15 days. If you're trading items with a friend, and you've been friends for more than 1 year, the hold is 1 day.
+A trade hold is a period of time after a trade is accepted by both parties where the items traded are held by Steam before they are delivered. Trade holds last up to 15 days.
 
 [url id=2][/url]
 
