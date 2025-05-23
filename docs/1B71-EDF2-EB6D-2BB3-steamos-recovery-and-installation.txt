@@ -1,0 +1,187 @@
+[h1]SteamOS Recovery and Installation[/h1]
+
+This article includes different options to reset, recover, repair, or install SteamOS on your Steam Deck or other device. You might need to do this if you are unable to boot, want to clear local data on your device, have installed another OS and would like to get back to SteamOS, or are experiencing other breaking issues.
+
+The only devices officially supported on SteamOS right now are [b]Steam Deck[/b] and [b]Legion Go S.[/b] We are working on broadening support, and with the recent updates to Steam and SteamOS 3.7, compatibility with other AMD powered PC handhelds has been improved. If you are interested in trying out SteamOS on your device and providing feedback, please jump to [url=#testingsteamos]installing SteamOS on other devices[/url].
+
+[h1]Quick Links[/h1]
+
+[list]
+
+[*][url=#factory] Factory Reset[/url] (clear all local data, and reinstall Steam)
+
+[*][url=#menu] Rollback to previous OS[/url] (recover to previous known good OS while retaining user data)
+
+[*][url=#reimage] Re-image / Install SteamOS [/url] (wipes all data on the device and installs the OS)
+
+[*][url=#erase] Erase user data from device[/url] (clear all local data)
+
+[*][url=#testingsteamos] Install SteamOS on other devices[/url]
+
+[/list]
+
+[url id=factory][/url]
+
+[h2]Factory Reset[/h2]
+
+For situations where you want to clear all local data (including games, etc.) and reinstall Steam / SteamOS, you can make use of this feature.
+
+This option can be used if your device can boot successfully into Steam.
+
+[olist]
+
+[*]While in Steam, press the "Steam" button, go to "Settings" and then "System".
+
+[*]From there scroll down to the Factory Reset option and select the "Factory Reset" button.
+
+Note: The 'Re-install SteamOS' option may require an active internet connection. If a system file has been modified, this operation will download the original version to restore them to an unmodified state. If you cannot or do not want to connect the device to the internet, you can disable the 'Re-install SteamOS' option or use the [url=#menu]"Rollback to previous OS"[/url] option to revert to the previous version of SteamOS.
+
+[/olist]
+
+[url id=menu][/url]
+
+[h2]Rollback to previous OS[/h2]
+
+SteamOS has the ability to recover to a last known good version of the Operating System (OS) while retaining user data (e.g. installed games, saves, etc.). This can be useful for situations where you believe some recent modification in the OS may have caused an issue, or you suspect you have corrupted data in your current OS and want to retain your user data.
+
+To roll back to the previous OS, see the instructions below:
+
+[olist]
+
+[*]Fully power the unit down by holding the power button for 10 seconds. We recommend to do these steps while the unit is plugged into the power supply.
+
+[*]Hold the "..." button down and press the power button to turn on the device
+
+[*]Continue to hold the "..." button down until you see a menu labeled "SteamOS"
+
+The recovery menu will look something like below:
+[img]{STEAM_CLAN_IMAGE}/39983882/45e0cb7f5ea0edb39f47afadf69187506fe79ea3.png[/img]
+
+[*]From this menu you would choose the second option from the top that says "Previous SteamOS..."
+
+[/olist]
+
+[url id=reimage][/url]
+
+[h2]Re-image / Install SteamOS [/h2]
+
+The following instructions are for how to recover, repair, or re-image your Steam Deck or other SteamOS device using the SteamOS image. This method will clear all data on the device and then install SteamOS.
+
+[olist]
+
+[*] Download the recovery image [url=https://store.steampowered.com/steamos/download/?ver=steamdeck]here (click)[/url].
+
+[*] Prepare a USB key (8GB minimum) with the recovery image:
+
+[list]
+
+[*] On [b]Windows [/b]we recommend using the [url=https://rufus.ie/en/]Rufus utility[/url]. Select the recovery file and write it to your USB drive (this will format the contents of your USB drive). When it's done, select 'Close' and eject the drive.
+
+[*] On [b]MacOS [/b]you can use [url=https://www.balena.io/etcher/]Balena Etcher[/url] to write the recovery file to your USB drive.
+
+[*] On [b]Linux [/b]you can also use [url=https://www.balena.io/etcher/]Balena Etcher[/url] to write the recovery file to your USB drive - or if you prefer you can do this directly from the command line:
+[code]bzcat steamdeck-recovery-4.img.bz2 | sudo dd if=/dev/stdin of=/dev/sdX oflag=sync status=progress bs=128M[/code] (set /dev/sdX to the USB device you inserted)
+[/list]
+
+[*] Shut down your Steam Deck or other SteamOS device if it isn't already off. On a Steam Deck, hold 'Volume Up' and click the Power Button - when you hear the chime, let go of the Volume Up button, and you'll be booted into the Boot Menu. Use the dpad and A button to select the Boot Manager. [i]On other SteamOS devices, follow the instructions for your specific device to get to the Boot menu.[/i]
+
+[*] Use a USB-C adapter or hub to plug the boot disk in.
+
+[*] In the Boot Manager, boot from the 'EFI USB Device' (your USB key)
+
+[*] The screen will go dark while it's booting - give it a minute.
+
+[*] Once booted you will be in a desktop environment, you can navigate using trackpad and trigger, touchscreen, or mouse.
+
+[/olist]
+
+[h2]Recovery options via Image[/h2]
+
+In the recovery environment, there are four different options to choose from.
+
+[list]
+
+[*] [b]Re-image Device[/b] - This performs a full factory reset - all user info, installed games, applications, or operating systems will be wiped and replaced with stock SteamOS.
+
+[*] [b]Repair SteamOS[/b] - This will reinstall SteamOS on the Steam Deck or other device, while attempting to preserve your games and personal content.
+
+[*] [b]Recovery tools[/b] - This opens a prompt with the ability to make changes to the device's boot partition.
+
+[/list]
+
+[url id=erase][/url]
+
+[h2]Erase user data from device[/h2]
+
+This option is useful if you want to erase all local user data on your Steam Deck or other SteamOS device but do not want to, or cannot load into game mode to use the Factory Reset option to erase it. Accessing this menu requires specific button presses and for the device to be completely shut down.
+
+[olist]
+
+[*]Fully power the unit down by holding the power button for 10 seconds. We recommend to do these steps while the unit is plugged into the power supply.
+
+[*]Hold the "..." button down and press the power button to turn on the device
+
+[*]Continue to hold the "..." button down until you see a menu labeled "SteamOS"
+
+The recovery menu will look something like below:
+[img]{STEAM_CLAN_IMAGE}/39983882/45e0cb7f5ea0edb39f47afadf69187506fe79ea3.png[/img]
+
+[*]From this menu you can choose "ERASE USER DATA FROM DECK". This will erase any local user data.
+
+[/olist]
+
+[url id=testingsteamos][/url]
+
+[h2]Installing SteamOS on other devices [/h2]
+
+We are continually working to improve compatibility with other devices. Currently, expanded support includes devices with [b]AMD hardware and an NVME drive, targeted toward handheld devices[/b]. Please note, support for all devices that is not officially 'Powered by SteamOS' is not final (currently anything that is not a Steam Deck or Legion Go S)
+
+For most devices, you will need to disable Secure Boot on your device in order to re-image from a USB drive. This can be disabled in your device’s BIOS / UEFI menu. You can find out how to get to this setting from your manufacturer - here are sample instructions for the original Legion Go and the ROG Ally.
+
+[h3]Legion Go (original) - Secure Boot Settings[/h3]
+
+[list]
+
+[*] Power down completely
+
+[*] Hold volume + button, press power button – keep holding volume button
+
+[*] In the ‘Novo Button Menu’ pick bios setup (may have to use touch screen)
+
+[*] Tap More settings
+
+[*] Tap Security
+
+[*] Under Secure boot > pick disabled
+
+[*] Tap Exit
+
+[*] Tap Exit saving changes
+
+[*] Follow instructions to [url=#reimage]install SteamOS on your device[/url]
+
+[/list]
+
+[h3]ROG Ally - Secure Boot Settings[/h3]
+
+[list]
+
+[*] While powered on, hit restart
+
+[*] Once restarting, hold down volume + button to get to bios utility
+
+[*] Hit ‘Y’ for advanced mode
+
+[*] Hit dpad-right to the security tab
+
+[*] Dpad down to secure boot, A to select
+
+[*] Secure Boot Control to ‘disabled’
+
+[*] B to go back
+
+[*] Right arrow to save and exit
+
+[*] Follow instructions to [url=#reimage]install SteamOS on your device[/url]
+
+[/list]

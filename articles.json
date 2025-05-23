@@ -450,10 +450,10 @@
         "timestamp": "2021-07-10 19:49:55"
     },
     "1977623338980027315": {
-        "title": "Steam Deck Recovery Instructions",
+        "title": "SteamOS Recovery and Installation",
         "url_code": "1B71-EDF2-EB6D-2BB3",
-        "version": 10,
-        "timestamp": "2025-03-16 05:39:10"
+        "version": 12,
+        "timestamp": "2025-05-22 23:18:10"
     },
     "2003838845194416172": {
         "title": "Counter-Strike 2 Leaderboards",
@@ -1400,8 +1400,8 @@
     "5720193824363732003": {
         "title": "Restricted Steam Account",
         "url_code": "4F62-35F9-F395-5C23",
-        "version": 5,
-        "timestamp": "2025-05-01 21:48:45"
+        "version": 6,
+        "timestamp": "2025-05-22 21:00:20"
     },
     "5732710972950444086": {
         "title": "Addressing abuse, harassment and other misconduct on Steam",

@@ -53,7 +53,7 @@ This includes any type of scam targeting a Steam user over Steam Chat or other s
 
 [h3]Prohibited Commercial Use[/h3]
 [/*]
-This includes accounts that have been sold to someone else, or accounts using Steam systems or features as part of a commercial operation.
+This includes accounts that have been bought, sold, or traded, or accounts using Steam systems or features as part of a commercial operation.
 [*]
 
 [h3]Abuse and Harassment[/h3]
