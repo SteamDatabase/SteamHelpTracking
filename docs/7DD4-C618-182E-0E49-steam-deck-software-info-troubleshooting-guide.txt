@@ -2,6 +2,8 @@
 
 All information below applies to both Steam Deck LCD and Steam Deck OLED models. We aimed for the same performance spec for Steam Deck OLED, and all titles that have been tested in the Deck Verified program maintain those ratings for both LCD and OLED models.
 
+Most of this information should also apply to third-party AMD devices that are SteamOS-compatible, but it's best to contact your device's manufacturer for detailed support if you're not using a Steam Deck.
+
 [h3]First steps[/h3]
 [b]Before trying any of the detailed troubleshooting or contacting Steam Support, be sure you've tried the following:[/b]
 
@@ -13,7 +15,7 @@ All information below applies to both Steam Deck LCD and Steam Deck OLED models.
 
 [*]For non-Steam application instability, exit or disable any other third party applications that you have installed via Desktop Mode and restart your Steam Deck (Steam > Power > Restart). You should also contact the application's product support team if your issue persists.
 
-[*]Found a bug? You can submit bug reports to the forum [url=https://steamcommunity.com/app/1675200/discussions/1/]here[/url].
+[*]Found a bug? You can submit bug reports to GitHub [url=https://github.com/ValveSoftware/SteamOS]here[/url], or to the Steam Deck forums [url=url=https://steamcommunity.com/app/1675200/discussions/1/]here[/url].
 
 [/list]
 
@@ -73,6 +75,11 @@ Try a lower graphics preset or adjust individual settings to decrease system loa
 [h4]Non-Steam apps[/h4]
 
 Before trying to install apps from sources other than Steam, you'll want to be sure they are supported by the Arch Linux distribution.
+
+[hr][/hr]
+
+[h1]Installing or recovering SteamOS[/h1]
+For more information about installation and system recovery, please review our [url=https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3]Recovery and Installation guide[/url].
 
 [hr][/hr]
 
