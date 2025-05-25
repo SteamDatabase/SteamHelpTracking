@@ -138,7 +138,7 @@ We are continually working to improve compatibility with other devices. Currentl
 
 For most devices, you will need to disable Secure Boot on your device in order to re-image from a USB drive. This can be disabled in your device’s BIOS / UEFI menu. You can find out how to get to this setting from your manufacturer - here are sample instructions for the original Legion Go and the ROG Ally.
 
-[h3]Legion Go (original) - Secure Boot Settings[/h3]
+[h3]Legion Go / Legion Go S (Windows) - Secure Boot Settings[/h3]
 
 [list]
 
