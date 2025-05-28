@@ -9,9 +9,9 @@ The Steam language setting determines which language the Steam client applicatio
 
 [*]Log into your Steam account
 
-[*]Click on "[b]Steam" [/b]in the top menu bar (this is in the very upper left of Steam on Windows, or in the menu bar above Steam on OSX)
+[*]Click on "[b]Steam" [/b]in the top menu bar (this is in the very upper left of Steam on Windows, or in the menu bar above Steam on macOS)
 
-[*]Go to the [b]Settings[/b] option ("Preferences" on OSX)
+[*]Go to the [b]Settings[/b] option ("Preferences" on macOS)
 
 [*]Go to the [b]Interface[/b] tab
 
