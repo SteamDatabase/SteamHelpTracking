@@ -48,12 +48,10 @@ For Mac: drivers cannot be updated separately; only the operating system can be 
 [h2]Investigate Anti-Virus Software[/h2]
 AV software hooks very deep into user systems and can affect disk and network operations which will cause issues with Steam. Some games also use copy protection technology that can appear as malicious software to an AV scanner, resulting in potential false-positive alerts.
 
-You'll want to work with a specialist to ensure that your AV software is not interfering with Steam. You may even need to temporarily disable it for testing purposes. It may also be necessary to add exceptions for Steam in your AV configuration.
+For more information, view our [url=https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748]Programs Which May Interfere with Steam[/url] FAQ.
 
 [h2]Investigate Other Programs & Services[/h2]
 Any software that modifies or monitors system, disk or network activity can cause issues when trying to launch Steam. These programs and services can run in the background and are typically associated with software like Anti-Virus, ad-blockers, web-optimizers, firewalls, system cleaners, recording software, proxies, performance boosters etc.
-
-You'll want to work with a specialist to ensure that these services & programs are not interfering with Steam. You may even need to temporarily disable them for testing purposes.
 
 [h2]Investigate Firewalls[/h2]
 Certain firewalls may prevent Steam from talking to its servers. You'll want to work with a specialist to ensure that the Firewall is not interfering. You may even need to temporarily disable it for testing purposes. It may be necessary to add exceptions in your firewalls for Steam if you discover that this is the cause.

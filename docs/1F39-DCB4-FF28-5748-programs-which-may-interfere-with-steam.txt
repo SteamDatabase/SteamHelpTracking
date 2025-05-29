@@ -9,7 +9,7 @@ It is always a good idea to work with a specialist to help determine how these a
 [h5]Anti-virus Software[/h5]
 Anti-virus software hooks very deep into user systems and can affect disk and network operations which will cause issues with Steam. Some games also use copy protection technology that can appear as malicious software to an AV scanner, resulting in potential false-positive alerts.
 
-You'll want to ensure that your AV software is not interfering with Steam. You may also need to add exceptions for Steam and its games in your AV configuration.
+You'll want to ensure that your AV software is not interfering with Steam. You may also need to add exceptions for Steam and its games in your AV configuration.  Also, it may be helpful to try and temporarily disable them for testing purposes.
 
 [h5]Virtual Private Network (VPN) Software[/h5]
 VPN software has the potential of preventing the Steam client application from accessing the Steam network. If a game requires network capability, it may also interfere with that connection.
