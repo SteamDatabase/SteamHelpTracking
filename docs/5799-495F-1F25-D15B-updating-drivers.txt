@@ -3,13 +3,15 @@
 Using outdated drivers can affect performance despite video hardware meeting or exceeding the system requirements of the game you are playing. We recommend checking for driver updates on a regular basis. If you do encounter performance issues, updating your drivers is a good first step in troubleshooting.
 
 [h2]Where To Update Your Drivers[/h2]
-For most graphics cards, you will be able to easily download and install the latest drivers from NVIDIA or AMD:
+For most graphics cards, you will be able to easily download and install the latest drivers from NVIDIA, AMD, or Intel:
 
 [list]
 
 [*]NVIDIA - [url=https://www.nvidia.com/Download/index.aspx]https://www.nvidia.com/Download/index.aspx[/url]
 
 [*]AMD - [url=https://www.amd.com/support]https://www.amd.com/support[/url]
+
+[*]Intel - [url=https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html]https://www.intel.com/content/www/us/en/products/docs/discrete-gpus/arc/software/drivers.html[/url]
 
 [/list]
 
