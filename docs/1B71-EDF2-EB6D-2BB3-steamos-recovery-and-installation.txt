@@ -97,7 +97,7 @@ The following instructions are for how to recover, repair, or re-image your Stea
 
 [h2]Recovery options via Image[/h2]
 
-In the recovery environment, there are four different options to choose from.
+In the recovery environment, there are three different options to choose from.
 
 [list]
 
