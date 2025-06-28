@@ -1,0 +1,27 @@
+[h1]Jurisdictional Reports and Accessibility Conformance Reports[/h1]
+
+[img]https://support.steampowered.com/images/faq/steam_universe/header_steamcompliance.png[/img]
+
+[h1]EU Regulation 2021/784 Transparency Report[/h1]
+Regulation (EU) 2021/784 of the European Parliament and the Council of 29 April 2021 on addressing the dissemination of terrorist content online requires providers of certain services to regularly report information on terrorist content and related activities.
+
+[list]
+
+[*][url=https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/2024_tco_transparency_report.pdf]2024 Valve Transparency Report - EU Terrorist Content Online Regulation[/url]
+
+[/list]
+
+[h1]Accessibility Conformance Reports[/h1]
+Valve's Accessibility Conformance Reports (ACR) describe how our products and services support the recognized accessibility standards of the Web Content Accessibility Guidelines (WCAG), and ETSI EN 301 549.
+
+[list]
+
+[*][url=https://cdn.steamstatic.com/apps/valve/reports/acr_store.docx]Valve Accessibility Compliance Report - Steam Store[/url]
+
+[*][url=https://cdn.steamstatic.com/apps/valve/reports/acr_payments.docx]Valve Accessibility Compliance Report - Online Payments[/url]
+
+[*][url=https://cdn.steamstatic.com/apps/valve/reports/acr_steamos.docx]Valve Accessibility Compliance Report - SteamOS[/url]
+
+[*][url=https://cdn.steamstatic.com/apps/valve/reports/acr_steamdeck.docx]Valve Accessibility Compliance Report - Steam Deck[/url]
+
+[/list]
