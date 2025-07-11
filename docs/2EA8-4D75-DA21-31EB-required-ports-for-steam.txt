@@ -86,8 +86,8 @@ Most of the non-web traffic is usually UDP but can be TCP as well. For that, the
 
 [list]
 
-[*][url=http://bgp.he.net/AS32590#_prefixes]IPv4[/url] [/*]
-[*][url=http://bgp.he.net/AS32590#_prefixes6]IPv6[/url] [/*]
+[*][url=https://as32590.net/ipv4.txt]IPv4[/url] [/*]
+[*][url=https://as32590.net/ipv6.txt]IPv6[/url] [/*]
 
 [/list]
 
