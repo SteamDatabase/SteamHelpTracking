@@ -1,0 +1,168 @@
+[h1]SteamOS Installation and Repair[/h1]
+
+This article includes instructions for [b]installing, re-imaging, or repairing SteamOS on your device[/b].
+
+[h2]Quick Links[/h2]
+
+[list]
+
+[*][url=#install][b] Installing SteamOS[/b][/url] - wipe your device and install stock SteamOS
+
+[*][url=#repair] [b] Repair and recovery options[/b][/url] - options for re-imaging, repairing and recovering SteamOS
+[/list]
+
+You might need to do this if you would like to install SteamOS on your device, have installed another OS and would like to get back to SteamOS, or are experiencing other breaking issues. For other recovery and troubleshooting options, visit [url=https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3]SteamOS Recovery and Troubleshooting.[/url]
+
+Currently, the only devices officially 'Powered by SteamOS' are [b]Steam Deck[/b] and [b]Legion Go S.[/b] We are working on broadening support, and with the recent updates to Steam and SteamOS 3.7, compatibility with other AMD powered PC handhelds has been improved.
+
+[table noborder=1 equalcells=1]
+
+[tr]
+
+[th]Powered by SteamOS[/th]
+[th]Beta SteamOS Support[/th]
+
+[/tr]
+
+[tr]
+
+[td]Steam Deck[/td]
+[td]Lenovo Legion Go[/td]
+
+[/tr]
+
+[tr]
+
+[td]Lenovo Legion Go S[/td]
+[td]ASUS ROG Ally[/td]
+
+[/tr]
+
+[tr]
+
+[td] [/td]
+[td]ASUS ROG Ally X[/td]
+
+[/tr]
+
+[tr]
+
+[td] [/td]
+[td]Other AMD powered handhelds[/td]
+
+[/tr]
+
+[/table]
+[url id=install][/url]
+
+[h2]Installing SteamOS [/h2]
+
+[olist]
+
+[*] [b]Download the SteamOS image [url=https://store.steampowered.com/steamos/download/?ver=steamdeck]here (click)[/url].[/b]
+
+[*] Prepare a USB key (8GB minimum) with the recovery image:
+
+[list]
+
+[*] On [b]Windows [/b]we recommend using the [url=https://rufus.ie/en/]Rufus utility[/url]. Select the recovery file and write it to your USB drive (this will format your USB drive). When it's done, select 'Close' and eject the drive.
+
+[*] On [b]MacOS [/b]you can use [url=https://www.balena.io/etcher/]Balena Etcher[/url] to write the recovery file to your USB drive.
+
+[*] On [b]Linux [/b]you can also use [url=https://www.balena.io/etcher/]Balena Etcher[/url] to write the recovery file to your USB drive - or if you prefer you can do this directly from the command line:
+[code]bzcat steamdeck-recovery-4.img.bz2 | sudo dd if=/dev/stdin of=/dev/sdX oflag=sync status=progress bs=128M[/code] (set /dev/sdX to the USB device you inserted)
+[/list]
+
+[*] Shut down your Steam Deck or other device if it isn't already off. On a Steam Deck, hold 'Volume Up' and click the Power Button - when you hear the chime, let go of the Volume Up button, and you'll be booted into the Boot Menu. Use the dpad and A button to select the Boot Manager.
+
+[list]
+
+[*] On most non-Steam Deck devices, you will need to disable Secure Boot in order to boot from a USB drive. [url=#secureboot]Learn more here [/url]
+
+[*] Follow the instructions for your specific device to get to the Boot Menu.
+
+[/list]
+
+[*] Use a USB-C adapter or hub to plug the boot disk in.
+
+[*] In the Boot Manager, boot from the 'EFI USB Device' (your USB key)
+
+[*] The screen will go dark while it's booting - give it a minute.
+
+[*] Once booted you will be in a desktop environment, you can navigate using trackpad and trigger, touchscreen, or mouse.
+
+[*] Select the [b]Re-image Device[/b] option on the desktop. This will fully wipe your device and install stock SteamOS.
+
+[*] Once it's done installing, reboot and you will be in the SteamOS welcome experience.
+
+[/olist]
+
+[url id=repair][/url]
+
+[h2]Repair and Recovery options[/h2]
+
+There are three options available in this installation and recovery environment. Complete steps 1 through 7 above, and select from the following options depending on your needs.
+
+[list]
+
+[*] [b]Re-image Device[/b] - This performs a full factory reset - all user info, installed games, applications, or operating systems will be wiped and replaced with stock SteamOS.
+
+[*] [b]Repair SteamOS[/b] - This will reinstall SteamOS on the Steam Deck or other device, while attempting to preserve your games and personal content.
+
+[*] [b]Recovery tools[/b] - This opens a prompt with the ability to make changes to the device's boot partition.
+
+[/list]
+
+[url id=secureboot][/url]
+
+[h2]Disabling Secure Boot [/h2]
+
+For most non-Steam Deck devices, you will need to disable Secure Boot on your device in order to re-image from a USB drive. This can be disabled in your device’s BIOS / UEFI menu. You can find out how to get to this setting from your manufacturer - here are sample instructions for the original Legion Go and the ROG Ally.
+
+[h3]Legion Go / Legion Go S (Windows) - Secure Boot Settings[/h3]
+
+[list]
+
+[*] Power down completely
+
+[*] Hold volume + button, press power button – keep holding volume button
+
+[*] In the ‘Novo Button Menu’ pick bios setup (may have to use touch screen)
+
+[*] Tap More settings
+
+[*] Tap Security
+
+[*] Under Secure boot > pick disabled
+
+[*] Tap Exit
+
+[*] Tap Exit saving changes
+
+[*] Follow instructions to [url=#reimage]install SteamOS on your device[/url]
+
+[/list]
+
+[h3]ROG Ally - Secure Boot Settings[/h3]
+
+[list]
+
+[*] While powered on, hit restart
+
+[*] Once restarting, hold down volume + button to get to bios utility
+
+[*] Hit ‘Y’ for advanced mode
+
+[*] Hit dpad-right to the security tab
+
+[*] Dpad down to secure boot, A to select
+
+[*] Secure Boot Control to ‘disabled’
+
+[*] B to go back
+
+[*] Right arrow to save and exit
+
+[*] Follow instructions to [url=#reimage]install SteamOS on your device[/url]
+
+[/list]

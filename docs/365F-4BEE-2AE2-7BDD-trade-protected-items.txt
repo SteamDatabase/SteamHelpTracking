@@ -1,0 +1,80 @@
+[h1]Trade Protected Items[/h1]
+
+[list]
+
+[*][url=#meaning]What is Trade Protection?[/url] [/*]
+[*][url=#protect]How does this help protect my Steam account?[/url]
+[*][url=#whichgames]Which games have Trade Protected items?[/url] [/*]
+[*][url=#whichitems]Which items are Trade Protected?[/url] [/*]
+[*][url=#howto]How do I reverse trades? Do I need to write into Steam Support?[/url] [/*]
+[*][url=#whichtrades]Which trades are reversible?[/url] [/*]
+[*][url=#mistake]Can you help me remove the 30 day trade and market cooldowns?[/url] [/*]
+[*][url=#combine]Why can't I combine items from a Trade Protected game and another game in a trade?[/url] [/*]
+[*][url=#tradeholds]What happens to trade holds?[/url]
+[/list]
+
+[section id=meaning]
+
+[h2]What is Trade Protection?[/h2]
+Trade Protection is a feature some games support that allow you to reverse recent trades, designed to help if you lost items after losing control of your account.
+
+When a trade involving items from a game supporting Trade Protection is confirmed, the items are delivered immediately, and you can equip and play with them in-game.
+
+For the next 7 days, the items are considered Trade Protected, and cannot be consumed, modified, or transferred. Once the 7 day period expires, the Trade Protected status expires, and the trade can no longer be reversed.
+[/section]
+
+[section id=protect]
+
+[h2]How does this help protect my Steam account?[/h2]
+In the unlikely event that you lose control of your account due to malware or phishing, you will have a 7-day period in which you can reverse trades containing items from Trade Protected games.
+[/section]
+
+[section id=whichgames]
+
+[h2]Which games have Trade Protected items?[/h2]
+Currently, the only game supporting Trade Protected items is Counter-Strike 2. As we learn more about this, we plan to make this available to other games on Steam.
+[/section]
+
+[section id=whichitems]
+
+[h2]Which items are Trade Protected?[/h2]
+This is a per-game option, which means all Counter-Strike 2 items are Trade Protected for 7 days after being received in trade. Items from games that are Trade Protected will be clearly marked in your Steam Inventory and the Steam Trading interface. It is not possible to mix Protected and non-Protected items in the same trade.
+
+You can identify Trade Protected items in your Steam inventory:
+
+[img]{STEAM_CLAN_IMAGE}/39983882/0ddebe968bc22897b47aae6d18d294c6f7a37d5e.png[/img]
+[/section]
+
+[section id=howto]
+
+[h2]How do I reverse trades? Do I need to write into Steam Support?[/h2]
+First, make sure you're in control of your Steam account. If you need help regaining control, or aren't sure whether someone else has access to your account, please [url=https://help.steampowered.com/]contact Steam Support directly[/url].
+
+You can review the list of your trades containing Trade Protected items, and begin the process of reversing them, directly from your [url=https://steamcommunity.com/my/tradehistory?snr=2___]Trade History[/url] page.
+
+When you choose to reverse trades, all trades containing Trade Protected items will be reversed. All items from those trades will be returned to their previous owners and your account will be restricted from trading and using the Steam Community Market for 30 days to avoid future security-related incidents.
+[/section]
+
+[section id=whichtrades]
+
+[h2]Which trades are reversible?[/h2]
+Only trades that were created as Trade Protected (displaying the yellow Trade Protected item shield) can be reversed. Trades prior to this option's availability cannot be reversed and cannot be modified by Steam Support.
+[/section]
+
+[section id=mistake]
+
+[h2]Can you help me remove the 30 day trade and market cooldowns?[/h2]
+Unfortunately, Steam Support cannot modify trade and market cooldowns associated with reversing trades.
+[/section]
+
+[section id=combine]
+
+[h2]Why can't I combine items from a Trade Protected game and another game in a trade?[/h2]
+All items in a trade need to have the same level of protection. Counter-Strike 2 items, because they offer trade protection, cannot be traded for items from games without trade protection.
+[/section]
+
+[section id=tradeholds]
+
+[h2]What happens to trade holds?[/h2]
+If you confirm trades without using the mobile app, your items will still be held for 15 days. These items can be consumed, modified, and transferred immediately after the trade hold expires.
+[/section]
