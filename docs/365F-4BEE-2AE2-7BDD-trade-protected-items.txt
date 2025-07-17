@@ -8,7 +8,9 @@
 [*][url=#whichitems]Which items are Trade Protected?[/url] [/*]
 [*][url=#howto]How do I reverse trades? Do I need to write into Steam Support?[/url] [/*]
 [*][url=#whichtrades]Which trades are reversible?[/url] [/*]
+[*][url=#partnerreversal]My trade partner reversed our trade. What does this mean for my account?[/url] [/*]
 [*][url=#mistake]Can you help me remove the 30 day trade and market cooldowns?[/url] [/*]
+[*][url=#optout]Can I opt out of Trade Protected features for my items?[/url] [/*]
 [*][url=#combine]Why can't I combine items from a Trade Protected game and another game in a trade?[/url] [/*]
 [*][url=#tradeholds]What happens to trade holds?[/url]
 [/list]
@@ -53,6 +55,8 @@ First, make sure you're in control of your Steam account. If you need help regai
 You can review the list of your trades containing Trade Protected items, and begin the process of reversing them, directly from your [url=https://steamcommunity.com/my/tradehistory?snr=2___]Trade History[/url] page.
 
 When you choose to reverse trades, all trades containing Trade Protected items will be reversed. All items from those trades will be returned to their previous owners and your account will be restricted from trading and using the Steam Community Market for 30 days to avoid future security-related incidents.
+
+If you initiated the trade reversal, your items listed on the Steam Community Market will be returned to your account and your pending trade offers will be canceled.
 [/section]
 
 [section id=whichtrades]
@@ -61,10 +65,22 @@ When you choose to reverse trades, all trades containing Trade Protected items w
 Only trades that were created as Trade Protected (displaying the yellow Trade Protected item shield) can be reversed. Trades prior to this option's availability cannot be reversed and cannot be modified by Steam Support.
 [/section]
 
+[section id=partnerreversal]
+
+[h2]My trade partner reversed our trade. What does this mean for my account?[/h2]
+When trades are reversed, only the account which initiated the trade reversals receives a 30 day trade and market cooldown. Their trade partners are unaffected.
+[/section]
+
 [section id=mistake]
 
 [h2]Can you help me remove the 30 day trade and market cooldowns?[/h2]
 Unfortunately, Steam Support cannot modify trade and market cooldowns associated with reversing trades.
+[/section]
+
+[section id=optout]
+
+[h2]Can I opt out of Trade Protected features for my items?[/h2]
+Once a game has Trade Protected its items, it is not possible to trade those items without the associated features. All Trade Protected items remain Trade Protected for 7 days after the trade is confirmed.
 [/section]
 
 [section id=combine]

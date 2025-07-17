@@ -139,7 +139,7 @@ For most non-Steam Deck devices, you will need to disable Secure Boot on your de
 
 [*] Tap Exit saving changes
 
-[*] Follow instructions to [url=#reimage]install SteamOS on your device[/url]
+[*] Follow instructions to [url=#install]install SteamOS on your device[/url]
 
 [/list]
 
@@ -163,6 +163,6 @@ For most non-Steam Deck devices, you will need to disable Secure Boot on your de
 
 [*] Right arrow to save and exit
 
-[*] Follow instructions to [url=#reimage]install SteamOS on your device[/url]
+[*] Follow instructions to [url=#install]install SteamOS on your device[/url]
 
 [/list]
