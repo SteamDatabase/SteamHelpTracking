@@ -54,7 +54,7 @@ First, make sure you're in control of your Steam account. If you need help regai
 
 You can review the list of your trades containing Trade Protected items, and begin the process of reversing them, directly from your [url=https://steamcommunity.com/my/tradehistory?snr=2___]Trade History[/url] page.
 
-When you choose to reverse trades, all trades containing Trade Protected items will be reversed. All items from those trades will be returned to their previous owners and your account will be restricted from trading and using the Steam Community Market for 30 days to avoid future security-related incidents.
+When you choose to reverse trades, all trades containing Trade Protected items from the last 7 days will be reversed. All items from those trades will be returned to their previous owners and your account will be restricted from trading and using the Steam Community Market for 30 days to avoid future security-related incidents.
 
 If you initiated the trade reversal, your items listed on the Steam Community Market will be returned to your account and your pending trade offers will be canceled.
 [/section]
