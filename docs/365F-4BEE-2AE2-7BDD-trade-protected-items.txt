@@ -22,7 +22,7 @@ Trade Protection is a feature some games support that allow you to reverse recen
 
 When a trade involving items from a game supporting Trade Protection is confirmed, the items are delivered immediately, and you can equip and play with them in-game.
 
-For the next 7 days, the items are considered Trade Protected, and cannot be consumed, modified, or transferred. Once the 7 day period expires, the Trade Protected status expires, and the trade can no longer be reversed.
+For the next 7 days, the items are considered Trade Protected, and cannot be consumed, modified, or transferred (including being moved to a Storage Unit). Once the 7 day period expires, the Trade Protected status expires, and the trade can no longer be reversed.
 [/section]
 
 [section id=protect]
