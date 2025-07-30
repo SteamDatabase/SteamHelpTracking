@@ -902,8 +902,8 @@
     "3917933687129406429": {
         "title": "Trade Protected Items",
         "url_code": "365F-4BEE-2AE2-7BDD",
-        "version": 8,
-        "timestamp": "2025-07-21 16:59:20"
+        "version": 11,
+        "timestamp": "2025-07-29 21:05:32"
     },
     "3935089029032042202": {
         "title": "EU/UK Right of Withdrawal and Steam Refunds",
@@ -1312,6 +1312,12 @@
         "url_code": "4B7F-A50C-EF17-2295",
         "version": 3,
         "timestamp": "2021-08-10 17:52:49"
+    },
+    "5441998121129493198": {
+        "title": "Changes to where you will find some Call of Duty games in your Steam Library",
+        "url_code": "4B85-DC75-4E44-42CE",
+        "version": 1,
+        "timestamp": "2025-07-29 16:26:36"
     },
     "5443610150482493676": {
         "title": "Add Non-Steam Games to a Library",

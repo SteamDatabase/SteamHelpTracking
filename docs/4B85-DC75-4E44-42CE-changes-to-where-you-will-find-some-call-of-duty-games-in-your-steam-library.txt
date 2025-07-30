@@ -1,0 +1,19 @@
+[h1]Changes to where you will find some Call of Duty games in your Steam Library[/h1]
+
+We wanted to let you know about a game update that will change where you find some Call of Duty games in your Steam Library.
+
+Previously, Activision released Call of Duty: Modern Warfare II and Call of Duty: Modern Warfare III on Steam as part of a launcher called Call of Duty HQ. In Steam, these titles were grouped with other recent Call of Duty releases under a single "Call of Duty" library entry.
+
+As of today, those two games are being moved out of the Call of Duty HQ launcher, which means you will see them in your library as new individual library entries.
+
+With this game update, your user reviews, wishlists and game content ownership will not change. Save files, in-game progression, and achievements will automatically transfer when you launch the new version of the game(s).
+
+Unfortunately, this update will require re-installing the impacted game(s) to continue playing. That content will remain as part of the Call of Duty HQ installation until August 7th, but must be redownloaded via the new game(s) to access and play. Any previous playtime you accumulated while playing those games will stay attributed to Call of Duty HQ.
+
+Activision has provided more detailed information for each game, which you can find here:
+[url=https://support.activision.com/modern-warfare-ii/articles/modern-warfare-ii-installation-and-setup ]Call of Duty: Modern Warfare II[/url]
+[url=https://support.activision.com/modern-warfare-iii/articles/modern-warfare-iii-installation-and-setup]Call of Duty: Modern Warfare III[/url]
+
+For specific issues related to Call of Duty content or an Activision account, please [url=https://support.activision.com/options]contact Activision customer support here.[/url]
+
+-The Steam Team

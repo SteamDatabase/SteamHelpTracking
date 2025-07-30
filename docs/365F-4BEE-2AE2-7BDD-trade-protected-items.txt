@@ -7,6 +7,7 @@
 [*][url=#whichgames]Which games have Trade Protected items?[/url] [/*]
 [*][url=#whichitems]Which items are Trade Protected?[/url] [/*]
 [*][url=#howto]How do I reverse trades? Do I need to write into Steam Support?[/url] [/*]
+[*][url=#whathappens]What happens when I reverse trades?[/url] [/*]
 [*][url=#whichtrades]Which trades are reversible?[/url] [/*]
 [*][url=#partnerreversal]My trade partner reversed our trade. What does this mean for my account?[/url] [/*]
 [*][url=#mistake]Can you help me remove the 30 day trade and market cooldowns?[/url] [/*]
@@ -54,7 +55,15 @@ First, make sure you're in control of your Steam account. If you need help regai
 
 You can review the list of your trades containing Trade Protected items, and begin the process of reversing them, directly from your [url=https://steamcommunity.com/my/tradehistory?snr=2___]Trade History[/url] page.
 
-When you choose to reverse trades, all trades containing Trade Protected items from the last 7 days will be reversed. All items from those trades will be returned to their previous owners and your account will be restricted from trading and using the Steam Community Market for 30 days to avoid future security-related incidents.
+A direct link to your trades eligible for reversal can be found [url=https://help.steampowered.com/en/wizard/HelpTradeRestore]here[/url].
+[/section]
+
+[section id=whathappens]
+
+[h2]What happens when I reverse trades?[/h2]
+When you choose to reverse trades, all trades containing Trade Protected items from the last 7 days will be reversed.
+
+All items from those trades will be returned to their previous owners and your account will be restricted from trading and using the Steam Community Market for 30 days to avoid future security-related incidents.
 
 If you initiated the trade reversal, your items listed on the Steam Community Market will be returned to your account and your pending trade offers will be canceled.
 [/section]
