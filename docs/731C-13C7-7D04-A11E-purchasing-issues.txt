@@ -18,7 +18,8 @@
 [*][url=https://support.steampowered.com/kb_article.php?ref=3382-QYOD-8584]An unexpected error has occurred. Your purchase has not been completed. Please contact Steam Support.[/url] [/*]
 [*][url=https://support.steampowered.com/kb_article.php?ref=7061-JKZC-5657]Your credit card information has been declined by your credit card company due to an incorrect address being entered.[/url] [/*]
 [*][url=https://support.steampowered.com/kb_article.php?ref=4004-OFKB-3935]Your purchase has not been completed. Your credit card information has been declined by your credit card company.[/url] [/*]
-[*][url=https://support.steampowered.com/kb_article.php?ref=2885-QEJN-6071]Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.[/url] [/*]
+[*][url=https://support.steampowered.com/kb_article.php?ref=2885-QEJN-6071]Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.[/url]
+[*][url=#purpp]PayPal is currently unavailable in your country.[/url] [/*]
 
 [/list]
 
@@ -51,3 +52,12 @@ Steam will [b]always[/b] decline a transaction that fails an address or CVV chec
 Most gift cards require that you register them on the gift card issuer's website before they can be used for online purchases. Information regarding this process can usually be found through a web address that is printed on the back of the card itself.
 
 If you have not registered your gift card before attempting a purchase, it's likely that the issuer has put a hold on the card for the failed purchase amount. The bank will release the funds to you at a later date per the card issuer's policy. This can often take up to 30 days.
+
+[url id=purpp][/url]
+
+[h3]PayPal use on Steam is currently unavailable in my currency. Why?[/h3]
+In early July 2025, PayPal notified Valve that their acquiring bank for payment transactions in certain currencies was immediately terminating the processing of any transactions related to Steam. This affects Steam purchases using PayPal in currencies [i]other than[/i] EUR, CAD, GBP, JPY, AUD and USD.
+
+We hope to offer PayPal as an option for these currencies in the future but the timeline is uncertain. We are also evaluating adding additional payment methods on Steam for the customers affected by this.
+
+In the meantime, please use one of our other current payment methods during checkout. If you can't use any of the available options, you can consider using a  [url=http://support.steampowered.com/kb_article.php?ref=1122-RTSC-0478]Steam Wallet code[/url] to add funds to your account.
