@@ -1,0 +1,62 @@
+[h1]User Reviews[/h1]
+
+Players use [url=https://store.steampowered.com/reviews/]Steam User Reviews[/url] to share their experiences with the games they play, and to let others know if they recommend those games or not. A game's review score is a summary of those recommendations and a signal to potential players whether they would be happy playing the game.
+
+There are various components that go into a review score calculation, as well as how individual reviews are displayed on the store.
+
+[h2]Calculating Review Score[/h2]
+
+The review score for a game is basically a categorization based on the percentage of positive reviews. Only reviews from players who have purchased the game from Steam are counted towards that score. If the game does not require purchase, all reviews will be counted.
+
+By default, the review score will not include reviews written during periods classified by Steam as 'off-topic'. Furthermore, if there are enough reviews written in your language, Steam will calculate the score based only on those reviews. If there aren't enough reviews written in your language, the score will be be calculated from reviews written in all languages.
+
+You can override those default settings to see review scores that include all reviews. This option is available under [url=https://store.steampowered.com/account/preferences/#review_score_preferences]Review Score Settings[/url] in your store preferences.
+
+You can learn more about these specifics in the following blog posts:
+
+[list]
+
+[*][url=https://store.steampowered.com/oldnews/24155]More Updates to The Steam Customer Review System[/url]
+
+[*] [url=https://steamcommunity.com/games/593110/announcements/detail/1808664240333155775]User Reviews Revisited (Off-topic Review Activity)[/url]
+
+[*] [url=https://steamcommunity.com/games/593110/announcements/detail/500579345320904529]Updates to User Review Scores Based on Language[/url]
+
+[/list]
+
+[h2]Helpfulness[/h2]
+
+Users can mark whether a review written by someone else is helpful to them or not. This data is used to help determine how individual reviews are sorted and shown on a game's store page. We've also built a system to help identify whether reviews are informative or not, which is used in combination with user helpfulness votes to come up with a list of individual reviews to display.
+
+You can learn more about how individual reviews are displayed here:
+
+[list]
+
+[*] [url=https://steamcommunity.com/games/593110/announcements/detail/2666556941788470579]Making Helpful User Reviews More Helpful[/url]
+
+[*] [url=https://store.steampowered.com/news/app/593110/view/4326355263805583415]Update to User Reviews: New Helpfulness System[/url]
+
+[/list]
+
+[h2]Review Guidelines[/h2]
+
+Like all other community content on Steam, players are expected to follow [url=https://help.steampowered.com/en/faqs/view/6862-8119-C23E-EA7B]Steam's Community Rules and Guidelines[/url] and [url=https://store.steampowered.com/online_conduct/]Online Conduct Rules[/url] when posting.
+
+Reviewers should adhere to the following guidelines:
+
+[list]
+
+[*] Do not direct abuse or insults at other players, developers, or groups.
+
+[*] Do not include threats or encouragement of harm.
+
+[*] Do not use reviews for commercial purposes. Examples include: advertisements, referrals, or promotions.
+
+[*] Do not artificially influence review scores. Examples include: using multiple accounts to leave reviews; coercing other players to leave reviews; or accepting payments or other compensation to leave reviews.
+
+[*] If a copy of the game was received for free, this should be disclosed in the review itself.
+
+[/list]
+
+Players are encouraged to report content that is in violation of these guidelines:
+[url=https://help.steampowered.com/en/faqs/view/4DE7-17AA-0E8B-C1AD]Reporting Content within the Community[/url]
