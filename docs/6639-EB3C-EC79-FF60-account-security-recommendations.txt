@@ -82,12 +82,16 @@ Deny requests for login and password information from other users. Do not share 
 Ignore unsolicited messages from "Steam Support" unless the message originates from the [u]help.steampowered.com[/u] domain.
 
 [h2]Malicious programs in downloads[/h2]
-Hacks are another very common source of malicious programs. It is common for executable ( .EXE ) files, Windows screensaver ( .SCR ) files, dynamic link libraries ( .DLL ) files, and batch ( .BAT ) files being offered as parts of "mods" to contain malicious software designed to steal Steam account login information.
+Malware that targets Steam may be disguised as Pirated software, cheats, fake game demos / betas, or gaming adjacent utilities such as communications software, mod / inventory managers, etc.
+
+Modern malware packages may be bespoke enough to avoid detection from common antivirus software, wait for the targeted software to be in a state that's worth triggering an attack (such as an account having funds available in its Steam Wallet), and some packages may remove themselves from a system after performing their intended goal.
+
+Always be skeptical of software linked to you by others even if it is hosted on a platform that you'd normally trust, research any application or offer that requires the installation of software, and ensure you are downloading software from the official source.
 
 [exclude_realm=china]
 
 [h2]Examples of hijacking attempts[/h2]
-A list of common scams can be found [url=http://www.reddit.com/r/Steam/wiki/scamtypes]here[/url].
+A list of common hijacking scams can be found [url=http://www.reddit.com/r/Steam/wiki/scamtypes]here[/url].
 
 [/exclude_realm]
 

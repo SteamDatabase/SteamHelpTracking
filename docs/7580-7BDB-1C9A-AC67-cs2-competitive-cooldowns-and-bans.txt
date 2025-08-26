@@ -122,7 +122,7 @@ No. Regardless of the reason a Competitive cooldown was issued they cannot be re
 [section id=length]
 
 [h2]How long will my Competitive cooldown last?[/h2]
-Non-VACNet Competitive cooldowns in Counter-Strike 2 have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking.
+Non-VACnet Competitive cooldowns in Counter-Strike 2 have four levels. When an account receives a Competitive cooldown, the cooldown level remains on the account for a one-week probationary period. Any additional cooldowns received during the one-week probationary period increases the amount of time players are restricted from matchmaking.
 
 [list]
 

@@ -1478,8 +1478,8 @@
     "5973512499471541601": {
         "title": "Items Not Properly Awarded",
         "url_code": "52E6-2DF8-205B-6561",
-        "version": 3,
-        "timestamp": "2021-07-10 19:49:55"
+        "version": 5,
+        "timestamp": "2025-08-25 16:15:45"
     },
     "6019512696190909808": {
         "title": "Sound Troubleshooting",
@@ -1916,8 +1916,8 @@
     "7366177312439140192": {
         "title": "Account Security Recommendations",
         "url_code": "6639-EB3C-EC79-FF60",
-        "version": 10,
-        "timestamp": "2025-03-06 19:37:30"
+        "version": 11,
+        "timestamp": "2025-08-25 15:47:54"
     },
     "7388971518156176644": {
         "title": "Permanent Bans and Gift Restrictions",
@@ -2252,8 +2252,8 @@
     "8466903480464485479": {
         "title": "CS2 - Competitive cooldowns and bans",
         "url_code": "7580-7BDB-1C9A-AC67",
-        "version": 21,
-        "timestamp": "2025-03-14 23:43:59"
+        "version": 22,
+        "timestamp": "2025-08-25 16:10:00"
     },
     "8508054175547039248": {
         "title": "CS:GO - Steam Group Lobbies",
