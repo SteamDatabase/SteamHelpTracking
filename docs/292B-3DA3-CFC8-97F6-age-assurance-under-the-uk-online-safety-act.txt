@@ -35,7 +35,7 @@ Required inputs:
 
 [/list]
 
-[*]Click “Continue” to trigger a £0 authorization.
+[*]Click “Continue” to trigger an authorization check. For some cards this will show as a £1 test charge that Steam will not collect and will be returned to your account per your bank's policy regarding uncollected charges.
 
 [*]You will be presented with a challenge that is determined by your card issuing bank's policies, e.g. via one-time-password (OTP) or via app.
 
