@@ -27,7 +27,7 @@ Wrap your hardware so that it is evenly protected. See the examples below for gu
 [expand type=title title="Steam Deck"]
 Back up your data and factory reset your device.
 
-Pack your Steam Deck in the original case.
+Pack your Steam Deck in the original case. Do not pack the included mesh pouch or microfiber cloth.
 [img]{STEAM_CLAN_IMAGE}/39983882/e17df36ecdc9d11353377256629d64d997eb7001.png[/img]
 
 If you have the original packaging, you can use it for your return.
