@@ -1,43 +1,34 @@
 [h1]Unrecognized Charges[/h1]
 
-I have charges from Valve Software or Steampowered.com that I do not recognize, what should I do?
+[h4]I have charges from Valve Software, Steampowered.com, or Steam Games that I do not recognize, what should I do? [/h4]
 
-[h3]Ensure that the charges were not authorized[/h3]
-First, we suggest that you check with the members of your household, family or friends to see if they’ve bought any video games or in-game content. Valve has no recurring fees or monthly charges unless otherwise explicitly stated as part of an online game subscription. Any charges from our company are for video games or in-game content (weapons, armor, currency, etc.) that is directly downloaded onto a computer. Please check to make sure someone in your household did not make these purchases.
+We recommend checking with other members of your household, or anyone that may have had access to your payment method, to determine who may have made these purchases. Valve has no recurring fees or monthly charges unless otherwise explicitly stated as part of an online game subscription. Any charges from our company are for computer games, DLC (downloadable content for a game), or in-game items/currency.  If you determine that a a member of your household completed the purchases without your permission, you can still contact Steam Support for assistance.
 
-If the total sum on your Steam purchase receipt does not match with what you see on your bank statement, get in touch with your bank to find out more: in some countries, banks may add additional processing fees, taxes, or conversion charges to the final total, even if you made the purchase on Steam with your local currency. Steam does not control these fees.
+If you own a Steam account, we also recommend checking your purchase history. You can review your Steam Store purchase history from the [url=https://help.steampowered.com/en/]Help Site[/url] or the Steam Client. After logging into your account, click on your account name at the top right of the screen and select [i]Account Details > View purchase history[/i]. If the total sum displayed in your purchase history does not match what you see on your bank statement or invoice, get in touch with your payment provider. In some countries, banks may add additional processing fees, taxes, or conversion charges to the final total, even if you made the purchase on Steam with your local currency. Steam does not control these fees.
 
-[h3]Why you should contact Steam Support before disputing the charges[/h3]
-We strongly suggest that you contact us before filing a dispute with your bank or with PayPal as we can return the funds to you without any paperwork or claim forms. We will also ban your payment account from our system so that it cannot be used again. As part of this process, we can also investigate the fraudulent individual's Steam account(s) and take appropriate action against them.
+[h4] What information does Steam Support need to locate my charges? [/h4]
 
-[h3]Information to submit for unrecognized Credit Card charges:[/h3]
+Please include the following information:
 
 [list]
 
-[*]The approximate date of the charge [/*]
-[*]The exact amount of the charge as it appears on your statement [/*]
-[*]The type of card that was used (Visa, MasterCard, American Express, Discover, etc.) [/*]
-[*]The last 4 digits of the credit card [/*]
-[*]A phone number that we can use to reach you if necessary [/*]
+[*]the name as it appears on your billing statement [/*]
+[*]exact mount of the charge [/*]
+[*] exact date of the charge [/*]
+[*]type of card that was used (Visa, MasterCard, American Express, Discover, etc.) [/*]
+[*]last 4 digits of the credit card [/*]
+[*]your email address [/*]
+[*]a phone number that we can use to reach you if necessary [/*]
 
 [/list]
 
-[section style=important]
-
-[h3]Important:[/h3]
-Many bank accounts have multiple cards attached to them. If a family member also has a card with a different number that is attached to the bank account that was charged, you may need to provide the requested information for that card as well.
-[/section]
-
-[h3] [/h3]
-
-[h3]Information to submit for unrecognized PayPal charges:[/h3]
+Under [i]Is there anything else you'd like us to know?[/i] you can include any additional details that you think will help our Support Team to locate your charges. For example:
 
 [list]
 
-[*]The approximate date of the charge [/*]
-[*]The exact amount of the charge as it appears on your statement [/*]
-[*]The Order Description and Invoice ID from your PayPal billing statement for this charge [/*]
-[*]A phone number that we can use to reach you if necessary [/*]
+[*]If you are seeing multiple charges, please type the exact date and amount of each individual transaction. [/*]
+[*] If this is a joint bank account or if the card number has changed in the last few months, please provide the last 4 digits of each card associated with your bank account. [/*]
+[*] If your credit card statement indicates that this is a PayPal charge, please log in to your PayPal account and provide us with the 16-18 digit long invoice ID associated with the purchase(s) in question. [/*]
 
 [/list]
 
@@ -46,3 +37,27 @@ Many bank accounts have multiple cards attached to them. If a family member also
 [h3]Warning:[/h3]
 Steam Support will never request your full credit card number, expiration date, or CVV code. Do not provide this information in your Steam Support ticket.
 [/section]
+
+[h4] How do I contact Steam Support? [/h4]
+
+If you are not a Steam user:
+
+[list]
+
+[*]Navigate to the [url=https://help.steampowered.com/en/]Help Site[/url] and scroll down to the bottom of the page.  [/*]
+[*]Select [i]I have charges from Steam that I didn’t make[/i].[img]{STEAM_CLAN_IMAGE}/39983882/446b700d1212eded95b7e65d0f9f9d9f0adda19c.png[/img]
+
+[*]Select [i]I am not a Steam user[/i].[img]{STEAM_CLAN_IMAGE}/39983882/2f50b8828cbbb4dec5b414b9d1ec7fa426dbe92e.png[/img]  [/*]
+[*]Fill out the form with as much detail as you can provide. When entering the amount, please enter a decimal instead of a comma (e.g. 29.99). If helpful, you can also attach a copy of your bank statement or invoice.  [/*]
+[*]Select [i]Send[/i] to submit your ticket. Steam Support will respond to your inquiry.  [/*]
+
+[/list]
+
+If you are Steam user:
+
+[*]Navigate to the [url=https://help.steampowered.com/en/]Help Site[/url] and log into your Steam account. [/*]
+[*]Select [i]Purchases[/i]. [/*]
+[*]Select [i]I have charges from Steam that I didn’t make[/i]. [/*]
+[*]Select [i]Contact Steam Support[/i]. [/*]
+[*]Fill out the form with as much detail as you can provide. When entering the amount, please enter a decimal instead of a comma (e.g. 29.99). If helpful, you can also attach a copy of your bank statement or invoice. [/*]
+[*]Select [i]Send[/i] to submit your ticket. Steam Support will respond to your inquiry. [/*]
