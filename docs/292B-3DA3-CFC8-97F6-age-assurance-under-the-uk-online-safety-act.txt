@@ -45,7 +45,11 @@ Required inputs:
 
 [h2]Why we use this process[/h2]
 
-In the UK, Ofcom is the independent regulator for online safety. Ofcom’s guidance on the OSA states that one highly effective age assurance measure is credit card checks. This is because, in the UK, an individual must be at least 18 years of age to obtain a credit card, therefore credit card issuers are obliged to verify the age of an applicant before providing them with a credit card.
+In the UK, Ofcom is the independent regulator for online safety. Ofcom’s guidance on the OSA states that one highly effective age assurance measure is credit card checks.
+
+This is because, in the UK, an individual must be at least 18 years of age to obtain a credit card, therefore credit card issuers are obliged to verify the age of an applicant before providing them with a credit card.
+
+Unfortunately, debit cards do not qualify for age assurance purposes as these can be issued to minors.
 
 Having the credit card stored as a payment method acts as an additional deterrent against circumventing age verification by sharing a single Steam user account among multiple persons.
 

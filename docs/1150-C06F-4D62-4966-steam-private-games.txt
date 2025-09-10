@@ -39,4 +39,4 @@ When you play a game that uses Steam matchmaking, your Steam ID will be visible 
 
 [h2]How is this different from hidden games?[/h2]
 
-There’s already an option in your Steam Client Library to hide a game, which prevents it from appearing to you. It’s an organizational tool for those games you still want to own, but want to take up space your client's game list. Private games are essentially the opposite, they are visible to you in your Library and not to anyone else.
+There’s already an option in your Steam Client Library to hide a game, which prevents it from appearing to you. It’s an organizational tool for those games you still want to own, but do not want to take up space your client's game list. Private games are essentially the opposite, they are visible to you in your Library and not to anyone else.
