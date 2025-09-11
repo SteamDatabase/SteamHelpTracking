@@ -22,7 +22,8 @@ Please include the following information:
 
 [/list]
 
-Under [i]Is there anything else you'd like us to know?[/i] you can include any additional details that you think will help our Support Team to locate your charges. For example:
+Under [i]Is there anything else you'd like us to know?[/i] you can include any additional details that you think will help our Support Team to locate your charges.
+For example:
 
 [list]
 
@@ -46,7 +47,6 @@ If you are not a Steam user:
 
 [*]Navigate to the [url=https://help.steampowered.com/en/]Help Site[/url] and scroll down to the bottom of the page.  [/*]
 [*]Select [i]I have charges from Steam that I didn’t make[/i].[img]{STEAM_CLAN_IMAGE}/39983882/446b700d1212eded95b7e65d0f9f9d9f0adda19c.png[/img]
-
 [*]Select [i]I am not a Steam user[/i].[img]{STEAM_CLAN_IMAGE}/39983882/2f50b8828cbbb4dec5b414b9d1ec7fa426dbe92e.png[/img]  [/*]
 [*]Fill out the form with as much detail as you can provide. When entering the amount, please enter a decimal instead of a comma (e.g. 29.99). If helpful, you can also attach a copy of your bank statement or invoice.  [/*]
 [*]Select [i]Send[/i] to submit your ticket. Steam Support will respond to your inquiry.  [/*]
@@ -55,9 +55,13 @@ If you are not a Steam user:
 
 If you are Steam user:
 
+[list]
+
 [*]Navigate to the [url=https://help.steampowered.com/en/]Help Site[/url] and log into your Steam account. [/*]
 [*]Select [i]Purchases[/i]. [/*]
 [*]Select [i]I have charges from Steam that I didn’t make[/i]. [/*]
 [*]Select [i]Contact Steam Support[/i]. [/*]
 [*]Fill out the form with as much detail as you can provide. When entering the amount, please enter a decimal instead of a comma (e.g. 29.99). If helpful, you can also attach a copy of your bank statement or invoice. [/*]
 [*]Select [i]Send[/i] to submit your ticket. Steam Support will respond to your inquiry. [/*]
+
+[/list]
