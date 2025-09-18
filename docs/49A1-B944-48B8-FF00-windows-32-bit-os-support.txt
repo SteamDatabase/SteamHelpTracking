@@ -1,0 +1,9 @@
+[h1]Windows 32-bit OS Support[/h1]
+
+As of January 1 2026, Steam will stop supporting systems running 32-bit versions of Windows. Windows 10 32-bit is the only 32-bit version that is currently supported by Steam and is only in use on 0.01% of systems reported through the Steam Hardware Survey. Windows 10 64-bit will still be supported and 32-bit games will still run.
+
+Existing Steam Client installations will continue to function for the near term on Windows 10 32-bit but will no longer receive updates of any kind including security updates. Steam Support will be unable to offer users technical support for issues related to the old operating systems, and Steam will be unable to guarantee continued functionality of Steam on the unsupported operating system versions.
+
+To ensure continued updates and compatibility, users should update to a 64-bit version of Windows.
+
+This change is required as core features in Steam rely on system drivers and other libraries that are not supported on 32-bit versions of Windows. Future versions of Steam will run on 64-bit versions of Windows only. We strongly encourage all 32-bit Windows users to update sooner rather than later.
