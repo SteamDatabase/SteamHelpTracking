@@ -6,48 +6,79 @@
 [/url][url=#malclosed]
 [*]What should I do if I think my tickets are being closed maliciously? [/*]
 [/url]
+[/list]
+
+[section style=important]
+
+[section id=phishing_content]
+
+[h2]Ticket closed? Secure your Steam account:[/h2]
+
+[list]
+
+[*]Check your account's [url=https://store.steampowered.com/account/authorizeddevices]Authorized Devices[/url]. If anything seems odd, use the [b]Sign out everywhere[/b] option. [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/5107-700D-89B4-A4CD]Change your Steam account password[/url]. [/*]
+[*]Review the security of your email and other associated accounts. Update the passwords if there are any concerns.  [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/70D4-67C8-784D-692A]Scan your system for malware[/url]. Check for malicious applications, web extensions, etc. [/*]
 
 [/list]
+
+[h2]Watch out for Account Hijacking:[/h2]
+
+[list]
+
+[*]NEVER give out your password to anyone. [/*]
+[*]NEVER click unknown links from untrusted sources, and check links sent by your friends. Their account may be compromised! [/*]
+[*]NEVER follow instructions to speak with someone claiming to represent Steam Support through any chat system, including Steam Chat or Discord, even if they come from a friend's account or claim to be able to resolve a false report. [/*]
+[*]ALWAYS make sure you log out when finished at a cafe! Deauthorize untrusted devices immediately if you forgot to log out. [/*]
+
+[/list]
+
+[/section]
+
+[/section]
 
 [section id=whyclosed][h1]How does a Steam Support ticket become closed?[/h1]
 [/section]
 
-[h2]Closed by User Choice[/h2]
+[h2]Closed by Your Choice[/h2]
 When you access an open Steam Support ticket, you have the option to mark it as solved by closing it. It's suggested that you do not close a ticket yourself unless you're sure that the related problem is solved.
 
 [h2]Closed Due to Inactivity[/h2]
-Support tickets will close automatically if they have been waiting for a user's input for 14 days. Tickets will not automatically close if they're waiting to be addressed by a Steam Support agent.
+A support ticket will close automatically if it has been waiting for your input for 14 days. Tickets will not automatically close if they're waiting to be addressed by a Steam Support agent.
 
 [h2]Closed by a Steam Support Agent[/h2]
-After addressing the problems that Steam Support can help you out with, an agent may close a ticket. This will typically only be done when the problems that are being presented are outside of Steam Support's scope. Unless your support ticket includes abusive content such as harassment, spam, extreme vulgarity, or threats, a Steam Support agent that will be closing a ticket will state so explicitly.
+After addressing the problems that Steam Support can help you with, an agent may close the ticket. This typically happens when the problem has been solved, or the primary topic of the ticket lies outside of Steam Support's scope. Unless your messages include abuse such as harassment, spam, extreme vulgarity, or threats, a Steam Support agent will tell you when they're closing the ticket.
 
-[h2]Closed by a Malicious Individual[/h2]
-A ticket can be considered to have been maliciously closed when someone other than the person submitting the ticket closes it.
+[h2]Closed by a Hijacker[/h2]
+If a hijacker has access to your account or a machine that you've authorized to use it, they may access your Steam Support requests and close them. Hijackers most often gain access to an account through phishing websites disguised as Steam or gaming related websites.
 
-If your support tickets are being closed without response from the Steam Support team, and you're not closing them yourself, it's likely that someone else is closing them - perhaps maliciously. In the very rare cases where this happens, it can usually be attributed to an account hijacker that is trying to make recovery difficult for the account owner. While this is a serious situation when it comes up, it's also usually a simple matter of securing your computer and email account before getting back in touch with Steam Support to recover your Steam account.
+There may be a [url=https://help.steampowered.com/en/faqs/view/3195-9FFB-BA06-F25B]social engineering / scam[/url] component to these attacks. If someone is threatening your account or instructs you to chat with someone to resolve an issue, that's a scam.
+
+If someone has access to your account and is closing your requests to try to make account recovery difficult, you can secure by following the advice in the [b]What should I do if I think my tickets are being closed maliciously?[/b] section below.
 
 [h2]Can a Closed Ticket Be Reopened?[/h2]
-Closed tickets can't be reopened - if you closed your ticket mistakenly, please create a new ticket and include your closed ticket's Ticket Number (HT-####-####-####) in your message.
+Tickets closed by your own account can be reopened once. View the ticket and click the "Not you?" option to reopen it.
 
 [section id=malclosed][h1]What should I do if I think my tickets are being closed maliciously?[/h1]
 [/section]
 
 [h2]If the ticket was submitted directly from your Steam account:[/h2]
-The only way to close a ticket that was submitted from a Steam account is with access to that same Steam account. This may be someone else who has you login credentials, or it could be through remote or physical access to a computer that you've saved your login credentials with.
+To close a ticket, you must have access to the Steam account that created the ticket. If your tickets are being closed, someone else might have access to your login credentials or have remote or physicals access to your computer.
 
 [h5]How to fix:[/h5]
 Using Steam's [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url] as a guide, secure your computer by scanning it for malware. Once you're sure that your computer is not infected with malware, secure your Steam account by updating its password to one that you haven't used previously and don't use with any other accounts. Updating your password will also force anyone who is logged in on a different computer to log in again, effectively removing any hijacker's access to the account.
 
-Resubmit your Steam Support ticket once your computer and accounts are secure.
+After securing your Steam account, you can reopen the closed ticket using the "Not you?" option shown in the ticket. If you can't reopen the ticket, please submit a new one once you're sure your computer and accounts are secure.
 
 [h2]If the ticket was submitted via email (account recovery tickets):[/h2]
-To close a ticket submitted via email, the person closing the ticket needs access to it via the unique ticket access link that's sent to your email address when creating the ticket or whenever it is updated with a response from Steam Support.
+To close a ticket submitted via email, the person closing the ticket needs access to it via the unique ticket access link that's sent to your email address when creating the ticket or whenever it is updated with a response from Steam Support. Some account recovery related ticket types cannot be closed.
 
 [h5]How to fix:[/h5]
-First, it's important that you consider a ticket whose access link may have been viewed by a hijacker as insecure. If you think that a hijacker has been viewing your emails, you should close any tickets that you submitted prior to securing your computer and email account.
+A ticket whose access link may have been viewed by a hijacker is not secure - the hijacker can view all of the messages in that ticket. If you think that a hijacker has been access your emails, or you've mistakenly provided a ticket access link to someone else, you should close any tickets that you submitted prior to securing your computer and email account.
 
-In addition to our normal [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url], make sure that the hijacker did not set up any forwarding rules to automatically forward all support related emails to an email address of their own.
+In addition to our normal [url=https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478]Account Security Recommendations[/url], make sure that the hijacker did not set up any forwarding rules to automatically forward support related emails to an email address of their own.
 
-While it's probably not a good idea to abandon one of your email accounts to a hijacker, you may choose to create a new email account or use an alternate account to contact Steam Support while you take measures to secure your original account.
+While it's not recommended that you abandon an email account to a hijacker, you may choose to create a new email account or use an alternate account to contact Steam Support while you take measures to secure or recover your original email account.
 
 Once you're sure that your computer and email account are secure, submit a new ticket to the Steam Support team.

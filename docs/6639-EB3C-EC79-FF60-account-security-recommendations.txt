@@ -18,9 +18,9 @@
 [list]
 
 [*]Check your account's [url=https://store.steampowered.com/account/authorizeddevices]Authorized Devices[/url]. If anything seems odd, use the [b]Sign out everywhere[/b] option. [/*]
-[*]Change your Steam account password immediately. [/*]
-[*]Review the security of your email and other associated associated accounts. Update the passwords if there are any concerns.  [/*]
-[*]Scan your system for malware. Check for malicious applications, web extensions, etc. [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/5107-700D-89B4-A4CD]Change your Steam account password[/url]. [/*]
+[*]Review the security of your email and other associated accounts. Update the passwords if there are any concerns.  [/*]
+[*][url=https://help.steampowered.com/en/faqs/view/70D4-67C8-784D-692A]Scan your system for malware[/url]. Check for malicious applications, web extensions, etc. [/*]
 
 [/list]
 
@@ -30,8 +30,8 @@
 
 [*]NEVER give out your password to anyone. [/*]
 [*]NEVER click unknown links from untrusted sources, and check links sent by your friends. Their account may be compromised! [/*]
-[*]NEVER follow instructions to speak with someone claiming to represent Steam Support through Discord or any other chat system, even if they come from a friend's account or claim to be able to resolve a false report. [/*]
-[*]ALWAYS make sure you log out when finished at a cafe! Deauthorize untrusted device immediately if you forgot to log out. [/*]
+[*]NEVER follow instructions to speak with someone claiming to represent Steam Support through Discord or any other chat system, including Steam Chat, even if they come from a friend's account or claim to be able to resolve a false report. [/*]
+[*]ALWAYS make sure you log out when finished at a cafe! Deauthorize untrusted devices immediately if you forgot to log out. [/*]
 
 [/list]
 
@@ -53,7 +53,7 @@
 [img]https://support.steampowered.com/images/faq/account_security/friends.png[/img]  [h1]Steam Friends[/h1]
 
 [h2]Anyone can attempt to add you[/h2]
-It's good to keep in mind that the users who add you may not be people you have chatted with before. Users can add you to their Friends list if they find your profile by searching for your in-game name or your account's contact e-mail address.
+It's good to keep in mind that the users who add you may not be people you have chatted with before. Users can add you to their Friends list if they find your profile by searching for your in-game name or other profile content.
 
 Be aware that users can change their profile name displayed in Friends at any time.
 
