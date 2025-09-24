@@ -2249,6 +2249,12 @@
         "version": 3,
         "timestamp": "2024-02-27 20:20:37"
     },
+    "8381666191334664750": {
+        "title": "Secure Boot & TPM 2.0",
+        "url_code": "7451-A8FE-3867-6A2E",
+        "version": 1,
+        "timestamp": "2025-09-24 00:17:04"
+    },
     "8404346551101924452": {
         "title": "Dota 2 - Network/Connectivity Issues",
         "url_code": "74A2-3CA8-FBB5-A464",

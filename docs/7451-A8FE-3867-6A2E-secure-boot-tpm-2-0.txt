@@ -1,0 +1,66 @@
+[h1]Secure Boot & TPM 2.0[/h1]
+
+Secure Boot and a Trusted Platform Module (TPM) are security features that are used together to help prevent malicious software from loading when you power on your computer. Some video games or their associated anti-cheat software require these features to be supported by your computer and enabled to play some or all parts of the game.
+
+This FAQ provides information on how to determine if these features are enabled on your computer. To learn more about how they work, please see the Wikipedia pages for [url=https://en.wikipedia.org/wiki/UEFI#Secure_Boot]Secure Boot[/url] and [url=https://en.wikipedia.org/wiki/Trusted_Platform_Module]Trusted Platform Modules[/url].
+
+[h1]How to check if these features are enabled[/h1]
+You can check if these security features are enabled through the Steam Client, Windows 10 & 11 or your computer's BIOS.
+
+[h5]Check the state of Secure Boot and TPM 2.0 through Steam[/h5]
+
+The Steam Client displays the state of both security features in the System Information dialog.
+
+From your Steam Client's main window, select [b]Help [/b]> [b]System Information[/b]. You should see two entries under the [b]Operating System[/b] section labeled "Secure Boot" and "TPM Version".
+
+[img]{STEAM_CLAN_IMAGE}/39983882/4604ef5e56942a415bde6aff36cb7d57030f9319.png[/img]
+
+[h5]Check the state of Secure Boot through Windows 10 or 11[/h5]
+
+You can check if Secure Boot is enabled through Windows 10 or 11 by:
+
+[olist]
+
+[*] Press the [b]Windows key + R[/b] on your keyboard to open the run dialog
+
+[*] Type [b]msinfo32[/b] and select [b]OK[/b]
+
+[*] Select [b]System Summary[/b]
+
+[*] Check that [b]BIOS Mode[/b] is set to [b]UEFI[/b]
+
+[*] Check that [b]Secure Boot State[/b] is [b]On[/b]
+
+[/olist]
+
+[h5]Check the state of TPM 2.0 through Windows 10 or 11[/h5]
+
+You can check if TPM 2.0 is enabled through Windows 10 or 11 by:
+
+[olist]
+
+[*] Press the [b]Windows key + R[/b] on your keyboard to open the run dialog
+
+[*] Type [b]tpm.msc[/b] and select [b]OK[/b]. Opening this application will require Administrative privileges
+
+[*] In the center panel of the opened window, look for a [b]TPM Manufacturer Information[/b] section
+
+[*] In that section, you should see a [b]Specification Version[/b] that lists [b]2.0[/b] if enabled
+
+[/olist]
+
+[h5]Check the state of Secure Boot and TPM 2.0 through your BIOS[/h5]
+
+You can also check the state of both features by entering your computer's BIOS settings. These settings live outside of the Windows operating system and can be accessed by pressing a key when you power on or restart your computer. Unfortunately, each motherboard or system manufacturer may have their own unique BIOS settings and interface. Please refer to your system manufacturer for more information on how to check these settings.
+
+[h1]How to enable Secure Boot or TPM 2.0[/h1]
+Secure Boot and TPM 2.0 are security features that are controlled by your computer's [url=https://en.wikipedia.org/wiki/UEFI]UEFI BIOS[/url]. The BIOS is firmware that was provided with your computer, is the first software that is run when you turn on your computer, helps initialize your hardware then starts the operating system.
+
+Unfortunately, each motherboard or system manufacturer may have their own unique BIOS settings and interface, so you will need to refer to your system manual or websites for more information on how to enable these settings.
+
+Please be aware that incorrectly configuring your computer's BIOS may cause issues, such as preventing your computer from starting. If you are not comfortable making advanced changes to your computer, we recommend contacting a professional or your computer manufacturer's customer support.
+
+[h1]Which games requires Secure Boot or TPM 2.0?[/h1]
+When a developer has indicated that parts of their game require Secure Boot or TPM 2.0, you'll see this listed alongside any other requirements listed in the right-hand column of the store page.
+
+When viewing the game's store page from within the Steam Client, the client will also try to detect if one of these features is not enabled on your machine and place a warning above the game's purchase options when missing. This detection cannot be performed through a web browser or on a mobile phone. The Steam Client performs this check entirely on your machine when browsing the store page.
