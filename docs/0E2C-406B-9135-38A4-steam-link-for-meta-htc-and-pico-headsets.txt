@@ -1,12 +1,12 @@
-[h1]Steam Link For Meta Quest[/h1]
+[h1]Steam Link For Meta, HTC and PICO Headsets[/h1]
 
 [img]https://support.steampowered.com/images/faq/steam_universe/Hardware_SteamLogo_Banner.png[/img]
 
 [h2]Description[/h2]
 
-The Steam Link app streams the games you love in your Steam library directly from your computer to your Meta Quest headset. Using the power of your computer, it delivers a high-fidelity and intuitive way to wirelessly play your favorite games, discuss them with your friends, and access your desktop apps.
+The Steam Link app streams the games you love in your Steam library directly from your computer to your Meta Quest, or consumer HTC Vive Focus or PICO headset (Business headsets are not officially supported at this time). Using the power of your computer, it delivers a high-fidelity and intuitive way to wirelessly play your favorite games, discuss them with your friends, and access your desktop apps.
 
-To download it for free, head to the Meta Quest store in your Quest headset or on your phone.
+To download it for free, head to the store in your headset or on your phone.
 
 [h2]Minimum Requirements[/h2]
 
@@ -28,7 +28,7 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [*]Wireless Router: 5GHz Channel, Wi-Fi 5 minimum
 
-[*]Headset: Meta Quest 2, 3, or Pro
+[*]Headset: Meta Quest 2, 3, or Pro, PICO 4 Ultra, PICO 4, PICO Neo 3, HTC Vive Focus Vision and HTC VIVE XR Elite
 
 [/list]
 
@@ -58,7 +58,7 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [list]
 
-[*]Oculus Touch and Pro Controllers
+[*]Controllers corresponding to your headset.
 [i]Please note: other input devices may work even if they aren’t officially supported.[/i]
 
 [/list]
@@ -69,9 +69,9 @@ To download it for free, head to the Meta Quest store in your Quest headset or o
 
 [*]Turn on your home PC, launch Steam, and log in.
 
-[*]Ensure your Meta Quest headset is connected to the same network as your host PC.
+[*]Ensure your headset is connected to the same network as your host PC.
 
-[*]Download and install the Steam Link app from the Meta Quest store in your headset. You can also download from the Meta Quest app on your phone.
+[*]Download and install the Steam Link app from the store in your headset. You can also download from the store app on your phone (where applicable)
 
 [*]After you’ve installed Steam Link, open it and follow the on-screen instructions for connecting your headset to your home PC.
 
@@ -95,13 +95,19 @@ Your wireless network is on 2.4Ghz and not 5Ghz.
 
 To join, you must install Steam Link to your Meta headset, then you can opt into the Public Beta channel using this link https://www.meta.com/s/1hti7gedQ from your phone, or by using the Meta application on your phone to select the Public Beta channel in the settings for the Steam Link application.
 
+Note that there is no PICO or HTC Public Beta program available at this time.
+
 [h4]Can I use my Wi-Fi network to connect to my PC and my headset?[/h4]
 
 Using a wireless connection to your PC is not advised and could cause connectivity failures and other latency issues. We recommend a wired connection to your PC, and a 5GHz WiFi network for your headset is highly recommended.
 
 [h4]What operating systems can I use for streaming VR?[/h4]
 
-We currently only support Windows 10 or newer. Other operating systems such as Linux and macOS are not supported.
+Windows 10 and Windows 11 are fully supported. There is experimental Linux support. Other operating systems such as macOS are not supported.
+
+[h4]Experimental Linux Support[/h4]
+
+Steam Link VR Uses Vulkan Video, and driver support for Vulkan Video is only available in the newest drivers.  Please use NVIDIA drivers 575.64.05 or newer or if AMD, please use Mesa drivers 5.2.2 or newer.
 
 [h4]Does Steam Link support AMD GPUs for my PC?[/h4]
 
@@ -109,7 +115,7 @@ Some AMD GPUs are experimentally supported.
 
 [list]
 
-EXPERIMENTALLY SUPPORTED - Recent AMD Cards with HEVC hardware encoders:
+SUPPORTED - Recent AMD Cards with HEVC hardware encoders:
 
 [list]
 
@@ -204,7 +210,7 @@ Also, "bind" your headset to the AP you intend to use in the mesh network's admi
 
 [*]Be sure that you are using "Auto" bandwidth in Steam VR -> Steam Link settings, instead of manual. "Auto" specifically targets bandwidth to help avoid jitters.
 
-[*]Especially if you see brightness issues, try disabling power saver in your Meta Quest Settings under "Settings" -> "System" -> "Power" -> "Battery Saver"
+[*](For Quest users) Especially if you see brightness issues, try disabling power saver in your Meta Quest Settings under "Settings" -> "System" -> "Power" -> "Battery Saver"
 
 [*]If you are using a Lenovo product, disable "Network Booster"
 
@@ -220,7 +226,7 @@ Also, "bind" your headset to the AP you intend to use in the mesh network's admi
 
 [*]Try setting "HMD" or "Steam Streaming Microphone" as the audio output device in "Audio Settings" in SteamVR Setting. Note that the default should be "HMD"
 
-[*]Verify Steam Link has permissions to use the microphone in the Quest Settings Menu, under "Apps" (App Permissions), under "Microphone" and verify the slider is slid to enable
+[*]Verify Steam Link has permissions to use the microphone in the Settings Menu, under "Apps" (App Permissions), under "Microphone" and verify the slider is slid to enable
 
 [h4]If you are having speaker issues:[/h4]
 
@@ -232,7 +238,7 @@ Also, "bind" your headset to the AP you intend to use in the mesh network's admi
 
 [h4]Steam dashboard not opening:[/h4]
 
-[*]To open the Steam dashboard, click the menu button on the left controller, which is the default binding. Ensure that the Meta Quest bindings are correct.
+[*]To open the Steam dashboard, click the menu button on the left controller, which is the default binding. Ensure that the controller bindings are correct.
 
 [*]Ensure that the setting "VR Dashboard on System Button" is ON. This should be on by default. To manage this setting go to: SteamVR Settings > Dashboard then Toggle the Advanced Settings button.
 
