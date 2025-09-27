@@ -30,6 +30,16 @@ To download it for free, head to the store in your headset or on your phone.
 
 [*]Headset: Meta Quest 2, 3, or Pro, PICO 4 Ultra, PICO 4, PICO Neo 3, HTC Vive Focus Vision and HTC VIVE XR Elite
 
+[list]
+
+[*]Meta Headsets require v74 OS
+
+[*]PICO Headsets require v5.14 (Earlier versions will experience major video corruption issues with Steam Link)
+
+[*]HTC Headsets require v7.0.999.344
+
+[/list]
+
 [/list]
 
 [h2]Recommended[/h2]
@@ -107,7 +117,7 @@ Windows 10 and Windows 11 are fully supported. There is experimental Linux suppo
 
 [h4]Experimental Linux Support[/h4]
 
-Steam Link VR Uses Vulkan Video, and driver support for Vulkan Video is only available in the newest drivers.  Please use NVIDIA drivers 575.64.05 or newer or if AMD, please use Mesa drivers 5.2.2 or newer.
+Steam Link VR Uses Vulkan Video, and driver support for Vulkan Video is only available in the newest drivers.  Please use NVIDIA drivers 575.64.05 or newer or if AMD, please use Mesa drivers 25.2.2 or newer.
 
 [h4]Does Steam Link support AMD GPUs for my PC?[/h4]
 
