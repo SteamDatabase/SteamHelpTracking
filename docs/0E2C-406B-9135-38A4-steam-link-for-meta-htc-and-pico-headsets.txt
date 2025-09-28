@@ -34,7 +34,7 @@ To download it for free, head to the store in your headset or on your phone.
 
 [*]Meta Headsets require v74 OS
 
-[*]PICO Headsets require v5.14 (Earlier versions will experience major video corruption issues with Steam Link)
+[*]PICO Headsets require v5.13 (Earlier versions will experience major video corruption issues with Steam Link)
 
 [*]HTC Headsets require v7.0.999.344
 
