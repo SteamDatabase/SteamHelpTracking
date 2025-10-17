@@ -19,9 +19,7 @@ Big Picture is a mode of Steam designed for use with your TV and game controller
 [url id=platforms][/url]
 
 [h3][b]What platforms does Big Picture mode support?[/b][/h3]
-Big Picture is currently available on any PC running Windows 7 or newer, any Mac running macOS 10.11 or later, and Linux machines using up to date versions of Ubuntu. Please [url=http://store.steampowered.com/bigpicture]click here[/url] for a full list of system requirements.
-
-On the Mac, a third-party driver must be used to enable the Xbox 360 controller. A driver is available from [url=http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver]TattieBogle.net[/url].
+Big Picture is currently available on any PC running Windows 10 or newer, any Mac running macOS 12 or later, and Linux machines using up to date versions of Ubuntu. Please [url=http://store.steampowered.com/bigpicture]click here[/url] for a full list of system requirements.
 
 [url id=connect][/url]
 
@@ -39,21 +37,15 @@ The method of connecting your computer to your TV depends upon your computer's h
 [url id=how][/url]
 
 [h3][b]How to launch Big Picture mode[/b][/h3]
-Once your computer is running on the desired display, launch Steam. Click the "Big Picture" button featured in the top right corner in the Steam client, or press the home button on your controller while using the Steam client.
+Once your computer is running on the desired display, launch Steam. Click the "Enter Big Picture Mode" button featured in the top right corner in the Steam client, or press the home button on your controller while using the Steam client.
 
-To exit this mode, click or press your controller’s "A" button while focused on the "Exit" button in the upper right hand corner of the screen. Another quick way to go into and out of Big Picture's fullscreen mode is to press ALT + ENTER on your keyboard.
+To exit this mode, select "Menu" in the lower left corner of the screen then "Power" and "Exit Big Picture Mode". Another quick way to go into and out of Big Picture's fullscreen mode is to press ALT + ENTER on your keyboard.
 
 [url id=menu][/url]
 
 [h3][b]Big Picture Menu[/b][/h3]
 
-[img]{STEAM_CLAN_IMAGE}/39983882/6635b7f34b97fc7945c55491cdad847eb6d259c9.png[/img]
-
-1. Your Profile
-
-2. Manage Downloads button, Settings, Exit button, and the Time,
-
-3. Steam menus (Web Browser, Store, Library, Community, Chat/Friends)
+[img]{STEAM_CLAN_IMAGE}/39983882/740aaf651cc74304b2db7af55545f56b589515f7.png[/img]
 
 [url id=controller][/url]
 
@@ -64,23 +56,13 @@ Any Steam game can be played while in Big Picture mode, though not all Steam gam
 
 [*] The Steam Controller
 
-[*] The official Microsoft Xbox One Wired Controller
+[*] Official Microsoft Xbox controllers
 
-[*] The official Microsoft Xbox One S Controller (wired or wirelessly using Bluetooth)
+[*] Official Sony DualShock 4 and DualSense controllers
 
-[*] The official Microsoft Xbox One Elite 2 Controller (wired or wirelessly using Bluetooth)
+[*] Official Nintendo Switch Pro controllers
 
-[*] The official Microsoft Xbox 360 Wired Controller
-
-[*] The official Microsoft Xbox 360 Wireless Controller for Windows (with wireless receiver)
-
-[*] Sony Dualshock 4 (wired or wirelessly using Bluetooth)
-
-[*] The official Nintendo Switch Pro Controller (wired)
-
-[*] Logitech Wireless Gamepad F310, F510, and F710
-
-[*] SteelSeries Stratus Duo
+[*] Third party controllers often work, but are not officially supported
 
 [/list]
 
