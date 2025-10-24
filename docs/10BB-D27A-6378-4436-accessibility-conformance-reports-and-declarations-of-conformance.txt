@@ -1,0 +1,52 @@
+[h1]Accessibility Conformance Reports and Declarations of Conformance[/h1]
+
+[b]What is an Accessibility Conformance Report? [/b]
+Valve's Accessibility Conformance Reports describe how our products and services support the recognized accessibility standards of the Web Content Accessibility Guidelines (WCAG), and ETSI EN 301 549. Valve uses the Voluntary Product Accessibility Template (VPAT), a commonly used template for Accessibility Conformance Reports developed by the Information and Technology Industry Council, for its reports.
+
+[list]
+
+[*] [url=https://cdn.steamstatic.com/apps/valve/reports/acr_store.docx]Valve Accessibility Compliance Report - Steam Store[/url]
+
+[*] [url=https://cdn.steamstatic.com/apps/valve/reports/acr_steamos.docx]Valve Accessibility Compliance Report – SteamOS[/url]
+
+[/list]
+
+[b]Which accessibility standards are used to assess products and services?[/b]
+Valve assesses products and services using these accessibility standards:
+
+[olist]
+
+[*]Web Content Accessibility Guidelines ([url=https://www.w3.org/WAI/standards-guidelines/wcag/]WCAG[/url]) are internationally adopted technical standards for making web content accessible. Each guideline has testable success criteria. Valve assesses products and services against WCAG levels A and AA criteria.
+
+[*]ETSI [url=https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility]EN 301 549[/url] is a European-developed accessibility standard for ICT products and services developed by the European Standards Organizations CEN (European Committee for Standardization), CENELEC (European Committee for Electrotechnical Standardization), and ETSI (European Telecommunications Standards Institute). The standard contains accessibility criteria for ICT products and services and incorporates the WCAG standards for web accessibility. The standard was originally developed for purposes of public procurement in the European Union and is also referenced by jurisdictions outside of Europe.
+
+[/olist]
+
+[b]What is a Declaration of Conformance? [/b]
+Valve’s Declarations of Conformance summarize the extent to which our products and services conform with the EN 301 549.
+
+[list]
+
+[*][url=https://cdn.steamstatic.com/apps/valve/reports/conformance_store.docx]Valve Accessibility Declaration of Conformance - Steam Store[/url]
+
+[*][url=https://cdn.steamstatic.com/apps/valve/reports/conformance_steamos.docx]Valve Accessibility Declaration of Conformance – SteamOS[/url]
+
+[/list]
+
+[b]Additional Information:[/b]
+As set forth in and in accordance with the requirements of Directive 2011/83/EU, the information regarding the Steam services – including information on the conclusion of the contract, a user’s ability to use various Steam features and to license and use games, make in-game purchases, purchase hardware and accessories, including without limitation and as applicable pricing and payment terms, performance conditions, warranties, and other details - are incorporated in the Steam Subscriber Agreement at [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] or may be provided to users by Valve in supplementary documentation prior to users completing a purchase.
+
+[b]Feedback and contact:[/b]
+Feel free to contact us if you have any questions.
+
+[b]Market surveillance authority: [/b]
+In Germany, the Market Surveillance Office of the Länder for the Accessibility of Products and Services (MLBF) is currently still being established. Inquiries can currently be made to the following authority using the following contact details:
+
+Ministry of Labour, Social Affairs, Health and Equality of the State of Saxony-Anhalt, Department 3 "Social Affairs and Occupational Safety"
+Turmschanzenstraße 25
+39114 Magdeburg
+
+Phone: 0391 567 4530
+E-mail: MLBF@ms.sachsen-anhalt.de
+
+Contact details for the market surveillance authority of other jurisdictions/markets: We are waiting for the details to be provided by the German authority.
