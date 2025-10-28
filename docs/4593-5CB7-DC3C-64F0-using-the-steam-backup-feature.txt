@@ -12,20 +12,21 @@ Many games that use third party installers or downloaders will not work with Ste
 
 [h3]Important:[/h3]
 Backups for [b]Valve [/b]created games will not include saved games, custom multiplayer maps or configuration files. To backup your entire installation (including custom content), ensure that copies of all custom files are in the following folders in the path:
-[exclude_realm=china][b]C:\Program Files (x86)\Steam\steamapps\common\<game name>\[/b]
+
+[exclude_realm=china][b] C:\\Program Files (x86)\\Steam\\steamapps\\common\\<game name>\ [/b]
 [/exclude_realm]
 
-[exclude_realm=global][b]C:\Program Files (x86)\SteamChina\steamapps\common\<game name>\[/b]
+[exclude_realm=global][b] C:\\Program Files (x86)\\SteamChina\\steamapps\\common\\<game name>\ [/b]
 [/exclude_realm]
 :
 
 [list]
 
-[*][b]\cfg\[/b] - Custom configurations and configuration scripts [/*]
-[*][b]\downloads\[/b] - Custom content for multiplayer games [/*]
-[*][b]\maps\[/b] - Custom maps which have been installed or downloaded during multiplayer games [/*]
-[*][b]\materials\[/b] - Custom textures and skins [/*]
-[*][b]\SAVE\[/b] - Single-player saved games [/*]
+[*][b]\\cfg\\ [/b] - Custom configurations and configuration scripts [/*]
+[*][b]\\downloads\\ [/b] - Custom content for multiplayer games [/*]
+[*][b]\\maps\\[/b]  - Custom maps which have been installed or downloaded during multiplayer games [/*]
+[*][b]\\materials\\ [/b] - Custom textures and skins [/*]
+[*][b]\\SAVE\\ [/b] - Single-player saved games [/*]
 
 [/list]
 
@@ -72,7 +73,7 @@ We recommend testing the backup discs after their creation to ensure the integri
 [section style=note]
 
 [h3]Important:[/h3]
-If the path to your Steam installation contains [b]special characters[/b], such as [b]C:\Steam安装路径\Steam[/b], the restore process may not complete successfully. If this issue occurs, you may need to re-install Steam to a location without special characters, such as [b]C:\Steam[/b].
+If the path to your Steam installation contains [b]special characters[/b], such as [b]C:\\Steam安装路径\\Steam[/b], the restore process may not complete successfully. If this issue occurs, you may need to re-install Steam to a location without special characters, such as [b]C:\\Steam[/b].
 [/section]
 
 [h3]Testing[/h3]
