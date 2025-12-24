@@ -1040,8 +1040,8 @@
     "4355984667845853798": {
         "title": "Uninstall Steam",
         "url_code": "3C73-90F9-F600-0266",
-        "version": 9,
-        "timestamp": "2021-08-16 19:57:14"
+        "version": 10,
+        "timestamp": "2025-12-23 08:32:35"
     },
     "4401621164100598477": {
         "title": "Valve Hardware Compliance",
@@ -1724,8 +1724,8 @@
     "6777163355919660783": {
         "title": "Steam and macOS 10.15 Catalina",
         "url_code": "5E0D-522A-4E62-B6EF",
-        "version": 6,
-        "timestamp": "2021-07-13 01:07:35"
+        "version": 7,
+        "timestamp": "2025-12-23 08:25:15"
     },
     "6804757850884535993": {
         "title": "Source2 Telemetry HUD",

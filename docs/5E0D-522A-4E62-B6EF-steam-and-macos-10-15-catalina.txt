@@ -8,7 +8,7 @@ Yes, there is now a Steam application that is 64-bit. Please download it [url=ht
 
 [i]Please note:[/i] If you are running macOS 10.15 Catalina or newer you will be able to buy and play Mac applications that are 64-bit only.
 
-See additional ways to play 32-bit Mac apps below.[/i]
+[i]See additional ways to play 32-bit Mac apps below.[/i]
 
 [h2]What is happening with 32-bit Mac apps?[/h2]
 

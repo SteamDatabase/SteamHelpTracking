@@ -11,7 +11,7 @@ This process will remove Steam and any installed game content from your machine.
 [section style=warning]
 
 [h3]Warning:[/h3]
-The uninstallation process deletes the folder Steam was installed to to ensure it is fully uninstalled. If you accidentally installed Steam to a folder containing other data, for example [b]C:\Program Files (x86)\[/b] instead of [b]C:\Program Files (x86)\Steam\[/b]
+The uninstallation process deletes the folder Steam was installed to to ensure it is fully uninstalled. If you accidentally installed Steam to a folder containing other data, for example [b]C:\\Program Files (x86)\\[/b] instead of [b]C:\\Program Files (x86)\\Steam\\[/b]
 
 [b]STOP![/b] Do not run the uninstaller and instead carefully follow the instructions below for Manually Removing Steam, except only delete Steam-related files in step 3.
 [/section]
@@ -65,11 +65,11 @@ Dealing with your registry requires extreme care. Do not delete anything in your
 [*]Click the [b]OK[/b] button. This will open your registry editor
 
 [*][b]For 32-bit operating systems:
-[/b]In the left-hand column of your registry editor, navigate to: [code]HKEY_LOCAL_MACHINE\SOFTWARE\Valve\[/code]Right-click on [b]Steam[/b] and select [b]Delete[/b].
+[/b]In the left-hand column of your registry editor, navigate to: [code]HKEY_LOCAL_MACHINE\\SOFTWARE\\Valve\\[/code]Right-click on [b]Steam[/b] and select [b]Delete[/b].
 
 [b]For 64-bit operating systems:[/b]
-In the left-hand column of your registry editor, navigate to: [code]HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Valve\[/code] Right-click on [b]Steam[/b] and select [b]Delete[/b]. [/*]
-[*]In the left-hand column of your registry editor, navigate to: [code]HKEY_CURRENT_USER\Software\Valve\[/code] [/*]
+In the left-hand column of your registry editor, navigate to: [code]HKEY_LOCAL_MACHINE\\SOFTWARE\\Wow6432Node\\Valve\\[/code] Right-click on [b]Steam[/b] and select [b]Delete[/b]. [/*]
+[*]In the left-hand column of your registry editor, navigate to: [code]HKEY_CURRENT_USER\\Software\\Valve\\[/code] [/*]
 [*]Right-click on [b]Steam[/b] and select [b]Delete[/b]. [/*]
 [*]Right-click on [b]SteamService[/b] and select [b]Delete[/b]. [/*]
 [*]Close your Registry Editor. [/*]
