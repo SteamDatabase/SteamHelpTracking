@@ -13,7 +13,7 @@ Please see the [url=https://support.steampowered.com/kb_article.php?ref=1040-JWM
 
 [olist]
 
-[*]Navigate to your Steam installation (by default this is located at C:\Program Files (x86)\Steam) [/*]
+[*]Navigate to your Steam installation (by default this is located at C:\\Program Files (x86)\\Steam) [/*]
 [*]Right-click on steam.exe (this file is listed as an application and features the black and white Steam logo) and select [b]Create Shortcut[/b] [/*]
 [*]Right-click on the new shortcut and go to [b]Properties[/b] [/*]
 [*]Select the [b]Shortcut[/b] tab [/*]
@@ -38,4 +38,4 @@ Please be sure to take adequate precautions to ensure that no one else has acces
 
 [h2]Example[/h2]
 Log in automatically:
-[code]"C:\Program Files (x86)\Steam\steam.exe" -login username password[/code]
+[code]"C:\\Program Files (x86)\\Steam\\steam.exe" -login username password[/code]
