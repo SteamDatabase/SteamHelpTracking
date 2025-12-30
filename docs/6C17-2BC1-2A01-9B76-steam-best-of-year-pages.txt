@@ -1,0 +1,51 @@
+[h1]Steam Best of Year Pages[/h1]
+
+From most-played to top new releases and more, check out Steam's Best of lists for recent years! You'll find notes at the top of each list explaining the criteria that went into forming and organizing them.
+
+As an example, you can find 2024's Best Of list here: https://store.steampowered.com/charts/bestofyear/2024
+
+[h2]Notes about these lists[/h2]
+
+Revenue specifics are not disclosed for the games on each list, so we group them together into buckets. The games within each bucket are randomly sorted:
+
+[list]
+
+[*] Platinum: 1st - 12th
+
+[*] Gold: 13th - 24th
+
+[*] Silver: 25th - 50th
+
+[*] Bronze: 51st - 100th
+
+[/list]
+
+These lists are initially generated at the end of December with data for most of the year. Some lists will get updated in January with final data. See notes at the top of each chart for any relevant details about incomplete data.
+
+[h2]New Releases[/h2]
+
+These are the best-selling releases of the year. This list is created by looking at every game and DLC released between January 1 and December 31, then selecting the top ones based on their first two weeks of gross revenue after releasing.
+
+This list is initially generated on December 15th to include all games released through the end of November. The list and data is updated again on January 15th to include any games released in December.
+
+If you want to explore the best-selling releases broken down by each month, check out the [url=https://store.steampowered.com/charts]Monthly Top Releases[/url] (accessible from the main Charts page).
+
+[h2]Top Sellers[/h2]
+
+These are the best-selling games on Steam based on total gross revenue earned during the year. Data is initially calculated between January 1st and December 1st and then updated again on January 1st to include revenue from December.
+
+[h2]Most Played - All[/h2]
+
+These are the most-played games and demos of the year, showcasing the top 100 games based on unique users throughout the year. The calculation for all "Most Played" categories accounts for accidental launches or launches from accounts that don't appear to be genuine players.
+
+[h2]Most Played - Steam Deck[/h2]
+
+This list includes the games with the most unique players on a Steam Deck during the year. This is measured by taking the most popular games per Steam Deck player over the entire year. We include any game, regardless of Deck Verified stats so long as its account's playtime is accrued on a Steam Deck.
+
+[h2]Most Played - Controller[/h2]
+
+This list includes the games with the most unique players using a controller during the year. This is measured by taking the most popular games per player using a controller over the previous year. We include any game, so long as its account's playtime is accrued on a controller.
+
+[h2]Most Played - Virtual Reality[/h2]
+
+This list includes the games with the most unique players in VR during the year.
