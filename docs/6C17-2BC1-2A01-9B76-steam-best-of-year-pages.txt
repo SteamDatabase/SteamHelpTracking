@@ -49,3 +49,7 @@ This list includes the games with the most unique players using a controller dur
 [h2]Most Played - Virtual Reality[/h2]
 
 This list includes the games with the most unique players in VR during the year.
+
+[h2]Most Played - Demos[/h2]
+
+These are the most-played free demos of the year, showcasing the top 100 games based on unique users throughout the year. Some demos may no longer be available, and thus hidden from the charts.
