@@ -16,7 +16,7 @@
 
 Games are installed to the following folder by default:
 
-[code]C:\Program Files (x86)\Steam\steamapps\common[/code]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\[/code]
 
 You can create an alternate location on any drive, which you can choose in the future when installing games.
 
@@ -79,9 +79,9 @@ The following instructions are a simple way to move your Steam installation alon
 [olist]
 
 [*]Exit the Steam client application. [/*]
-[*]Navigate to the Steam installation folder. The default installation location is: [code]C:\Program Files (x86)\Steam[/code] [/*]
+[*]Navigate to the Steam installation folder. The default installation location is: [code]C:\\Program Files (x86)\\Steam\\[/code] [/*]
 [*]Delete all of the files and folders except the [i]steamapps[/i] and [i]userdata[/i] folders and [i]steam.exe[/i] [/*]
-[*]Cut and paste the whole Steam folder to the new location, for example: [code]D:\Games\Steam\ [/code] [/*]
+[*]Cut and paste the whole Steam folder to the new location, for example: [code]D:\\Games\\Steam\\[/code] [/*]
 [*]Launch Steam and log into your account. [/*]
 
 [/olist]
@@ -93,7 +93,7 @@ If you encounter any errors during the move process or when Steam is launched fr
 [olist]
 
 [*]Exit the Steam client application. [/*]
-[*]Navigate to the new Steam installation folder. Continuing from the last section's example, the new location would be: [code]D:\Games\Steam\ [/code] [/*]
+[*]Navigate to the new Steam installation folder. Continuing from the last section's example, the new location would be: [code]D:\\Games\\Steam\\ [/code] [/*]
 [*]Move the [i]steamapps[/i] folder from the Steam installation folder to your desktop. [/*]
 [*]Review the [url=https://support.steampowered.com/kb_article.php?ref=9609-OBMP-2526]Uninstalling Steam[/url] topic for instructions to uninstall Steam (this must be done to remove your old Steam installation settings from the Windows Registry). [/*]
 [*]Review the [url=https://support.steampowered.com/kb_article.php?ref=3046-ECVN-3712]Installing Steam[/url] topic for instructions to re-install Steam to the desired location. [/*]
