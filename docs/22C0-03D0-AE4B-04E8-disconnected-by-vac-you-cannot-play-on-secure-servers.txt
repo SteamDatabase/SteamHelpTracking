@@ -68,11 +68,11 @@ The error may also indicate a Steam service failure. Please try repairing the St
 
 [*]Exit Steam. [/*]
 [*]Click Start > Run (Windows Key + R). [/*]
-[*]Type the following command: [b]"C:\Program Files (x86)\Steam\bin\SteamService.exe" /repair[/b]  	 [/*]
+[*]Type the following command: [b]"C:\\Program Files (x86)\\Steam\\bin\\SteamService.exe" /repair[/b]  	 [/*]
 [*]Launch Steam and test the issue again. [/*]
 
 [/olist]
-[b]Note:[/b] This command requires administrator privileges and may take a few minutes. If you have installed Steam to another path, please replace [b]C:\Program Files (x86)\Steam[/b] with the correct path.
+[b]Note:[/b] This command requires administrator privileges and may take a few minutes. If you have installed Steam to another path, please replace [b]C:\\Program Files (x86)\\Steam[/b] with the correct path.
 [/section]
 
 [section id=default]

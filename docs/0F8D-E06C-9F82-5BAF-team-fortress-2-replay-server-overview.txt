@@ -67,7 +67,7 @@ If you cannot successfully point a Web browser to the URL constructed by replaci
 
 You will only need to edit replay_local_fileserver_path, which is the full path for the Web server. For Apache on a Windows machine, using the replay_fileserver_* ConVars above, this path might be something like:
 
-"C:\MyWebServer\htdocs\replay"
+"C:\\MyWebServer\\htdocs\\replay"
 
 On Linux, this might be something like:
 

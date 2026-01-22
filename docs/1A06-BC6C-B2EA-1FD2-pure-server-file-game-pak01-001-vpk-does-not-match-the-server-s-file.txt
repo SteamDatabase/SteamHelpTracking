@@ -1,4 +1,4 @@
-[h1]Pure server: file [GAME]\pak01_001.vpk does not match the server's file[/h1]
+[h1]Pure server: file [GAME]\\pak01_001.vpk does not match the server's file[/h1]
 
 [section style=warning]Counter-Strike: Global Offensive cooldowns caused by [i]pak01_001.vpk[/i] errors are non-negotiable and cannot be removed or reduced by Steam Support.
 
@@ -47,8 +47,8 @@ A good first step to resolve .vpk errors is to remove files from your CS:GO dire
 
 [list]
 
-[*]\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials [/*]
-[*]\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\models [/*]
+[*]\\Steam\\steamapps\\common\\Counter-Strike Global Offensive\\csgo\\materials [/*]
+[*]\\Steam\\steamapps\\common\\Counter-Strike Global Offensive\\csgo\\models [/*]
 
 [/list]
 [/*]

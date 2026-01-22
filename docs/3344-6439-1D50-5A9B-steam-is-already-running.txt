@@ -9,7 +9,7 @@ Please ensure that Steam is not set to use Compatibility features:
 
 [olist]
 
-[*]Browse to your Steam installation (Usually C:\Program Files (x86)\Steam\) [/*]
+[*]Browse to your Steam installation (Usually C:\\Program Files (x86)\\Steam\\) [/*]
 [*]Right click on steam.exe, choose Properties. [/*]
 [*]Click on the Compatibility tab. [/*]
 [*]Uncheck any boxes that are checked, and click Apply. [/*]
@@ -24,7 +24,7 @@ If Compatibility features were not enabled, or if disabling them fails to resolv
 
 [olist]
 
-[*]Exit Steam and go to the folder called C:\Program Files (x86)\Steam\ (this is the default location for a Steam installation - if you set a different installation directory, you will need to browse to it). [/*]
+[*]Exit Steam and go to the folder called C:\\Program Files (x86)\\Steam\\ (this is the default location for a Steam installation - if you set a different installation directory, you will need to browse to it). [/*]
 [*]Delete all of the files in this folder except: The steamapps folder and steam.exe (If 'exe' is not visible, look for the blue and white Steam icon)     [/*]
 [*]Restart your computer. [/*]
 [*]Then, you will need to launch steam.exe from within the Steam installation folder, and not from a pre-existing shortcut. [/*]

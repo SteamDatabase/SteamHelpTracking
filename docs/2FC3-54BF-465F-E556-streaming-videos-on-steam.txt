@@ -198,7 +198,7 @@ You can find this FAQ by visiting the Steam store page for the video you are att
 
 [list]
 
-[*]Unzip the downloaded file and copy the files contained in the zip file to C:\Users\[yourusername]\AppData\Local\Steam\widevine\win-ia32\
+[*]Unzip the downloaded file and copy the files contained in the zip file to C:\\Users\\[yourusername]\\AppData\\Local\\Steam\\widevine\\win-ia32\\
 
 [/list]
 
@@ -206,7 +206,7 @@ You can find this FAQ by visiting the Steam store page for the video you are att
 
 [list]
 
-[*]Unzip the downloaded file and copy the files contained in the zip file to C:\Users\[yourusername]\AppData\Local\Steam\widevine\win-x64\
+[*]Unzip the downloaded file and copy the files contained in the zip file to C:\\Users\\[yourusername]\\AppData\\Local\\Steam\\widevine\\win-x64\\
 
 [/list]
 

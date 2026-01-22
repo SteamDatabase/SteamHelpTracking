@@ -53,7 +53,7 @@ Depending on your setup, certain features may require Steam to be run with admin
 
 [list]
 
-[*]Navigate to the Steam installation folder (C:\Program Files (x86)\Steam\ by default) [/*]
+[*]Navigate to the Steam installation folder (C:\\Program Files (x86)\\Steam\\ by default) [/*]
 [*]Right-click on steam.exe [/*]
 [*]Select [i]Run as administrator[/i] [/*]
 

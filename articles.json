@@ -110,8 +110,8 @@
     "471035972120482034": {
         "title": "Steam Remote Play",
         "url_code": "0689-74B8-92AC-10F2",
-        "version": 8,
-        "timestamp": "2024-11-04 21:18:01"
+        "version": 9,
+        "timestamp": "2026-01-21 23:52:18"
     },
     "481927930167436620": {
         "title": "Steam Guard",
@@ -242,8 +242,8 @@
     "1120798639422331823": {
         "title": "Team Fortress 2 Replay Server Overview",
         "url_code": "0F8D-E06C-9F82-5BAF",
-        "version": 7,
-        "timestamp": "2022-04-21 20:57:51"
+        "version": 8,
+        "timestamp": "2026-01-21 23:55:04"
     },
     "1130490359376509857": {
         "title": "Steam Controller",
@@ -320,8 +320,8 @@
     "1441334659516646678": {
         "title": "Right-handed and Left-handed Models in Valve games",
         "url_code": "1400-A63C-7EF2-C516",
-        "version": 5,
-        "timestamp": "2024-09-24 20:19:15"
+        "version": 6,
+        "timestamp": "2026-01-21 23:57:08"
     },
     "1446728062608946696": {
         "title": "Screen goes black in the Direct Intervention chapter of Half-Life 2: Episode One",
@@ -438,10 +438,10 @@
         "timestamp": "2021-08-11 22:09:32"
     },
     "1875393469890568146": {
-        "title": "Pure server: file [GAME]\\pak01_001.vpk does not match the server's file",
+        "title": "Pure server: file [GAME]\\\\pak01_001.vpk does not match the server's file",
         "url_code": "1A06-BC6C-B2EA-1FD2",
-        "version": 4,
-        "timestamp": "2021-08-04 17:26:44"
+        "version": 5,
+        "timestamp": "2026-01-22 00:02:14"
     },
     "1941446215599928099": {
         "title": "Index Base Station & Lighthouse Tracking",
@@ -566,8 +566,8 @@
     "2504005587630228712": {
         "title": "Disconnected by VAC: You cannot play on secure servers",
         "url_code": "22C0-03D0-AE4B-04E8",
-        "version": 6,
-        "timestamp": "2021-08-12 19:49:00"
+        "version": 7,
+        "timestamp": "2026-01-21 23:49:10"
     },
     "2548068556033019130": {
         "title": "Dota 2 - Item Drops",
@@ -734,8 +734,8 @@
     "3165264747722062098": {
         "title": "DirectX Installs with every game",
         "url_code": "2BED-4784-8C0A-3912",
-        "version": 4,
-        "timestamp": "2021-08-12 19:42:19"
+        "version": 5,
+        "timestamp": "2026-01-22 00:20:47"
     },
     "3171155790013657367": {
         "title": "Steam Gifts",
@@ -800,8 +800,8 @@
     "3441687720737367382": {
         "title": "Streaming Videos on Steam",
         "url_code": "2FC3-54BF-465F-E556",
-        "version": 7,
-        "timestamp": "2021-12-02 22:56:52"
+        "version": 8,
+        "timestamp": "2026-01-22 00:22:58"
     },
     "3453689899482173588": {
         "title": "Dota Plus FAQ",
@@ -866,8 +866,8 @@
     "3694187790818368155": {
         "title": "Steam is already running",
         "url_code": "3344-6439-1D50-5A9B",
-        "version": 8,
-        "timestamp": "2021-08-05 19:57:40"
+        "version": 9,
+        "timestamp": "2026-01-22 00:24:37"
     },
     "3719054496656610265": {
         "title": "Valve Hardware Shipping FAQ",
@@ -1040,8 +1040,8 @@
     "4355984667845853798": {
         "title": "Uninstall Steam",
         "url_code": "3C73-90F9-F600-0266",
-        "version": 11,
-        "timestamp": "2026-01-19 15:40:28"
+        "version": 12,
+        "timestamp": "2026-01-22 00:26:30"
     },
     "4401621164100598477": {
         "title": "Valve Hardware Compliance",
@@ -1136,8 +1136,8 @@
     "4749747457379821545": {
         "title": "Steam Controller Troubleshooting",
         "url_code": "41EA-7E25-B1F0-67E9",
-        "version": 6,
-        "timestamp": "2021-08-12 20:24:44"
+        "version": 7,
+        "timestamp": "2026-01-22 00:28:31"
     },
     "4767326052454259607": {
         "title": "CS:GO - I've been Overwatch banned",
@@ -1172,8 +1172,8 @@
     "4916736414384177194": {
         "title": "How do I disable Compatibility Mode?",
         "url_code": "443B-C1B8-0998-C02A",
-        "version": 6,
-        "timestamp": "2021-08-10 17:06:27"
+        "version": 7,
+        "timestamp": "2026-01-21 18:09:04"
     },
     "4926790029447666731": {
         "title": "Your Purchase could not be completed because it looks like the currency of funds in your Steam Wallet does not match the currency of this purchase.",

@@ -34,7 +34,7 @@ To permanently use left-handed models, you may create a [b]userconfig.cfg[/b] fi
 
 [*]Locate the subfolder in your game folder that holds the [b]config.cfg[/b] file
 
-For example, you can find the config.cfg file for Counter-Strike at [Steam installation directory]\steamapps\common\Counter-Strike\cstrike\config.cfg [/*]
+For example, you can find the config.cfg file for Counter-Strike at [Steam installation directory]\\steamapps\\common\\Counter-Strike\\cstrike\\config.cfg [/*]
 [*]Create a new text file in that directory called [b]userconfig.cfg[/b] [/*]
 [*]Open the file with Notepad and enter [code]cl_righthand 1[/code] (to use the right-handed model) or [code]cl_righthand 0[/code] (to use the left-handed model) [/*]
 [*]Save the file [/*]

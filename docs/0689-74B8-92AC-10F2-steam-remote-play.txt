@@ -257,7 +257,7 @@ This is a known incompatibility between NVIDIA hardware encoding and the hardwar
 
 [list]
 
-[*]See if there is an audio error listed in logs\streaming_log.txt on the remote computer [/*]
+[*]See if there is an audio error listed in logs\\streaming_log.txt on the remote computer [/*]
 [*]See if audio or the Steam application is muted on the remote computer [/*]
 [*]See if audio is muted on the local computer [/*]
 
@@ -299,7 +299,7 @@ Try plugging a mouse in on the remote computer.
 [h3]How do I diagnose streaming performance problems?[/h3]
 You can look in streaming_log.txt in the Steam logs folder on the remote computer after you play a game to get a detailed breakdown of how much time was spent in each component of the streaming system.
 
-While the game is running, you can hit F6 or the Guide button combined with the Y button on your game controller to turn on live statistics for the session. While the statistics are visible the game collects more detailed information which is saved in logs\SteamVideoTrace.txt and logs\SteamAudioTrace.txt at the end of the session.
+While the game is running, you can hit F6 or the Guide button combined with the Y button on your game controller to turn on live statistics for the session. While the statistics are visible the game collects more detailed information which is saved in logs\\SteamVideoTrace.txt and logs\\SteamAudioTrace.txt at the end of the session.
 
 While the statistics are visible, you can hit F8 or the Guide button combined with the X button on your game controller to save a screenshot and 10 seconds worth of stats to a zip file in the streaming directory in the Steam folder on the remote computer.
 

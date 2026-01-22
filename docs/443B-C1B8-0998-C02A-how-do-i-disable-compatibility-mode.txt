@@ -7,8 +7,8 @@ Running Steam in Windows compatibility mode is not recommended. Please follow th
 
 [olist]
 
-[*]Browse to your Steam installation (Usually C:\Program Files (x86)\Steam\) [/*]
-[*]Right click on Steam.exe (or bin\steamwebhelper.exe), choose [i]Properties[/i] [/*]
+[*]Browse to your Steam installation (Usually C:\\Program Files (x86)\\Steam\\) [/*]
+[*]Right click on Steam.exe (or bin\\steamwebhelper.exe), choose [i]Properties[/i] [/*]
 [*]Click on the [i]Compatibility[/i] tab [/*]
 [*]Uncheck any boxes that are checked, and click Apply [/*]
 [*]Then, click the "Change settings for all users" button [/*]
@@ -23,8 +23,8 @@ Running Steam in Windows compatibility mode is not recommended. Please follow th
 
 [list]
 
-[*]The default location for the Steam.exe file is C:\Program Files (x86)\Steam\ [/*]
-[*]The default location for the steamwebhelper.exe file is C:\Program Files (x86)\Steam\bin\. [/*]
+[*]The default location for the Steam.exe file is C:\\Program Files (x86)\\Steam\\ [/*]
+[*]The default location for the steamwebhelper.exe file is C:\\Program Files (x86)\\Steam\\bin\\. [/*]
 
 [/list]
 

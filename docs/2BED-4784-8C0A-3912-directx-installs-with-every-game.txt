@@ -3,7 +3,7 @@
 Why does DirectX install with every game?
 
 [h1]Why does DirectX install with every game?[/h1]
-Microsoft has a helper library with D3D called D3DX. You'll find binaries for this like d3dx9_43.dll in your Windows\System32 folder. There are over 40 different versions of the D3DX library for D3D9 alone, and many more for D3D10 and 11 as well. Each game that uses the D3DX helper library is linked to a specific version. As such the game must run the correct D3D installer version that it was specifically compiled with to ensure the binaries exist.
+Microsoft has a helper library with D3D called D3DX. You'll find binaries for this like d3dx9_43.dll in your Windows\\System32 folder. There are over 40 different versions of the D3DX library for D3D9 alone, and many more for D3D10 and 11 as well. Each game that uses the D3DX helper library is linked to a specific version. As such the game must run the correct D3D installer version that it was specifically compiled with to ensure the binaries exist.
 
 Even if a later version of the binary is already installed, that version cannot be used, and even if your DirectX install is up-to-date because you've run a more recent version of the installer that is not guaranteed to have installed all previous versions. Also, if a version is installed for x86 it doesn't guarantee the same version is installed for x64, so 64 bit and 32 bit games may need to run the same exact installer version but targeting different platforms when run.
 

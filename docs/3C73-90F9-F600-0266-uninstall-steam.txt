@@ -5,7 +5,7 @@ How should I uninstall Steam?
 [section style=important]
 
 [h3]Important:[/h3]
-This process will remove Steam and any installed game content from your machine. If reinstalling Steam and Steam games in the near future, please move the steamapps folder (C:\Program Files (x86)\\Steam\\steamapps\\) outside of the Steam directory to prevent your games from being deleted.  Additionally, [url=https://support.steampowered.com/kb_article.php?ref=8794-YPHV-2033]backups[/url] of all game content can be created for reinstallation.
+This process will remove Steam and any installed game content from your machine. If reinstalling Steam and Steam games in the near future, please move the steamapps folder (C:\\Program Files (x86)\\Steam\\steamapps\\) outside of the Steam directory to prevent your games from being deleted.  Additionally, [url=https://support.steampowered.com/kb_article.php?ref=8794-YPHV-2033]backups[/url] of all game content can be created for reinstallation.
 [/section]
 
 [section style=warning]
