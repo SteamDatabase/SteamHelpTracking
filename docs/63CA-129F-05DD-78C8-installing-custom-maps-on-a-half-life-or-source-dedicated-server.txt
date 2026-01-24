@@ -8,7 +8,7 @@ You can start by copying over any custom maps you might have downloaded while pl
 
 There are several folders for the custom content that you will need to copy over. For the Client Dedicated Server, the folder for cstrike is typically located here:
 
-[code]C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike[/code]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half-Life\\cstrike[/code]
 
 Copy over the following folders:
 

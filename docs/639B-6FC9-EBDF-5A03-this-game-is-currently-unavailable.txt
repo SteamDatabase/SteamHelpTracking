@@ -33,7 +33,7 @@ After each step, please re-test the issue:
 
 [/list]
 
-[*] If this issue is only happening on a third party non-Valve game, please try launching the game's .exe directly from its installation folder: [b]C:\Program Files (x86)\Steam\SteamApps\Common\<Game Title>[/b].  You may also try other .exe's such as Launcher.exe in the game folder to see if a different error message is found.
+[*] If this issue is only happening on a third party non-Valve game, please try launching the game's .exe directly from its installation folder: [b]C:\\Program Files (x86)\\Steam\\SteamApps\\Common\\<Game Title>[/b].  You may also try other .exe's such as Launcher.exe in the game folder to see if a different error message is found.
 
 [*] If the issue persists, it may be caused by a network configuration issue.  Please complete the [url=https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493]Troubleshooting Network Connectivity[/url] guide to further assess the problem.
 
@@ -47,9 +47,9 @@ After each step, please re-test the issue:
 
 [*]Select "[i]Turn on DEP for all programs and services except those I select:[/i]".
 
-[*]Select "[i]Add[/i]", navigate to C:\Program Files (x86)\Steam (or your default Steam directory), and add steam.exe to the exception list.
+[*]Select "[i]Add[/i]", navigate to C:\\Program Files (x86)\\Steam (or your default Steam directory), and add steam.exe to the exception list.
 
-[*]Additionally, you will want to add any .exe's for the game you are seeing issues with.  These files will be in [b]Steam\steamapps\common\<Game Title>[/b].
+[*]Additionally, you will want to add any .exe's for the game you are seeing issues with.  These files will be in [b]Steam\\steamapps\\common\\<Game Title>[/b].
 
 [/olist]
 
@@ -78,7 +78,7 @@ Many Steam games include installers for features and services required by the ga
 
 Steam is designed to run these installers when the game is first launched. If an installer is canceled by a user or prevented from running by another application on your system, the game may not launch correctly.  If this occurs, these installers will need to be launched manually.
 
-These installers are found in the game's installation folder, or a subfolder, found in the following location by default: [b]C:\Program Files (x86)\Steam\steamapps\common\<Game Title>\[/b].
+These installers are found in the game's installation folder, or a subfolder, found in the following location by default: [b]C:\\Program Files (x86)\\Steam\\steamapps\\common\\<Game Title>\\[/b].
 
 [section style=note]Note: Your installation path may differ from the above location.
 [/section]

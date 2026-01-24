@@ -99,7 +99,7 @@ This should be done if you think some of the game's files may be corrupt, or if 
 
 [*]Exit Steam entirely.
 
-[*]Browse to your Steam installation (Usually C:\Program Files(x86)\Steam\)
+[*]Browse to your Steam installation (Usually C:\\Program Files(x86)\\Steam\\)
 
 [*]Rename the "steamapps" folder to "old_steamapps"
 

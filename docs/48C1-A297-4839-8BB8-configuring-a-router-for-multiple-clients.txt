@@ -49,7 +49,7 @@ The benefit of this method is that the clientport will remain set whether you ar
 
 [*]Navigate to the folder that holds the [b]config.cfg[/b] for your game
 [b]Example:[/b] The config.cfg for Counter-Strike: Source can be found here:
-[b]..\Steam\steamapps\common\Counter-Strike Source\cstrike\cfg[/b]
+[b]..\\Steam\\steamapps\\common\\Counter-Strike Source\\cstrike\\cfg[/b]
 
 [*]If you have a [b]userconfig.cfg[/b] in that directory, open it. If you do not already have a userconfig.cfg:
 

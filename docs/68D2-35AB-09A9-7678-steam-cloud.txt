@@ -67,7 +67,7 @@ Cloud files are stored locally in the following locations by default:
 
 [list]
 
-[*][b]Windows:[/b] C:\Program Files (x86)\Steam\userdata
+[*][b]Windows:[/b] C\:\Program Files (x86)\\Steam\\userdata
 
 [*][b]MacOS:[/b] ~/Library/Application Support/Steam/userdata
 
@@ -83,7 +83,7 @@ Within the Steam ID folders are the respective games associated with those Steam
 
 [list]
 
-[*]Steam\userdata\[steamID]\570\
+[*]Steam\\userdata\\[steamID]\\570\\
 [/list]
 
 [h3]Steam client cloud files:[/h3]
@@ -92,7 +92,7 @@ Changes made to your Steam client settings are stored in the cloud, as well as l
 
 [list]
 
-[*]Steam\userdata\[steamID]\7\
+[*]Steam\\userdata\\[steamID]\\7\\
 [/list]
 
 [section id=log]
@@ -105,7 +105,7 @@ These are logged in the [i]cloud_log.txt[/i] file, which is stored in the follow
 
 [list]
 
-[*][b]Windows:[/b] C:\Program Files (x86)\Steam\logs
+[*][b]Windows:[/b] C:\\Program Files (x86)\\Steam\\logs
 
 [*][b]MacOS:[/b] ~/Library/Application Support/Steam/logs
 
@@ -184,7 +184,7 @@ Certain firewalls may prevent Steam from talking to its servers. You'll want to 
 [h2]Investigate Anti-Virus Software[/h2]
 AV software hooks very deep into user systems and can affect disk and network operations which may cause issues with Steam. Some games also use copy protection technology that can appear as malicious software to an AV scanner, resulting in potential false-positive alerts.
 
-You'll want to work with a tech support specialist to ensure that your AV software is not interfering with Steam functionality. You may even need to temporarily disable it for testing purposes. It may also be necessary to add exceptions for Steam in your AV configuration (for example, excluding Steam cloud folders like ...\Steam\userdata and installation folders for Steam games from live monitoring services).
+You'll want to work with a tech support specialist to ensure that your AV software is not interfering with Steam functionality. You may even need to temporarily disable it for testing purposes. It may also be necessary to add exceptions for Steam in your AV configuration (for example, excluding Steam cloud folders like ...\\Steam\\userdata and installation folders for Steam games from live monitoring services).
 
 [h2]Investigate Other Programs & Services[/h2]
 Any software that modifies or monitors system, disk or network activity can cause issues while downloading or running a game. These programs and services can run in the background and are typically associated with software like Anti-Virus, ad-blockers, web-optimizers, firewalls, system cleaners, recording software, proxies, performance boosters etc.

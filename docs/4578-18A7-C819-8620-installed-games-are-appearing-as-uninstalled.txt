@@ -13,7 +13,7 @@ Games may appear uninstalled when Steam no longer recognizes the installation fi
 
 You can ensure that the game folders are in the proper location by navigating to your default Steam installation:
 
-[code]C:\Program Files (x86)\Steam\steamapps\common[/code]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common[/code]
 
 [h2] [/h2]
 

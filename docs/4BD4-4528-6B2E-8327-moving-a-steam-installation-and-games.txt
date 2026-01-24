@@ -86,7 +86,7 @@ The following instructions are a simple way to move your Steam installation alon
 
 [/olist]
 
-Steam will briefly update and then you will be logged into your account. For installed games, [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]verify integrity of game files[/url] and you will be ready to play. All future game content will be downloaded to the new folder (D:\Games\Steam\steamapps\ in this example)
+Steam will briefly update and then you will be logged into your account. For installed games, [url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]verify integrity of game files[/url] and you will be ready to play. All future game content will be downloaded to the new folder (D:\\Games\\Steam\\steamapps\\ in this example)
 
 If you encounter any errors during the move process or when Steam is launched from the new location, it may be necessary to perform a more thorough process:
 
@@ -102,7 +102,7 @@ If you encounter any errors during the move process or when Steam is launched fr
 [section style=important]
 
 [h3]Important Note about Save Games[/h3]
-If you are moving your Steam installation to a new hard drive and want to keep game saves/profiles for third party games that are not saved on Steam Cloud most of these can be found in your Documents folder: C:\Users\[i][Windows user name][/i]\Documents\My Games\. Moving this folder to the same location on your new hard drive will maintain your saves/profiles. If you do not find them in that location for the game you may have to reach out to developer/publisher of the game to determine where the save file location is. Each game developer is able to decide how and where to store save files.
+If you are moving your Steam installation to a new hard drive and want to keep game saves/profiles for third party games that are not saved on Steam Cloud most of these can be found in your Documents folder: C:\\Users\\[i][Windows user name][/i]\\Documents\\My Games\\. Moving this folder to the same location on your new hard drive will maintain your saves/profiles. If you do not find them in that location for the game you may have to reach out to developer/publisher of the game to determine where the save file location is. Each game developer is able to decide how and where to store save files.
 [/section]
 
 [/*]

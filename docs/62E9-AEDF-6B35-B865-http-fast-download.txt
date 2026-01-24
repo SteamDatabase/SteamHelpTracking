@@ -45,11 +45,11 @@ If any of the custom content is not present on the HTTP content server or the ca
 
 [list]
 
-[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\maps\de_generic.map [/*]
-[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\de_generic.wad [/*]
-[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\sound\ambience\de_generic_a.wav [/*]
-[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\sound\ambience\de_generic_b.wav [/*]
-[*]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\sound\ambience\de_generic_c.wav [/*]
+[*]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike\\maps\\de_generic.map [/*]
+[*]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike\\de_generic.wad [/*]
+[*]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike\\sound\\ambience\\de_generic_a.wav [/*]
+[*]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike\\sound\\ambience\\de_generic_b.wav [/*]
+[*]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike\\sound\\ambience\\de_generic_c.wav [/*]
 
 [/list]
 

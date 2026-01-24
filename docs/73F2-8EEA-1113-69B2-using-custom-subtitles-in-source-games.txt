@@ -5,11 +5,11 @@ How do I install custom subtitles for any Source game?
 [h2]Compiled (.DAT) Files[/h2]
 If you already have a compiled [i][i]closecaption_[i]<language>[/i].dat[/i][/i] file, simply copy the file to the following location:
 
-[i][b]NOTE:[/b] The [i]\Steam\[/i] folder is located in [i]C:\Program Files\[/i] or [i]C:\Program Files (x86)\[/i] by default.[/i]
+[i][b]NOTE:[/b] The [i]\\Steam\\[/i] folder is located in [i]C:\\Program Files\\[/i] or [i]C:\\Program Files (x86)\\[/i] by default.[/i]
 
 [list]
 
-[*]  		[i]\Steam\steamapps\common\[game name]\[modname]\resource\[/i]  	 [/*]
+[*]  		[i]\\Steam\\steamapps\\common\\[game name]\\[modname]\\resource\\[/i]  	 [/*]
 
 [/list]
 
@@ -17,7 +17,7 @@ For example, for Half-Life 2, the path would be:
 
 [list]
 
-[*]  		[i]\Steam\steamapps\common\Half-Life 2\hl2\resource\[/i]  	 [/*]
+[*]  		[i]\\Steam\\steamapps\\common\\Half-Life 2\\hl2\\resource\\[/i]  	 [/*]
 
 [/list]
 
@@ -40,16 +40,16 @@ Text files must be compiled before they will work with Source games. If you have
 
 [*]  		Install the [url=https://support.steampowered.com/kb_article.php?ref=1987-WYGJ-3701]Source SDK[/url] from the Tools section of the Steam Library.  	 [/*]
 [*]  		Open the Source SDK launcher and ensure you have the correct game selected.  	 [/*]
-[*]  		Navigate to the Source SDK [i]\bin\[/i] folder:
+[*]  		Navigate to the Source SDK [i]\\bin\\[/i] folder:
 
 [list]
 
-[*]  				[i]\Steam\steamapps\common\\SourceSDK\bin\[/i]  			 [/*]
+[*]  				[i]\\Steam\\steamapps\\common\\SourceSDK\\bin\\[/i]  			 [/*]
 
 [/list]
 [/*]
-[*]  		Determine which version of the Source engine the game uses, then open that folder. In most cases this will be [i]\orangebox\[/i]  	 [/*]
-[*]  		Open the [i]\bin\[/i] subfolder of the engine folder. Inside this folder should be a program named [i]captioncompiler.exe[/i]  	 [/*]
+[*]  		Determine which version of the Source engine the game uses, then open that folder. In most cases this will be [i]\\orangebox\\[/i]  	 [/*]
+[*]  		Open the [i]\\bin\\[/i] subfolder of the engine folder. Inside this folder should be a program named [i]captioncompiler.exe[/i]  	 [/*]
 [*]  		Take your closecaption_[i]<language>[/i].txt file, then drag it onto the [i]captioncompiler.exe[/i] program. A file called [i]closecaption_[i]<language>[/i].dat[/i] should appear — this is your compiled caption file.  	 [/*]
 [*]  		Follow the instructions under [i][b]Compiled (.DAT) Files[/b][/i] using this file.  	 [/*]
 

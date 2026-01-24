@@ -39,7 +39,7 @@ To fix this error use the following steps:
 [list]
 
 [*]Exit Steam [/*]
-[*]Navigate to your Steam installation directory. ([b]C:\Program Files (x86)\Steam\ [/b] by default.) [/*]
+[*]Navigate to your Steam installation directory. ([b]C:\\Program Files (x86)\\Steam\\ [/b] by default.) [/*]
 [*]Delete everything in that directory [b]EXCEPT[/b] the following:
 
 [list]

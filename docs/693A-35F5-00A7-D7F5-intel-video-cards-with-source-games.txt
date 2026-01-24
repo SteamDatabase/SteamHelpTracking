@@ -16,6 +16,6 @@ If that doesn't seem to help, you can try using the following console command:
 If you're not sure how to use console commands, please see [url=https://support.steampowered.com/kb_article.php?ref=3041-SHZN-9384]this guide[/url].
 
 If that command allows the game to run without crashing, then please add it to your game config files. Your config file is located in the steamapps folder, under the folder for the game you would like to play. For example:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg[/code]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Fortress 2\\tf\\cfg[/code]
 
 Please contact [url=https://www.intel.com/content/www/us/en/support.html]Intel Support[/url] for more information.

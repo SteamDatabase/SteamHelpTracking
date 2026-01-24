@@ -82,6 +82,6 @@ If the Xbox controller triggers are reversed, you are probably using the unsuppo
 [h4]Contacting Steam Support[/h4]
 If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [b]remote_connections.txt[/b] and [b]streaming_log.txt[/b] files to your ticket.
 
-The default location for these files is: [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
+The default location for these files is: [i][b]C:\\Program Files (x86)\\Steam\\logs[/b][/i]
 
 [/expand]

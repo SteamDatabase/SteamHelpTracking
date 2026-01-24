@@ -261,7 +261,7 @@ If you are running OpenXR applications, and you previously were using a differen
 [h4]Contacting Steam Support[/h4]
 If you have other issues or questions, contact [url=https://help.steampowered.com/en/wizard/HelpWithGameIssue/?appid=353380&issueid=354&nodeid=1&return_nodeid=9]Steam Support[/url] and attach the [i][b]remote_connections.txt[/b][/i] and [i][b]driver_vrlink.txt[/b][/i] log files to your ticket.
 
-The default location for this file on your PC is [i][b]C:\Program Files (x86)\Steam\logs[/b][/i]
+The default location for this file on your PC is [i][b]C:\\Program Files (x86)\\Steam\\logs[/b][/i]
 
 [/expand]
 

@@ -224,8 +224,8 @@
     "1021262046248122532": {
         "title": "Steam Link For Meta, HTC and PICO Headsets",
         "url_code": "0E2C-406B-9135-38A4",
-        "version": 37,
-        "timestamp": "2025-09-27 22:01:00"
+        "version": 38,
+        "timestamp": "2026-01-24 00:37:33"
     },
     "1040623370678964577": {
         "title": "Retail CD Keys",
@@ -566,8 +566,8 @@
     "2504005587630228712": {
         "title": "Disconnected by VAC: You cannot play on secure servers",
         "url_code": "22C0-03D0-AE4B-04E8",
-        "version": 7,
-        "timestamp": "2026-01-21 23:49:10"
+        "version": 8,
+        "timestamp": "2026-01-23 23:36:05"
     },
     "2548068556033019130": {
         "title": "Dota 2 - Item Drops",
@@ -1208,8 +1208,8 @@
     "5005778094718027296": {
         "title": "Installed games are appearing as uninstalled",
         "url_code": "4578-18A7-C819-8620",
-        "version": 8,
-        "timestamp": "2023-03-07 17:57:24"
+        "version": 9,
+        "timestamp": "2026-01-23 23:51:36"
     },
     "5013452754937210096": {
         "title": "Using the Steam Backup Feature",
@@ -1268,14 +1268,14 @@
     "5225891241141224776": {
         "title": "How do I download and install custom or user-made maps for my Source and Gold Source games?",
         "url_code": "4886-1865-570C-4548",
-        "version": 7,
-        "timestamp": "2021-08-10 22:47:29"
+        "version": 8,
+        "timestamp": "2026-01-23 23:56:00"
     },
     "5242650211871460280": {
         "title": "Configuring a router for multiple clients",
         "url_code": "48C1-A297-4839-8BB8",
-        "version": 7,
-        "timestamp": "2021-08-10 23:04:24"
+        "version": 8,
+        "timestamp": "2026-01-23 23:57:59"
     },
     "5297571435246367730": {
         "title": "Steam and Games - Language Settings",
@@ -1322,8 +1322,8 @@
     "5430067765539313116": {
         "title": "Steam Servers Are Currently Unavailable or Too Busy",
         "url_code": "4B5B-79DC-EF45-15DC",
-        "version": 5,
-        "timestamp": "2021-08-10 17:51:19"
+        "version": 6,
+        "timestamp": "2026-01-23 23:59:08"
     },
     "5430878778831183783": {
         "title": "Dota 2 Workshop - Couriers",
@@ -1358,8 +1358,8 @@
     "5464068287806472999": {
         "title": "Moving a Steam Installation and Games",
         "url_code": "4BD4-4528-6B2E-8327",
-        "version": 12,
-        "timestamp": "2026-01-19 15:31:58"
+        "version": 13,
+        "timestamp": "2026-01-24 00:00:31"
     },
     "5477442274052911722": {
         "title": "Apple Steam Link App",
@@ -1766,8 +1766,8 @@
     "6889443061022927977": {
         "title": "CS2 - Name Tags",
         "url_code": "5F9C-37F6-508D-2C69",
-        "version": 1,
-        "timestamp": "2025-03-14 23:28:04"
+        "version": 2,
+        "timestamp": "2026-01-24 00:38:47"
     },
     "6893118316788988094": {
         "title": "Enabling Low Violence in Team Fortress 2",
@@ -1856,8 +1856,8 @@
     "7127420159890143333": {
         "title": "HTTP Fast Download",
         "url_code": "62E9-AEDF-6B35-B865",
-        "version": 5,
-        "timestamp": "2021-10-27 20:57:27"
+        "version": 6,
+        "timestamp": "2026-01-24 00:09:50"
     },
     "7176140764688977492": {
         "title": "Regaining Access to Areas After Losing Saved Games in Half-Life 2",
@@ -1868,20 +1868,20 @@
     "7177453344181410307": {
         "title": "This game is currently unavailable",
         "url_code": "639B-6FC9-EBDF-5A03",
-        "version": 10,
-        "timestamp": "2021-10-28 00:18:13"
+        "version": 11,
+        "timestamp": "2026-01-24 00:11:53"
     },
     "7190580229257918664": {
         "title": "Installing custom maps on a Half-Life or Source Dedicated Server",
         "url_code": "63CA-129F-05DD-78C8",
-        "version": 6,
-        "timestamp": "2021-10-06 23:46:35"
+        "version": 7,
+        "timestamp": "2026-01-24 00:15:02"
     },
     "7215969993590687435": {
         "title": "Raspberry Pi Steam Link App",
         "url_code": "6424-467A-31D9-C6CB",
-        "version": 9,
-        "timestamp": "2024-11-12 16:56:43"
+        "version": 10,
+        "timestamp": "2026-01-24 00:16:53"
     },
     "7240764287028378665": {
         "title": "I've been VAC banned",
@@ -1988,14 +1988,14 @@
     "7553158533771523704": {
         "title": "Steam Cloud",
         "url_code": "68D2-35AB-09A9-7678",
-        "version": 7,
-        "timestamp": "2024-09-24 23:25:34"
+        "version": 8,
+        "timestamp": "2026-01-24 00:18:43"
     },
     "7582432249025910773": {
         "title": "Intel Video Cards with Source games",
         "url_code": "693A-35F5-00A7-D7F5",
-        "version": 5,
-        "timestamp": "2021-08-05 18:15:46"
+        "version": 6,
+        "timestamp": "2026-01-24 00:21:00"
     },
     "7586403624451082884": {
         "title": "Find Downloadable Content (DLC) for My Games",
@@ -2006,8 +2006,8 @@
     "7605271880239749627": {
         "title": "Dota 2 - Performance Issues, Crashes, or Failures When Launching",
         "url_code": "698B-5A7B-09F5-19FB",
-        "version": 9,
-        "timestamp": "2024-08-09 22:27:19"
+        "version": 10,
+        "timestamp": "2026-01-24 00:22:00"
     },
     "7609654911247676940": {
         "title": "Valve Index Fit Guide",
@@ -2174,8 +2174,8 @@
     "8147800086409599480": {
         "title": "Android Steam Link App",
         "url_code": "7112-CD02-7B57-59F8",
-        "version": 11,
-        "timestamp": "2023-06-15 20:21:35"
+        "version": 12,
+        "timestamp": "2026-01-24 00:24:21"
     },
     "8190756403089708940": {
         "title": "Managing Steam Downloads & Updates",
@@ -2252,8 +2252,8 @@
     "8354897394685667762": {
         "title": "Using custom subtitles in Source games",
         "url_code": "73F2-8EEA-1113-69B2",
-        "version": 5,
-        "timestamp": "2021-08-24 22:43:25"
+        "version": 6,
+        "timestamp": "2026-01-24 00:29:17"
     },
     "8376464472979915637": {
         "title": "Steam macOS 10.13 and 10.14 Support",
@@ -2300,8 +2300,8 @@
     "8593836637999631280": {
         "title": "Left 4 Dead Add-ons",
         "url_code": "7743-70E3-E1B4-8BB0",
-        "version": 4,
-        "timestamp": "2021-08-10 17:32:19"
+        "version": 5,
+        "timestamp": "2026-01-24 00:31:48"
     },
     "8604539892456401617": {
         "title": "Steam Is Asking Me To Purchase a Game I Already Paid For",
@@ -2378,8 +2378,8 @@
     "8928310935471522734": {
         "title": "Steam Link Hardware",
         "url_code": "7BE7-BB7D-D904-03AE",
-        "version": 7,
-        "timestamp": "2021-08-04 17:23:36"
+        "version": 8,
+        "timestamp": "2026-01-24 00:35:23"
     },
     "8978166077040914691": {
         "title": "Windows Mixed Reality Setup",
@@ -2426,8 +2426,8 @@
     "9090673684631364026": {
         "title": "Making a Custom Spray",
         "url_code": "7E28-8F8D-3D71-A1BA",
-        "version": 3,
-        "timestamp": "2021-10-06 23:20:11"
+        "version": 4,
+        "timestamp": "2026-01-24 00:36:29"
     },
     "9102067325513940398": {
         "title": "Steam Guides",

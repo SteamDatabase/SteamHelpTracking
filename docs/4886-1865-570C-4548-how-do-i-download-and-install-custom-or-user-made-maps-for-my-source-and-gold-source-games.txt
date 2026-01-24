@@ -36,32 +36,32 @@ Most custom map packages include a ReadMe.txt file. It is always a good idea to 
 
 [h5]Installing Maps for Source Engine Games[/h5]
 To install custom maps for Source engine games (e.g. Day of Defeat: Source, Counter-Strike: Source, Team Fortress 2) you should extract the custom map in to the application directory. For example, the default location is:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Day of Defeat Source\dod[/code]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Day of Defeat Source\\dod[/code]
 
 This should extract content to the correct folders as per the following example:
 
 [list]
 
 [*].BSP Files:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Day of Defeat Source\dod\maps[/code] [/*]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Day of Defeat Source\\dod\\maps[/code] [/*]
 [*]Sound Files:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Day of Defeat Source\dod\sound[/code] [/*]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Day of Defeat Source\\dod\\sound[/code] [/*]
 
 [/list]
 
 [h5]Installing Maps for Gold Source Games[/h5]
 To install custom maps for Gold Source engine games (e.g. Day of Defeat, Counter-Strike 1.6, Team Fortress Classic) you should extract the custom map in the application directory. For example:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike[/code]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike[/code]
 
 This should extract content to the correct folders as per the following example:
 
 [list]
 
 [*].WAD Files:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike[/code] [/*]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike[/code] [/*]
 [*].BSP Files:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\maps[/code] [/*]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike\\maps[/code] [/*]
 [*]Sound Files:
-[code]C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\sound[/code] [/*]
+[code]C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike\\cstrike\\sound[/code] [/*]
 
 [/list]
