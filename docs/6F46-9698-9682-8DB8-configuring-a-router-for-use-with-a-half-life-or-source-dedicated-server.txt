@@ -94,7 +94,7 @@ Next, you must edit your server.cfg file to properly reflect your server's IP ad
 
 [olist]
 
-[*]Open your server.cfg. (Typically [b]C:\hlserver\valve\server.cfg[/b]) [/*]
+[*]Open your server.cfg. (Typically [b]C:\\hlserver\\valve\\server.cfg[/b]) [/*]
 [*]Add to the top of the file:
 
 [code]IP < your IP address >

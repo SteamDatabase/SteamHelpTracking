@@ -33,7 +33,7 @@ If you are getting a build error message make sure that you aren't running any p
 
 [*][url=https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335]Verify integrity of game files[/url] for Portal 2. [/*]
 [*]If the files were fixed on your machine, test your compile again. [/*]
-[*]Find the error.p2c file in: [code]...Steam\steamapps\common\Portal 2\portal2\puzzles\[randomly generated number]\error.p2c[/code] [/*]
+[*]Find the error.p2c file in: [code]...Steam\\steamapps\\common\\Portal 2\\portal2\\puzzles\\[randomly generated number]\\error.p2c[/code] [/*]
 [*]E-mail the file to puzzle_error@valvesoftware.com
 [/*]
 

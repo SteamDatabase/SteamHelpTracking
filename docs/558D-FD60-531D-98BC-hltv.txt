@@ -150,7 +150,7 @@ HLTV demo files are like normal recorded games in Half-Life, but you can choose 
 
 [i]record (name) [/i]
 
-All games will be recorded after issuing this command. The demo files will be saved in the current Mod directory, e.g. [b]\cstrike[/b]. All demo files have a special naming convention [b]<name>-<YYMMDDhhmm>-<map>.dem,[/b] including the given name, date/time and map name. Demo files record the same data as sent to spectator clients. That means also, the demo file records the game with the same delay as used for spectators. To verify, that a demo file is recorded use the [i]status [/i]command. The recording may be stopped with [i]stoprecording [/i].
+All games will be recorded after issuing this command. The demo files will be saved in the current Mod directory, e.g. [b]\\cstrike[/b]. All demo files have a special naming convention [b]<name>-<YYMMDDhhmm>-<map>.dem,[/b] including the given name, date/time and map name. Demo files record the same data as sent to spectator clients. That means also, the demo file records the game with the same delay as used for spectators. To verify, that a demo file is recorded use the [i]status [/i]command. The recording may be stopped with [i]stoprecording [/i].
 
 Sometimes a HLTV broadcast is not wanted and the HLTV proxy is only used to record a demo file. In this case, some HLTV settings should be made to gain optimal recording results:
 
