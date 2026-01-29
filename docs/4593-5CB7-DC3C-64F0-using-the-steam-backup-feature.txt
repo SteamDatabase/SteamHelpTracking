@@ -13,10 +13,10 @@ Many games that use third party installers or downloaders will not work with Ste
 [h3]Important:[/h3]
 Backups for [b]Valve [/b]created games will not include saved games, custom multiplayer maps or configuration files. To backup your entire installation (including custom content), ensure that copies of all custom files are in the following folders in the path:
 
-[exclude_realm=china][b] C:\\Program Files (x86)\\Steam\\steamapps\\common\\<game name>\ [/b]
+[exclude_realm=china][b] C:\\Program Files (x86)\\Steam\\steamapps\\common\\<game name>\\ [/b]
 [/exclude_realm]
 
-[exclude_realm=global][b] C:\\Program Files (x86)\\SteamChina\\steamapps\\common\\<game name>\ [/b]
+[exclude_realm=global][b] C:\\Program Files (x86)\\SteamChina\\steamapps\\common\\<game name>\\ [/b]
 [/exclude_realm]
 :
 
