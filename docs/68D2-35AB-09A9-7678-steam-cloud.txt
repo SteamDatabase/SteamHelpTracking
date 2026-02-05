@@ -67,7 +67,7 @@ Cloud files are stored locally in the following locations by default:
 
 [list]
 
-[*][b]Windows:[/b] C\:\Program Files (x86)\\Steam\\userdata
+[*][b]Windows:[/b] C:\\Program Files (x86)\\Steam\\userdata
 
 [*][b]MacOS:[/b] ~/Library/Application Support/Steam/userdata
 
