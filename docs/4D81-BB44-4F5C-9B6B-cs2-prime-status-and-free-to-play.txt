@@ -30,7 +30,7 @@ Prime users also earn XP, Competitive Skill Groups and Counter-Strike Rating, an
 [section id=getprime]
 
 [h2]How do I add Prime Status to my account?[/h2]
-Prime Status can be purchased in-game or [url=https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/]through the Steam Store[/url].
+Prime Status can be purchased in-game or [url=https://store.steampowered.com/app/730/CounterStrike_2/]through the Steam Store[/url].
 [/section]
 
 [section id=removeprime]

@@ -188,6 +188,8 @@ Groups that allow violations of these guidelines may be removed and the accounts
 
 [*][url=#violate]What happens when these guidelines are violated?[/url]
 
+[*][url=#worse]Why was my content removed when worse stuff exists?[/url]
+
 [/list]
 
 [section id=enforce]
@@ -238,8 +240,21 @@ If a discussion thread contains prohibited topics, spam, or is otherwise not con
 
 [h3]What happens when these guidelines are violated?[/h3]
 
+The goal of these rules and guidelines is to create a community that is safe and appropriate for all players. Our priority is to remove content that violates these rules and guidelines. Next, the moderator evaluates the history of the account alongside the specific content to determine if warnings, bans, or feature cooldowns are necessary.
+
 [u]Content removal[/u]: Content in violation of these guidelines will be removed from Steam. Generally, you will receive a notification if this occurs, with further information and an option to contact support.
 
 [u]Cooldown for specific features[/u]: The ability to use community features relevant to the banned content may be temporarily removed from the account. For example, if an avatar is removed, the account will lose the ability to upload a new avatar until the cooldown has expired.
 
 [u]Loss of all community features[/u]: Accounts that repeatedly violate these guidelines risk temporarily or permanently losing the ability to use all features within the Steam Community.
+
+[section id=worse]
+[/section]
+
+[h3]Why was my content removed when worse stuff exists?[/h3]
+
+We understand that it can be frustrating to be on the receiving end of moderation actions when you are able to see other examples of similar behavior. However, the existence of rule-breaking content does not excuse  or permit other violations.
+
+If you find content that violates these rules and guidelines, we encourage you to report that content rather than engaging in similar behavior.
+
+[url=https://support.steampowered.com/kb_article.php?ref=1476-HJCM-5616]Reporting Content & Behavior on Steam[/url][/i]
