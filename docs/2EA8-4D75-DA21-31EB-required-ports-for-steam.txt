@@ -24,7 +24,7 @@ The following are ports you need to have open on your router or firewall for Ste
 
 [list]
 
-[*]UDP remote port 27000-27100: Game traffic [/*]
+[*]UDP remote port 27000-27250: Game traffic [/*]
 [*]UDP local port 27031-27036: Remote Play [/*]
 [*]TCP local port 27036: Remote Play [/*]
 [*]UDP remote port 4380 [/*]
